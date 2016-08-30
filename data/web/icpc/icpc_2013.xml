@@ -1,0 +1,111 @@
+<dblp>
+ 
+
+<h2>Textual Analysis</h2>
+ 
+
+<ul>
+<li id="GuptaMPV13"><a href="http://dblp.uni-trier.de/pers/hc/g/Gupta:Samir">Samir Gupta</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Malik:Sana">Sana Malik</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pollock:Lori_L=">Lori L. Pollock</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vijay=Shanker:K=">K. Vijay-Shanker</a>:<b>Part-of-speech tagging of program identifiers for improved text-based software engineering tools.</b> 3-12<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613828"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/GuptaMPV13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/GuptaMPV13.xml">XML</a></small></small></li>
+<li id="EddyRKC13"><a href="http://dblp.uni-trier.de/pers/hc/e/Eddy:Brian_P=">Brian P. Eddy</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Robinson:Jeffrey_A=">Jeffrey A. Robinson</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kraft:Nicholas_A=">Nicholas A. Kraft</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Carver:Jeffrey_C=">Jeffrey C. Carver</a>:<b>Evaluating source code summarization techniques: Replication and expansion.</b> 13-22<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613829"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/EddyRKC13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/EddyRKC13.xml">XML</a></small></small></li>
+<li id="MorenoASMPV13"><a href="http://dblp.uni-trier.de/pers/hc/m/Moreno:Laura">Laura Moreno</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Aponte:Jairo">Jairo Aponte</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sridhara:Giriprasad">Giriprasad Sridhara</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marcus:Andrian">Andrian Marcus</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pollock:Lori_L=">Lori L. Pollock</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vijay=Shanker:K=">K. Vijay-Shanker</a>:<b>Automatic generation of natural language summaries for Java classes.</b> 23-32<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613830"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/MorenoASMPV13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/MorenoASMPV13.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>The Role of Visualization in Program Comprehension</h2>
+ 
+
+<ul>
+<li id="SharafiMSAG13"><a href="http://dblp.uni-trier.de/pers/hc/s/Sharafi:Zohreh">Zohreh Sharafi</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marchetto:Alessandro">Alessandro Marchetto</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Susi:Angelo">Angelo Susi</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gu=eacute=h=eacute=neuc:Yann=Ga=euml=l">Yann-Gaël Guéhéneuc</a>:<b>An empirical study on the efficiency of graphical vs. textual representations in requirements comprehension.</b> 33-42<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613831"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/SharafiMSAG13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/SharafiMSAG13.xml">XML</a></small></small></li>
+<li id="KobayashiKYKM13"><a href="http://dblp.uni-trier.de/pers/hc/k/Kobayashi:Kenichi">Kenichi Kobayashi</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kamimura:Manabu">Manabu Kamimura</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yano:Keisuke">Keisuke Yano</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kato:Koki">Koki Kato</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Matsuo:Akihiko">Akihiko Matsuo</a>:<b>SArF map: Visualizing software architecture from feature and layer viewpoints.</b> 43-52<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613832"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/KobayashiKYKM13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/KobayashiKYKM13.xml">XML</a></small></small></li>
+<li id="TrumperDT13"><a href="http://dblp.uni-trier.de/pers/hc/t/Tr=uuml=mper:Jonas">Jonas Trümper</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/D=ouml=llner:J=uuml=rgen">Jürgen Döllner</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Telea:Alexandru">Alexandru Telea</a>:<b>Multiscale visual comparison of execution traces.</b> 53-62<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613833"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/TrumperDT13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/TrumperDT13.xml">XML</a></small></small></li>
+<li id="BeckMDR13"><a href="http://dblp.uni-trier.de/pers/hc/b/Beck:Fabian">Fabian Beck</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Moseler:Oliver">Oliver Moseler</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Diehl_0001:Stephan">Stephan Diehl</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rey:G=uuml=nter_Daniel">Günter Daniel Rey</a>:<b>In situ understanding of performance bottlenecks through visually augmented code.</b> 63-72<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613834"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/BeckMDR13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/BeckMDR13.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Quality</h2>
+ 
+
+<ul>
+<li id="RoehmGBJM13"><a href="http://dblp.uni-trier.de/pers/hc/r/Roehm:Tobias">Tobias Roehm</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gurbanova:Nigar">Nigar Gurbanova</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bruegge:Bernd">Bernd Bruegge</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Joubert:Christophe">Christophe Joubert</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maalej:Walid">Walid Maalej</a>:<b>Monitoring user interactions for supporting failure reproduction.</b> 73-82<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613835"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/RoehmGBJM13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/RoehmGBJM13.xml">XML</a></small></small></li>
+<li id="SteidlHJ13"><a href="http://dblp.uni-trier.de/pers/hc/s/Steidl:Daniela">Daniela Steidl</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hummel:Benjamin">Benjamin Hummel</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/J=uuml=rgens:Elmar">Elmar Jürgens</a>:<b>Quality analysis of source code comments.</b> 83-92<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613836"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/SteidlHJ13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/SteidlHJ13.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Source Code Comprehension</h2>
+ 
+
+<ul>
+<li id="MurakamiHHIK13"><a href="http://dblp.uni-trier.de/pers/hc/m/Murakami:Hiroaki">Hiroaki Murakami</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hotta:Keisuke">Keisuke Hotta</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Higo:Yoshiki">Yoshiki Higo</a>, <a href="http://dblp.uni-trier.de/pers/hc/i/Igaki:Hiroshi">Hiroshi Igaki</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kusumoto:Shinji">Shinji Kusumoto</a>:<b>Gapped code clone detection with lightweight source code analysis.</b> 93-102<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613837"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/MurakamiHHIK13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/MurakamiHHIK13.xml">XML</a></small></small></li>
+<li id="MondalRS13"><a href="http://dblp.uni-trier.de/pers/hc/m/Mondal:Manishankar">Manishankar Mondal</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roy:Chanchal_K=">Chanchal K. Roy</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schneider:Kevin_A=">Kevin A. Schneider</a>:<b>Insight into a method co-change pattern to identify highly coupled methods: An empirical study.</b> 103-112<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613838"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/MondalRS13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/MondalRS13.xml">XML</a></small></small></li>
+<li id="MayerS13"><a href="http://dblp.uni-trier.de/pers/hc/m/Mayer:Philip">Philip Mayer</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schroeder:Andreas">Andreas Schroeder</a>:<b>Patterns of cross-language linking in java frameworks.</b> 113-122<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613839"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/MayerS13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/MayerS13.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Traceability and Feature Location</h2>
+ 
+
+<ul>
+<li id="DiazBMOTL13"><a href="http://dblp.uni-trier.de/pers/hc/d/Diaz:Diana">Diana Diaz</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bavota:Gabriele">Gabriele Bavota</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marcus:Andrian">Andrian Marcus</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Oliveto:Rocco">Rocco Oliveto</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Takahashi:Silvia">Silvia Takahashi</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lucia:Andrea_De">Andrea De Lucia</a>:<b>Using code ownership to improve IR-based Traceability Link Recovery.</b> 123-132<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613840"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/DiazBMOTL13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/DiazBMOTL13.xml">XML</a></small></small></li>
+<li id="BassettK13"><a href="http://dblp.uni-trier.de/pers/hc/b/Bassett:Blake">Blake Bassett</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kraft:Nicholas_A=">Nicholas A. Kraft</a>:<b>Structural information based term weighting in text retrieval for feature location.</b> 133-141<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613841"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/BassettK13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/BassettK13.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Comprehending API</h2>
+ 
+
+<ul>
+<li id="ZhangH13"><a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Yingying">Yingying Zhang</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hou:Daqing">Daqing Hou</a>:<b>Extracting problematic API features from forum discussions.</b> 142-151<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613842"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/ZhangH13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/ZhangH13.xml">XML</a></small></small></li>
+<li id="RooverLP13"><a href="http://dblp.uni-trier.de/pers/hc/r/Roover:Coen_De">Coen De Roover</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/L=auml=mmel:Ralf">Ralf Lämmel</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pek:Ekaterina">Ekaterina Pek</a>:<b>Multi-dimensional exploration of API usage.</b> 152-161<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613843"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/RooverLP13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/RooverLP13.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Comprehending Software Architectures</h2>
+ 
+
+<ul>
+<li id="MahmoudN13"><a href="http://dblp.uni-trier.de/pers/hc/m/Mahmoud:Anas">Anas Mahmoud</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Niu:Nan">Nan Niu</a>:<b>Evaluating software clustering algorithms in the context of program comprehension.</b> 162-171<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613844"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/MahmoudN13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/MahmoudN13.xml">XML</a></small></small></li>
+<li id="PruijtKB13"><a href="http://dblp.uni-trier.de/pers/hc/p/Pruijt:Leo">Leo Pruijt</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/K=ouml=ppe:Christian">Christian Köppe</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Brinkkemper:Sjaak">Sjaak Brinkkemper</a>:<b>On the accuracy of Architecture Compliance Checking support Accuracy of dependency analysis and violation reporting.</b> 172-181<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613845"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/PruijtKB13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/PruijtKB13.xml">XML</a></small></small></li>
+<li id="AlyCM13"><a href="http://dblp.uni-trier.de/pers/hc/a/Aly:Mohamed">Mohamed Aly</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Charfi:Anis">Anis Charfi</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mezini:Mira">Mira Mezini</a>:<b>Building extensions for applications: Towards the understanding of extension possibilities.</b> 182-191<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613846"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/AlyCM13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/AlyCM13.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Industry Track</h2>
+ 
+
+<ul>
+<li id="BernhartG13"><a href="http://dblp.uni-trier.de/pers/hc/b/Bernhart:Mario">Mario Bernhart</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Grechenig:Thomas">Thomas Grechenig</a>:<b>On the understanding of programs with continuous code reviews.</b> 192-198<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613847"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/BernhartG13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/BernhartG13.xml">XML</a></small></small></li>
+<li id="YamanakaCYIS13"><a href="http://dblp.uni-trier.de/pers/hc/y/Yamanaka:Yuki">Yuki Yamanaka</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Choi:Eunjong">Eunjong Choi</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yoshida:Norihiro">Norihiro Yoshida</a>, <a href="http://dblp.uni-trier.de/pers/hc/i/Inoue:Katsuro">Katsuro Inoue</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sano:Tateki">Tateki Sano</a>:<b>Applying clone change notification system into an industrial development process.</b> 199-206<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613848"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/YamanakaCYIS13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/YamanakaCYIS13.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Early Reserarch Achievements Track</h2>
+ 
+
+<ul>
+<li id="LanzaDBHR13"><a href="http://dblp.uni-trier.de/pers/hc/l/Lanza:Michele">Michele Lanza</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/D=Ambros:Marco">Marco D'Ambros</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bacchelli:Alberto">Alberto Bacchelli</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hattori:Lile">Lile Hattori</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rigotti:Francesco">Francesco Rigotti</a>:<b>Manhattan: Supporting real-time visual team activity awareness.</b> 207-210<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613849"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/LanzaDBHR13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/LanzaDBHR13.xml">XML</a></small></small></li>
+<li id="ParninTS13"><a href="http://dblp.uni-trier.de/pers/hc/p/Parnin:Chris">Chris Parnin</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Treude:Christoph">Christoph Treude</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Storey:Margaret=Anne_D=">Margaret-Anne D. Storey</a>:<b>Blogging developer knowledge: Motivations, challenges, and future directions.</b> 211-214<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613850"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/ParninTS13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/ParninTS13.xml">XML</a></small></small></li>
+<li id="KamimuraM13"><a href="http://dblp.uni-trier.de/pers/hc/k/Kamimura:Manabu">Manabu Kamimura</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Murphy:Gail_C=">Gail C. Murphy</a>:<b>Towards generating human-oriented summaries of unit test cases.</b> 215-218<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613851"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/KamimuraM13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/KamimuraM13.xml">XML</a></small></small></li>
+<li id="BasileC13"><a href="http://dblp.uni-trier.de/pers/hc/b/Basile:Cataldo">Cataldo Basile</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Ceccato:Mariano">Mariano Ceccato</a>:<b>Towards a unified software attack model to assess software protections.</b> 219-222<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613852"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/BasileC13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/BasileC13.xml">XML</a></small></small></li>
+<li id="MondalRS13a"><a href="http://dblp.uni-trier.de/pers/hc/m/Mondal:Manishankar">Manishankar Mondal</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roy:Chanchal_K=">Chanchal K. Roy</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schneider:Kevin_A=">Kevin A. Schneider</a>:<b>Improving the detection accuracy of evolutionary coupling.</b> 223-226<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613853"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/MondalRS13a.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/MondalRS13a.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Tool Demonstrations</h2>
+ 
+
+<ul>
+<li id="Kamiya13"><a href="http://dblp.uni-trier.de/pers/hc/k/Kamiya:Toshihiro">Toshihiro Kamiya</a>:<b>Agec: An execution-semantic clone detection tool.</b> 227-229<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613854"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/Kamiya13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/Kamiya13.xml">XML</a></small></small></li>
+<li id="MorenoMPV13"><a href="http://dblp.uni-trier.de/pers/hc/m/Moreno:Laura">Laura Moreno</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marcus:Andrian">Andrian Marcus</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pollock:Lori_L=">Lori L. Pollock</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vijay=Shanker:K=">K. Vijay-Shanker</a>:<b>JSummarizer: An automatic generator of natural language summaries for Java classes.</b> 230-232<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613855"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/MorenoMPV13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/MorenoMPV13.xml">XML</a></small></small></li>
+<li id="FalconeS13"><a href="http://dblp.uni-trier.de/pers/hc/f/Falcone:Michael">Michael Falcone</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sharif:Bonita">Bonita Sharif</a>:<b>OnionUML: An Eclipse plug-in for visualizing UML class diagrams in onion graph notation.</b> 233-235<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613856"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/FalconeS13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/FalconeS13.xml">XML</a></small></small></li>
+<li id="UddinRS13"><a href="http://dblp.uni-trier.de/pers/hc/u/Uddin:Md=_Sharif">Md. Sharif Uddin</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roy:Chanchal_K=">Chanchal K. Roy</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schneider:Kevin_A=">Kevin A. Schneider</a>:<b>SimCad: An extensible and faster clone detection tool for large scale software systems.</b> 236-238<small><a href="http://dx.doi.org/10.1109/ICPC.2013.6613857"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/UddinRS13.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/UddinRS13.xml">XML</a></small></small></li>
+</ul>
+</dblp>

@@ -1,277 +1,352 @@
-2013;Martin P. Ward;Assembler Restructuring in FermaT;;;;;selected
-2013;Amin Milani Fard,Ali Mesbah;JSNOSE: Detecting JavaScript Code Smells;;;;;selected
-2013;Diego Mendez,Benoit Baudry,Martin Monperrus;Empirical Evidence of Large-Scale Diversity in API Usage of Object-Oriented Software;;;;;selected
-2013;Yan Wang,Min Feng,Rajiv Gupta,Iulian Neamtiu;A State Alteration and Inspection-based Interactive Debugger;;;;;selected
-2013;Arpad Beszedes,Lajos Schrettner,Bela Csaba,Tamas Gergely,Judit Jasz,Tibor Gyimothy;Empirical Investigation of SEA-Based Dependence Cluster Properties;;;;;selected
-2013;Tosin Daniel Oyetoyan,Daniela S. Cruzes,Reidar Conradi;Criticality of Defects in Cyclic Dependent Components;;;;;selected
-2013;Michael Marcozzi,Wim Vanhoof,Jean-Luc Hainaut;A Relational Symbolic Execution Algorithm for Constraint-Based Testing of Database Programs;;;;;selected
-2013;Ahmad Jbara,Dror G. Feitelson;Characterization and Assessment of the Linux Configuration Complexity;;;;;selected
-2013;Luigi Cerulo,Michele Ceccarelli,Massimiliano Di Penta,Gerardo Canfora;A Hidden Markov Model to Detect Coded Information Islands in Free Text;;;;;selected
-2013;Tukaram Muske,Ankit Baid,Tushar Sanas;Review Efforts Reduction by Partitioning of Static Analysis Warnings;;;;;selected
-2013;David Baca;Tracing with Minimal Number of Probes;;;;;selected
-2013;Jens Nicolay,Carlos Noguera,Coen De Roover,Wolfgang De Meuter;Determining Coupling In JavaScript Using Object Type Inference;;;;;selected
-2013;Johan Fabry,Coen De Roover,Viviane Jonckers;Aspectual Source Code Analysis with GASR;;;;;selected
-2013;Arvind W. Kiwelekar,Rushikesh Joshi;Ontological Interpretation of Object-Oriented Programming Abstractions;;;;;selected
-2012;Tao Xie;Cooperative Testing and Analysis: Human-Tool, Tool-Tool and Human-Human Cooperations to Get Work Done.;1-3;3;;;
-2012;Welf Lowe,Jonas Lundberg,Tobias Gutzmann;Collections Frameworks for Points-To Analysis.;4-13;10;;;selected
-2012;Sundaresan Krishnan,Edward Aftandilian,Raluca Sauciuc,Siddharth Priya;Building Useful Program Analysis Tools Using an Extensible Java Compiler.;14-23;10;;;selected
-2012;Tamas Gergely,Lajos Schrettner,Tibor Gyimothy,Judit Jasz,Arpad Beszedes;Impact Analysis in the Presence of Dependence Clusters Using Static Execute after in WebKit.;24-33;10;;;selected
-2012;German Vidal;Closed Symbolic Execution for Verifying Program Termination.;34-43;10;;;selected
-2012;Ettore Merlo,Francois Gauthier;Alias-Aware Propagation of Simple Pattern-Based Properties in PHP Applications.;44-53;10;;;selected
-2012;Jun Yuan,Rob Johnson;CAWDOR: Compiler Assisted Worm Defense.;54-63;10;;;selected
-2012;Hiroaki Murakami,Keisuke Hotta,Yoshiki Higo,Hiroshi Igaki,Shinji Kusumoto;Folding Repeated Instructions for Improving Token-Based Code Clone Detection.;64-73;10;;;selected
-2012;Saman Bazrafshan;Evolution of Near-Miss Clones.;74-83;10;;;selected
-2012;James M. Bieman,Chris Wilcox,Michelle Strout;Optimizing Expression Selection for Lookup Table Program Transformation.;84-93;10;;;selected
-2012;Andreas Schroeder,Philip Mayer;Cross-Language Code Analysis and Refactoring.;94-103;10;;;selected
-2012;Gabriele Bavota,Orazio Strollo,Bernardino De Carluccio,Massimiliano Di Penta,Andrea De Lucia,Rocco Oliveto;When Does a Refactoring Induce Bugs? An Empirical Study.;104-113;10;;;selected
-2012;Andrea Zambon;Aucsmith-Like Obfuscation of Java Bytecode.;114-119;6;;;
-2012;Axel Schmolitzky,Christian Zoller;AccessAnalysis: A Tool for Measuring the Appropriateness of Access Modifiers in Java Systems.;120-125;6;;;
-2012;Luciano Lavagno,Mihai T. Lazarescu;Dynamic Trace-Based Data Dependency Analysis for Parallelization of C Programs.;126-131;6;;;
-2012;Robby,Hariharan Thiagarajan,Jason Belt,John Hatcliff;Bakar Alir: Supporting Developers in Construction of Information Flow Contracts in SPARK.;132-137;6;;;
-2012;Ulf Kargen,Nahid Shahmehri;InputTracer: A Data-Flow Analysis Tool for Manual Program Comprehension of x86 Binaries.;138-143;6;;;
-2012;Denys Poshyvanyk,Amir Aryani,Malcom Gethers;Combining Conceptual and Domain-Based Couplings to Detect Database and Code Dependencies.;144-153;10;;;selected
-2012;Michael W. Godfrey,Jurgen J. Vinju;What Does Control Flow Really Look Like? Eyeballing the Cyclomatic Complexity Metric.;154-163;10;;;selected
-2012;John Businge,Alexander Serebrenik,Mark van den Brand;Compatibility Prediction of Eclipse Third-Party Plug-ins in New Eclipse Releases.;164-173;10;;;selected
-2012;Giuliano Antoniol,Nasir Ali,Yann-Gael Gueheneuc,Aminata Sabane;Improving Bug Location Using Binary Class Relationships.;174-183;10;;;selected
-2012;Shivani Rao,Emily Hill,Avinash C. Kak;On the Use of Stemming for Concern Location and Bug Localization in Java.;184-193;10;;;selected
-2011;Paul E. Black;Counting Bugs is Harder Than You Think.;1-9;9;Invited Talks;;
-2011;Nicolas Gold;Knitting Music and Programming: Reflections on the Frontiers of Source Code Analysis.;10-14;5;Invited Talks;;
-2011;Eric Larson;Program Analysis Too Loopy? Set the Loops Aside.;15-24;10;Static Analysis;;selected
-2011;Andreas Krall,Markus Schordan,Viktor Pavlu;Computation of Alias Sets from Shape Graphs for Comparison of Shape Analysis Precision.;25-34;10;Static Analysis;;selected
-2011;Jason Sawin,Atanas Rountev;Assumption Hierarchy for a CHA Call Graph Construction Algorithm.;35-44;10;Static Analysis;;selected
-2011;Steffen Keul;Tuning Static Data Race Analysis for Automotive Control Software.;45-54;10;Embedded Systems and Mobile Platforms;;selected
-2011;Bram Adams,Mark D. Syer,Ying Zou,Ahmed E. Hassan;Exploring the Development of Micro-apps: A Case Study on the BlackBerry and Android Platforms.;55-64;10;Embedded Systems and Mobile Platforms;;selected
-2011;Radu Marinescu,Cristina Marinescu;Are the Clients of Flawed Classes (Also) Defect Prone?;65-74;10;Defects and Security;;selected
-2011;Kevin Coogan,Saumya K. Debray;Equational Reasoning on x86 Assembly Code.;75-84;10;Defects and Security;;selected
-2011;Mariano Ceccato,Andrea Avancini;Security Testing of Web Applications: A Search-Based Approach for Cross-Site Scripting Vulnerabilities.;85-94;10;Defects and Security;;selected
-2011;Michael W. Godfrey,Wei Wang;A Study of Cloning in the Linux SCSI Drivers.;95-104;10;Clones;;selected
-2011;Chanchal Kumar Roy,Minhaz Fahim Zibran;A Constraint Programming Approach to Conflict-Aware Optimal Scheduling of Prioritized Code Clone Refactoring.;105-114;10;Clones;;selected
-2011;Elmar Jurgens,Janet Feigenspan,Sandro Schulze;Analyzing the Effect of Preprocessor Annotations on Code Clones.;115-124;10;Clones;;selected
-2011;Andrian Marcus,Sonia Haiduc,Surafel Lemma Abebe,Paolo Tonella;The Effect of Lexicon Bad Smells on Concept Location in Source Code.;125-134;10;Search;;selected
-2011;Bram Adams,Matthew B. Kelly,Jason S. Alexander,Ahmed E. Hassan;Recovering a Balanced Overview of Topics in a Software Domain.;135-144;10;Search;;selected
-2011;Peter Rademaker,Jurriaan Hage,Tiago L. Alves;A Comparative Study of Code Query Technologies.;145-154;10;Search;;selected
-2011;Alexander Serebrenik,Aurelien Mazoyer,Mark van den Brand,Serguei A. Roubtsov;I2SD: Reverse Engineering Sequence Diagrams from Enterprise Java Beans with Interceptors.;155-164;10;Tools;;
-2011;Michael Mehlich;CheckPointer - A C Memory Access Validator.;165-172;8;Tools;;
-2011;Michael J. Decker,Michael L. Collard,Jonathan I. Maletic;Lightweight Transformation and Fact Extraction with the srcML Toolkit.;173-184;12;Tools;;
-2011;Jens Nicolay,Wolfgang De Meuter,Coen De Roover,Viviane Jonckers;Automatic Parallelization of Side-Effecting Higher-Order Scheme Programs.;185-194;10;Transformation;;selected
-2011;Ahmed Sfayhi,Houari A. Sahraoui;What You See is What You Asked for: An Effort-Based Transformation of Code Analysis Tasks into Interactive Visualization Scenarios.;195-203;9;Transformation;;selected
-2010;Andreas Zeller;Learning from 6, 000 Projects: Mining Models in the Large.;3-6;4;Invited Talks;;
-2010;Mark Harman;Why Source Code Analysis and Manipulation Will Always be Important.;7-19;13;Invited Talks;;
-2010;Amy Wheeler,David M. Binkley;Subclass Instantiation Distribution.;23-32;10;Measurement;;selected
-2010;Tibor Gyimothy,Rudolf Ferenc,Denys Poshyvanyk,Bela Ujhazi;New Conceptual Coupling and Cohesion Metrics for Object-Oriented Systems.;33-42;10;Measurement;;selected
-2010;Stephane Vaucher,Bruno Dufour,Simon Allier,Houari A. Sahraoui;Deriving Coupling Metrics from Call Graphs.;43-52;10;Measurement;;selected
-2010;Ahmed E. Hassan,Bram Adams,Dorothea Blostein,Stephen W. Thomas;Validating the Use of Topic Models for Software Evolution.;55-64;10;Concepts;;selected
-2010;Scott Grant,James R. Cordy;Estimating the Optimal Number of Latent Concepts in Source Code Analysis.;65-74;10;Concepts;;selected
-2010;Boris Lesner,Cyril Bazin,Romain Brixtel,Romain Robbes,Mathieu Fontaine;Language-Independent Clone Detection Applied to Plagiarism Detection.;77-86;10;Clones;;selected
-2010;Kevin A. Schneider,Muhammad Asaduzzaman,Chanchal Kumar Roy,Ripon Kumar Saha,Minhaz Fahim Zibran;Evaluating Code Clone Genealogies at Release Level: An Empirical Study.;87-96;10;Clones;;selected
-2010;Michael Pise;The Fika Parser Generator.;99-100;2;Demos;;
-2010;Bas Basten,Tijs van der Storm;AMBIDEXTER: Practical Ambiguity Detection.;101-102;2;Demos;;
-2010;Jurgen Graf;Speeding Up Context-, Object- and Field-Sensitive SDG Generation.;105-114;10;Static Analysis Using Graphs;;selected
-2010;Devin Kester,Jeremy S. Bradbury,Martin Mwebesa;How Good is Static Analysis at Finding Concurrency Bugs?;115-124;10;Static Analysis Using Graphs;;selected
-2010;Marcus Edvinsson,Welf Lowe,Jonas Lundberg;Parallel Reachability and Escape Analyses.;125-134;10;Static Analysis Using Graphs;;selected
-2010;Raja Das,Zhi Da Luo,Linda Hillis,Yao Qi;Effective Static Analysis to Find Concurrency Bugs in Java.;135-144;10;Static Analysis Using Graphs;;selected
-2010;Lennart C. L. Kats,Eelco Visser;Encapsulating Software Platform Logic by Aspect-Oriented Programming: A Case Study in Using Aspects for Language Portability.;147-156;10;Modularity;;selected
-2010;Huiqing Li,Simon J. Thompson;Refactoring Support for Modularity Maintenance in Erlang.;157-166;10;Modularity;;selected
-2010;Viktor Majer,Zoltan Borok-Nagy,Zoltan Porkolab,Norbert Pataki,Jozsef Mihalicza;Visualization of C++ Template Metaprograms.;167-176;10;Modularity;;selected
-2010;Katerina Troshina,Alexander Chernov,Yegor Derevenets;Reconstruction of Composite Types for Decompilation.;179-188;10;Data and Memory;;selected
-2010;Alain Ketterlin,Philippe Clauss;Recovering the Memory Behavior of Executable Programs.;189-198;10;Data and Memory;;selected
-2010;Rajeev Barua,Matthew S. Simpson;MemSafe: Ensuring the Spatial and Temporal Memory Safety of C at Runtime.;199-208;10;Data and Memory;;selected
-2009;Spiros Mancoridis,Robert Charles Lange;thr2csp: Toward Transforming Threads into Communicating Sequential Processes.;3-12;10;Slicing & Concurrency;;selected
-2009;Dennis Giffhorn;Chopping Concurrent Programs.;13-22;10;Slicing & Concurrency;;selected
-2009;Martin P. Ward;Properties of Slicing Definitions.;23-32;10;Slicing & Concurrency;;selected
-2009;Baowen Xu,Yuming Zhou,Ju Qian;Improving Side-Effect Analysis with Lazy Access Path Resolving.;35-44;10;Dependence Analysis;;selected
-2009;Welf Lowe,Jonas Lundberg,Antonina Khairova,Tobias Gutzmann;Towards Comparing and Combining Points-to Analyses.;45-54;10;Dependence Analysis;;selected
-2009;Joost Visser,Tiago L. Alves;Static Estimation of Test Coverage.;55-64;10;Dependence Analysis;;selected
-2009;Rebecca Tiarks,Rainer Koschke,Raimar Falke;An Assessment of Type-3 Clones as Detected by State-of-the-Art Tools.;67-76;10;Clones;;selected
-2009;Nils Gode;Evolution of Type-1 Clones.;77-86;10;Clones;;selected
-2009;Mark Harman,David M. Binkley;Identifying 'Linchpin Vertices' That Cause Large Dependence Clusters.;89-98;10;Code Tracing;;selected
-2009;Jaime Spacco,Chadd C. Williams;Lightweight Techniques for Tracking Unique Program Statements.;99-108;10;Code Tracing;;selected
-2009;Christian Prause;Maintaining Fine-Grained Code Metadata Regardless of Moving, Copying and Merging.;109-118;10;Code Tracing;;selected
-2009;Tamara Steijger,Tobias Gutzmann;Backporting Java 5 Code.;121-122;2;Tools Demos;;
-2009;Geraud Canet,Benjamin Monate,Pascal Cuoq;A Value Analysis for C Programs.;123-124;2;Tools Demos;;
-2009;Martin P. Ward;The FermaT Maintenance Environment Tool Demonstration.;125-126;2;Tools Demos;;
-2009;Sebastian Danicic,James Hamilton;An Evaluation of Current Java Bytecode Decompilers.;129-136;8;Abstraction & Reverse Engineering;;selected
-2009;Michael Achenbach,Klaus Ostermann;Engineering Abstractions in Model Checking and Testing.;137-146;10;Abstraction & Reverse Engineering;;selected
-2009;Magne Haveraaen,Valentin David;Concepts as Syntactic Sugar.;147-156;10;Abstraction & Reverse Engineering;;selected
-2009;El Hachemi Alikacem,Houari A. Sahraoui;A Metric Extraction Framework Based on a High-Level Description Language.;159-167;9;Analysis Frameworks;;selected
-2009;Jurgen J. Vinju,Tijs van der Storm,Paul Klint;RASCAL: A Domain Specific Language for Source Code Analysis and Manipulation.;168-177;10;Analysis Frameworks;;selected
-2009;Vadim Zaytsev,Ralf Lammel;Recovering Grammar Relationships for the Java Language Specification.;178-186;9;Analysis Frameworks;;selected
-2008;Paul Anderson;90% Perspiration: Engineering Static Analysis Techniques for Industrial Applications.;3-12;10;;;
-2008;Ansgar Fehnker,Sean Seefried,Felix Rauch,Ralf Huuck;Some Assembly Required - Program Analysis of Embedded System Code.;15-24;10;;;selected
-2008;Bernhard Scholz,Chenyi Zhang,Cristina Garcia Cifuentes;User-Input Dependence Analysis via Graph Reachability.;25-34;10;;;selected
-2008;Hayato Kawashima,Takashi Imaizumi,Katsuhiko Gondow;TBCppA: A Tracer Approach for Automatic Accurate Analysis of C Preprocessor's Behaviors.;35-44;10;;;selected
-2008;Daqing Hou,Cheng Wang;An Empirical Study of Function Overloading in C++.;47-56;10;;;selected
-2008;Jens Krinke;Is Cloned Code More Stable than Non-cloned Code?;57-66;10;;;selected
-2008;Chris C. Kirkham,Jeremy Singer;Exploiting the Correspondence between Micro Patterns and Class Names.;67-76;10;;;selected
-2008;Leon Moonen,Cathal Boogerd;On the Use of Data Flow Analysis in Static Profiling.;79-88;10;;;selected
-2008;Damiano Zanardini;The Semantics of Abstract Program Slicing.;89-98;10;;;selected
-2008;Massimiliano Di Penta,Luigi Cerulo,Lerina Aversano;The Evolution and Decay of Statically Detected Source Code Vulnerabilities.;101-110;10;;;selected
-2008;Michael W. Godfrey,Richard C. Holt,Abram Hindle;From Indentation Shapes to Code Structures.;111-120;10;;;selected
-2008;Zheng Li,Nicolas Gold,Kiarash Mahdavi,Mark Harman,David M. Binkley;Evaluating Key Statements Analysis.;121-130;10;;;selected
-2008;Welf Lowe,Jonas Lundberg,Tobias Gutzmann;Fast and Precise Points-to Analysis.;133-142;10;;;selected
-2008;Qiang Sun,Jianjun Zhao;Aspect-Aware Points-to Analysis.;143-152;10;;;selected
-2008;Shweta Behere,Andrew Stone,Michelle Strout;Automatic Determination of May/Must Set Usage in Data-Flow Analysis.;153-162;10;;;selected
-2008;PengChao Zhao,Lei Wang,Qiang Zhang;Automated Detection of Code Vulnerabilities Based on Program Analysis and Model Checking.;165-173;9;;;selected
-2008;Scott D. Stoller,Yanhong A. Liu,Tom Rothamel,Michael Gorbovitski,K. Tuncay Tekle;Analysis and Transformations for Efficient Query-Based Debugging.;174-183;10;;;selected
-2008;Gregorio Robles,Daniel M. German,Ahmed E. Hassan;Change Impact Graphs: Determining the Impact of Prior Code Changes.;184-193;10;;;selected
-2008;Thomas Roy Dean,Mariano Ceccato,Paolo Tonella;Using Program Transformations to Add Structure to a Legacy Data Model.;197-206;10;;;selected
-2008;Petru Florin Mihancea;Type Highlighting: A Client-Driven Visual Approach for Class Hierarchies Reengineering.;207-216;10;;;selected
-2008;Thomas Roy Dean,Jason Chu;Automated Migration of List Based JSP Web Pages to AJAX.;217-226;10;;;selected
-2008;Paul Sammut,Tony Clark,James S. Willans;Beyond Annotations: A Proposal for Extensible Java (XJ).;229-238;10;;;selected
-2008;Miguel Gomez-Zamalloa,Elvira Albert,German Puebla;Modular Decompilation of Low-Level Code by Partial Evaluation.;239-248;10;;;selected
-2008;Yue Jia,Mark Harman;Constructing Subtle Faults Using Higher Order Mutation Testing.;249-258;10;;;selected
-2008;Raffi Khatchadourian,Awais Rashid;Rejuvenate Pointcut: A Tool for Pointcut Expression Recovery in Evolving Aspect-Oriented Software.;261-262;2;;;
-2008;Cristina Garcia Cifuentes;Parfait - A Scalable Bug Checker for C Code.;263-264;2;;;
-2008;Luis Soares Barbosa,Nuno F. Rodrigues;CoordInspector: A Tool for Extracting Coordination Data from Legacy Code.;265-266;2;;;
-2008;Christian Hammer,Dennis Giffhorn;Precise Analysis of Java Programs Using JOANA.;267-268;2;;;
-2008;Wang Ya Wen,Xiao Qing,Zhao Hong Yang,Yun Zhan Gong;DTS - A Software Defects Testing System.;269-270;2;;;
-2007;Pavel Avgustinov,Julian Tibble,Damien Sereni,Elnar Hajiyev,Neil Ongkingco,Torbjorn Ekman,Oege de Moor,Mathieu Verbaere;Keynote Address: .QL for Source Code Analysis.;3-16;14;;;
-2007;Christian Hammer,Dennis Giffhorn;An Evaluation of Slicing Algorithms for Concurrent Programs.;17-26;10;;;selected
-2007;Jasvir Nagra,Christian S. Collberg,Paolo Tonella,Mariano Ceccato,Mila Dalla Preda;Barrier Slicing for Remote Software Trusting.;27-36;10;;;selected
-2007;Jens Krinke;Statement-Level Cohesion Metrics and their Visualization.;37-48;12;;;selected
-2007;Andreas Lochbihler,Gregor Snelting;On Temporal Path Conditions in Dependence Graphs.;49-58;10;;;selected
-2007;Welf Lowe,Jonas Lundberg,Tobias Gutzmann;Towards Path-Sensitive Points-to Analysis.;59-68;10;;;selected
-2007;Eva Magnusson,Torbjorn Ekman,Gorel Hedin;Extending Attribute Grammars with Collection Attributes--Evaluation and Applications.;69-80;12;;;selected
-2007;Nicolas Juillerat,Beat Hirsbrunner;"Toward an Implementation of the ""Form Template Method"" Refactoring.";81-90;10;;;selected
-2007;Walter Binder,Jarle Hulaas,Philippe Moret;Reengineering Standard Java Runtime Systems through Dynamic Bytecode Instrumentation.;91-100;10;;;selected
-2007;Marius Marin,Leon Moonen,Arie van Deursen;An Integrated Crosscutting Concern Migration Strategy and its Application to JHOTDRAW.;101-110;10;;;selected
-2007;Takeshi Shinohara,Arnoldo Jose Muller Molina;Fast Approximate Matching of Programs for Protecting Libre/Open Source Software by Using Spatial Indexes.;111-122;12;;;selected
-2007;Eric Larson;SUDS: An Infrastructure for Creating Bug Detection Tools.;123-132;10;;;selected
-2007;Colin Runciman,Matthew Naylor;Finding Inputs that Reach a Target Expression.;133-142;10;;;selected
-2007;Jason Sawin,Atanas Rountev;Improved Static Resolution of Dynamic Class Loading in Java.;143-154;12;;;selected
-2007;Danny Holten,Alexandru Telea,Serguei A. Roubtsov;SQuAVisiT: A Software Quality Assessment and Visualisation Toolset.;155-156;2;;;
-2007;Cristina Marinescu;DATES: Design Analysis Tool for Enterprise Systems.;157-158;2;;;
-2007;Jendrik Johannes;Source Code Composition with the Reuseware Composition Framework.;159-160;2;;;
-2007;Huib van den Brink,Rob van der Leek,Joost Visser;Quality Assessment for Embedded SQL.;163-170;8;;;selected
-2007;Sherri L. Messimer,Letha H. Etzkorn,Shamsnaz Virani,Patricia L. Roden;An Empirical Study of the Relationship of Stability Metrics and the QMOOD Quality Models Over Software Developed Using Highly Iterative or Agile Software Processes.;171-179;9;;;selected
-2007;Luigi Cerulo,Lerina Aversano,Massimiliano Di Penta;Relating the Evolution of Design Patterns and Crosscutting Concerns.;180-192;13;;;selected
-2007;Einar W. Host,Bjarte M. Ostvold;The Programmer's Lexicon, Volume I: The Verbs.;193-202;10;;;selected
-2007;Zhen Ming Jiang,Ahmed E. Hassan;A Framework for Studying Clones In Large Software Systems.;203-212;10;;;selected
-2007;Dawn Lawrie,David M. Binkley,Henry Feild;Extracting Meaning from Abbreviated Identifiers.;213-222;10;;;selected
-2006;;Message from the Chairs.;;0;Introduction;;
-2006;;Organizing Committee.;;0;Introduction;;
-2006;;Steering Committee.;;0;Introduction;;
-2006;;Program Committee.;;0;Introduction;;
-2006;;Additional Reviewers.;;0;Introduction;;
-2006;Keith Gallagher,Mark Harman,David M. Binkley;Stop-List Slicing.;11-20;10;Session 1: Slicing;;selected
-2006;Tamas Gergely,Arpad Beszedes,Tibor Gyimothy;Graph-Less Dynamic Dependence-Based Dynamic Slicing Algorithms.;21-30;10;Session 1: Slicing;;selected
-2006;Sunghun Kim,Jim Whitehead,Kai Pan;Bug Classification Using Program Slicing Metrics.;31-42;12;Session 1: Slicing;;selected
-2006;Jens Krinke,Mark Harman,David M. Binkley;Characterising, Explaining, and Exploiting the Approximate Nature of Static Analysis through Animation.;43-52;10;Session 2: Static Analysis I;;selected
-2006;Jason Sawin,Atanas Rountev;Estimating the Run-Time Progress of a Call Graph Construction Algorithm53-62.;53-62;10;Session 2: Static Analysis I;;selected
-2006;Barbara G. Ryder,Weilei Zhang;Constructing Accurate Application Call Graphs For Java To Model Library Callbacks.;63-74;12;Session 2: Static Analysis I;;selected
-2006;Andrew Walenstein,Arun Lakhotia,Rachit Mathur,Mohamed R. Chouchane;Normalizing Metamorphic Malware Using Term Rewriting.;75-84;10;Session 3: Transformations;;selected
-2006;Jean Utke,Laurent Hascoet,Michael W. Fagan;Data Representation Alternatives in Semantically Augmented Numerical Models.;85-94;10;Session 3: Transformations;;selected
-2006;Matthew Jacobs,E. Christopher Lewis;SMART C: A Semantic Macro Replacement Translator for C.;95-106;12;Session 3: Transformations;;selected
-2006;Magiel Bruntink;Linking Analysis and Transformation Tools with Source-Based Mappings.;107-116;10;Session 4: Tools;;selected
-2006;Adrian D. Thurston,James R. Cordy;Evolving TXL.;117-126;10;Session 4: Tools;;selected
-2006;Rudolf Ferenc,Lajos Jeno Fulop,Tamas Gyovai;Evaluating C++ Design Pattern Miner Tools.;127-138;12;Session 4: Tools;;selected
-2006;Dawn Lawrie,David M. Binkley,Henry Feild;Syntactic Identifier Conciseness and Consistency.;139-148;10;Session 5: Static Analysis II;;selected
-2006;Leon Moonen,Cathal Boogerd;Prioritizing Software Inspection Results using Static Profiling.;149-160;12;Session 5: Static Analysis II;;selected
-2006;Eric Van Wyk,Eric Johnson,Lijesh Krishnan,Phil Russell,Derek Bodin,August Schwerdfeger;Tool Demonstration: Silver Extensible Compiler Frameworks and Modular Language Extensions for Java and C.;161;1;Tool Demonstrations;;
-2006;Carlos Noguera,Renaud Pawlak;AVal: an Extensible Attribute-Oriented Programming Validator for Java.;175-183;9;Tool Demonstrations;;
-2006;Kim S. Henriksen,John P. Gallagher;Abstract Interpretation of PIC Programs through Logic Programming.;184-196;13;Tool Demonstrations;;
-2006;Huiqing Li,Simon J. Thompson;Comparative Study of Refactoring Haskell and Erlang Programs.;197-206;10;Session 7: Refactoring;;selected
-2006;Hans Kratz,Dennis Strein,Welf Lowe;Cross-Language Program Analysis and Refactoring.;207-216;10;Session 7: Refactoring;;selected
-2006;Huzefa H. Kagdi,Michael L. Collard,Jonathan I. Maletic;Factoring Differences for Iterative Change Management.;217-226;10;Session 7: Refactoring;;selected
-2005;;Title Page.;;0;Cover;;
-2005;;Copyright.;;0;Cover;;
-2005;;Message from the Chairs.;;0;Introduction;;
-2005;;Program Committee.;;0;Introduction;;
-2005;;Reviewers.;;0;Introduction;;
-2005;Mark Harman,David M. Binkley;Forward slices are smaller than backward slices.;15-24;10;Session 1: Slicing;;selected
-2005;Hyoung Seok Hong,Oleg Sokolsky,Insup Lee;Abstract Slicing: A New Approach to Program Slicing Based on Abstract Interpretation and Model Checking.;25-34;10;Session 1: Slicing;;selected
-2005;Attila Szegedi,Tibor Gyimothy;Dynamic Slicing of Java Bytecode Programs.;35-44;10;Session 1: Slicing;;selected
-2005;Sebastian Danicic,Akos Kiss,Mark Harman,Bogdan Korel,Tibor Gyimothy,David M. Binkley;Minimal Slicing and the Relationships Between Forms of Slicing.;45-56;12;Session 1: Slicing;;selected
-2005;Silvia Breu;Extending Dynamic Aspect Mining with Static Information.;57-65;9;Session 2: Concept Location;;selected
-2005;Beat Fluri,Harald Gall,Martin Pinzger;Fine-Grained Analysis of Change Couplings.;66-74;9;Session 2: Concept Location;;selected
-2005;Jeremy Singer;Concept Assignment as a Debugging Technique for Code Generators.;75-86;12;Session 2: Concept Location;;selected
-2005;Hongyu Zhang,Jurgen Dingel,Jeremy S. Bradbury,James R. Cordy;Implementation and Verification of Implicit-Invocation Systems Using Source Transformation.;87-96;10;Session 3: Program Transformations I;;selected
-2005;Markus Schordan,Daniel J. Quinlan;Specifying Transformation Sequences as Computation on Program Fragments with an Abstract Attribute Grammar.;97-106;10;Session 3: Program Transformations I;;selected
-2005;Andreas Krall,R. Nigel Horspool,Nerina Bermudo;Control Flow Graph Reconstruction for Assembly Language Programs with Delayed Instructions.;107-118;12;Session 3: Program Transformations I;;selected
-2005;Gleb Naumovich,Aiwu Shi;Static Analysis for Computing Escapability and Mutability for Java Components.;119-128;10;Session 4: Pointer Analysis;;selected
-2005;Andy C. King,Richard E. Jones;A Fast Analysis for Thread-Local Garbage Collection with Dynamic Class Loading.;129-138;10;Session 4: Pointer Analysis;;selected
-2005;Stephen A. Edwards,Bin Yao,Dan G. Waddington,Marcio Buss;Pointer Analysis for Source-to-Source Transformations.;139-150;12;Session 4: Pointer Analysis;;selected
-2005;Anthony Cahill,Michael English,Kristian Lynch,Jim Buckley;Measuring the Impact of Friends on the Internal Attributes of Software Systems.;151-160;10;Session 5: Empirical Studies;;selected
-2005;Steve Counsell,Stephen Swift,Allan Tucker;Object-oriented cohesion as a surrogate of software comprehension: an empirical study.;161-172;12;Session 5: Empirical Studies;;selected
-2005;Thomas Roy Dean,Shannon Xu;Transforming Embedded Java Code into Custom Tags.;173-182;10;Session 6: Program Transformations II;;selected
-2005;Bernadette Power,Geoff W. Hamilton;Declassification: Transforming Java Programs to Remove Intermediate Classes.;183-192;10;Session 6: Program Transformations II;;selected
-2005;Paul Anderson;The Performance Penalty of XML for Program Intermediate Representations.;193-202;10;Session 6: Program Transformations II;;selected
-2004;Gregg Rothermel;Using Source-Code Analysis to Help End-User Programmers Create Dependable Software.;3;1;Keynote;;
-2004;Jian Wang,Joseph Manzano,Erh-Wen Hu,Bogong Su;Software De-Pipelining Technique.;7-16;10;Decompilation;;selected
-2004;Eric Uday Kumar,Arun Lakhotia;Abstracting Stack to Detect Obfuscated Calls in Binaries.;17-26;10;Decompilation;;selected
-2004;Jens Krinke;Context-Sensitivity Matters, But Context Does Not.;29-35;7;Slicing;;selected
-2004;Keith Gallagher;Some Notes on Interprocedural Program Slicing.;36-42;7;Slicing;;selected
-2004;Sebastian Danicic,Lahcen Ouarbya,Akos Kiss,Mark Harman,Tibor Gyimothy,David M. Binkley;Formalizing Executable Dynamic and Forward Slicing.;43-52;10;Slicing;;selected
-2004;Jean Utke,Andrew Lyons,Uwe Naumann,Michael W. Fagan;Control Flow Reversal for Adjoint Code Generation.;55-64;10;Restructuring;;selected
-2004;Robert M. Hierons,Deji Fatiregun,Mark Harman;Evolving Transformation Sequences using Genetic Algorithms.;66-75;10;Restructuring;;selected
-2004;Anand Srinivasan,Xia Xu,Chung-Horng Lung,Marzia Zaman;Program Restructuring Through Clustering Techniques.;75-84;10;Restructuring;;selected
-2004;Robert M. Hierons,Ranjit Singh,Mark Harman,David M. Binkley;Amorphous Procedure Extraction.;85-94;10;Restructuring;;selected
-2004;Kim Mens,Tom Tourwe;Mining Aspectual Views using Formal Concept Analysis.;97-106;10;Aspect-Oriented Programming ;;selected
-2004;Mariano Ceccato,Paolo Tonella;Adding Distribution to Existing Applications by Means of Aspect Oriented Programming.;107-116;10;Aspect-Oriented Programming ;;selected
-2004;H. James Hoover,Daqing Hou,Piotr Rudnicki;Specifying the Law of Demeter and C++ Programming Guidelines with FCL.;119-127;9;Maintenance;;selected
-2004;Dietmar Seipel,Gregor Fischer,Vera Wahler,Jurgen Wolff von Gudenberg;Clone Detection in Source Code by Frequent Itemset Techniques.;128-135;8;Maintenance;;selected
-2004;Magiel Bruntink,Arie van Deursen;Predicting Class Testability using Object-Oriented Metrics.;136-145;10;Maintenance;;selected
-2004;Jesus M. Gonzalez-Barahona,Gregorio Robles;Executable Source Code and Non-Executable Source Code: Analysis and Relationships.;149-157;9;Source Code;;selected
-2004;Katsuhisa Maruyama,Shinichirou Yamamoto;A CASE Tool Platform Using an XML Representation of Java Source Code.;158-167;10;Source Code;;selected
-2003;David J. Pearce,Chris Hankin,Paul H. J. Kelly;Online Cycle Detection and Difference Propagation for Pointer Analysis.;3-12;10;Static Analysis;;selected
-2003;Matthieu Martel;Improving the Static Analysis of Loops by Dynamic Partitioning Techniques.;13-21;9;Static Analysis;;selected
-2003;Jean-Marie Favre;CPP Denotational Semantics.;22-;0;Static Analysis;;selected
-2003;Anthony Cahill,Michael English,Jim Buckley;Applying Meyer's Taxonomy to Object-Oriented Software Systems.;35-44;10;Object Oriented Code;;selected
-2003;Steve Counsell,Richard Wheeldon;Power Law Distributions in Class Relationships.;45-54;10;Object Oriented Code;;selected
-2003;Neil Walkinshaw,Marc Roper,Murray Wood;The Java System Dependence Graph.;55-64;10;Object Oriented Code;;selected
-2003;Eelco Visser,Magne Haveraaen,Otto Skrove Bagge,Karl Trygve Kalleberg;Design of the CodeBoost Transformation System for Domain-Specific Optimisation of C++ Programs.;65-;0;Object Oriented Code;;selected
-2003;Chris Verhoef;Managing Multi-Billion Dollar IT Budgets using Source Code Analysis.;77-;0;Keynote;;
-2003;Jens Krinke;Barrier Slicing and Chopping.;81-87;7;Slicing;;selected
-2003;Martin P. Ward;Slicing the SCAM Mug: A Case Study in Semantic Slicing.;88-97;10;Slicing;;selected
-2003;Aditya Rajeev Kulkarni,Sethu Ramesh;Static Slicing of Reactive Programs.;98-107;10;Slicing;;selected
-2003;Fumiaki Umemori,Reishi Yokomori,Katsuro Inoue,Kenji Konda;Design and Implementation of Bytecode-based Java Slicing System.;108-117;10;Slicing;;selected
-2003;Gabor Lehotai,Akos Kiss,Tibor Gyimothy,Judit Jasz;Interprocedural Static Slicing of Binary Executables.;118-;0;Slicing;;selected
-2003;Oleg Khaschansky,Maxim Mossienko,Oleg Smirnov,Dmitriy Antonov,Anton Gubanov;Towards managing environment dependence during legacy systems renovation and maintenance.;131-140;10;Program Transformations;;selected
-2003;Karina Olmos,Eelco Visser;Turning Dynamic Typing into Static Typing by Program Specialization in a Compiler Front-end for Octave.;141-150;10;Program Transformations;;selected
-2003;Xinping Guo,Thomas Roy Dean,James R. Cordy;Unique Renaming of Java Using Source Transformation.;151-160;10;Program Transformations;;selected
-2003;Jan Kort,Ralf Lammel;Parse-Tree Annotations Meet Re-Engineering Concerns.;161-;0;Program Transformations;;selected
-2003;Umberto Villano,Giuliano Antoniol,Massimiliano Di Penta,Gianluca Masone;XOgastan: XML-Oriented gcc AST Analysis and Transformations.;173-182;10;Tools and Techniques;;selected
-2003;Antonio Menezes Leitao;Detection of Redundant Code using R2D2.;183-192;10;Tools and Techniques;;selected
-2003;Patrick Moseley,Saumya K. Debray,Gregory R. Andrews;Checking Program Profiles.;193-202;10;Tools and Techniques;;selected
-2003;Mark Harman,David M. Binkley;Results from a Large-Scale Study of Performance Optimization Techniques for Source Code Analyses Based on Graph Reachability Algorithms.;203-;0;Tools and Techniques;;selected
-2002;Ira D. Baxter;Parallel Support for Source Code Analysis and Modification.;3-;0;Keynote Address;;
-2002;Sudipto Ghosh;Towards Measurement of Testability of Concurrent Object-Oriented Programs Using Fault Insertion: A Preliminary Investigation.;17-25;9;Testing, Metrics, Maintenance;;selected
-2002;Terry Harmer,F. George Wilkie;An Extensible Metrics Extraction Environment for Object-Oriented Programming Languages.;26-35;10;Testing, Metrics, Maintenance;;selected
-2002;Liz Burd,John Bailey;Evaluating Clone Detection Tools for Use during Preventative Maintenance.;36-43;8;Testing, Metrics, Maintenance;;selected
-2002;James J. Alpigini,Frederick V. Ramsey;A Simple Mathematically Based Framework for Rule Extraction Using Wide Spectrum Language.;44-;0;Testing, Metrics, Maintenance;;selected
-2002;Chris Fox,Sebastian Danicic,Joachim Wegener,Mark Harman,Lin Hu,Robert M. Hierons;VADA: A Transformation-Based System for Variable Dependence Analysis.;55-64;10;Source Transformation, Source Processing;;selected
-2002;Andre Vehreschild,H. Martin Buecker,Christian H. Bischof,Bruno Lang,Arno Rasch;Combining Source Transformation and Operator Overloading Techniques to Compute Derivatives for MATLAB Programs.;65-72;8;Source Transformation, Source Processing;;selected
-2002;Lin Hu,Malcolm Munro,Mark Harman,Xingyuan Zhang;Mechanized Operational Semantics of WSL.;73-82;10;Source Transformation, Source Processing;;selected
-2002;Massimiliano Di Penta,Lerina Aversano,Ira D. Baxter;Handling Preprocessor-Conditioned Declarations.;83-92;10;Source Transformation, Source Processing;;selected
-2002;Thomas Roy Dean,Andrew J. Malton,Kevin A. Schneider,James R. Cordy;Grammar Programming in TXL.;93-;0;Source Transformation, Source Processing;;selected
-2002;Mohammed Daoudi,Lahcen Ouarbya,Sebastian Danicic,Malcolm Munro,Mark Harman,Xingyuan Zhang,Lin Hu;An Interprocedural Amorphous Slicer for WSL.;105-114;10;Slicing;;selected
-2002;Baowen Xu,Zhenqiang Chen,Hongji Yang;Dynamic Slicing Object-Oriented Programs for Debugging.;115-122;8;Slicing;;selected
-2002;Filippo Ricca,Paolo Tonella;Construction of the System Dependence Graph for Web Application Slicing.;123-132;10;Slicing;;selected
-2002;Hon Fung Li,Dhrubajyoti Goswami,Juergen Rilling;Predicate-Based Dynamic Slicing of Message Passing Programs.;133-;0;Slicing;;selected
-2002;Francoise Balmas;Using Dependence Graphs as a Support to Document Programs.;145-154;10;Dependence Graphs, Static Analysis;;selected
-2002;Atanas Rountev,Barbara G. Ryder,Ana Milanova;Precise Call Graph Construction in the Presence of Function Pointers.;155-162;8;Dependence Graphs, Static Analysis;;selected
-2002;Peter Fritzson,Peter Bunus;Semantics Guided Filtering of Combinatorial Graph Transformations in Declarative Equation-Based Languages.;163-172;10;Dependence Graphs, Static Analysis;;selected
-2002;Byeong-Mo Chang,Soon Hee Her,Jang-Wu Jo;Visualization of Exception Propagation for Java Using Static Analysis.;173-;0;Dependence Graphs, Static Analysis;;selected
-2001;Viren Shah,Michael Weber,Chris Ren;A Case Study in Detecting Software Security Vulnerabilities Using Constraint Optimization.;3-13;11;;;selected
-2001;Bhaskar Karanth,Juergen Rilling;A Hybrid Program Slicing Framework.;14-25;12;;;selected
-2001;Cosimo Antonio Prete,Sandro Bartolini;An Object Level Transformation Technique to Improve the Performance of Embedded Applications.;26-34;9;;;selected
-2001;Marco Torchiano,Maurizio Rebaudengo,Massimo Violante,Matteo Sonza Reorda;A Source-to-Source Compiler for Generating Dependable Software.;35-44;10;;;selected
-2001;Henri Basson,Laurent Deruelle,Nouredine Melab,Mourad Bouneffa;Analysis and Manipulation of Distributed Multi-Language Software Code.;45-56;12;;;selected
-2001;Miriam A. M. Capretz,Amit Sharma;Application Maintenance Using Software Agents.;57-66;10;;;selected
-2001;Baowen Xu,Zhenqiang Chen,Hongji Yang;Detecting Dead Statements for Concurrent Programs.;67-74;8;;;selected
-2001;James M. Bieman,Vanessa Murdock;Finding Code on the World Wibe Web: A Preliminary Investigation.;75-80;6;;;selected
-2001;Genevieve Rosay,Tim Teitelbaum,Paul Anderson,David M. Binkley;Flow Insensitive Points-To Sets.;81-91;11;;;selected
-2001;Ettore Merlo,Giuliano Antoniol,Massimiliano Di Penta,Umberto Villano,Gerardo Casazza;Identifying Clones in the Linux Kernel.;92-99;8;;;selected
-2001;Pascal Costanza,Gunter Kniesel,Michael Austermann;Jmangler-A Framework for Load-Time Transformation of Java Class Files.;100-110;11;;;selected
-2001;David R. Musser,Sibylle Schupp,Douglas Gregor;Library Transformations.;111-123;13;;;selected
-2001;Jane Horgan,James F. Power,John Waldron;Measurement and Analysis of Runtime Profiling Data for Java Programs.;124-132;9;;;selected
-2001;Michael L. Van de Vanter;Preserving the Documentary Structure of Source Code in Language-Based Transformation Tools.;133-143;11;;;selected
-2001;Andrea De Lucia;Program Slicing: Methods and Applications.;144-151;8;;;selected
-2001;Ira D. Baxter,Filippo Ricca,Paolo Tonella;Restructuring Web Applications via Transformation Rules.;152-162;11;;;selected
-2001;Claire Knight;Smell the Coffee! Uncovering Java Analysis Issues.;163-169;7;;;selected
-2001;Thomas Roy Dean,Andrew J. Malton,Kevin A. Schneider,James R. Cordy;Software Engineering by Source Transformation-Experience with TXL.;170-180;11;;;selected
-2001;David Byers,Mariam Kamkar;Static Slicing and Parametric Polymorphism.;181-186;6;;;selected
-2001;Martin P. Ward;The Formal Transformation Approach to Source Code Analysis and Manipulation.;187-195;9;;;selected
-2001;Amie L. Souter,Lori L. Pollock;Type Infeasible Call Chains.;196-205;10;;;selected
-2001;Liz Burd,Stephen Rank;Using Automated Source Code Analysis for Software Evolution.;206-212;7;;;selected
-2001;Paolo Maggi,Riccardo Sisto;Using Data Flow Analysis to Infer Type Information in Java Bytecode.;213-;0;;;selected
+2015;David M. Binkley,Nicolas E. Gold,Mark Harman,Syed S. Islam,Jens Krinke,Shin Yoo;ORBS and the limits of static slicing.;1-10;10;Empirical Studies I;
+2015;Martin Brandtner,Philipp Leitner,Harald C. Gall;Intent, tests, and release dependencies: Pragmatic recipes for source code integration.;11-20;10;Empirical Studies I;
+2015;Rodrigo Bonifacio,Fausto Carvalho,Guilherme N. Ramos,Uira Kulesza,Roberta Coelho;The use of C++ exception handling constructs: A comprehensive study.;21-30;10;Empirical Studies I;
+2015;Mohammed Sayagh,Bram Adams;Multi-layer software configuration: Empirical study on wordpress.;31-40;10;Empirical Studies I;
+2015;Otavio Augusto Lazzarini Lemos,Adriano Carvalho de Paula,Hitesh Sajnani,Cristina V. Lopes;Can the use of types and query expansion help improve large-scale code search?;41-50;10;Code Search and Navigation;
+2015;Muslim Chochlov,Michael English,Jim Buckley;Using changeset descriptions as a data source to assist feature location.;51-60;10;Code Search and Navigation;
+2015;Mohammad Ghafari,Carlo Ghezzi,Konstantin Rubinov;Automatically identifying focal methods under test in unit test cases.;61-70;10;Code Search and Navigation;
+2015;Dawn Lawrie,David M. Binkley;Navigating source code with words.;71-80;10;Code Search and Navigation;
+2015;Mohammad Masudur Rahman,Chanchal Kumar Roy,Iman Keivanloo;Recommending insightful comments for source code using crowdsourced knowledge.;81-90;10;Code Search and Navigation;
+2015;Alexander Huck,Christian Bischof,Jean Utke;Checking C++ codes for compatibility with operator overloading.;91-100;10;Static Analysis;
+2015;Jens Nicolay,Carlos Noguera,Coen De Roover,Wolfgang De Meuter;Detecting function purity in JavaScript.;101-110;10;Static Analysis;
+2015;Sandrine Blazy,Stephanie Riaud,Thomas Sirvent;Data tainting and obfuscation: Improving plausibility of incorrect taint.;111-120;10;Static Analysis;
+2015;Efthimia Aivaloglou,David Hoepelman,Felienne Hermans;A grammar for spreadsheet formulas evaluated on two large datasets.;121-130;10;Static Analysis;
+2015;Vincent Boisselle,Bram Adams;The impact of cross-distribution bug duplicates, empirical study on Debian and Ubuntu.;131-140;10;Empirical Studies II;
+2015;Csaba Farago,Peter Hegedus,Rudolf Ferenc;Cumulative code churn: Impact on maintainability.;141-150;10;Empirical Studies II;
+2015;Daniela Steidl,Florian Deissenboeck;How do Java methods grow?;151-160;10;Empirical Studies II;
+2015;Md. Sami Uddin,Varun Gaur,Carl Gutwin,Chanchal Kumar Roy;On the comprehension of code clone visualizations: A controlled study using eye tracking.;161-170;10;(Code, Memory, Performance) Smells;
+2015;Wolfram Fenske,Sandro Schulze,Daniel Meyer,Gunter Saake;When code smells twice as much: Metric-based detection of variability-aware code smells.;171-180;10;(Code, Memory, Performance) Smells;
+2015;Hengyang Yu,Xiaohua Shi,Wei Feng;LeakTracer: Tracing leaks along the way.;181-190;10;(Code, Memory, Performance) Smells;
+2015;Mohammadreza Ghanavati,Artur Andrzejak;Automated memory leak diagnosis by regression testing.;191-200;10;(Code, Memory, Performance) Smells;
+2015;Felipe Pinto,Uira Kulesza,Christoph Treude;Automating the performance deviation analysis for multiple system releases: An evolutionary study.;201-210;10;(Code, Memory, Performance) Smells;
+2015;Dierk Ludemann,Rainer Koschke;From preprocessor-constrained parse graphs to preprocessor-constrained control flow.;211-220;10;Code and API Transformation;
+2015;Gustavo Santos,Anne Etien,Nicolas Anquetil,Stephane Ducasse,Marco Tulio de Oliveira Valente;Recording and replaying system specific, source code transformations.;221-230;10;Code and API Transformation;
+2015;Rahul Pandita,Raoul Praful Jetley,Sithu D. Sudarsan,Laurie A. Williams;Discovering likely mappings between APIs using text mining.;231-240;10;Code and API Transformation;
+2015;Eric J. Rapos,Andrew Stevenson,Manar H. Alalfi,James R. Cordy;SimNav: Simulink navigation of model clone classes.;241-246;6;Tool Demos;
+2015;Kunal Banerjee,Chittaranjan A. Mandal,Dipankar Sarkar;A translation validation framework for symbolic value propagation based equivalence checking of FSMDAs.;247-252;6;Tool Demos;
+2015;Gabor Szoke,Csaba Nagy,Lajos Jeno Fulop,Rudolf Ferenc,Tibor Gyimothy;FaultBuster: An automatic code smell refactoring toolset.;253-258;6;Tool Demos;
+2015;Stephan Renatus,Corrie Bartelheimer,Jorn Eichler;Improving prioritization of software weaknesses using security models with AVUS.;259-264;6;Tool Demos;
+2015;Luca Dariz,Massimiliano Ruggeri,Michele Selvatici;A static microcode analysis tool for programmable load drivers.;265-270;6;Tool Demos;
+2015;Gergo Balogh,Attila Szabolics,Arpad Beszedes;CodeMetropolis: Eclipse over the city of source code.;271-276;6;Tool Demos;
+2014;Saman Bazrafshan,Rainer Koschke;Effect of Clone Information on the Performance of Developers Fixing Cloned Bugs.;1-10;10;Clones;
+2014;Manishankar Mondal,Chanchal Kumar Roy,Kevin A. Schneider;Automatic Identification of Important Clones for Refactoring and Tracking.;11-20;10;Clones;
+2014;Hitesh Sajnani,Vaibhav Saini,Cristina Videira Lopes;A Comparative Study of Bug Patterns in Java Cloned and Non-cloned Code.;21-30;10;Clones;
+2014;Md. Saidur Rahman 0002,Chanchal Kumar Roy;A Change-Type Based Empirical Study on the Stability of Cloned Code.;31-40;10;Clones;
+2014;DeLesley Hutchins,Aaron Ballman,Dean Sutherland;C/C++ Thread Safety Analysis.;41-46;6;Tools;
+2014;David Tengeri,Arpad Beszedes,David Havas,Tibor Gyimothy;Toolset and Program Repository for Code Coverage-Based Test Suite Analysis and Manipulation.;47-52;6;Tools;
+2014;Coen De Roover,Katsuro Inoue;The Ekeko/X Program Transformation Tool.;53-58;6;Tools;
+2014;David A. Kosower,Juan J. Lopez-Villarejo,Serguei A. Roubtsov;Flowgen: Flowchart-Based Documentation Framework for C++.;59-64;6;Tools;
+2014;Andrea Stocco,Maurizio Leotta,Filippo Ricca,Paolo Tonella;PESTO: A Tool for Migrating DOM-Based to Visual Web Tests.;65-70;6;Tools;
+2014;Andrea Caracciolo,Andrei Chis,Boris Spasojevic,Mircea Lungu;Pangea: A Workbench for Statically Analyzing Multi-language Software Corpora.;71-76;6;Tools;
+2014;Rudolf Ferenc,Laszlo Lango,Istvan Siket,Tibor Gyimothy,Tibor Bakota;Source Meter Sonar Qube Plug-in.;77-82;6;Tools;
+2014;Syed Shariyar Murtaza,Abdelwahab Hamou-Lhadj,Wael Khreich,Mario Couture;Total ADS: Automated Software Anomaly Detection System.;83-88;6;Tools;
+2014;Wei Wu,Bram Adams,Yann-Gael Gueheneuc,Giuliano Antoniol;ACUA: API Change and Usage Auditor.;89-94;6;Tools;
+2014;Gabor Szoke,Gabor Antal,Csaba Nagy,Rudolf Ferenc,Tibor Gyimothy;Bulk Fixing Coding Issues and Its Effects on Software Quality: Is It Worth Refactoring?;95-104;10;Software Quality;
+2014;Guillaume Petiot,Bernard Botella,Jacques Julliand,Nikolai Kosmatov,Julien Signoles;Instrumentation of Annotated C Programs for Test Generation.;105-114;10;Software Quality;
+2014;Syrine Tlili,Jose M. Fernandez,Abdelfettah Belghith,Bilel Dridi,Soufien Hidouri;Scalable Security Verification of Software at Compile Time.;115-124;10;Software Quality;
+2014;Malin Kallen,Sverker Holmgren,Ebba Thora Hvannberg;Impact of Code Refactoring Using Object-Oriented Methodology on a Scientific Computing Application.;125-134;10;Software Quality;
+2014;Chanseok Oh,Martin Schaf,Daniel Schwartz-Narbonne,Thomas Wies;Concolic Fault Localization.;135-144;10;Software Quality;
+2014;Siyuan Jiang,Raul A. Santelices,Mark Grechanik,Haipeng Cai;On the Accuracy of Forward Dynamic Slicing and Its Effects on Software Maintenance.;145-154;10;Slicing;
+2014;Ulf Kargen,Nahid Shahmehri;Efficient Utilization of Secondary Storage for Scalable Dynamic Slicing.;155-164;10;Slicing;
+2014;Haipeng Cai,Siyuan Jiang,Raul A. Santelices,Ying-Jie Zhang,Yiji Zhang;SENSA: Sensitivity Analysis for Quantitative Change-Impact Prediction.;165-174;10;Slicing;
+2014;Shin Yoo,David M. Binkley,Roger D. Eastman;Seeing Is Slicing: Observation Based Slicing of Picture Description Languages.;175-184;10;Slicing;
+2014;Angela Lozano,Carlos Noguera,Viviane Jonckers;Explaining Why Methods Change Together.;185-194;10;Mining Software Repository;
+2014;Cosmin Marsavina,Daniele Romano,Andy Zaidman;Studying Fine-Grained Co-evolution Patterns of Production and Test Code.;195-204;10;Mining Software Repository;
+2014;Le An,Foutse Khomh,Bram Adams;Supplementary Bug Fixes vs. Re-opened Bugs.;205-214;10;Mining Software Repository;
+2014;Steven Raemaekers,Arie van Deursen,Joost Visser;Semantic Versioning versus Breaking Changes: A Study of the Maven Repository.;215-224;10;Mining Software Repository;
+2014;Shuying Liang,Weibin Sun,Matthew Might;Fast Flow Analysis with Godel Hashes.;225-234;10;Static Analysis;
+2014;Aharon Abadi,Yishai A. Feldman;A Parallel On-Demand Algorithm for Computing Interprocedural Dominators.;235-244;10;Static Analysis;
+2014;Marwan Abi-Antoun,Sumukhi Chandrashekar,Radu Vanciu,Andrew Giang;Are Object Graphs Extracted Using Abstract Interpretation Significantly Different from the Code?;245-254;10;Static Analysis;
+2014;Babak Yadegari,Saumya K. Debray;Bit-Level Taint Analysis.;255-264;10;Static Analysis;
+2014;Shuying Liang,Weibin Sun,Matthew Might,Andrew W. Keep,David Van Horn;Pruning, Pushdown Exception-Flow Analysis.;265-274;10;Static Analysis;
+2014;Luis Fernando Cortes-Coy,Mario Linares Vasquez,Jairo Aponte,Denys Poshyvanyk;On Automatically Generating Commit Messages via Summarization of Source Code Changes.;275-284;10;Recommendation Systems;
+2014;Mohammad Masudur Rahman,Chanchal Kumar Roy;On the Use of Context in Recommending Exception Handling Code Examples.;285-294;10;Recommendation Systems;
+2014;Atsushi Yoshida,Yoshinari Hachisu;A Pattern Search Method for Unpreprocessed C Programs Based on Tokenized Syntax Trees.;295-304;10;Recommendation Systems;
+2014;Naohiro Kawamitsu,Takashi Ishio,Tetsuya Kanda,Raula Gaikovina Kula,Coen De Roover,Katsuro Inoue;Identifying Source Code Reuse across Repositories Using LCS-Based Source Code Similarity.;305-314;10;Recommendation Systems;
+2013;Arpad Beszedes,Lajos Schrettner,Bela Csaba,Tamas Gergely,Judit Jasz,Tibor Gyimothy;Empirical investigation of SEA-based dependence cluster properties.;1-10;10;Session 1 - Dependency Analysis;
+2013;Ahmad Jbara,Dror G. Feitelson;Characterization and assessment of the linux configuration complexity.;11-20;10;Session 1 - Dependency Analysis;
+2013;Tosin Daniel Oyetoyan,Reidar Conradi,Daniela Cruzes;Criticality of defects in cyclic dependent components.;21-30;10;Session 1 - Dependency Analysis;
+2013;K. M. Annervaz,Vikrant S. Kaulgud,Janardan Misra,Shubhashis Sengupta,Gary Titus,Azmat Munshi;Code clustering workbench.;31-36;6;Session 1 - Dependency Analysis;
+2013;Jeffrey Svajlenko,Chanchal Kumar Roy,Slawomir Duszynski;ForkSim: Generating software forks for evaluating cross-project similarity analysis tools.;37-42;6;Session 1 - Dependency Analysis;
+2013;Diego Mendez,Benoit Baudry,Martin Monperrus;Empirical evidence of large-scale diversity in API usage of object-oriented software.;43-52;10;Session 2 - Static Source Code Analysis;
+2013;Johan Fabry,Coen De Roover,Viviane Jonckers;Aspectual source code analysis with GASR.;53-62;10;Session 2 - Static Source Code Analysis;
+2013;Sven Mattsen,Pascal Cuoq,Sibylle Schupp;Driving a sound static software analyzer with branch-and-bound.;63-68;6;Session 2 - Static Source Code Analysis;
+2013;Sebastian Biallas,Mads Chr. Olesen,Franck Cassez,Ralf Huuck;PtrTracker: Pragmatic pointer analysis.;69-73;5;Session 2 - Static Source Code Analysis;
+2013;David Baca;Tracing with a minimal number of probes.;74-83;10;Session 3 - Dynamic Analysis;
+2013;Yan Wang,Min Feng,Rajiv Gupta,Iulian Neamtiu;A state alteration and inspection-based interactive debugger.;84-93;10;Session 3 - Dynamic Analysis;
+2013;Mike Papadakis,Marcio Eduardo Delamaro,Yves Le Traon;Proteum/FL: A tool for localizing faults using mutation analysis.;94-99;6;Session 3 - Dynamic Analysis;
+2013;Antoine Floch,Tomofumi Yuki,Ali El Moussawi,Antoine Morvan,Kevin Martin,Maxime Naullet,Mythri Alle,Ludovic L'Hours,Nicolas Simon,Steven Derrien,Francois Charot,Christophe Wolinski,Olivier Sentieys;GeCoS: A framework for prototyping custom hardware design flows.;100-105;6;Session 3 - Dynamic Analysis;
+2013;Tukaram B. Muske,Ankit Baid,Tushar Sanas;Review efforts reduction by partitioning of static analysis warnings.;106-115;10;Session 4 - Source Code Metrics;
+2013;Amin Milani Fard,Ali Mesbah 0001;JSNOSE: Detecting JavaScript Code Smells.;116-125;10;Session 4 - Source Code Metrics;
+2013;Jens Nicolay,Carlos Noguera,Coen De Roover,Wolfgang De Meuter;Determining dynamic coupling in JavaScript using object type inference.;126-135;10;Session 4 - Source Code Metrics;
+2013;Gergo Balogh,Arpad Beszedes;CodeMetropolis - code visualisation in MineCraft.;136-141;6;Session 4 - Source Code Metrics;
+2013;Francisco Zigmund Sokol,Mauricio Finavaro Aniche,Marco Aurelio Gerosa;MetricMiner: Supporting researchers in mining software repositories.;142-146;5;Session 4 - Source Code Metrics;
+2013;Martin P. Ward;Assembler restructuring in FermaT.;147-156;10;Session 5 - Code Transformation;
+2013;Luigi Cerulo,Michele Ceccarelli,Massimiliano Di Penta,Gerardo Canfora;A Hidden Markov Model to detect coded information islands in free text.;157-166;10;Session 5 - Code Transformation;
+2013;Vipin Balachandran;Fix-it: An extensible code auto-fix component in Review Bot.;167-172;6;Session 5 - Code Transformation;
+2013;Hagen Schink;sql-schema-comparer: Support of multi-language refactoring with relational databases.;173-178;6;Session 5 - Code Transformation;
+2013;Michael Marcozzi,Wim Vanhoof,Jean-Luc Hainaut;A relational symbolic execution algorithm for constraint-based testing of database programs.;179-188;10;Session 6 - Databases and Ontologies;
+2013;Arvind W. Kiwelekar,Rushikesh K. Joshi;Ontological interpretation of object-oriented programming abstractions.;189-198;10;Session 6 - Databases and Ontologies;
+2012;Tao Xie;Cooperative Testing and Analysis: Human-Tool, Tool-Tool and Human-Human Cooperations to Get Work Done.;1-3;3;;
+2012;Tobias Gutzmann,Jonas Lundberg,Welf Lowe;Collections Frameworks for Points-To Analysis.;4-13;10;;
+2012;Edward Aftandilian,Raluca Sauciuc,Siddharth Priya,Sundaresan Krishnan;Building Useful Program Analysis Tools Using an Extensible Java Compiler.;14-23;10;;
+2012;Lajos Schrettner,Judit Jasz,Tamas Gergely,Arpad Beszedes,Tibor Gyimothy;Impact Analysis in the Presence of Dependence Clusters Using Static Execute after in WebKit.;24-33;10;;
+2012;German Vidal;Closed Symbolic Execution for Verifying Program Termination.;34-43;10;;
+2012;Francois Gauthier,Ettore Merlo;Alias-Aware Propagation of Simple Pattern-Based Properties in PHP Applications.;44-53;10;;
+2012;Jun Yuan,Rob Johnson;CAWDOR: Compiler Assisted Worm Defense.;54-63;10;;
+2012;Hiroaki Murakami,Keisuke Hotta,Yoshiki Higo,Hiroshi Igaki,Shinji Kusumoto;Folding Repeated Instructions for Improving Token-Based Code Clone Detection.;64-73;10;;
+2012;Saman Bazrafshan;Evolution of Near-Miss Clones.;74-83;10;;
+2012;Chris Wilcox,Michelle Strout,James M. Bieman;Optimizing Expression Selection for Lookup Table Program Transformation.;84-93;10;;
+2012;Philip Mayer,Andreas Schroeder;Cross-Language Code Analysis and Refactoring.;94-103;10;;
+2012;Gabriele Bavota,Bernardino De Carluccio,Andrea De Lucia,Massimiliano Di Penta,Rocco Oliveto,Orazio Strollo;When Does a Refactoring Induce Bugs? An Empirical Study.;104-113;10;;
+2012;Andrea Zambon;Aucsmith-Like Obfuscation of Java Bytecode.;114-119;6;;
+2012;Christian Zoller,Axel Schmolitzky;AccessAnalysis: A Tool for Measuring the Appropriateness of Access Modifiers in Java Systems.;120-125;6;;
+2012;Mihai T. Lazarescu,Luciano Lavagno;Dynamic Trace-Based Data Dependency Analysis for Parallelization of C Programs.;126-131;6;;
+2012;Hariharan Thiagarajan,John Hatcliff,Jason Belt,Robby;Bakar Alir: Supporting Developers in Construction of Information Flow Contracts in SPARK.;132-137;6;;
+2012;Ulf Kargen,Nahid Shahmehri;InputTracer: A Data-Flow Analysis Tool for Manual Program Comprehension of x86 Binaries.;138-143;6;;
+2012;Malcom Gethers,Amir Aryani,Denys Poshyvanyk;Combining Conceptual and Domain-Based Couplings to Detect Database and Code Dependencies.;144-153;10;;
+2012;Jurgen J. Vinju,Michael W. Godfrey;What Does Control Flow Really Look Like? Eyeballing the Cyclomatic Complexity Metric.;154-163;10;;
+2012;John Businge,Alexander Serebrenik,Mark van den Brand;Compatibility Prediction of Eclipse Third-Party Plug-ins in New Eclipse Releases.;164-173;10;;
+2012;Nasir Ali,Aminata Sabane,Yann-Gael Gueheneuc,Giuliano Antoniol;Improving Bug Location Using Binary Class Relationships.;174-183;10;;
+2012;Emily Hill,Shivani Rao,Avinash C. Kak;On the Use of Stemming for Concern Location and Bug Localization in Java.;184-193;10;;
+2011;Paul E. Black;Counting Bugs is Harder Than You Think.;1-9;9;Invited Talks;
+2011;Nicolas E. Gold;Knitting Music and Programming: Reflections on the Frontiers of Source Code Analysis.;10-14;5;Invited Talks;
+2011;Eric Larson;Program Analysis Too Loopy? Set the Loops Aside.;15-24;10;Static Analysis;
+2011;Viktor Pavlu,Markus Schordan,Andreas Krall;Computation of Alias Sets from Shape Graphs for Comparison of Shape Analysis Precision.;25-34;10;Static Analysis;
+2011;Jason Sawin,Atanas Rountev;Assumption Hierarchy for a CHA Call Graph Construction Algorithm.;35-44;10;Static Analysis;
+2011;Steffen Keul;Tuning Static Data Race Analysis for Automotive Control Software.;45-54;10;Embedded Systems and Mobile Platforms;
+2011;Mark D. Syer,Bram Adams,Ying Zou,Ahmed E. Hassan;Exploring the Development of Micro-apps: A Case Study on the BlackBerry and Android Platforms.;55-64;10;Embedded Systems and Mobile Platforms;
+2011;Radu Marinescu,Cristina Marinescu;Are the Clients of Flawed Classes (Also) Defect Prone?;65-74;10;Defects and Security;
+2011;Kevin Coogan,Saumya K. Debray;Equational Reasoning on x86 Assembly Code.;75-84;10;Defects and Security;
+2011;Andrea Avancini,Mariano Ceccato;Security Testing of Web Applications: A Search-Based Approach for Cross-Site Scripting Vulnerabilities.;85-94;10;Defects and Security;
+2011;Wei Wang,Michael W. Godfrey;A Study of Cloning in the Linux SCSI Drivers.;95-104;10;Clones;
+2011;Minhaz Fahim Zibran,Chanchal Kumar Roy;A Constraint Programming Approach to Conflict-Aware Optimal Scheduling of Prioritized Code Clone Refactoring.;105-114;10;Clones;
+2011;Sandro Schulze,Elmar Jurgens,Janet Feigenspan;Analyzing the Effect of Preprocessor Annotations on Code Clones.;115-124;10;Clones;
+2011;Surafel Lemma Abebe,Sonia Haiduc,Paolo Tonella,Andrian Marcus;The Effect of Lexicon Bad Smells on Concept Location in Source Code.;125-134;10;Search;
+2011;Matthew B. Kelly,Jason S. Alexander,Bram Adams,Ahmed E. Hassan;Recovering a Balanced Overview of Topics in a Software Domain.;135-144;10;Search;
+2011;Tiago L. Alves,Jurriaan Hage,Peter Rademaker;A Comparative Study of Code Query Technologies.;145-154;10;Search;
+2011;Serguei A. Roubtsov,Alexander Serebrenik,Aurelien Mazoyer,Mark van den Brand;I2SD: Reverse Engineering Sequence Diagrams from Enterprise Java Beans with Interceptors.;155-164;10;Tools;
+2011;Michael Mehlich;CheckPointer - A C Memory Access Validator.;165-172;8;Tools;
+2011;Michael L. Collard,Michael J. Decker,Jonathan I. Maletic;Lightweight Transformation and Fact Extraction with the srcML Toolkit.;173-184;12;Tools;
+2011;Jens Nicolay,Coen De Roover,Wolfgang De Meuter,Viviane Jonckers;Automatic Parallelization of Side-Effecting Higher-Order Scheme Programs.;185-194;10;Transformation;
+2011;Ahmed Sfayhi,Houari A. Sahraoui;What You See is What You Asked for: An Effort-Based Transformation of Code Analysis Tasks into Interactive Visualization Scenarios.;195-203;9;Transformation;
+2010;Andreas Zeller;Learning from 6, 000 Projects: Mining Models in the Large.;3-6;4;Invited Talks;
+2010;Mark Harman;Why Source Code Analysis and Manipulation Will Always be Important.;7-19;13;Invited Talks;
+2010;Amy Wheeler,David M. Binkley;Subclass Instantiation Distribution.;23-32;10;Measurement;
+2010;Bela Ujhazi,Rudolf Ferenc,Denys Poshyvanyk,Tibor Gyimothy;New Conceptual Coupling and Cohesion Metrics for Object-Oriented Systems.;33-42;10;Measurement;
+2010;Simon Allier,Stephane Vaucher,Bruno Dufour,Houari A. Sahraoui;Deriving Coupling Metrics from Call Graphs.;43-52;10;Measurement;
+2010;Stephen W. Thomas,Bram Adams,Ahmed E. Hassan,Dorothea Blostein;Validating the Use of Topic Models for Software Evolution.;55-64;10;Concepts;
+2010;Scott Grant,James R. Cordy;Estimating the Optimal Number of Latent Concepts in Source Code Analysis.;65-74;10;Concepts;
+2010;Romain Brixtel,Mathieu Fontaine,Boris Lesner,Cyril Bazin,Romain Robbes;Language-Independent Clone Detection Applied to Plagiarism Detection.;77-86;10;Clones;
+2010;Ripon Kumar Saha,Muhammad Asaduzzaman,Minhaz Fahim Zibran,Chanchal Kumar Roy,Kevin A. Schneider;Evaluating Code Clone Genealogies at Release Level: An Empirical Study.;87-96;10;Clones;
+2010;Michael Pise;The Fika Parser Generator.;99-100;2;Demos;
+2010;Bas Basten,Tijs van der Storm;AMBIDEXTER: Practical Ambiguity Detection.;101-102;2;Demos;
+2010;Jurgen Graf;Speeding Up Context-, Object- and Field-Sensitive SDG Generation.;105-114;10;Static Analysis Using Graphs;
+2010;Devin Kester,Martin Mwebesa,Jeremy S. Bradbury;How Good is Static Analysis at Finding Concurrency Bugs?;115-124;10;Static Analysis Using Graphs;
+2010;Marcus Edvinsson,Jonas Lundberg,Welf Lowe;Parallel Reachability and Escape Analyses.;125-134;10;Static Analysis Using Graphs;
+2010;Zhi Da Luo,Linda Hillis,Raja Das,Yao Qi;Effective Static Analysis to Find Concurrency Bugs in Java.;135-144;10;Static Analysis Using Graphs;
+2010;Lennart C. L. Kats,Eelco Visser;Encapsulating Software Platform Logic by Aspect-Oriented Programming: A Case Study in Using Aspects for Language Portability.;147-156;10;Modularity;
+2010;Huiqing Li,Simon J. Thompson;Refactoring Support for Modularity Maintenance in Erlang.;157-166;10;Modularity;
+2010;Zoltan Borok-Nagy,Viktor Majer,Jozsef Mihalicza,Norbert Pataki,Zoltan Porkolab;Visualization of C++ Template Metaprograms.;167-176;10;Modularity;
+2010;Katerina Troshina,Yegor Derevenets,Alexander Chernov;Reconstruction of Composite Types for Decompilation.;179-188;10;Data and Memory;
+2010;Alain Ketterlin,Philippe Clauss;Recovering the Memory Behavior of Executable Programs.;189-198;10;Data and Memory;
+2010;Matthew S. Simpson,Rajeev Barua;MemSafe: Ensuring the Spatial and Temporal Memory Safety of C at Runtime.;199-208;10;Data and Memory;
+2009;Robert Charles Lange,Spiros Mancoridis;thr2csp: Toward Transforming Threads into Communicating Sequential Processes.;3-12;10;Slicing & Concurrency;
+2009;Dennis Giffhorn;Chopping Concurrent Programs.;13-22;10;Slicing & Concurrency;
+2009;Martin P. Ward;Properties of Slicing Definitions.;23-32;10;Slicing & Concurrency;
+2009;Ju Qian,Yuming Zhou,Baowen Xu;Improving Side-Effect Analysis with Lazy Access Path Resolving.;35-44;10;Dependence Analysis;
+2009;Tobias Gutzmann,Antonina Khairova,Jonas Lundberg,Welf Lowe;Towards Comparing and Combining Points-to Analyses.;45-54;10;Dependence Analysis;
+2009;Tiago L. Alves,Joost Visser;Static Estimation of Test Coverage.;55-64;10;Dependence Analysis;
+2009;Rebecca Tiarks,Rainer Koschke,Raimar Falke;An Assessment of Type-3 Clones as Detected by State-of-the-Art Tools.;67-76;10;Clones;
+2009;Nils Gode;Evolution of Type-1 Clones.;77-86;10;Clones;
+2009;David M. Binkley,Mark Harman;Identifying 'Linchpin Vertices' That Cause Large Dependence Clusters.;89-98;10;Code Tracing;
+2009;Jaime Spacco,Chadd C. Williams;Lightweight Techniques for Tracking Unique Program Statements.;99-108;10;Code Tracing;
+2009;Christian Prause;Maintaining Fine-Grained Code Metadata Regardless of Moving, Copying and Merging.;109-118;10;Code Tracing;
+2009;Tobias Gutzmann,Tamara Steijger;Backporting Java 5 Code.;121-122;2;Tools Demos;
+2009;Geraud Canet,Pascal Cuoq,Benjamin Monate;A Value Analysis for C Programs.;123-124;2;Tools Demos;
+2009;Martin P. Ward;The FermaT Maintenance Environment Tool Demonstration.;125-126;2;Tools Demos;
+2009;James Hamilton,Sebastian Danicic;An Evaluation of Current Java Bytecode Decompilers.;129-136;8;Abstraction & Reverse Engineering;
+2009;Michael Achenbach,Klaus Ostermann;Engineering Abstractions in Model Checking and Testing.;137-146;10;Abstraction & Reverse Engineering;
+2009;Valentin David,Magne Haveraaen;Concepts as Syntactic Sugar.;147-156;10;Abstraction & Reverse Engineering;
+2009;El Hachemi Alikacem,Houari A. Sahraoui;A Metric Extraction Framework Based on a High-Level Description Language.;159-167;9;Analysis Frameworks;
+2009;Paul Klint,Tijs van der Storm,Jurgen J. Vinju;RASCAL: A Domain Specific Language for Source Code Analysis and Manipulation.;168-177;10;Analysis Frameworks;
+2009;Ralf Lammel,Vadim Zaytsev;Recovering Grammar Relationships for the Java Language Specification.;178-186;9;Analysis Frameworks;
+2008;Paul Anderson;90% Perspiration: Engineering Static Analysis Techniques for Industrial Applications.;3-12;10;;
+2008;Ansgar Fehnker,Ralf Huuck,Felix Rauch,Sean Seefried;Some Assembly Required - Program Analysis of Embedded System Code.;15-24;10;;
+2008;Bernhard Scholz,Chenyi Zhang,Cristina Garcia Cifuentes;User-Input Dependence Analysis via Graph Reachability.;25-34;10;;
+2008;Katsuhiko Gondow,Hayato Kawashima,Takashi Imaizumi;TBCppA: A Tracer Approach for Automatic Accurate Analysis of C Preprocessor's Behaviors.;35-44;10;;
+2008;Cheng Wang,Daqing Hou;An Empirical Study of Function Overloading in C++.;47-56;10;;
+2008;Jens Krinke;Is Cloned Code More Stable than Non-cloned Code?;57-66;10;;
+2008;Jeremy Singer,Chris C. Kirkham;Exploiting the Correspondence between Micro Patterns and Class Names.;67-76;10;;
+2008;Cathal Boogerd,Leon Moonen;On the Use of Data Flow Analysis in Static Profiling.;79-88;10;;
+2008;Damiano Zanardini;The Semantics of Abstract Program Slicing.;89-98;10;;
+2008;Massimiliano Di Penta,Luigi Cerulo,Lerina Aversano;The Evolution and Decay of Statically Detected Source Code Vulnerabilities.;101-110;10;;
+2008;Abram Hindle,Michael W. Godfrey,Richard C. Holt;From Indentation Shapes to Code Structures.;111-120;10;;
+2008;David M. Binkley,Nicolas E. Gold,Mark Harman,Zheng Li,Kiarash Mahdavi;Evaluating Key Statements Analysis.;121-130;10;;
+2008;Jonas Lundberg,Tobias Gutzmann,Welf Lowe;Fast and Precise Points-to Analysis.;133-142;10;;
+2008;Qiang Sun,Jianjun Zhao;Aspect-Aware Points-to Analysis.;143-152;10;;
+2008;Andrew Stone,Michelle Strout,Shweta Behere;Automatic Determination of May/Must Set Usage in Data-Flow Analysis.;153-162;10;;
+2008;Lei Wang,Qiang Zhang,PengChao Zhao;Automated Detection of Code Vulnerabilities Based on Program Analysis and Model Checking.;165-173;9;;
+2008;Michael Gorbovitski,K. Tuncay Tekle,Tom Rothamel,Scott D. Stoller,Yanhong A. Liu;Analysis and Transformations for Efficient Query-Based Debugging.;174-183;10;;
+2008;Daniel M. German,Gregorio Robles,Ahmed E. Hassan;Change Impact Graphs: Determining the Impact of Prior Code Changes.;184-193;10;;
+2008;Mariano Ceccato,Thomas Roy Dean,Paolo Tonella;Using Program Transformations to Add Structure to a Legacy Data Model.;197-206;10;;
+2008;Petru Florin Mihancea;Type Highlighting: A Client-Driven Visual Approach for Class Hierarchies Reengineering.;207-216;10;;
+2008;Jason Chu,Thomas Roy Dean;Automated Migration of List Based JSP Web Pages to AJAX.;217-226;10;;
+2008;Tony Clark,Paul Sammut,James S. Willans;Beyond Annotations: A Proposal for Extensible Java (XJ).;229-238;10;;
+2008;Miguel Gomez-Zamalloa,Elvira Albert,German Puebla;Modular Decompilation of Low-Level Code by Partial Evaluation.;239-248;10;;
+2008;Yue Jia,Mark Harman;Constructing Subtle Faults Using Higher Order Mutation Testing.;249-258;10;;
+2008;Raffi Khatchadourian,Awais Rashid;Rejuvenate Pointcut: A Tool for Pointcut Expression Recovery in Evolving Aspect-Oriented Software.;261-262;2;;
+2008;Cristina Garcia Cifuentes;Parfait - A Scalable Bug Checker for C Code.;263-264;2;;
+2008;Nuno F. Rodrigues,Luis Soares Barbosa;CoordInspector: A Tool for Extracting Coordination Data from Legacy Code.;265-266;2;;
+2008;Dennis Giffhorn,Christian Hammer;Precise Analysis of Java Programs Using JOANA.;267-268;2;;
+2008;Zhao Hong Yang,Yun Zhan Gong,Xiao Qing,Wang Ya Wen;DTS - A Software Defects Testing System.;269-270;2;;
+2007;Oege de Moor,Mathieu Verbaere,Elnar Hajiyev,Pavel Avgustinov,Torbjorn Ekman,Neil Ongkingco,Damien Sereni,Julian Tibble;Keynote Address: .QL for Source Code Analysis.;3-16;14;;
+2007;Dennis Giffhorn,Christian Hammer;An Evaluation of Slicing Algorithms for Concurrent Programs.;17-26;10;;
+2007;Mariano Ceccato,Mila Dalla Preda,Jasvir Nagra,Christian S. Collberg,Paolo Tonella;Barrier Slicing for Remote Software Trusting.;27-36;10;;
+2007;Jens Krinke;Statement-Level Cohesion Metrics and their Visualization.;37-48;12;;
+2007;Andreas Lochbihler,Gregor Snelting;On Temporal Path Conditions in Dependence Graphs.;49-58;10;;
+2007;Tobias Gutzmann,Jonas Lundberg,Welf Lowe;Towards Path-Sensitive Points-to Analysis.;59-68;10;;
+2007;Eva Magnusson,Torbjorn Ekman,Gorel Hedin;Extending Attribute Grammars with Collection Attributes--Evaluation and Applications.;69-80;12;;
+2007;Nicolas Juillerat,Beat Hirsbrunner;"Toward an Implementation of the ""Form Template Method"" Refactoring.";81-90;10;;
+2007;Walter Binder,Jarle Hulaas,Philippe Moret;Reengineering Standard Java Runtime Systems through Dynamic Bytecode Instrumentation.;91-100;10;;
+2007;Marius Marin,Leon Moonen,Arie van Deursen;An Integrated Crosscutting Concern Migration Strategy and its Application to JHOTDRAW.;101-110;10;;
+2007;Arnoldo Jose Muller Molina,Takeshi Shinohara;Fast Approximate Matching of Programs for Protecting Libre/Open Source Software by Using Spatial Indexes.;111-122;12;;
+2007;Eric Larson;SUDS: An Infrastructure for Creating Bug Detection Tools.;123-132;10;;
+2007;Matthew Naylor,Colin Runciman;Finding Inputs that Reach a Target Expression.;133-142;10;;
+2007;Jason Sawin,Atanas Rountev;Improved Static Resolution of Dynamic Class Loading in Java.;143-154;12;;
+2007;Serguei A. Roubtsov,Alexandru Telea,Danny Holten;SQuAVisiT: A Software Quality Assessment and Visualisation Toolset.;155-156;2;;
+2007;Cristina Marinescu;DATES: Design Analysis Tool for Enterprise Systems.;157-158;2;;
+2007;Jendrik Johannes;Source Code Composition with the Reuseware Composition Framework.;159-160;2;;
+2007;Huib van den Brink,Rob van der Leek,Joost Visser;Quality Assessment for Embedded SQL.;163-170;8;;
+2007;Patricia L. Roden,Shamsnaz Virani,Letha H. Etzkorn,Sherri L. Messimer;An Empirical Study of the Relationship of Stability Metrics and the QMOOD Quality Models Over Software Developed Using Highly Iterative or Agile Software Processes.;171-179;9;;
+2007;Lerina Aversano,Luigi Cerulo,Massimiliano Di Penta;Relating the Evolution of Design Patterns and Crosscutting Concerns.;180-192;13;;
+2007;Einar W. Host,Bjarte M. Ostvold;The Programmer's Lexicon, Volume I: The Verbs.;193-202;10;;
+2007;Zhen Ming Jiang,Ahmed E. Hassan;A Framework for Studying Clones In Large Software Systems.;203-212;10;;
+2007;Dawn Lawrie,Henry Feild,David M. Binkley;Extracting Meaning from Abbreviated Identifiers.;213-222;10;;
+2006;;Message from the Chairs.;;0;Introduction;
+2006;;Organizing Committee.;;0;Introduction;
+2006;;Steering Committee.;;0;Introduction;
+2006;;Program Committee.;;0;Introduction;
+2006;;Additional Reviewers.;;0;Introduction;
+2006;Keith Gallagher,David M. Binkley,Mark Harman;Stop-List Slicing.;11-20;10;Session 1: Slicing;
+2006;Arpad Beszedes,Tamas Gergely,Tibor Gyimothy;Graph-Less Dynamic Dependence-Based Dynamic Slicing Algorithms.;21-30;10;Session 1: Slicing;
+2006;Kai Pan,Sunghun Kim,Jim Whitehead;Bug Classification Using Program Slicing Metrics.;31-42;12;Session 1: Slicing;
+2006;David M. Binkley,Mark Harman,Jens Krinke;Characterising, Explaining, and Exploiting the Approximate Nature of Static Analysis through Animation.;43-52;10;Session 2: Static Analysis I;
+2006;Jason Sawin,Atanas Rountev;Estimating the Run-Time Progress of a Call Graph Construction Algorithm53-62.;53-62;10;Session 2: Static Analysis I;
+2006;Weilei Zhang,Barbara G. Ryder;Constructing Accurate Application Call Graphs For Java To Model Library Callbacks.;63-74;12;Session 2: Static Analysis I;
+2006;Andrew Walenstein,Rachit Mathur,Mohamed R. Chouchane,Arun Lakhotia;Normalizing Metamorphic Malware Using Term Rewriting.;75-84;10;Session 3: Transformations;
+2006;Michael W. Fagan,Laurent Hascoet,Jean Utke;Data Representation Alternatives in Semantically Augmented Numerical Models.;85-94;10;Session 3: Transformations;
+2006;Matthew Jacobs,E. Christopher Lewis;SMART C: A Semantic Macro Replacement Translator for C.;95-106;12;Session 3: Transformations;
+2006;Magiel Bruntink;Linking Analysis and Transformation Tools with Source-Based Mappings.;107-116;10;Session 4: Tools;
+2006;Adrian D. Thurston,James R. Cordy;Evolving TXL.;117-126;10;Session 4: Tools;
+2006;Lajos Jeno Fulop,Tamas Gyovai,Rudolf Ferenc;Evaluating C++ Design Pattern Miner Tools.;127-138;12;Session 4: Tools;
+2006;Dawn Lawrie,Henry Feild,David M. Binkley;Syntactic Identifier Conciseness and Consistency.;139-148;10;Session 5: Static Analysis II;
+2006;Cathal Boogerd,Leon Moonen;Prioritizing Software Inspection Results using Static Profiling.;149-160;12;Session 5: Static Analysis II;
+2006;Eric Van Wyk,Lijesh Krishnan,Derek Bodin,Eric Johnson,August Schwerdfeger,Phil Russell;Tool Demonstration: Silver Extensible Compiler Frameworks and Modular Language Extensions for Java and C.;161;1;Tool Demonstrations;
+2006;Carlos Noguera,Renaud Pawlak;AVal: an Extensible Attribute-Oriented Programming Validator for Java.;175-183;9;Tool Demonstrations;
+2006;Kim S. Henriksen,John P. Gallagher;Abstract Interpretation of PIC Programs through Logic Programming.;184-196;13;Tool Demonstrations;
+2006;Huiqing Li,Simon J. Thompson;Comparative Study of Refactoring Haskell and Erlang Programs.;197-206;10;Session 7: Refactoring;
+2006;Dennis Strein,Hans Kratz,Welf Lowe;Cross-Language Program Analysis and Refactoring.;207-216;10;Session 7: Refactoring;
+2006;Michael L. Collard,Huzefa H. Kagdi,Jonathan I. Maletic;Factoring Differences for Iterative Change Management.;217-226;10;Session 7: Refactoring;
+2005;;Title Page.;;0;Cover;
+2005;;Copyright.;;0;Cover;
+2005;;Message from the Chairs.;;0;Introduction;
+2005;;Program Committee.;;0;Introduction;
+2005;;Reviewers.;;0;Introduction;
+2005;David M. Binkley,Mark Harman;Forward slices are smaller than backward slices.;15-24;10;Session 1: Slicing;
+2005;Hyoung Seok Hong,Insup Lee,Oleg Sokolsky;Abstract Slicing: A New Approach to Program Slicing Based on Abstract Interpretation and Model Checking.;25-34;10;Session 1: Slicing;
+2005;Attila Szegedi,Tibor Gyimothy;Dynamic Slicing of Java Bytecode Programs.;35-44;10;Session 1: Slicing;
+2005;David M. Binkley,Sebastian Danicic,Tibor Gyimothy,Mark Harman,Akos Kiss,Bogdan Korel;Minimal Slicing and the Relationships Between Forms of Slicing.;45-56;12;Session 1: Slicing;
+2005;Silvia Breu;Extending Dynamic Aspect Mining with Static Information.;57-65;9;Session 2: Concept Location;
+2005;Beat Fluri,Harald C. Gall,Martin Pinzger;Fine-Grained Analysis of Change Couplings.;66-74;9;Session 2: Concept Location;
+2005;Jeremy Singer;Concept Assignment as a Debugging Technique for Code Generators.;75-86;12;Session 2: Concept Location;
+2005;Hongyu Zhang,Jeremy S. Bradbury,James R. Cordy,Jurgen Dingel;Implementation and Verification of Implicit-Invocation Systems Using Source Transformation.;87-96;10;Session 3: Program Transformations I;
+2005;Markus Schordan,Daniel J. Quinlan;Specifying Transformation Sequences as Computation on Program Fragments with an Abstract Attribute Grammar.;97-106;10;Session 3: Program Transformations I;
+2005;Nerina Bermudo,Andreas Krall,R. Nigel Horspool;Control Flow Graph Reconstruction for Assembly Language Programs with Delayed Instructions.;107-118;12;Session 3: Program Transformations I;
+2005;Aiwu Shi,Gleb Naumovich;Static Analysis for Computing Escapability and Mutability for Java Components.;119-128;10;Session 4: Pointer Analysis;
+2005;Richard E. Jones,Andy C. King;A Fast Analysis for Thread-Local Garbage Collection with Dynamic Class Loading.;129-138;10;Session 4: Pointer Analysis;
+2005;Marcio Buss,Stephen A. Edwards,Bin Yao,Dan G. Waddington;Pointer Analysis for Source-to-Source Transformations.;139-150;12;Session 4: Pointer Analysis;
+2005;Michael English,Jim Buckley,Anthony Cahill,Kristian Lynch;Measuring the Impact of Friends on the Internal Attributes of Software Systems.;151-160;10;Session 5: Empirical Studies;
+2005;Steve Counsell,Stephen Swift,Allan Tucker;Object-oriented cohesion as a surrogate of software comprehension: an empirical study.;161-172;12;Session 5: Empirical Studies;
+2005;Shannon Xu,Thomas Roy Dean;Transforming Embedded Java Code into Custom Tags.;173-182;10;Session 6: Program Transformations II;
+2005;Bernadette Power,Geoff W. Hamilton;Declassification: Transforming Java Programs to Remove Intermediate Classes.;183-192;10;Session 6: Program Transformations II;
+2005;Paul Anderson;The Performance Penalty of XML for Program Intermediate Representations.;193-202;10;Session 6: Program Transformations II;
+2004;Gregg Rothermel;Using Source-Code Analysis to Help End-User Programmers Create Dependable Software.;3;1;Keynote;
+2004;Bogong Su,Jian Wang,Erh-Wen Hu,Joseph Manzano;Software De-Pipelining Technique.;7-16;10;Decompilation;
+2004;Arun Lakhotia,Eric Uday Kumar;Abstracting Stack to Detect Obfuscated Calls in Binaries.;17-26;10;Decompilation;
+2004;Jens Krinke;Context-Sensitivity Matters, But Context Does Not.;29-35;7;Slicing;
+2004;Keith Gallagher;Some Notes on Interprocedural Program Slicing.;36-42;7;Slicing;
+2004;David M. Binkley,Sebastian Danicic,Tibor Gyimothy,Mark Harman,Akos Kiss,Lahcen Ouarbya;Formalizing Executable Dynamic and Forward Slicing.;43-52;10;Slicing;
+2004;Uwe Naumann,Jean Utke,Andrew Lyons,Michael W. Fagan;Control Flow Reversal for Adjoint Code Generation.;55-64;10;Restructuring;
+2004;Deji Fatiregun,Mark Harman,Robert M. Hierons;Evolving Transformation Sequences using Genetic Algorithms.;66-75;10;Restructuring;
+2004;Xia Xu,Chung-Horng Lung,Marzia Zaman,Anand Srinivasan;Program Restructuring Through Clustering Techniques.;75-84;10;Restructuring;
+2004;Mark Harman,David M. Binkley,Ranjit Singh,Robert M. Hierons;Amorphous Procedure Extraction.;85-94;10;Restructuring;
+2004;Tom Tourwe,Kim Mens;Mining Aspectual Views using Formal Concept Analysis.;97-106;10;Aspect-Oriented Programming ;
+2004;Mariano Ceccato,Paolo Tonella;Adding Distribution to Existing Applications by Means of Aspect Oriented Programming.;107-116;10;Aspect-Oriented Programming ;
+2004;Daqing Hou,H. James Hoover,Piotr Rudnicki;Specifying the Law of Demeter and C++ Programming Guidelines with FCL.;119-127;9;Maintenance;
+2004;Vera Wahler,Dietmar Seipel,Jurgen Wolff von Gudenberg,Gregor Fischer;Clone Detection in Source Code by Frequent Itemset Techniques.;128-135;8;Maintenance;
+2004;Magiel Bruntink,Arie van Deursen;Predicting Class Testability using Object-Oriented Metrics.;136-145;10;Maintenance;
+2004;Gregorio Robles,Jesus M. Gonzalez-Barahona;Executable Source Code and Non-Executable Source Code: Analysis and Relationships.;149-157;9;Source Code;
+2004;Katsuhisa Maruyama,Shinichirou Yamamoto;A CASE Tool Platform Using an XML Representation of Java Source Code.;158-167;10;Source Code;
+2003;David J. Pearce,Paul H. J. Kelly,Chris Hankin;Online Cycle Detection and Difference Propagation for Pointer Analysis.;3-12;10;Static Analysis;
+2003;Matthieu Martel;Improving the Static Analysis of Loops by Dynamic Partitioning Techniques.;13-21;9;Static Analysis;
+2003;Jean-Marie Favre;CPP Denotational Semantics.;22-;0;Static Analysis;
+2003;Michael English,Jim Buckley,Anthony Cahill;Applying Meyer's Taxonomy to Object-Oriented Software Systems.;35-44;10;Object Oriented Code;
+2003;Richard Wheeldon,Steve Counsell;Power Law Distributions in Class Relationships.;45-54;10;Object Oriented Code;
+2003;Neil Walkinshaw,Marc Roper,Murray Wood;The Java System Dependence Graph.;55-64;10;Object Oriented Code;
+2003;Otto Skrove Bagge,Karl Trygve Kalleberg,Magne Haveraaen,Eelco Visser;Design of the CodeBoost Transformation System for Domain-Specific Optimisation of C++ Programs.;65-;0;Object Oriented Code;
+2003;Chris Verhoef;Managing Multi-Billion Dollar IT Budgets using Source Code Analysis.;77-;0;Keynote;
+2003;Jens Krinke;Barrier Slicing and Chopping.;81-87;7;Slicing;
+2003;Martin P. Ward;Slicing the SCAM Mug: A Case Study in Semantic Slicing.;88-97;10;Slicing;
+2003;Aditya Rajeev Kulkarni,Sethu Ramesh;Static Slicing of Reactive Programs.;98-107;10;Slicing;
+2003;Fumiaki Umemori,Kenji Konda,Reishi Yokomori,Katsuro Inoue;Design and Implementation of Bytecode-based Java Slicing System.;108-117;10;Slicing;
+2003;Akos Kiss,Judit Jasz,Gabor Lehotai,Tibor Gyimothy;Interprocedural Static Slicing of Binary Executables.;118-;0;Slicing;
+2003;Maxim Mossienko,Oleg Khaschansky,Dmitriy Antonov,Oleg Smirnov,Anton Gubanov;Towards managing environment dependence during legacy systems renovation and maintenance.;131-140;10;Program Transformations;
+2003;Karina Olmos,Eelco Visser;Turning Dynamic Typing into Static Typing by Program Specialization in a Compiler Front-end for Octave.;141-150;10;Program Transformations;
+2003;Xinping Guo,James R. Cordy,Thomas Roy Dean;Unique Renaming of Java Using Source Transformation.;151-160;10;Program Transformations;
+2003;Jan Kort,Ralf Lammel;Parse-Tree Annotations Meet Re-Engineering Concerns.;161-;0;Program Transformations;
+2003;Giuliano Antoniol,Massimiliano Di Penta,Gianluca Masone,Umberto Villano;XOgastan: XML-Oriented gcc AST Analysis and Transformations.;173-182;10;Tools and Techniques;
+2003;Antonio Menezes Leitao;Detection of Redundant Code using R2D2.;183-192;10;Tools and Techniques;
+2003;Patrick Moseley,Saumya K. Debray,Gregory R. Andrews;Checking Program Profiles.;193-202;10;Tools and Techniques;
+2003;David M. Binkley,Mark Harman;Results from a Large-Scale Study of Performance Optimization Techniques for Source Code Analyses Based on Graph Reachability Algorithms.;203-;0;Tools and Techniques;
+2002;Ira D. Baxter;Parallel Support for Source Code Analysis and Modification.;3-;0;Keynote Address;
+2002;Sudipto Ghosh;Towards Measurement of Testability of Concurrent Object-Oriented Programs Using Fault Insertion: A Preliminary Investigation.;17-25;9;Testing, Metrics, Maintenance;
+2002;Terry Harmer,F. George Wilkie;An Extensible Metrics Extraction Environment for Object-Oriented Programming Languages.;26-35;10;Testing, Metrics, Maintenance;
+2002;Elizabeth Burd,John Bailey;Evaluating Clone Detection Tools for Use during Preventative Maintenance.;36-43;8;Testing, Metrics, Maintenance;
+2002;Frederick V. Ramsey,James J. Alpigini;A Simple Mathematically Based Framework for Rule Extraction Using Wide Spectrum Language.;44-;0;Testing, Metrics, Maintenance;
+2002;Mark Harman,Chris Fox,Robert M. Hierons,Lin Hu,Sebastian Danicic,Joachim Wegener;VADA: A Transformation-Based System for Variable Dependence Analysis.;55-64;10;Source Transformation, Source Processing;
+2002;Christian H. Bischof,H. Martin Buecker,Bruno Lang,Arno Rasch,Andre Vehreschild;Combining Source Transformation and Operator Overloading Techniques to Compute Derivatives for MATLAB Programs.;65-72;8;Source Transformation, Source Processing;
+2002;Xingyuan Zhang,Malcolm Munro,Mark Harman,Lin Hu;Mechanized Operational Semantics of WSL.;73-82;10;Source Transformation, Source Processing;
+2002;Lerina Aversano,Massimiliano Di Penta,Ira D. Baxter;Handling Preprocessor-Conditioned Declarations.;83-92;10;Source Transformation, Source Processing;
+2002;Thomas Roy Dean,James R. Cordy,Andrew J. Malton,Kevin A. Schneider;Grammar Programming in TXL.;93-;0;Source Transformation, Source Processing;
+2002;Mark Harman,Lin Hu,Malcolm Munro,Xingyuan Zhang,Sebastian Danicic,Mohammed Daoudi,Lahcen Ouarbya;An Interprocedural Amorphous Slicer for WSL.;105-114;10;Slicing;
+2002;Baowen Xu,Zhenqiang Chen,Hongji Yang;Dynamic Slicing Object-Oriented Programs for Debugging.;115-122;8;Slicing;
+2002;Filippo Ricca,Paolo Tonella;Construction of the System Dependence Graph for Web Application Slicing.;123-132;10;Slicing;
+2002;Juergen Rilling,Hon Fung Li,Dhrubajyoti Goswami;Predicate-Based Dynamic Slicing of Message Passing Programs.;133-;0;Slicing;
+2002;Francoise Balmas;Using Dependence Graphs as a Support to Document Programs.;145-154;10;Dependence Graphs, Static Analysis;
+2002;Ana Milanova,Atanas Rountev,Barbara G. Ryder;Precise Call Graph Construction in the Presence of Function Pointers.;155-162;8;Dependence Graphs, Static Analysis;
+2002;Peter Bunus,Peter Fritzson;Semantics Guided Filtering of Combinatorial Graph Transformations in Declarative Equation-Based Languages.;163-172;10;Dependence Graphs, Static Analysis;
+2002;Byeong-Mo Chang,Jang-Wu Jo,Soon Hee Her;Visualization of Exception Propagation for Java Using Static Analysis.;173-;0;Dependence Graphs, Static Analysis;
+2001;Michael Weber,Viren Shah,Chris Ren;A Case Study in Detecting Software Security Vulnerabilities Using Constraint Optimization.;3-13;11;;
+2001;Juergen Rilling,Bhaskar Karanth;A Hybrid Program Slicing Framework.;14-25;12;;
+2001;Sandro Bartolini,Cosimo Antonio Prete;An Object Level Transformation Technique to Improve the Performance of Embedded Applications.;26-34;9;;
+2001;Maurizio Rebaudengo,Matteo Sonza Reorda,Massimo Violante,Marco Torchiano;A Source-to-Source Compiler for Generating Dependable Software.;35-44;10;;
+2001;Laurent Deruelle,Nouredine Melab,Mourad Bouneffa,Henri Basson;Analysis and Manipulation of Distributed Multi-Language Software Code.;45-56;12;;
+2001;Amit Sharma,Miriam A. M. Capretz;Application Maintenance Using Software Agents.;57-66;10;;
+2001;Zhenqiang Chen,Baowen Xu,Hongji Yang;Detecting Dead Statements for Concurrent Programs.;67-74;8;;
+2001;James M. Bieman,Vanessa Murdock;Finding Code on the World Wibe Web: A Preliminary Investigation.;75-80;6;;
+2001;Paul Anderson,David M. Binkley,Genevieve Rosay,Tim Teitelbaum;Flow Insensitive Points-To Sets.;81-91;11;;
+2001;Giuliano Antoniol,Umberto Villano,Massimiliano Di Penta,Gerardo Casazza,Ettore Merlo;Identifying Clones in the Linux Kernel.;92-99;8;;
+2001;Gunter Kniesel,Pascal Costanza,Michael Austermann;Jmangler-A Framework for Load-Time Transformation of Java Class Files.;100-110;11;;
+2001;Sibylle Schupp,Douglas Gregor,David R. Musser;Library Transformations.;111-123;13;;
+2001;Jane Horgan,James F. Power,John Waldron;Measurement and Analysis of Runtime Profiling Data for Java Programs.;124-132;9;;
+2001;Michael L. Van de Vanter;Preserving the Documentary Structure of Source Code in Language-Based Transformation Tools.;133-143;11;;
+2001;Andrea De Lucia;Program Slicing: Methods and Applications.;144-151;8;;
+2001;Filippo Ricca,Paolo Tonella,Ira D. Baxter;Restructuring Web Applications via Transformation Rules.;152-162;11;;
+2001;Claire Knight;Smell the Coffee! Uncovering Java Analysis Issues.;163-169;7;;
+2001;James R. Cordy,Thomas Roy Dean,Andrew J. Malton,Kevin A. Schneider;Software Engineering by Source Transformation-Experience with TXL.;170-180;11;;
+2001;David Byers,Mariam Kamkar;Static Slicing and Parametric Polymorphism.;181-186;6;;
+2001;Martin P. Ward;The Formal Transformation Approach to Source Code Analysis and Manipulation.;187-195;9;;
+2001;Amie L. Souter,Lori L. Pollock;Type Infeasible Call Chains.;196-205;10;;
+2001;Elizabeth Burd,Stephen Rank;Using Automated Source Code Analysis for Software Evolution.;206-212;7;;
+2001;Paolo Maggi,Riccardo Sisto;Using Data Flow Analysis to Infer Type Information in Java Bytecode.;213-;0;;

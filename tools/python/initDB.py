@@ -19,7 +19,8 @@ from sqlalchemy import Column, ForeignKey, Table
 from sqlalchemy import Integer, String, Boolean
 from sqlalchemy.orm import relationship, backref
 #from sqlalchemy.ext.associationproxy import association_proxy
-
+import sqlalchemy;
+import string
 
 from sqlalchemy.ext.declarative import declarative_base
 Base = declarative_base()
@@ -38,7 +39,7 @@ class Person(Base):
     gender = Column(String(10))
     
     def __init__(self, name, gender=None):
-        self.name = name
+        self.name = name.lower()
         self.gender = gender
 
     def __repr__(self):
@@ -90,8 +91,6 @@ class PCMembership(Base):
     conference = relationship(Conference, backref="pc_membership")
     pcmember = relationship(Person, backref="pc_membership")    
 
-
-
 class Paper(Base):
     __tablename__ = 'papers'
     id = Column(Integer, primary_key=True)
@@ -103,6 +102,9 @@ class Paper(Base):
     session_h2 = Column(String(100))
     session_h3 = Column(String(100))
     main_track = Column(Boolean)
+    ref_id = Column(String(100))
+    cites = Column(String(10000))
+    abstract = Column(String(50000))
     
     '''Many to many Author<->Paper'''
     authors = relationship('Person', secondary=person_paper, backref='papers')
@@ -113,19 +115,29 @@ class Paper(Base):
     def __init__(self, conference, year, title, pages, num_pages, session_h2, session_h3, selected=False):
         self.conference = conference
         self.year = year
-        self.title = title
+        self.title = Paper.de_punctuate(title)
         self.pages = pages
         self.num_pages = num_pages
         self.session_h2 = session_h2.strip()
         self.session_h3 = session_h3.strip()
         self.main_track = selected
+        self.ref_id = None
+        self.cites = None
+        self.abstract = None
 
     def __repr__(self):
         return "<Paper('%s, %d, %s')>" % (self.conference, self.year, self.title)
+
+    @staticmethod
+    def de_punctuate(s):
+        return reduce(lambda s1, c: s1.replace(c, ''), string.punctuation, s).strip()
 
 
 def initDB(engine):
     metadata.create_all(engine) 
     print 'Database structure created'
-    
-    
+
+
+def _main():
+    engine = sqlalchemy.create_engine("mysql://root:root@localhost/conference_metrics")
+    initDB(engine)

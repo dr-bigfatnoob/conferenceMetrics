@@ -1,0 +1,132 @@
+<dblp_pc>
+    <table id="tbl_program_committee" border="0"><tbody><tr>
+			<td><a href="http://mithunacharya.com" title="Mithun Acharya">Mithun Acharya</a></td>
+			<td class="affiliation">ABB Research, USA</td>
+			</tr><tr>
+			<td><a href="http://mcis.polymtl.ca/~bram/" title="Bram Adams">Bram Adams</a></td>
+			<td class="affiliation">École Polytechnique de Montréal, Canada</td>
+			</tr><tr>
+			<td><a href="http://mcis.polymtl.ca/~antoniol/" title="Giuliano Antoniol">Giuliano Antoniol</a></td>
+			<td class="affiliation">École Polytechnique de Montréal, Canada</td>
+			</tr><tr>
+			<td><a href="http://www.cabird.com/" title="Christian Bird">Christian Bird</a></td>
+			<td class="affiliation">Microsoft Research, USA</td>
+			</tr><tr>
+			<td><a href="http://www.arrestedcomputing.com/" title="Raymond Buse">Raymond Buse</a></td>
+			<td class="affiliation">Google Inc., USA</td>
+			</tr><tr>
+			<td><a href="http://www.gerardocanfora.net/" title="Gerardo Canfora">Gerardo Canfora</a></td>
+			<td class="affiliation">University of Sannio, Italy</td>
+			</tr><tr>
+			<td><a href="http://www.coverity.com/company/leadership.html" title="Andy Chou">Andy Chou</a></td>
+			<td class="affiliation">Coverity Inc., USA</td>
+			</tr><tr>
+			<td><a href="http://www.cs.ucdavis.edu/~devanbu/" title="Prem Devanbu">Prem Devanbu</a></td>
+			<td class="affiliation">University of California, Davis, USA</td>
+			</tr><tr>
+			<td><a href="http://www.st.uni-trier.de/~diehl/" title="Stephan Diehl">Stephan Diehl</a></td>
+			<td class="affiliation">University Trier, Germany</td>
+			</tr><tr>
+			<td><a href="http://www.cs.ucdavis.edu/~filkov/" title="Vladimir Filkov">Vladimir Filkov</a></td>
+			<td class="affiliation">University of California, Davis, USA</td>
+			</tr><tr>
+			<td><a href="http://seal.ifi.uzh.ch/fritz/" title="Thomas Fritz">Thomas Fritz</a></td>
+			<td class="affiliation">University of Zurich, Switzerland</td>
+			</tr><tr>
+			<td><a href="http://seal.ifi.uzh.ch/gall/" title="Harald Gall">Harald Gall</a></td>
+			<td class="affiliation">University of Zurich, Switzerland</td>
+			</tr><tr>
+			<td><a href="http://turingmachine.org/" title="Daniel German">Daniel German</a></td>
+			<td class="affiliation">University of Victoria, Canada</td>
+			</tr><tr>
+			<td><a href="http://www.cs.technion.ac.il/~yogi/" title="Yossi Gill">Yossi Gill</a></td>
+			<td class="affiliation">Technion, Israel</td>
+			</tr><tr>
+			<td><a href="http://plg.uwaterloo.ca/~migod/" title="Mike W. Godfrey">Mike W. Godfrey</a></td>
+			<td class="affiliation">University of Waterloo, Canada</td>
+			</tr><tr>
+			<td><a href="http://www0.cs.ucl.ac.uk/staff/M.Harman/" title="Mark Harman">Mark Harman</a></td>
+			<td class="affiliation">University College London, UK</td>
+			</tr><tr>
+			<td><a href="http://research.cs.queensu.ca/~ahmed/" title="Ahmed E. Hassan">Ahmed E. Hassan</a></td>
+			<td class="affiliation">Queen’s University, Canada</td>
+			</tr><tr>
+			<td><a href="http://herraiz.org/" title="Israel Herraiz">Israel Herraiz</a></td>
+			<td class="affiliation">Universidad Politécnica de Madrid, Spain</td>
+			</tr><tr>
+			<td><a href="http://msuweb.montclair.edu/~hillem/" title="Emily Hill">Emily Hill</a></td>
+			<td class="affiliation">Montclair State University, USA</td>
+			</tr><tr>
+			<td><a href="http://softwareprocess.es/" title="Abram Hindle">Abram Hindle</a></td>
+			<td class="affiliation">University of Alberta, Canada</td>
+			</tr><tr>
+			<td><a href="http://www.cs.uwaterloo.ca/~rtholmes/" title="Reid Holmes">Reid Holmes</a></td>
+			<td class="affiliation">University of Waterloo, Canada</td>
+			</tr><tr>
+			<td><a href="http://sel.ist.osaka-u.ac.jp/people/inoue/" title="Katsuro Inoue">Katsuro Inoue</a></td>
+			<td class="affiliation">University of Osaka, Japan</td>
+			</tr><tr>
+			<td><a href="http://post.queensu.ca/~khomhf/" title="Foutse Khomh">Foutse Khomh</a></td>
+			<td class="affiliation">Queen’s University, Canada</td>
+			</tr><tr>
+			<td><a href="http://www.inf.usi.ch/faculty/lanza/" title="Michele Lanza">Michele Lanza</a></td>
+			<td class="affiliation">University of Lugano, Switzerland</td>
+			</tr><tr>
+			<td><a href="http://www.mysmu.edu/faculty/davidlo/" title="David Lo">David Lo</a></td>
+			<td class="affiliation">Singapore Management University, Singapore</td>
+			</tr><tr>
+			<td><a href="http://mockus.us/" title="Audris Mockus">Audris Mockus</a></td>
+			<td class="affiliation">Avaya Labs Research, USA</td>
+			</tr><tr>
+			<td><a href="http://research.google.com/pubs/author35758.html" title="David Morgenthaler">David Morgenthaler</a></td>
+			<td class="affiliation">Google Inc., USA</td>
+			</tr><tr>
+			<td><a href="http://www.research.att.com/archive/people/Ostrand_Thomas_J/" title="Thomas Ostrand">Thomas Ostrand</a></td>
+			<td class="affiliation">Rutgers University, USA</td>
+			</tr><tr>
+			<td><a href="http://research.google.com/pubs/author2207.html" title="John Penix">John Penix</a></td>
+			<td class="affiliation">Google Inc., USA</td>
+			</tr><tr>
+			<td><a href="http://swerl.tudelft.nl/bin/view/MartinPinzger" title="Martin Pinzger">Martin Pinzger</a></td>
+			<td class="affiliation">Delft Technical University, Netherlands</td>
+			</tr><tr>
+			<td><a href="http://www.cs.wm.edu/~denys/" title="Denys Poshyvanyk">Denys Poshyvanyk</a></td>
+			<td class="affiliation">The College of William and Mary, USA</td>
+			</tr><tr>
+			<td><a href="http://www.dcc.uchile.cl/~rrobbes/" title="Romain Robbes">Romain Robbes</a></td>
+			<td class="affiliation">University of Chile, Chile</td>
+			</tr><tr>
+			<td>Peter Rotella</td>
+			<td class="affiliation">Cisco Systems, USA</td>
+			</tr><tr>
+			<td><a href="http://www.cs.usask.ca/~croy/" title="Chanchal K. Roy">Chanchal K. Roy</a></td>
+			<td class="affiliation">University of Saskatchewan, Canada</td>
+			</tr><tr>
+			<td><a href="http://www.se.rit.edu/~emad/" title="Emad Shihab">Emad Shihab</a></td>
+			<td class="affiliation">Rochester Institute of Technology, USA</td>
+			</tr><tr>
+			<td><a href="https://ece.uwaterloo.ca/~lintan/" title="Lin Tan">Lin Tan</a></td>
+			<td class="affiliation">University of Waterloo, Canada</td>
+			</tr><tr>
+			<td><a href="https://researcher.ibm.com/researcher/view.php?person=in-surthumm" title="Suresh Thummalapenta">Suresh Thummalapenta</a></td>
+			<td class="affiliation">IBM Research, India</td>
+			</tr><tr>
+			<td><a href="http://users.soe.ucsc.edu/~ejw" title="Jim Whitehead">Jim Whitehead</a></td>
+			<td class="affiliation">University of California, Santa Cruz, USA</td>
+			</tr><tr>
+			<td><a href="http://collaboration.csc.ncsu.edu/laurie/" title="Laurie Williams">Laurie Williams</a></td>
+			<td class="affiliation">North Carolina State University, USA</td>
+			</tr><tr>
+			<td><a href="http://people.engr.ncsu.edu/txie/" title="Tao Xie">Tao Xie</a></td>
+			<td class="affiliation">North Carolina State University, USA</td>
+			</tr><tr>
+			<td><a href="http://www.st.cs.uni-saarland.de/zeller/" title="Andreas Zeller">Andreas Zeller</a></td>
+			<td class="affiliation">Saarland University, Germany</td>
+			</tr><tr>
+			<td>Dongmei Zhang</td>
+			<td class="affiliation">Microsoft Research, China</td>
+			</tr><tr>
+			<td><a href="https://sites.google.com/site/hongyujohn/" title="Hongyu Zhang">Hongyu Zhang</a></td>
+			<td class="affiliation">Tsinghua University, China</td>
+			</tr></tbody></table>
+</dblp_pc>

@@ -48,8 +48,10 @@ impact = {
     'ASE':55,
 }
 
+#schema_name = "conferences"
+schema_name = "conferences_dummy"
 
-engine = create_engine('mysql://root@localhost/conferences?charset=utf8')
+engine = create_engine('mysql://root:root@localhost/%s?charset=utf8'%schema_name)
 
 # Reset the database (drop all tables)
 cleanStart(engine)
@@ -92,17 +94,9 @@ for conferenceName in conferences:
             num_pages = 0
         session_h2 = unidecode(row[5]).strip()
         session_h3 = unidecode(row[6]).strip()
-        try:
-            selected = row[7]
-        except:
-            print row
-            exit()
         
         # Create new paper and add it to the session
-        if selected == 'selected':
-            paper = Paper(conference, year, title, pages, num_pages, session_h2, session_h3, True)
-        else:
-            paper = Paper(conference, year, title, pages, num_pages, session_h2, session_h3)
+        paper = Paper(conference, year, title, pages, num_pages, session_h2, session_h3, True)
         session.add(paper)
         
         # Add the authors

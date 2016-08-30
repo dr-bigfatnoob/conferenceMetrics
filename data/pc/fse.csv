@@ -1,40 +1,107 @@
-2013;main;Bertrand Meyer;ETH Zürich;Switzerland
-2013;main;Luciano Baresi;Politecnico di Milano;Italy
-2013;main;Mira Mezini;TU Darmstadt;Germany
-2013;main;Sven Apel;Universität Passau;Germany
-2013;main;Antonia Bertolino;ISTI-CNR;Italy
-2013;main;Eric Bodden;Technische Universität Darmstadt;Germany
-2013;main;Paulo Borba;Universidade Federal de Pernambuco;Brasil
-2013;main;Chandra Boyapati;Google;USA
-2013;main;Vittorio Cortellessa;Università dell'Aquila;Italy
-2013;main;Robert DeLine;Microsoft;USA
-2013;main;Arie van Deursen;Delft University of Technology;The Netherlands
-2013;main;Elisabetta Di Nitto;Politecnico di Milano;Italy
-2013;main;Massimiliano Di Penta;Università del Sannio;Italy
-2013;main;Michael Ernst;University of Washington;USA
-2013;main;Patrick Eugster;Purdue University;USA
-2013;main;Alessandro Garcia;PUC Rio;Brasil
-2013;main;Paul Grünbacher;Universität Linz;Austria
-2013;main;Mark Harman;University College London;United Kingdom
-2013;main;Patrick Heymans;University of Namur;Belgium
-2013;main;Vladimir Itsykson;Saint Petersburg State Polytechnical University;Russia
-2013;main;Natalia Juristo;University of Madrid;Spain
-2013;main;Eric Wohlstadter;University of British Columbia;Canada
-2013;main;Sunghun Kim;Hong Kong University of Science and Technology;Hong Kong
-2013;main;Patricia Lago;Vrije Universiteit Amsterdam;The Netherlands
-2013;main;Nenad Medvidovic;University of Southern California;USA
-2013;main;Alessandro Orso;Georgia Tech;USA
-2013;main;Harold Ossher;IBM Research;USA
-2013;main;Corina Pasareanu;NASA;USA
-2013;main;Mauro Pezzè;University of Lugano;Switzerland and University of Milano Bicocca;Italy
-2013;main;Awais Rashid;Lancaster University;United Kingdom
-2013;main;Martin Robillard;McGill University;Canada
-2013;main;Wilhelm Schäfer;Universität Paderborn;Germany
-2013;main;Paolo Tonella;Fondazione Bruno Kessler;Italy
-2013;main;Sebastian Uchitel;Universidad de Buenos Aires;Argentina and Imperial College London;United Kingdom
-2013;main;Willem Visser;Stellenbosch University;South Africa
-2013;main;Andreas Zeller;Universität des Saarlandes;Germany
-2013;main;Andrea Zisman;City University;United Kingdom
+2015;main;Jo Atlee;University of Waterloo
+2015;main;Luciano Baresi;Politecnico di Milano
+2015;main;Earl Barr;University College London
+2015;main;Benoit Baudry;INRIA
+2015;main;Nelly Bencomo;Aston University
+2015;main;Antonia Bertolino;CNR-ISTI
+2015;main;Domenico Bianculli;University of Luxembourg
+2015;main;Paulo Borba;Centro de Informatica
+2015;main;Betty HC Cheng;Michigan State University
+2015;main;Jane Cleland-Huang;DePaul University
+2015;main;Anthony Cleve;University of Namur
+2015;main;Myra Cohen;University of Nebraska-Lincoln
+2015;main;Daniela Damian;University of Victoria
+2015;main;Gordon Fraser;University of Sheffield
+2015;main;Tibor Gyimothy;University of Szeged
+2015;main;Sung Kim;Hong Kong University of Science and Technology
+2015;main;Jens Krinke;University College London
+2015;main;Wes Masri;American University of Beirut
+2015;main;Tim Menzies;NcState University
+2015;main;Andreas Metzger;Paluno
+2015;main;Mira Mezini;Technische Universitat Darmstadt
+2015;main;Ana Milanova;Rensselaer Polytechnic Institute
+2015;main;Audris Mockus;University of Tennessee
+2015;main;Jon Penix;Mountain View Research Center
+2015;main;Mauro Pezze;University of Lugano
+2015;main;Alessandra Russo;Imperial College
+2015;main;Martin Shepperd;Brunel University
+2015;main;Marin Silic;University of Zagreb
+2015;main;Saurabh Sinha;IBM India
+2015;main;Zhengdong Su;UC Davis
+2015;main;Peri Tarr;IBM Thomas JWatson Research Center
+2015;main;Paolo Tonella;FBK
+2015;main;Sebastian Uchitel;University of Buenos Aires
+2015;main;Arie van Deursen;TU Delft
+2015;main;Jianjun Zhao;Shanghai Jiao Tong University
+2015;main;Andreas Zeller;Saarland University
+2015;main;Andrea Zisman;Open University
+2014;main;Luciano Baresi;Politecnico di Milano
+2014;main;Victor Braberman;Universidad de Buenos Aires
+2014;main;Tevfik Bultan;University of California
+2014;main;Antonio Carzaniga;University of Lugano
+2014;main;Wing-Kwong Chan;City University of Hong Kong
+2014;main;Satish Chandra;Samsung Electronics
+2014;main;Jane Cleland-Huang;DePaul University
+2014;main;Prem Devanbu;University of California
+2014;main;Massimiliano Di Penta;University of Sannio
+2014;main;Matt Dwyer;University of Nebraska - Lincoln
+2014;main;Alessandro Garcia;Pontifical Catholic University of Rio de Janeiro
+2014;main;Mark Harman;University College London
+2014;main;James Herbsleb;Carnegie Mellon University
+2014;main;Valerie Issarny;Inria
+2014;main;James Jones;University of California
+2014;main;Sarfraz Khurshid;University of Texas at Austin
+2014;main;Miryung Kim;The University of Texas at Austin
+2014;main;Rainer Koschke;University of Bremen
+2014;main;Leonardo Mariani;University of Milano Bicocca
+2014;main;Nenad Medvidovic;University of Southern California
+2014;main;Aditya Nori;Microsoft Research
+2014;main;Martin Robillard;McGill University
+2014;main;Grigore Rosu;University of Illinois at Urbana-Champaign
+2014;main;Yannis Smaragdakis;University of Athens
+2014;main;Paolo Tonella;Fondazione Bruno Kessler
+2014;main;Sebastian Uchitel;Universidad de Buenos Aires
+2014;main;Arie van Deursen;Delft University of Technology
+2014;main;Willem Visser;Stellenbosch University
+2014;main;Chao Wang;Virginia Tech
+2014;main;Charles Zhang;Hong Kong University of Science and Technology
+2014;main;Lu Zhang;Peking University
+2014;main;Jianjun Zhao;Shanghai Jiao Tong University
+2014;main;Thomas Zimmermann;Microsoft Research
+2013;main;Sven Apel;Universität Passau
+2013;main;Antonia Bertolino;ISTI-CNR
+2013;main;Eric Bodden;Technische Universität Darmstadt
+2013;main;Paulo Borba;Universidade Federal de Pernambuco
+2013;main;Chandra Boyapati;Google
+2013;main;Vittorio Cortellessa;Università dell'Aquila
+2013;main;Robert DeLine;Microsoft
+2013;main;Arie van Deursen;Delft University of Technology
+2013;main;Elisabetta Di Nitto;Politecnico di Milano
+2013;main;Massimiliano Di Penta;Università del Sannio
+2013;main;Michael Ernst;University of Washington
+2013;main;Patrick Eugster;Purdue University
+2013;main;Alessandro Garcia;PUC Rio
+2013;main;Paul Grünbacher;Universität Linz
+2013;main;Mark Harman;University College London
+2013;main;Patrick Heymans;University of Namur
+2013;main;Vladimir Itsykson;Saint Petersburg State Polytechnical University
+2013;main;Natalia Juristo;University of Madrid
+2013;main;Eric Wohlstadter;University of British Columbia
+2013;main;Sunghun Kim;Hong Kong University of Science and Technology
+2013;main;Patricia Lago;Vrije Universiteit Amsterdam
+2013;main;Nenad Medvidovic;University of Southern California
+2013;main;Alessandro Orso;Georgia Tech
+2013;main;Harold Ossher;IBM Research
+2013;main;Corina Pasareanu;NASA
+2013;main;Mauro Pezzè;University of Lugano
+2013;main;Awais Rashid;Lancaster University
+2013;main;Martin Robillard;McGill University
+2013;main;Wilhelm Schäfer;Universität Paderborn
+2013;main;Paolo Tonella;Fondazione Bruno Kessler
+2013;main;Sebastian Uchitel;Universidad de Buenos Aires
+2013;main;Willem Visser;Stellenbosch University
+2013;main;Andreas Zeller;Universität des Saarlandes
+2013;main;Andrea Zisman;City University
 2012;main;Bruce Schneier;General Chair;;
 2012;main;Anne Canteaut;Program Chair;;
 2012;main;Will Tracz;Lockheed Martin;USA;

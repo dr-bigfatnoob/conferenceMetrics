@@ -1,0 +1,716 @@
+<dblp_pc>
+    <div class="section col-md-10 col-md-offset-1 ng-scope" ng-if="element.members.length > 0">
+    <div class="row">
+      <div class="col-xs-8 col-md-8 label ng-binding"> Program Committee </div>
+    </div>
+
+    <div class="row">
+            <!-- ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/AlbertoBacchelli.jpg" src="data/people/AlbertoBacchelli.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://sback.it" class="ng-binding" href="http://sback.it"> Alberto Bacchelli</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Delft University of Technology </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/OlgaBaysal.jpg" src="data/people/OlgaBaysal.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://olgabaysal.com" class="ng-binding" href="http://olgabaysal.com"> Olga Baysal</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Carleton University </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/AndrewBegel.jpg" src="data/people/AndrewBegel.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://research.microsoft.com/~abegel" class="ng-binding" href="http://research.microsoft.com/~abegel"> Andrew Begel</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Microsoft Research </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/YuanfangCai.png" src="data/people/YuanfangCai.png"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.cs.drexel.edu/~yfcai" class="ng-binding" href="http://www.cs.drexel.edu/~yfcai"> Yuanfang Cai</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Drexel University </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/HoaKhanhDam.jpg" src="data/people/HoaKhanhDam.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.uow.edu.au/~hoa/" class="ng-binding" href="http://www.uow.edu.au/~hoa/"> Hoa Khanh Dam</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of Wollongong </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/MassimilianoDiPenta.jpg" src="data/people/MassimilianoDiPenta.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.rcost.unisannio.it/mdipenta/" class="ng-binding" href="http://www.rcost.unisannio.it/mdipenta/"> Massimiliano Di Penta</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of Sannio </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/VladimirFilkov.jpg" src="data/people/VladimirFilkov.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://web.cs.ucdavis.edu/~filkov/" class="ng-binding" href="http://web.cs.ucdavis.edu/~filkov/"> Vladimir Filkov</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of California Davis </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/DanielGerman.png" src="data/people/DanielGerman.png"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://turingmachine.org/" class="ng-binding" href="http://turingmachine.org/"> Daniel German</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Uniersity of Victoria </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/MarcoGerosa.jpg" src="data/people/MarcoGerosa.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.ime.usp.br/~gerosa" class="ng-binding" href="http://www.ime.usp.br/~gerosa"> Marco Gerosa</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of São Paulo </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/MikeGodfrey.jpg" src="data/people/MikeGodfrey.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://plg.uwaterloo.ca/~migod/" class="ng-binding" href="http://plg.uwaterloo.ca/~migod/"> Mike Godfrey</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of Waterloo </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/AlessandraGorla.jpg" src="data/people/AlessandraGorla.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://software.imdea.org/~alessandra.gorla/" class="ng-binding" href="http://software.imdea.org/~alessandra.gorla/"> Alessandra Gorla</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> IMDEA Software Institute </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/GeorgiosGousios.jpg" src="data/people/GeorgiosGousios.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.gousios.gr" class="ng-binding" href="http://www.gousios.gr"> Georgios Gousios</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding">  Radboud Universiteit Nijmegen </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/SoniaHaiduc.jpg" src="data/people/SoniaHaiduc.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.cs.fsu.edu/~shaiduc/" class="ng-binding" href="http://www.cs.fsu.edu/~shaiduc/"> Sonia Haiduc</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Florida State University </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/HideakiHata.jpg" src="data/people/HideakiHata.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://isw3.naist.jp/~hata/" class="ng-binding" href="http://isw3.naist.jp/~hata/"> Hideaki Hata</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Nara Institute of Science and Technology </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/YoshikiHigo.png" src="data/people/YoshikiHigo.png"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://sdl.ist.osaka-u.ac.jp/~higo/wordpress/" class="ng-binding" href="http://sdl.ist.osaka-u.ac.jp/~higo/wordpress/"> Yoshiki Higo</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Osaka University </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/AbramHindle.jpg" src="data/people/AbramHindle.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://softwareprocess.es/" class="ng-binding" href="http://softwareprocess.es/"> Abram Hindle</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of Alberta </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/ReidHolmes.jpg" src="data/people/ReidHolmes.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.cs.uwaterloo.ca/~rtholmes" class="ng-binding" href="http://www.cs.uwaterloo.ca/~rtholmes"> Reid Holmes</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of Waterloo </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/AkinoriIhara.jpg" src="data/people/AkinoriIhara.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://akinori-ihara.jpn.org/" class="ng-binding" href="http://akinori-ihara.jpn.org/"> Akinori Ihara</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Nara Institute of Science and Technology </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/KatsuroInoue.jpg" src="data/people/KatsuroInoue.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://sel.ist.osaka-u.ac.jp/people/inoue/" class="ng-binding" href="http://sel.ist.osaka-u.ac.jp/people/inoue/"> Katsuro Inoue</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Osaka University </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/ElmarJuergens.jpg" src="data/people/ElmarJuergens.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="https://www.cqse.eu/de/team/elmar-juergens/" class="ng-binding" href="https://www.cqse.eu/de/team/elmar-juergens/"> Elmar Juergens</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> CQSE GmbH </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/HuzefaKagdi.jpg" src="data/people/HuzefaKagdi.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.cs.wichita.edu/~kagdi" class="ng-binding" href="http://www.cs.wichita.edu/~kagdi"> Huzefa Kagdi</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Wichita State University </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/YasutakaKamei.jpg" src="data/people/YasutakaKamei.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://posl.ait.kyushu-u.ac.jp/~kamei/" class="ng-binding" href="http://posl.ait.kyushu-u.ac.jp/~kamei/"> Yasutaka Kamei</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Kyushu University </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/ImanKeivanloo.jpg" src="data/people/ImanKeivanloo.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="https://sites.google.com/site/imanhomepage/" class="ng-binding" href="https://sites.google.com/site/imanhomepage/"> Iman Keivanloo</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Queen's University </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/SunghunKim.png" src="data/people/SunghunKim.png"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.cse.ust.hk/~hunkim" class="ng-binding" href="http://www.cse.ust.hk/~hunkim"> Sunghun Kim</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Hong Kong University of Science and Technology </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/JensKrinke.jpg" src="data/people/JensKrinke.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.cs.ucl.ac.uk/staff/j.krinke/" class="ng-binding" href="http://www.cs.ucl.ac.uk/staff/j.krinke/"> Jens Krinke</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University College London </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/MicheleLanza.jpg" src="data/people/MicheleLanza.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.inf.usi.ch/faculty/lanza/" class="ng-binding" href="http://www.inf.usi.ch/faculty/lanza/"> Michele Lanza</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Università della Svizzera italiana - USI </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/LucasLayman.jpg" src="data/people/LucasLayman.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://lucas.ezzoterik.com/" class="ng-binding" href="http://lucas.ezzoterik.com/"> Lucas Layman</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Fraunhofer Center for Experimental Software Engienering </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/ClaireLeGoues.jpg" src="data/people/ClaireLeGoues.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.cs.cmu.edu/~clegoues" class="ng-binding" href="http://www.cs.cmu.edu/~clegoues"> Claire Le Goues</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Carnegie Mellon University </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/DavidLo.jpg" src="data/people/DavidLo.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.mysmu.edu/faculty/davidlo/" class="ng-binding" href="http://www.mysmu.edu/faculty/davidlo/"> David Lo</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Singapore Management University </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/WalidMaalej.jpg" src="data/people/WalidMaalej.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://mobis.informatik.uni-hamburg.de/" class="ng-binding" href="http://mobis.informatik.uni-hamburg.de/"> Walid Maalej</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of Hamburg </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/AndrianMarcus.jpg" src="data/people/AndrianMarcus.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.utdallas.edu/~amarcus/" class="ng-binding" href="http://www.utdallas.edu/~amarcus/"> Andrian Marcus</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> The University of Texas at Dallas </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/ShaneMcIntosh.jpg" src="data/people/ShaneMcIntosh.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://shanemcintosh.org/" class="ng-binding" href="http://shanemcintosh.org/"> Shane McIntosh</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> McGill University </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/NaMeng.jpg" src="data/people/NaMeng.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="https://www.cs.utexas.edu/~mengna09/" class="ng-binding" href="https://www.cs.utexas.edu/~mengna09/"> Na Meng</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of Texas at Austin </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/AliMesbah.jpg" src="data/people/AliMesbah.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="https://www.ece.ubc.ca/~amesbah/" class="ng-binding" href="https://www.ece.ubc.ca/~amesbah/"> Ali Mesbah</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of British Columbia </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/AndreaMocci.jpg" src="data/people/AndreaMocci.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.inf.usi.ch/postdoc/mocci/" class="ng-binding" href="http://www.inf.usi.ch/postdoc/mocci/"> Andrea Mocci</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Università della Svizzera italiana - USI </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/AudrisMockus.jpg" src="data/people/AudrisMockus.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://research.cs.queensu.ca/~ahmed/home/" class="ng-binding" href="http://research.cs.queensu.ca/~ahmed/home/"> Audris Mockus</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of Tennessee </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/MeiyappanNagappan.png" src="data/people/MeiyappanNagappan.png"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.mei-nagappan.com" class="ng-binding" href="http://www.mei-nagappan.com"> Meiyappan Nagappan</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Rochester Institute of Technology </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/TienNguyen.jpg" src="data/people/TienNguyen.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.ece.iastate.edu/~tien/" class="ng-binding" href="http://www.ece.iastate.edu/~tien/"> Tien Nguyen</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Iowa State University </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/RoccoOliveto.jpg" src="data/people/RoccoOliveto.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.distat.unimol.it/people/oliveto" class="ng-binding" href="http://www.distat.unimol.it/people/oliveto"> Rocco Oliveto</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of Molise </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/DewaynePerry.jpg" src="data/people/DewaynePerry.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.ece.utexas.edu.~perry/" class="ng-binding" href="http://www.ece.utexas.edu.~perry/"> Dewayne Perry</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of Texas at Austin </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/FayolaPeters.jpg" src="data/people/FayolaPeters.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.fayolapeters.com" class="ng-binding" href="http://www.fayolapeters.com"> Fayola Peters</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of Limerick </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/MartinPinzger.jpg" src="data/people/MartinPinzger.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://serg.aau.at/bin/view/MartinPinzger" class="ng-binding" href="http://serg.aau.at/bin/view/MartinPinzger"> Martin Pinzger</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of Klagenfurt </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/LoriPollock.jpg" src="data/people/LoriPollock.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.eecis.udel.edu/~pollock" class="ng-binding" href="http://www.eecis.udel.edu/~pollock"> Lori Pollock</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of Delaware </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/BaishakhiRay.jpg" src="data/people/BaishakhiRay.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://baishakhir.github.io/" class="ng-binding" href="http://baishakhir.github.io/"> Baishakhi Ray</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of California Davis </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/PeterRigby.jpg" src="data/people/PeterRigby.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://users.encs.concordia.ca/~pcr/" class="ng-binding" href="http://users.encs.concordia.ca/~pcr/"> Peter Rigby</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Concordia University </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/GregorioRobles.jpg" src="data/people/GregorioRobles.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://gsyc.urjc.es/~grex" class="ng-binding" href="http://gsyc.urjc.es/~grex"> Gregorio Robles</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Universidad Rey Juan Carlos </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/BarbaraRusso.jpg" src="data/people/BarbaraRusso.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="https://www.unibz.it/en/organisation/staffdetails.html?personid=2242&amp;hstf=2242" class="ng-binding" href="https://www.unibz.it/en/organisation/staffdetails.html?personid=2242&amp;hstf=2242"> Barbara Russo</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Free University of Bolzano/Bozen </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/AnitaSarma.jpg" src="data/people/AnitaSarma.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://csce.unl.edu/~asarma/" class="ng-binding" href="http://csce.unl.edu/~asarma/"> Anita Sarma</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of Nebraska </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/DavidShepherd.jpg" src="data/people/DavidShepherd.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://davidshepherd.weebly.com/" class="ng-binding" href="http://davidshepherd.weebly.com/"> David Shepherd</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> ABB </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/LeifSinger.jpg" src="data/people/LeifSinger.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://leif.me" class="ng-binding" href="http://leif.me"> Leif Singer</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of Victoria </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/DiomidisSpinellis.jpg" src="data/people/DiomidisSpinellis.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.dmst.aueb.gr/dds" class="ng-binding" href="http://www.dmst.aueb.gr/dds"> Diomidis Spinellis</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Athens University of Economics and Business </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/MeganSquire.jpg" src="data/people/MeganSquire.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.elon.edu/e-web/faculty/faculty-scholars/megan_squire.xhtml" class="ng-binding" href="http://www.elon.edu/e-web/faculty/faculty-scholars/megan_squire.xhtml"> Megan Squire</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Elon University </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/MargaretAnneStorey.jpg" src="data/people/MargaretAnneStorey.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="https://margaretannestorey.wordpress.com" class="ng-binding" href="https://margaretannestorey.wordpress.com"> Margaret-Anne Storey</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of Victoria </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/AshishSureka.png" src="data/people/AshishSureka.png"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://software-analytics.in" class="ng-binding" href="http://software-analytics.in"> Ashish Sureka</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> ABB India </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/ChristophTreude.jpg" src="data/people/ChristophTreude.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://ctreude.ca/" class="ng-binding" href="http://ctreude.ca/"> Christoph Treude</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Universidade Federal do Rio Grande do Norte </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/BogdanVasilescu.jpg" src="data/people/BogdanVasilescu.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://bvasiles.github.io" class="ng-binding" href="http://bvasiles.github.io"> Bogdan Vasilescu</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> University of California Davis </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/PatrickWagstrom.jpg" src="data/people/PatrickWagstrom.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://academic.patrick.wagstrom.net/" class="ng-binding" href="http://academic.patrick.wagstrom.net/"> Patrick Wagstrom</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> IBM Research </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/AikoYamashita.jpg" src="data/people/AikoYamashita.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="https://www.linkedin.com/in/aikofallasyamashita" class="ng-binding" href="https://www.linkedin.com/in/aikofallasyamashita"> Aiko Yamashita</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> HiOA </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/AnnieYing.jpg" src="data/people/AnnieYing.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.duboue.com/annie" class="ng-binding" href="http://www.duboue.com/annie"> Annie Ying</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> McGill University </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/AndyZaidman.jpg" src="data/people/AndyZaidman.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.st.ewi.tudelft.nl/~zaidman" class="ng-binding" href="http://www.st.ewi.tudelft.nl/~zaidman"> Andy Zaidman</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> TU Delft </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/AndreasZeller.jpg" src="data/people/AndreasZeller.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.st.cs.uni-saarland.de/zeller/" class="ng-binding" href="http://www.st.cs.uni-saarland.de/zeller/"> Andreas Zeller</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Saarland University </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/default.png" src="data/people/default.png"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://sei.pku.edu.cn/~zhmh/" class="ng-binding" href="http://sei.pku.edu.cn/~zhmh/"> Minghui Zhou</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Peking University </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/ThomasZimmerman.png" src="data/people/ThomasZimmerman.png"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://thomas-zimmermann.com/" class="ng-binding" href="http://thomas-zimmermann.com/"> Thomas Zimmermann</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Microsoft Research </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members --><div class="col-xs-6 col-md-4 member ng-scope" ng-repeat="member in element.members">
+            <!-- ngIf: member.type == null --><center ng-if="member.type == null" class="ng-scope">
+              <div class="photo">
+                  <img class="thumbnail member-photo" ng-src="data/people/YingZou.jpg" src="data/people/YingZou.jpg"></img>
+                </div>
+                <div class="row member-info">
+                  <div class="col-xs-12 col-md-12 member-name"><a ng-href="http://www.ece.queensu.ca/People/Y-Zou/" class="ng-binding" href="http://www.ece.queensu.ca/People/Y-Zou/"> Ying Zou</a> </div>
+                  <div class="col-xs-12 col-md-12 member-institution ng-binding"> Queen's University </div>
+                </div>
+              </center><!-- end ngIf: member.type == null -->
+               <!-- ngIf: member.type != null -->
+            </div><!-- end ngRepeat: member in element.members -->
+        </div>
+
+  </div>
+</dblp_pc>

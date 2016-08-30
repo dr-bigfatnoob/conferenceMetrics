@@ -1,0 +1,55 @@
+<dblp>
+    <h2>Specialization and Modularity</h2>
+ 
+
+<ul>
+<li id="JarviFH14"><a href="http://dblp.uni-trier.de/pers/hc/j/J=auml=rvi:Jaakko">Jaakko Järvi</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Foust:Gabriel">Gabriel Foust</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Haveraaen:Magne">Magne Haveraaen</a>:<b>Specializing planners for hierarchical multi-way dataflow constraint systems.</b> 1-10<small><a href="http://doi.acm.org/10.1145/2658761.2658762"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/JarviFH14.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/JarviFH14.xml">XML</a></small></small></li>
+<li id="SteindorferV14"><a href="http://dblp.uni-trier.de/pers/hc/s/Steindorfer:Michael_J=">Michael J. Steindorfer</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vinju:Jurgen_J=">Jurgen J. Vinju</a>:<b>Code specialization for memory efficient hash tries (short paper).</b> 11-14<small><a href="http://doi.acm.org/10.1145/2658761.2658763"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/SteindorferV14.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/SteindorferV14.xml">XML</a></small></small></li>
+<li id="MalakutiA14"><a href="http://dblp.uni-trier.de/pers/hc/m/Malakuti:Somayeh">Somayeh Malakuti</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Aksit:Mehmet">Mehmet Aksit</a>:<b>Emergent gummy modules: modular representation of emergent behavior.</b> 15-24<small><a href="http://doi.acm.org/10.1145/2658761.2658764"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/MalakutiA14.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/MalakutiA14.xml">XML</a></small></small></li>
+<li id="GousetiPS14"><a href="http://dblp.uni-trier.de/pers/hc/g/Gouseti:Maria">Maria Gouseti</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Peters:Chiel">Chiel Peters</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Storm:Tijs_van_der">Tijs van der Storm</a>:<b>Extensible language implementation with object algebras (short paper).</b> 25-28<small><a href="http://doi.acm.org/10.1145/2658761.2658765"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/GousetiPS14.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/GousetiPS14.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Variation and Product Lines</h2>
+ 
+
+<ul>
+<li id="WalkingshawO14"><a href="http://dblp.uni-trier.de/pers/hc/w/Walkingshaw:Eric">Eric Walkingshaw</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Ostermann:Klaus">Klaus Ostermann</a>:<b>Projectional editing of variational software.</b> 29-38<small><a href="http://doi.acm.org/10.1145/2658761.2658766"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/WalkingshawO14.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/WalkingshawO14.xml">XML</a></small></small></li>
+<li id="RuprechtHL14"><a href="http://dblp.uni-trier.de/pers/hc/r/Ruprecht:Andreas">Andreas Ruprecht</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Heinloth:Bernhard">Bernhard Heinloth</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lohmann:Daniel">Daniel Lohmann</a>:<b>Automatic feature selection in large-scale system-software product lines.</b> 39-48<small><a href="http://doi.acm.org/10.1145/2658761.2658767"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/RuprechtHL14.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/RuprechtHL14.xml">XML</a></small></small></li>
+<li id="MaAZS14"><a href="http://dblp.uni-trier.de/pers/hc/m/Ma:Lei">Lei Ma</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Artho:Cyrille">Cyrille Artho</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Cheng">Cheng Zhang</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sato:Hiroyuki">Hiroyuki Sato</a>:<b>Efficient testing of software product lines via centralization (short paper).</b> 49-52<small><a href="http://doi.acm.org/10.1145/2658761.2658768"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/MaAZS14.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/MaAZS14.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>DSLs</h2>
+ 
+
+<ul>
+<li id="SmeltzerEM14"><a href="http://dblp.uni-trier.de/pers/hc/s/Smeltzer:Karl">Karl Smeltzer</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Erwig:Martin">Martin Erwig</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Metoyer:Ronald_A=">Ronald A. Metoyer</a>:<b>A transformational approach to data visualization.</b> 53-62<small><a href="http://doi.acm.org/10.1145/2658761.2658769"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/SmeltzerEM14.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/SmeltzerEM14.xml">XML</a></small></small></li>
+<li id="ShiodaIS14"><a href="http://dblp.uni-trier.de/pers/hc/s/Shioda:Masato">Masato Shioda</a>, <a href="http://dblp.uni-trier.de/pers/hc/i/Iwasaki:Hideya">Hideya Iwasaki</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sato:Shigeyuki">Shigeyuki Sato</a>:<b>LibDSL: a library for developing embedded domain specific languages in d via template metaprogramming.</b> 63-72<small><a href="http://doi.acm.org/10.1145/2658761.2658770"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/ShiodaIS14.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/ShiodaIS14.xml">XML</a></small></small></li>
+<li id="JovanovicSSNKO14"><a href="http://dblp.uni-trier.de/pers/hc/j/Jovanovic:Vojin">Vojin Jovanovic</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Shaikhha:Amir">Amir Shaikhha</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stucki:Sandro">Sandro Stucki</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nikolaev:Vladimir">Vladimir Nikolaev</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Koch_0001:Christoph">Christoph Koch</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Odersky:Martin">Martin Odersky</a>:<b>Yin-yang: concealing the deep embedding of DSLs.</b> 73-82<small><a href="http://doi.acm.org/10.1145/2658761.2658771"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/JovanovicSSNKO14.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/JovanovicSSNKO14.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Specialization and Cross-Cutting</h2>
+ 
+
+<ul>
+<li id="HessGP14"><a href="http://dblp.uni-trier.de/pers/hc/h/Hess:Benjamin">Benjamin Hess</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gross:Thomas_R=">Thomas R. Gross</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/P=uuml=schel:Markus">Markus Püschel</a>:<b>Automatic locality-friendly interface extension of numerical functions.</b> 83-92<small><a href="http://doi.acm.org/10.1145/2658761.2658772"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/HessGP14.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/HessGP14.xml">XML</a></small></small></li>
+<li id="KaminGAXYC14"><a href="http://dblp.uni-trier.de/pers/hc/k/Kamin:Sam">Sam Kamin</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Garzar=aacute=n:Mar=iacute=a_Jes=uacute=s">María Jesús Garzarán</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Aktemur:Baris">Baris Aktemur</a>, <a href="http://dblp.uni-trier.de/pers/hc/x/Xu:Danqing">Danqing Xu</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yilmaz:Buse">Buse Yilmaz</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chen:Zhongbo">Zhongbo Chen</a>:<b>Optimization by runtime specialization for sparse matrix-vector multiplication.</b> 93-102<small><a href="http://doi.acm.org/10.1145/2658761.2658773"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/KaminGAXYC14.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/KaminGAXYC14.xml">XML</a></small></small></li>
+<li id="DanilewskiKLMS14"><a href="http://dblp.uni-trier.de/pers/hc/d/Danilewski:Piotr">Piotr Danilewski</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/K=ouml=ster:Marcel">Marcel Köster</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lei=szlig=a:Roland">Roland Leißa</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Membarth:Richard">Richard Membarth</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Slusallek:Philipp">Philipp Slusallek</a>:<b>Specialization through dynamic staging.</b> 103-112<small><a href="http://doi.acm.org/10.1145/2658761.2658774"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/DanilewskiKLMS14.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/DanilewskiKLMS14.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Language Tools</h2>
+ 
+
+<ul>
+<li id="Asai14"><a href="http://dblp.uni-trier.de/pers/hc/a/Asai:Kenichi">Kenichi Asai</a>:<b>Compiling a reflective language using MetaOCaml.</b> 113-122<small><a href="http://doi.acm.org/10.1145/2658761.2658775"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/Asai14.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/Asai14.xml">XML</a></small></small></li>
+<li id="HumerWWWW14"><a href="http://dblp.uni-trier.de/pers/hc/h/Humer:Christian">Christian Humer</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wimmer:Christian">Christian Wimmer</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wirth:Christian">Christian Wirth</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/W=ouml==szlig=:Andreas">Andreas Wöß</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/W=uuml=rthinger:Thomas">Thomas Würthinger</a>:<b>A domain-specific language for building self-optimizing AST interpreters.</b> 123-132<small><a href="http://doi.acm.org/10.1145/2658761.2658776"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/HumerWWWW14.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/HumerWWWW14.xml">XML</a></small></small></li>
+<li id="HillF14"><a href="http://dblp.uni-trier.de/pers/hc/h/Hill:James_H=">James H. Hill</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Feiock:Dennis_C=">Dennis C. Feiock</a>:<b>Pin++: an object-oriented framework for writing pintools.</b> 133-141<small><a href="http://doi.acm.org/10.1145/2658761.2658777"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/HillF14.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/HillF14.xml">XML</a></small></small></li>
+</ul>
+</dblp>
