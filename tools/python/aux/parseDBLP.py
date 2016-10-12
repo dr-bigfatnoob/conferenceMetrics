@@ -20,6 +20,7 @@ ICPC_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/iwpc/"
 ICSE_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/icse/"
 ICSM_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/icsm/"
 SCAM_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/scam/"
+SSBSE_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/ssbse/"
 
 def parse_saner():
   f = open(os.path.join(dataPath, 'web2csv', 'saner.csv'), "wb")
@@ -102,5 +103,5 @@ def format_dblp_xml(xml_uri):
 
 
 
-parse_dblp_old(SCAM_BASE_URI, 'scam')
+parse_dblp_old(SSBSE_BASE_URI, 'ssbse')
 # parse_saner()

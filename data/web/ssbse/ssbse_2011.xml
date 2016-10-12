@@ -1,0 +1,86 @@
+<dblp>
+
+    <h2>Keynotes</h2>
+ 
+
+    <ul>
+    <li id="Zeller11"><a href="http://dblp.uni-trier.de/pers/hc/z/Zeller:Andreas">Andreas Zeller</a>:<br/><b>Search-Based Program Analysis.</b> 1-4<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_1"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/Zeller11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/Zeller11.xml">XML</a></small></small></li>
+    <li id="Whitley11"><a href="http://dblp.uni-trier.de/pers/hc/w/Whitley:Darrell">Darrell Whitley</a>:<br/><b>Exploiting Decomposability Using Recombination in Genetic Algorithms: An Exploratory Discussion.</b> 5-15<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_2"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/Whitley11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/Whitley11.xml">XML</a></small></small></li>
+    </ul>
+    
+    
+    
+    <h2>Tutorials</h2>
+     
+    
+    <ul>
+    <li id="Harman11"><a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>:<br/><b>SBSE: Introduction and Motivation.</b> 16<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_3"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/Harman11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/Harman11.xml">XML</a></small></small></li>
+    <li id="Briand11"><a href="http://dblp.uni-trier.de/pers/hc/b/Briand:Lionel_C=">Lionel C. Briand</a>:<br/><b>Conducting and Analyzing Empirical Studies in Search-Based Software Engineering.</b> 17<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_4"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/Briand11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/Briand11.xml">XML</a></small></small></li>
+    </ul>
+
+    
+    <h2>Foundations of SBSE</h2>
+     
+    
+    <ul>
+    <li id="FreitasS11"><a href="http://dblp.uni-trier.de/pers/hc/f/Freitas:Fabricio_Gomes_de">Fabricio Gomes de Freitas</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Souza:Jerffeson_Teixeira_de">Jerffeson Teixeira de Souza</a>:<br/><b>Ten Years of Search Based Software Engineering: A Bibliometric Analysis.</b> 18-32<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_5"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/FreitasS11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/FreitasS11.xml">XML</a></small></small></li>
+    <li id="ArcuriF11"><a href="http://dblp.uni-trier.de/pers/hc/a/Arcuri:Andrea">Andrea Arcuri</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fraser:Gordon">Gordon Fraser</a>:<br/><b>On Parameter Tuning in Search Based Software Engineering.</b> 33-47<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_6"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/ArcuriF11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/ArcuriF11.xml">XML</a></small></small></li>
+    <li id="ChicanoFA11"><a href="http://dblp.uni-trier.de/pers/hc/c/Chicano:Francisco">Francisco Chicano</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Ferrer:Javier">Javier Ferrer</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Alba:Enrique">Enrique Alba</a>:<br/><b>Elementary Landscape Decomposition of the Test Suite Minimization Problem.</b> 48-63<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_7"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/ChicanoFA11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/ChicanoFA11.xml">XML</a></small></small></li>
+    </ul>
+    
+    
+    
+    <h2>Graduate Student Track</h2>
+     
+    
+    <ul>
+    <li id="LimaFCS11"><a href="http://dblp.uni-trier.de/pers/hc/l/Lima:Dayvison_Chaves">Dayvison Chaves Lima</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Freitas:Fabr=iacute=cio">Fabrício Freitas</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Campos:Gutavo">Gutavo Campos</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Souza:Jerffeson_Souza_de">Jerffeson Souza de Souza</a>:<br/><b>A Fuzzy Approach to Requirements Prioritization.</b> 64-69<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_8"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/LimaFCS11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/LimaFCS11.xml">XML</a></small></small></li>
+    <li id="Moghadam11"><a href="http://dblp.uni-trier.de/pers/hc/m/Moghadam:Iman_Hemati">Iman Hemati Moghadam</a>:<br/><b>Multi-level Automated Refactoring Using Design Exploration.</b> 70-75<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_9"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/Moghadam11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/Moghadam11.xml">XML</a></small></small></li>
+    <li id="Hall11"><a href="http://dblp.uni-trier.de/pers/hc/h/Hall:Mathew">Mathew Hall</a>:<br/><b>Complexity Metrics for Hierarchical State Machines.</b> 76-81<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_10"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/Hall11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/Hall11.xml">XML</a></small></small></li>
+    </ul>
+    
+    
+    
+    <h2>Concurrency and Models</h2>
+     
+    
+    <ul>
+    <li id="ChicanoFA11a"><a href="http://dblp.uni-trier.de/pers/hc/c/Chicano:Francisco">Francisco Chicano</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Ferreira:Marco">Marco Ferreira</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Alba:Enrique">Enrique Alba</a>:<br/><b>Comparing Metaheuristic Algorithms for Error Detection in Java Programs.</b> 82-96<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_11"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/ChicanoFA11a.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/ChicanoFA11a.xml">XML</a></small></small></li>
+    <li id="StauntonC11"><a href="http://dblp.uni-trier.de/pers/hc/s/Staunton:Jan">Jan Staunton</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Clark:John_A=">John A. Clark</a>:<br/><b>Applications of Model Reuse When Using Estimation of Distribution Algorithms to Test Concurrent Software.</b> 97-111<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_12"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/StauntonC11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/StauntonC11.xml">XML</a></small></small></li>
+    <li id="WilliamsPRPP11"><a href="http://dblp.uni-trier.de/pers/hc/w/Williams:James_R=">James R. Williams</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Poulding:Simon_M=">Simon M. Poulding</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rose:Louis_M=">Louis M. Rose</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Paige:Richard_F=">Richard F. Paige</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Polack:Fiona_A=_C=">Fiona A. C. Polack</a>:<br/><b>Identifying Desirable Game Character Behaviours through the Application of Evolutionary Algorithms to Model-Driven Engineering Metamodels.</b> 112-126<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_13"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/WilliamsPRPP11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/WilliamsPRPP11.xml">XML</a></small></small></li>
+    </ul>
+    
+    
+    
+    <h2>Requirements and Planning</h2>
+     
+    
+    <ul>
+    <li id="RenHP11"><a href="http://dblp.uni-trier.de/pers/hc/r/Ren:Jian">Jian Ren</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Penta:Massimiliano_Di">Massimiliano Di Penta</a>:<br/><b>Cooperative Co-evolutionary Optimization of Software Project Staff Assignments and Job Scheduling.</b> 127-141<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_14"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/RenHP11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/RenHP11.xml">XML</a></small></small></li>
+    <li id="SouzaMFCB11"><a href="http://dblp.uni-trier.de/pers/hc/s/Souza:Jerffeson_Teixeira_de">Jerffeson Teixeira de Souza</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maia:Camila_Loiola_Brito">Camila Loiola Brito Maia</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Ferreira:Thiago_do_Nascimento">Thiago do Nascimento Ferreira</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Carmo:Rafael_Augusto_Ferreira_do">Rafael Augusto Ferreira do Carmo</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Brasil:M=aacute=rcia_Maria_Albuquerque">Márcia Maria Albuquerque Brasil</a>:<br/><b>An Ant Colony Optimization Approach to the Software Release Planning with Dependent Requirements.</b> 142-157<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_15"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/SouzaMFCB11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/SouzaMFCB11.xml">XML</a></small></small></li>
+    <li id="MarchettoFT11"><a href="http://dblp.uni-trier.de/pers/hc/m/Marchetto:Alessandro">Alessandro Marchetto</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Francescomarino:Chiara_Di">Chiara Di Francescomarino</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tonella:Paolo">Paolo Tonella</a>:<br/><b>Optimizing the Trade-Off between Complexity and Conformance in Process Reduction.</b> 158-172<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_16"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/MarchettoFT11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/MarchettoFT11.xml">XML</a></small></small></li>
+    </ul>
+    
+    
+    
+    <h2>Software Testing</h2>
+     
+    
+    <ul>
+    <li id="BauersfeldWW11"><a href="http://dblp.uni-trier.de/pers/hc/b/Bauersfeld:Sebastian">Sebastian Bauersfeld</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wappler:Stefan">Stefan Wappler</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wegener:Joachim">Joachim Wegener</a>:<br/><b>A Metaheuristic Approach to Test Sequence Generation for Applications with a GUI.</b> 173-187<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_17"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/BauersfeldWW11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/BauersfeldWW11.xml">XML</a></small></small></li>
+    <li id="ColanziAVP11"><a href="http://dblp.uni-trier.de/pers/hc/c/Colanzi:Thelma_Elita">Thelma Elita Colanzi</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Assun=ccedil==atilde=o:Wesley_Klewerton_Guez">Wesley Klewerton Guez Assunção</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vergilio:Silvia_Regina">Silvia Regina Vergilio</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pozo:Aurora">Aurora Pozo</a>:<br/><b>Integration Test of Classes and Aspects with a Multi-Evolutionary and Coupling-Based Approach.</b> 188-203<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_18"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/ColanziAVP11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/ColanziAVP11.xml">XML</a></small></small></li>
+    <li id="BhattacharyaSAGP11"><a href="http://dblp.uni-trier.de/pers/hc/b/Bhattacharya:Neelesh">Neelesh Bhattacharya</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sakti:Abdelilah">Abdelilah Sakti</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gu=eacute=h=eacute=neuc:Yann=Ga=euml=l">Yann-Gaël Guéhéneuc</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pesant:Gilles">Gilles Pesant</a>:<br/><b>Divide-by-Zero Exception Raising via Branch Coverage.</b> 204-218<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_19"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/BhattacharyaSAGP11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/BhattacharyaSAGP11.xml">XML</a></small></small></li>
+    </ul>
+    
+    
+    
+    <h2>Comprehension, Transformation and Scalability</h2>
+     
+    
+    <ul>
+    <li id="YooHU11"><a href="http://dblp.uni-trier.de/pers/hc/y/Yoo:Shin">Shin Yoo</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>, <a href="http://dblp.uni-trier.de/pers/hc/u/Ur:Shmuel">Shmuel Ur</a>:<br/><b>Highly Scalable Multi Objective Test Suite Minimisation Using Graphics Cards.</b> 219-236<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_20"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/YooHU11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/YooHU11.xml">XML</a></small></small></li>
+    <li id="LiF11"><a href="http://dblp.uni-trier.de/pers/hc/l/Li:Yanchuan">Yanchuan Li</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fraser:Gordon">Gordon Fraser</a>:<br/><b>Bytecode Testability Transformation.</b> 237-251<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_21"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/LiF11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/LiF11.xml">XML</a></small></small></li>
+    <li id="MediniGPGA11"><a href="http://dblp.uni-trier.de/pers/hc/m/Medini:Soumaya">Soumaya Medini</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Galinier:Philippe">Philippe Galinier</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Penta:Massimiliano_Di">Massimiliano Di Penta</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gu=eacute=h=eacute=neuc:Yann=Ga=euml=l">Yann-Gaël Guéhéneuc</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>:<br/><b>A Fast Algorithm to Locate Concepts in Execution Traces.</b> 252-266<br/><small><a href="http://dx.doi.org/10.1007/978-3-642-23716-4_22"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/ssbse/MediniGPGA11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/ssbse/MediniGPGA11.xml">XML</a></small></small></li>
+    </ul>
+    
+</dblp>

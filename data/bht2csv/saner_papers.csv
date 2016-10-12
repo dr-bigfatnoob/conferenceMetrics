@@ -29,7 +29,7 @@
 2016;Annibale Panichella,Bogdan Dit,Rocco Oliveto,Massimiliano Di Penta,Denys Poshyvanyk,Andrea De Lucia;Parameterizing and Assembling IR-Based Solutions for SE Tasks Using Genetic Algorithms.;314-325;12;SANER;
 2016;Suhas Kabinna,Weiyi Shang,Cor-Paul Bezemer,Ahmed E. Hassan;Examining the Stability of Logging Statements.;326-337;12;SANER;
 2016;Chunyang Chen,Sa Gao,Zhenchang Xing;Mining Analogical Libraries in Q&A Discussions - Incorporating Relational and Categorical Knowledge into Word Embedding.;338-348;11;SANER;
-2016;Mohammad Masudur Rahman,Chanchal Kumar Roy,David Lo;RACK: Automatic API Recommendation Using Crowdsourced Knowledge.;349-359;11;SANER;
+2016;Mohammad Masudur Rahman 0001,Chanchal Kumar Roy,David Lo;RACK: Automatic API Recommendation Using Crowdsourced Knowledge.;349-359;11;SANER;
 2016;Gleison Brito,André C. Hora,Marco Tulio Valente,Romain Robbes;Do Developers Deprecate APIs with Replacement Messages? A Large-Scale Analysis on Java Systems.;360-369;10;SANER;
 2016;Zhou Xu,Jifeng Xuan,Jin Liu,Xiaohui Cui;MICHAC: Defect Prediction via Feature Selection Based on Maximal Information Coefficient with Hierarchical Agglomerative Clustering.;370-381;12;SANER;
 2016;Ons Mlouki,Foutse Khomh,Giuliano Antoniol;On the Detection of Licenses Violations in the Android Ecosystem.;382-392;11;SANER;
@@ -137,7 +137,7 @@
 2015;Mark Hills 0001;Evolution of dynamic feature usage in PHP.;525-529;5;Evolution and Reuse;
 2015;Sascha Lity,Hauke Baller,Ina Schaefer;Towards incremental model slicing for delta-oriented software product lines.;530-534;5;Evolution and Reuse;
 2015;Cor-Paul Bezemer,Johan Pouwelse,Brendan Gregg;Understanding software performance regressions using differential flame graphs.;535-539;5;Evolution and Reuse;
-2015;Mohammad Masudur Rahman,Chanchal K. Roy;TextRank based search term identification for software change tasks.;540-544;5;Text and Labeling;
+2015;Mohammad Masudur Rahman 0001,Chanchal K. Roy;TextRank based search term identification for software change tasks.;540-544;5;Text and Labeling;
 2015;Meili Lu,Xiaobing Sun,Shaowei Wang,David Lo,Yucong Duan;Query expansion via WordNet for effective code search.;545-549;5;Text and Labeling;
 2015;Jordi Cabot,Javier Luis Cánovas Izquierdo,Valerio Cosentino,Belen Rolandi;Exploring the use of labels to categorize issues in Open-Source Software projects.;550-554;5;Text and Labeling;
 2015;Jiajun Hu,Xiaobing Sun,Bin Li;Explore the evolution of development topics via on-line LDA.;555-559;5;Text and Labeling;
@@ -177,7 +177,7 @@
 2014;Annibale Panichella,Rocco Oliveto,Andrea De Lucia;Cross-project defect prediction models: L'Union fait la force.;164-173;10;Where the Faults Lie;
 2014;Xin Xia,David Lo,Ming Wen,Emad Shihab,Bo Zhou;An empirical study of bug report field reassignment.;174-183;10;Where the Faults Lie;
 2014;Martin Brandtner,Emanuel Giger,Harald C. Gall;Supporting continuous integration by mashing-up software quality information.;184-193;10;Software Quality Improvement;
-2014;Mohammad Masudur Rahman,Shamima Yeasmin,Chanchal K. Roy;Towards a context-aware IDE-based meta search engine for recommendation about programming errors and exceptions.;194-203;10;Software Quality Improvement;
+2014;Mohammad Masudur Rahman 0001,Shamima Yeasmin,Chanchal K. Roy;Towards a context-aware IDE-based meta search engine for recommendation about programming errors and exceptions.;194-203;10;Software Quality Improvement;
 2014;László Vidács,Árpád Beszédes,David Tengeri,István Siket,Tibor Gyimóthy;Test suite reduction for fault detection and localization: A combined approach.;204-213;10;Software Quality Improvement;
 2014;Gabriele Bavota,Rocco Oliveto,Andrea De Lucia,Andrian Marcus,Yann-Gaël Guéhéneuc,Giuliano Antoniol;In medio stat virtus: Extract class refactoring through nash equilibria.;214-223;10;Restructuring;
 2014;Gustavo Santos,Marco Tulio Valente,Nicolas Anquetil;Remodularization analysis using semantic clustering.;224-233;10;Restructuring;
@@ -213,7 +213,7 @@
 2014;Tom Mens,Maëlick Claes,Philippe Grosjean;ECOS: Ecological studies of open source software ecosystems.;403-406;4;Project Track;
 2014;Tanja E. J. Vos,Paolo Tonella,Wishnu Prasetya,Peter M. Kruse,Alessandra Bagnato,Mark Harman,Onn Shehory;FITTEST: A new continuous and automated testing process for future Internet applications.;407-410;4;Project Track;
 2014;Matthias Büchler,Karim Hossen,Petru Florin Mihancea,Marius Minea,Roland Groz,Catherine Oriat;Model inference and security testing in the spacios project.;411-414;4;Project Track;
-2014;Tommaso Dal Sasso,Michele Lanza;In∗bug: Visual analytics of bug repositories.;415-419;5;Demonstrations 1;
+2014;Tommaso Dal Sasso,Michele Lanza;In*bug: Visual analytics of bug repositories.;415-419;5;Demonstrations 1;
 2014;André C. Hora,Anne Etien,Nicolas Anquetil,Stéphane Ducasse,Marco Tulio Valente;APIEvolutionMiner: Keeping API evolution under control.;420-424;5;Demonstrations 1;
 2014;Xi Ge,David C. Shepherd,Kostadin Damevski,Emerson R. Murphy-Hill;How the Sando search tool recommends queries.;425-428;4;Demonstrations 1;
 2014;Coen De Roover,Reinout Stevens;Building development tools interactively using the EKEKO meta-programming library.;429-433;5;Demonstrations 1;
