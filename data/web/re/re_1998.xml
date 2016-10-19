@@ -1,0 +1,142 @@
+<dblp>
+    <h2>Session I:
+Safety, Survivability, and Fault Tolerance</h2>
+
+
+<ul>
+<li id="SchneiderECH98"><a href="http://dblp.uni-trier.de/pers/hc/s/Schneider:Francis">Francis Schneider</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Easterbrook:Steve_M=">Steve M. Easterbrook</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Callahan:John_R=">John R. Callahan</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Holzmann:Gerard_J=">Gerard J. Holzmann</a>:<br /><b>Validating Requirements for Fault Tolerant Systems using Model Checking.</b> 4-13<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667803"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/SchneiderECH98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/SchneiderECH98.xml">XML</a></small></small></li>
+<li id="LingerML98"><a href="http://dblp.uni-trier.de/pers/hc/l/Linger:Richard_C=">Richard C. Linger</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mead:Nancy_R=">Nancy R. Mead</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lipson:Howard_F=">Howard F. Lipson</a>:<br /><b>Requirements Definition for Survivable Network Systems.</b> 14-23<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667804"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/LingerML98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/LingerML98.xml">XML</a></small></small></li>
+<li id="LutzHMST98"><a href="http://dblp.uni-trier.de/pers/hc/l/Lutz:Robyn_R=">Robyn R. Lutz</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Helmer:Guy_G=">Guy G. Helmer</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Moseman:Michelle_M=">Michelle M. Moseman</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Statezni:David_E=">David E. Statezni</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tockey:Stephen_R=">Stephen R. Tockey</a>:<br /><b>Safety Analysis of Requirements for a Product Family.</b> 24-<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667805"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/LutzHMST98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/LutzHMST98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session II:
+Tractability and Change Management</h2>
+
+
+<ul>
+<li id="HammerH98"><a href="http://dblp.uni-trier.de/pers/hc/h/Hammer:Theodore">Theodore Hammer</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Huffman:Lenore">Lenore Huffman</a>:<br /><b>Automated Requirements Management - Beware HOW You Use Tools: An Experience Report.</b> 34-40<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667806"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/HammerH98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/HammerH98.xml">XML</a></small></small></li>
+<li id="SongHMS98"><a href="http://dblp.uni-trier.de/pers/hc/s/Song:Xiping">Xiping Song</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hasling:William_M=">William M. Hasling</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mangla:Gaurav">Gaurav Mangla</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sherman:William">William Sherman</a>:<br /><b>Lessons Learned from Building a Web-Based Requirements Tracing System.</b> 41-50<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667807"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/SongHMS98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/SongHMS98.xml">XML</a></small></small></li>
+<li id="RussoNK98"><a href="http://dblp.uni-trier.de/pers/hc/r/Russo:Alessandra">Alessandra Russo</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nuseibeh:Bashar">Bashar Nuseibeh</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kramer:Jeff">Jeff Kramer</a>:<br /><b>Restructuring Requirements Specifications For Managing Inconsistency And Change: A Case Study.</b> 51-<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667808"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/RussoNK98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/RussoNK98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Mini-Tutorial I</h2>
+
+
+<ul>
+<li id="Hooks98"><a href="http://dblp.uni-trier.de/pers/hc/h/Hooks:Ivy">Ivy Hooks</a>:<br /><b>A Case for Priority.</b> 62-<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667809"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/Hooks98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/Hooks98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session III:
+Elicitation</h2>
+
+
+<ul>
+<li id="MillardLT98"><a href="http://dblp.uni-trier.de/pers/hc/m/Millard:Nicola">Nicola Millard</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lynch:Paula">Paula Lynch</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tracey:Karina">Karina Tracey</a>:<br /><b>Child's Play: Using Techniques Developed to Elicit Requirements from Children with Adults.</b> 66-73<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667810"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/MillardLT98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/MillardLT98.xml">XML</a></small></small></li>
+<li id="SommervilleSV98"><a href="http://dblp.uni-trier.de/pers/hc/s/Sommerville:Ian">Ian Sommerville</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sawyer:Peter">Peter Sawyer</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Viller:Stephen">Stephen Viller</a>:<br /><b>Viewpoints for Requirements Elicitation: A Practical Approach.</b> 74-81<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667811"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/SommervilleSV98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/SommervilleSV98.xml">XML</a></small></small></li>
+<li id="RobinsonP98"><a href="http://dblp.uni-trier.de/pers/hc/r/Robinson:William_N=">William N. Robinson</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pawlowski:Suzanne_D=">Suzanne D. Pawlowski</a>:<br /><b>Surfacing Root Requirements Interactions from Inquiry Cycle Requirements Documents.</b> 82-89<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667812"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/RobinsonP98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/RobinsonP98.xml">XML</a></small></small></li>
+<li id="MayrK98"><a href="http://dblp.uni-trier.de/pers/hc/m/Mayr:Heinrich_C=">Heinrich C. Mayr</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kop:Christian">Christian Kop</a>:<br /><b>Conceptual Predesign - Bridging the Gap between Requirements and Conceptual Design.</b> 90-<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667813"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/MayrK98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/MayrK98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session IV:
+Modeling and Requirements</h2>
+
+
+<ul>
+<li id="LoomesJ98"><a href="http://dblp.uni-trier.de/pers/hc/l/Loomes:Martin">Martin Loomes</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jones:Sara">Sara Jones</a>:<br /><b>Requirements Engineering: A Perspective Through Theory-Building.</b> 100-107<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667814"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/LoomesJ98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/LoomesJ98.xml">XML</a></small></small></li>
+<li id="HaglindJR98"><a href="http://dblp.uni-trier.de/pers/hc/h/Haglind:Magnus">Magnus Haglind</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Johansson:Lars">Lars Johansson</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rantzer:Martin">Martin Rantzer</a>:<br /><b>Experiences Integrating Requirements Engineering and Business Analysis An Empirical Study of Operations &#38; Management System Procurement Projects.</b> 108-117<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667815"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/HaglindJR98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/HaglindJR98.xml">XML</a></small></small></li>
+<li id="Smith98"><a href="http://dblp.uni-trier.de/pers/hc/s/Smith:R=_Craig">R. Craig Smith</a>:<br /><b>Using a Quality Model Framework to Strengthen the Requirements.</b> 118-<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667816"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/Smith98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/Smith98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Mini-Tutorial II</h2>
+
+
+<ul>
+<li id="MorrisMW98"><a href="http://dblp.uni-trier.de/pers/hc/m/Morris:Philip">Philip Morris</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Masera:Marcelo">Marcelo Masera</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wilikens:Marc">Marc Wilikens</a>:<br /><b>Requirements Engineering and Industrial Uptake.</b> 130-137<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667818"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/MorrisMW98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/MorrisMW98.xml">XML</a></small></small></li>
+<li id="FowlerCM98"><a href="http://dblp.uni-trier.de/pers/hc/f/Fowler:Priscilla_J=">Priscilla J. Fowler</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Carleton:Anita_D=">Anita D. Carleton</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Merrin:Barbara">Barbara Merrin</a>:<br /><b>Transition Packages: An Experiment in Expediting the Introduction of Requirements Management.</b> 138-<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667819"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/FowlerCM98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/FowlerCM98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session V:
+Scenarios</h2>
+
+
+<ul>
+<li id="MaidenMMR98"><a href="http://dblp.uni-trier.de/pers/hc/m/Maiden:Neil_A=_M=">Neil A. M. Maiden</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Minocha:Shailey">Shailey Minocha</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Manning:K=">K. Manning</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ryan:Michele">Michele Ryan</a>:<br /><b>CREWS-SAVRE: Systematic Scenario Generation and Use.</b> 148-155<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667820"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/MaidenMMR98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/MaidenMMR98.xml">XML</a></small></small></li>
+<li id="KaindlKK98"><a href="http://dblp.uni-trier.de/pers/hc/k/Kaindl:Hermann">Hermann Kaindl</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kramer_0001:Stefan">Stefan Kramer</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kacsich:Robert">Robert Kacsich</a>:<br /><b>A Case Study of Decomposing Functional Requirements Using Scenarios.</b> 156-163<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667821"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/KaindlKK98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/KaindlKK98.xml">XML</a></small></small></li>
+<li id="SutcliffeR98"><a href="http://dblp.uni-trier.de/pers/hc/s/Sutcliffe:Alistair_G=">Alistair G. Sutcliffe</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ryan:Michele">Michele Ryan</a>:<br /><b>Experience with SCRAM, a SCenario Requirements Analysis Method.</b> 164-<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667822"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/SutcliffeR98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/SutcliffeR98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session VI:
+Research in Progress</h2>
+
+
+<ul>
+<li id="Franch98"><a href="http://dblp.uni-trier.de/pers/hc/f/Franch:Xavier">Xavier Franch</a>:<br /><b>Systematic Formulation of Non-Functional Characteristics of Software.</b> 174-181<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667823"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/Franch98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/Franch98.xml">XML</a></small></small></li>
+<li id="GaskaG98"><a href="http://dblp.uni-trier.de/pers/hc/g/Gaska:Marilyn_T=">Marilyn T. Gaska</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gause:Donald_C=">Donald C. Gause</a>:<br /><b>An Approach for Cross-Discipline Requirements Engineering Process Patterns.</b> 182-189<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667824"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/GaskaG98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/GaskaG98.xml">XML</a></small></small></li>
+<li id="LecoeucheMR98"><a href="http://dblp.uni-trier.de/pers/hc/l/Lecoeuche:Renaud">Renaud Lecoeuche</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mellish:Chris">Chris Mellish</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Robertson:David_Stuart">David Stuart Robertson</a>:<br /><b>A Framework for Requirements Elicitation through Mixed-Initiative Dialogue.</b> 190-<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667825"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/LecoeucheMR98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/LecoeucheMR98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Panel I</h2>
+
+
+<ul>
+<li id="Linger98"><a href="http://dblp.uni-trier.de/pers/hc/l/Linger:Richard_C=">Richard C. Linger</a>:<br /><b>Issues in Requirements Definition for Survivable Systems.</b> 198-<br /><small><a href="http://doi.ieeecomputersociety.org/10.1109/ICRE.1998.10007"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/Linger98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/Linger98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session VII:
+Scenarios and Intentions</h2>
+
+
+<ul>
+<li id="Leveson98"><a href="http://dblp.uni-trier.de/pers/hc/l/Leveson:Nancy_G=">Nancy G. Leveson</a>:<br /><b>Intent Specifications: An Approach to Building Human-Centered Specifications.</b> 204-213<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667827"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/Leveson98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/Leveson98.xml">XML</a></small></small></li>
+<li id="BreitmanL98"><a href="http://dblp.uni-trier.de/pers/hc/b/Breitman:Karin_K=">Karin K. Breitman</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Leite:Julio_Cesar_Sampaio_do_Prado">Julio Cesar Sampaio do Prado Leite</a>:<br /><b>A Framework for Scenario Evolution.</b> 214-221<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667828"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/BreitmanL98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/BreitmanL98.xml">XML</a></small></small></li>
+<li id="WeidenhauptPJH98"><a href="http://dblp.uni-trier.de/pers/hc/w/Weidenhaupt:Klaus">Klaus Weidenhaupt</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pohl:Klaus">Klaus Pohl</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jarke:Matthias">Matthias Jarke</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Haumer:Peter">Peter Haumer</a>:<br /><b>Scenario Usage in System Development: A Report on Current Practice.</b> 222-<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667829"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/WeidenhauptPJH98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/WeidenhauptPJH98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session VIII:
+Requirements and Software Reuse</h2>
+
+
+<ul>
+<li id="ForsgrenD98"><a href="http://dblp.uni-trier.de/pers/hc/f/Forsgren:Patrik">Patrik Forsgren</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Daugulis:Arnis">Arnis Daugulis</a>:<br /><b>Requirements Engineering In Control Center Procurement Projects Practical Experiences from the Power Industry.</b> 224-232<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667830"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/ForsgrenD98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/ForsgrenD98.xml">XML</a></small></small></li>
+<li id="LamJB98"><a href="http://dblp.uni-trier.de/pers/hc/l/Lam:Wing">Wing Lam</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jones:Sara">Sara Jones</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Britton:Carol">Carol Britton</a>:<br /><b>Technology Transfer for Reuse: A Management Model and Process Improvement Framework.</b> 233-240<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667831"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/LamJB98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/LamJB98.xml">XML</a></small></small></li>
+<li id="MaidenN98"><a href="http://dblp.uni-trier.de/pers/hc/m/Maiden:Neil_A=_M=">Neil A. M. Maiden</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Ncube:Cornelius">Cornelius Ncube</a>:<br /><b>Acquiring COTS Software Selection Requirements.</b> 241-<br /><small><a href="http://dx.doi.org/10.1109/ICRE.1998.667832"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/MaidenN98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/MaidenN98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Panel II</h2>
+
+
+<ul>
+<li id="Macaulay98"><a href="http://dblp.uni-trier.de/pers/hc/m/Macaulay:Linda_A=">Linda A. Macaulay</a>:<br /><b>The Role of the Facilitator in Requirements Engineering.</b> 244-<br /><small><a href="http://doi.ieeecomputersociety.org/10.1109/ICRE.1998.10006"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/Macaulay98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/Macaulay98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Panel III</h2>
+
+
+<ul>
+<li id="Lawrence98"><a href="http://dblp.uni-trier.de/pers/hc/l/Lawrence:Brian">Brian Lawrence</a>:<br /><b>Report from the Pre-Conference Workshop.</b> 248-<br /><small><a href="http://doi.ieeecomputersociety.org/10.1109/ICRE.1998.10000"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icre/Lawrence98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icre/Lawrence98.xml">XML</a></small></small></li>
+</ul>
+</dblp>

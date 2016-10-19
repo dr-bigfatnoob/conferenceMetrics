@@ -1,0 +1,180 @@
+<dblp>
+    <h2>Research Session 1:
+Requirements in Motion (1/2)</h2>
+
+
+<ul>
+<li id="SampathAR11"><a href="http://dblp.uni-trier.de/pers/hc/s/Sampath:Prahladavaradan">Prahladavaradan Sampath</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Arora:Silky">Silky Arora</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ramesh:S=">S. Ramesh</a>:<br /><b>Evolving specifications formally.</b> 5-14<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051651"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/SampathAR11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/SampathAR11.xml">XML</a></small></small></li>
+<li id="ErnstBJ11"><a href="http://dblp.uni-trier.de/pers/hc/e/Ernst:Neil_A=">Neil A. Ernst</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Borgida:Alexander">Alexander Borgida</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jureta:Ivan">Ivan Jureta</a>:<br /><b>Finding incremental solutions for evolving requirements.</b> 15-24<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051656"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/ErnstBJ11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/ErnstBJ11.xml">XML</a></small></small></li>
+<li id="McGeeG11"><a href="http://dblp.uni-trier.de/pers/hc/m/McGee:Sharon">Sharon McGee</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Greer:Des">Des Greer</a>:<br /><b>Software requirements change taxonomy: Evaluation by case study.</b> 25-34<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051641"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/McGeeG11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/McGeeG11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Research Session 2:
+Empirical Studies</h2>
+
+
+<ul>
+<li id="BjarnasonWR11"><a href="http://dblp.uni-trier.de/pers/hc/b/Bjarnason:Elizabeth">Elizabeth Bjarnason</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wnuk:Krzysztof">Krzysztof Wnuk</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Regnell:Bj=ouml=rn">Bj&#246;rn Regnell</a>:<br /><b>Requirements are slipping through the gaps - A case study on causes &#38; effects of communication gaps in large-scale software development.</b> 37-46<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051639"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/BjarnasonWR11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/BjarnasonWR11.xml">XML</a></small></small></li>
+<li id="MarczakD11"><a href="http://dblp.uni-trier.de/pers/hc/m/Marczak:Sabrina">Sabrina Marczak</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Damian:Daniela">Daniela Damian</a>:<br /><b>How interaction between roles shapes the communication structure in requirements-driven collaboration.</b> 47-56<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051643"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/MarczakD11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/MarczakD11.xml">XML</a></small></small></li>
+<li id="KomssiKTLD11"><a href="http://dblp.uni-trier.de/pers/hc/k/Komssi:Marko">Marko Komssi</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kauppinen:Marjo">Marjo Kauppinen</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/T=ouml=h=ouml=nen:Harri">Harri T&#246;h&#246;nen</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lehtola:Laura">Laura Lehtola</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Davis:Alan_M=">Alan M. Davis</a>:<br /><b>Integrating analysis of customers' processes into roadmapping: The value-creation perspective.</b> 57-66<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051662"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/KomssiKTLD11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/KomssiKTLD11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Research Session 3:
+Prioritization and Optimization</h2>
+
+
+<ul>
+<li id="Berntsson-SvenssonGRTSFA11"><a href="http://dblp.uni-trier.de/pers/hc/b/Berntsson=Svensson:Richard">Richard Berntsson-Svensson</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gorschek:Tony">Tony Gorschek</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Regnell:Bj=ouml=rn">Bj&#246;rn Regnell</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Torkar:Richard">Richard Torkar</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Shahrokni:Ali">Ali Shahrokni</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Feldt:Robert">Robert Feldt</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Aurum:Ayb=uuml=ke">Ayb&#252;ke Aurum</a>:<br /><b>Prioritization of quality requirements: State of practice in eleven companies.</b> 69-78<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051652"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/Berntsson-SvenssonGRTSFA11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/Berntsson-SvenssonGRTSFA11.xml">XML</a></small></small></li>
+<li id="HeavenL11"><a href="http://dblp.uni-trier.de/pers/hc/h/Heaven:William">William Heaven</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Letier:Emmanuel">Emmanuel Letier</a>:<br /><b>Simulating and optimising design decisions in quantitative goal models.</b> 79-88<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051653"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/HeavenL11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/HeavenL11.xml">XML</a></small></small></li>
+<li id="VeerappaL11"><a href="http://dblp.uni-trier.de/pers/hc/v/Veerappa:Varsha">Varsha Veerappa</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Letier:Emmanuel">Emmanuel Letier</a>:<br /><b>Understanding clusters of optimal solutions in multi-objective decision problems.</b> 89-98<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051654"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/VeerappaL11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/VeerappaL11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Research Session 4:
+Traceability and Documentation</h2>
+
+
+<ul>
+<li id="RaufAC11"><a href="http://dblp.uni-trier.de/pers/hc/r/Rauf:Rehan">Rehan Rauf</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antkiewicz:Michal">Michal Antkiewicz</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Czarnecki:Krzysztof">Krzysztof Czarnecki</a>:<br /><b>Logical structure extraction from software requirements documents.</b> 101-110<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051638"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/RaufAC11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/RaufAC11.xml">XML</a></small></small></li>
+<li id="DekhtyarDHHCK11"><a href="http://dblp.uni-trier.de/pers/hc/d/Dekhtyar:Alex">Alex Dekhtyar</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dekhtyar:Olga">Olga Dekhtyar</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Holden:Jeff">Jeff Holden</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hayes:Jane_Huffman">Jane Huffman Hayes</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cuddeback:David">David Cuddeback</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kong:Wei=Keat">Wei-Keat Kong</a>:<br /><b>On human analyst performance in assisted requirements tracing: Statistical analysis.</b> 111-120<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051649"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/DekhtyarDHHCK11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/DekhtyarDHHCK11.xml">XML</a></small></small></li>
+<li id="GotelM11"><a href="http://dblp.uni-trier.de/pers/hc/g/Gotel:Orlena">Orlena Gotel</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Morris:Stephen_J=">Stephen J. Morris</a>:<br /><b>Out of the labyrinth: Leveraging other disciplines for requirements traceability.</b> 121-130<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051655"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/GotelM11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/GotelM11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Research Session 5:
+Modelling and Analysis</h2>
+
+
+<ul>
+<li id="FranchMTC11"><a href="http://dblp.uni-trier.de/pers/hc/f/Franch:Xavier">Xavier Franch</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mat=eacute=:Alejandro">Alejandro Mat&#233;</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Trujillo:Juan">Juan Trujillo</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cares:Carlos">Carlos Cares</a>:<br /><b>On the joint use of i<sup>*</sup> with other modelling frameworks: A vision paper.</b> 133-142<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051642"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/FranchMTC11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/FranchMTC11.xml">XML</a></small></small></li>
+<li id="UbayashiKHT11"><a href="http://dblp.uni-trier.de/pers/hc/u/Ubayashi:Naoyasu">Naoyasu Ubayashi</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kamei:Yasutaka">Yasutaka Kamei</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hirayama:Masayuki">Masayuki Hirayama</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tamai:Tetsuo">Tetsuo Tamai</a>:<br /><b>A context analysis method for embedded systems - Exploring a requirement boundary between a system and its context.</b> 143-152<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051648"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/UbayashiKHT11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/UbayashiKHT11.xml">XML</a></small></small></li>
+<li id="PostHP11"><a href="http://dblp.uni-trier.de/pers/hc/p/Post:Amalinda">Amalinda Post</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hoenicke:Jochen">Jochen Hoenicke</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Podelski:Andreas">Andreas Podelski</a>:<br /><b>Vacuous real-time requirements.</b> 153-162<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051657"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/PostHP11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/PostHP11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Research Session 6:
+Requirements in Motion (2/2)</h2>
+
+
+<ul>
+<li id="Schneider11"><a href="http://dblp.uni-trier.de/pers/hc/s/Schneider:Kurt">Kurt Schneider</a>:<br /><b>Focusing spontaneous feedback to support system evolution.</b> 165-174<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051645"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/Schneider11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/Schneider11.xml">XML</a></small></small></li>
+<li id="BrillK11"><a href="http://dblp.uni-trier.de/pers/hc/b/Brill:Olesia">Olesia Brill</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Knauss:Eric">Eric Knauss</a>:<br /><b>Structured and unobtrusive observation of anonymous users and their context for requirements elicitation.</b> 175-184<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051660"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/BrillK11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/BrillK11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Research Session 7:
+Law and Politics</h2>
+
+
+<ul>
+<li id="MilneM11"><a href="http://dblp.uni-trier.de/pers/hc/m/Milne:Alastair">Alastair Milne</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maiden:Neil_A=_M=">Neil A. M. Maiden</a>:<br /><b>Power and politics in requirements engineering: A proposed research agenda.</b> 187-196<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051646"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/MilneM11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/MilneM11.xml">XML</a></small></small></li>
+<li id="MaxwellAS11"><a href="http://dblp.uni-trier.de/pers/hc/m/Maxwell:Jeremy_C=">Jeremy C. Maxwell</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Ant=oacute=n:Annie_I=">Annie I. Ant&#243;n</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Swire:Peter_P=">Peter P. Swire</a>:<br /><b>A legal cross-references taxonomy for identifying conflicting software requirements.</b> 197-206<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051647"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/MaxwellAS11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/MaxwellAS11.xml">XML</a></small></small></li>
+<li id="MasseySOA11"><a href="http://dblp.uni-trier.de/pers/hc/m/Massey:Aaron_K=">Aaron K. Massey</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Smith:Ben">Ben Smith</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Otto:Paul_N=">Paul N. Otto</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Ant=oacute=n:Annie_I=">Annie I. Ant&#243;n</a>:<br /><b>Assessing the accuracy of legal implementation readiness decisions.</b> 207-216<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051661"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/MasseySOA11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/MasseySOA11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Research Session 8:
+Failure and Risk Management</h2>
+
+
+<ul>
+<li id="ChenPYZ11"><a href="http://dblp.uni-trier.de/pers/hc/c/Chen:Bihuan">Bihuan Chen</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Peng:Xin">Xin Peng</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yu:Yijun">Yijun Yu</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhao:Wenyun">Wenyun Zhao</a>:<br /><b>Are your sites down? Requirements-driven self-tuning for the survivability of Web systems.</b> 219-228<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051650"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/ChenPYZ11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/ChenPYZ11.xml">XML</a></small></small></li>
+<li id="FitzgeraldLF11"><a href="http://dblp.uni-trier.de/pers/hc/f/Fitzgerald:Camilo">Camilo Fitzgerald</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Letier:Emmanuel">Emmanuel Letier</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Finkelstein:Anthony">Anthony Finkelstein</a>:<br /><b>Early failure prediction in feature request management systems.</b> 229-238<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051658"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/FitzgeraldLF11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/FitzgeraldLF11.xml">XML</a></small></small></li>
+<li id="FranqueiraTYWN11"><a href="http://dblp.uni-trier.de/pers/hc/f/Franqueira:Virginia_N=_L=">Virginia N. L. Franqueira</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tun:Thein_Than">Thein Than Tun</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yu:Yijun">Yijun Yu</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wieringa:Roel">Roel Wieringa</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nuseibeh:Bashar">Bashar Nuseibeh</a>:<br /><b>Risk and argument: A risk-based argumentation method for practical security.</b> 239-248<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051659"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/FranqueiraTYWN11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/FranqueiraTYWN11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Industry Session 1:
+RE for Complex Systems</h2>
+
+
+<ul>
+<li id="RaatikainenMTV11"><a href="http://dblp.uni-trier.de/pers/hc/r/Raatikainen:Mikko">Mikko Raatikainen</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/M=auml=nnist=ouml=:Tomi">Tomi M&#228;nnist&#246;</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tommila:Teemu">Teemu Tommila</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Valkonen:Janne">Janne Valkonen</a>:<br /><b>Challenges of requirements engineering - A case study in nuclear energy domain.</b> 253-258<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051629"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/RaatikainenMTV11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/RaatikainenMTV11.xml">XML</a></small></small></li>
+<li id="NolanACP11"><a href="http://dblp.uni-trier.de/pers/hc/n/Nolan:Andy_J=">Andy J. Nolan</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Abrah=atilde=o:Silvia">Silvia Abrah&#227;o</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Clements:Paul_C=">Paul C. Clements</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pickard:Andy">Andy Pickard</a>:<br /><b>Managing requirements uncertainty in engine control systems development.</b> 259-264<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051622"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/NolanACP11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/NolanACP11.xml">XML</a></small></small></li>
+<li id="DietschAWP11"><a href="http://dblp.uni-trier.de/pers/hc/d/Dietsch:Daniel">Daniel Dietsch</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Arenis:Sergio_Feo">Sergio Feo Arenis</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Westphal:Bernd">Bernd Westphal</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Podelski:Andreas">Andreas Podelski</a>:<br /><b>Disambiguation of industrial standards through formalization and graphical languages.</b> 265-270<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051634"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/DietschAWP11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/DietschAWP11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Industry Session 2:
+Requirements and Architecture</h2>
+
+
+<ul>
+<li id="VoglLGE11"><a href="http://dblp.uni-trier.de/pers/hc/v/Vogl:Harald">Harald Vogl</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lehner:Klaus">Klaus Lehner</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gr=uuml=nbacher:Paul">Paul Gr&#252;nbacher</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Egyed:Alexander">Alexander Egyed</a>:<br /><b>Reconciling requirements and architectures with the CBSP approach in an iPhone app project.</b> 273-278<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051625"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/VoglLGE11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/VoglLGE11.xml">XML</a></small></small></li>
+<li id="OhashiKTY11"><a href="http://dblp.uni-trier.de/pers/hc/o/Ohashi:Kyoko">Kyoko Ohashi</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kurihara:Hidetoshi">Hidetoshi Kurihara</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tanaka:Yuka">Yuka Tanaka</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yamamoto:Rieko">Rieko Yamamoto</a>:<br /><b>A means of establishing traceability based on a UML model in business application development.</b> 279-284<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051631"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/OhashiKTY11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/OhashiKTY11.xml">XML</a></small></small></li>
+<li id="CarvalloF11"><a href="http://dblp.uni-trier.de/pers/hc/c/Carvallo:Juan_Pablo">Juan Pablo Carvallo</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Franch:Xavier">Xavier Franch</a>:<br /><b>Requirements negotiation for multilayer system components.</b> 285-290<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051632"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/CarvalloF11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/CarvalloF11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Industry Session 3:
+Our Profession</h2>
+
+
+<ul>
+<li id="WeverM11"><a href="http://dblp.uni-trier.de/pers/hc/w/Wever:Anja">Anja Wever</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maiden:Neil_A=_M=">Neil A. M. Maiden</a>:<br /><b>What are the day-to-day factors that are preventing business analysts from effective business analysis?</b> 293-298<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051624"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/WeverM11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/WeverM11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Industry Session 4:
+RE Efficiency</h2>
+
+
+<ul>
+<li id="Waldmann11"><a href="http://dblp.uni-trier.de/pers/hc/w/Waldmann:Bernd">Bernd Waldmann</a>:<br /><b>There's never enough time: Doing requirements under resource constraints, and what requirements engineering can learn from agile development.</b> 301-305<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051626"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/Waldmann11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/Waldmann11.xml">XML</a></small></small></li>
+<li id="PuhlF11"><a href="http://dblp.uni-trier.de/pers/hc/p/P=uuml=hl:Stefan">Stefan P&#252;hl</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fahney:Ralf">Ralf Fahney</a>:<br /><b>How to assign cost to &#34;avoidable requirements creep&#34;: A step towards the waterfall's agilization.</b> 307-312<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051623"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/PuhlF11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/PuhlF11.xml">XML</a></small></small></li>
+<li id="BoutkovaH11"><a href="http://dblp.uni-trier.de/pers/hc/b/Boutkova:Ekaterina">Ekaterina Boutkova</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Houdek:Frank">Frank Houdek</a>:<br /><b>Semi-automatic identification of features in requirement specifications.</b> 313-318<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051627"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/BoutkovaH11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/BoutkovaH11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Mini-Tutorials</h2>
+
+
+<ul>
+<li id="Sutcliffe11"><a href="http://dblp.uni-trier.de/pers/hc/s/Sutcliffe:Alistair">Alistair Sutcliffe</a>:<br /><b>Emotional requirements engineering.</b> 321-322<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051680"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/Sutcliffe11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/Sutcliffe11.xml">XML</a></small></small></li>
+<li id="Regnell11"><a href="http://dblp.uni-trier.de/pers/hc/r/Regnell:Bj=ouml=rn">Bj&#246;rn Regnell</a>:<br /><b>Large-scale feature evolution: Problems and solutions from the mobile domain.</b> 323<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051681"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/Regnell11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/Regnell11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Panels and Debates</h2>
+
+
+<ul>
+<li id="Cleland-HuangD11"><a href="http://dblp.uni-trier.de/pers/hc/c/Cleland=Huang:Jane">Jane Cleland-Huang</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Damian:Daniela">Daniela Damian</a>:<br /><b>Ready-set-transfer! Technology transfer in the requirements engineering domain.</b> 327-328<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051682"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/Cleland-HuangD11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/Cleland-HuangD11.xml">XML</a></small></small></li>
+<li id="SawyerGN11"><a href="http://dblp.uni-trier.de/pers/hc/s/Sawyer:Pete">Pete Sawyer</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gervasi:Vincenzo">Vincenzo Gervasi</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nuseibeh:Bashar">Bashar Nuseibeh</a>:<br /><b>Unknown knowns: Tacit knowledge in requirements engineering.</b> 329<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051683"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/SawyerGN11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/SawyerGN11.xml">XML</a></small></small></li>
+<li id="Jarke11"><a href="http://dblp.uni-trier.de/pers/hc/j/Jarke:Matthias">Matthias Jarke</a>:<br /><b>Design requirements: Challenges and approaches.</b> 331<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051684"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/Jarke11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/Jarke11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Posters &#38; Demos</h2>
+
+
+<ul>
+<li id="MahmoudN11"><a href="http://dblp.uni-trier.de/pers/hc/m/Mahmoud:Anas">Anas Mahmoud</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Niu:Nan">Nan Niu</a>:<br /><b>TraCter: A tool for candidate traceability link clustering.</b> 335-336<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051663"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/MahmoudN11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/MahmoudN11.xml">XML</a></small></small></li>
+<li id="WeiYJZ11"><a href="http://dblp.uni-trier.de/pers/hc/w/Wei:Bo">Bo Wei</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yin:Bin">Bin Yin</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jin:Zhi">Zhi Jin</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zowghi:Didar">Didar Zowghi</a>:<br /><b>r: Automated reasoning tool for non-functional requirement goal models.</b> 337-338<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051664"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/WeiYJZ11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/WeiYJZ11.xml">XML</a></small></small></li>
+<li id="FailyF11"><a href="http://dblp.uni-trier.de/pers/hc/f/Faily:Shamal">Shamal Faily</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Flechais:Ivan">Ivan Flechais</a>:<br /><b>Eliciting usable security requirements with misusability cases.</b> 339-340<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051665"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/FailyF11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/FailyF11.xml">XML</a></small></small></li>
+<li id="PalomaresQF11"><a href="http://dblp.uni-trier.de/pers/hc/p/Palomares:Cristina">Cristina Palomares</a>, <a href="http://dblp.uni-trier.de/pers/hc/q/Quer:Carme">Carme Quer</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Franch:Xavier">Xavier Franch</a>:<br /><b>PABRE-Man: Management of a requirement patterns catalogue.</b> 341-342<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051666"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/PalomaresQF11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/PalomaresQF11.xml">XML</a></small></small></li>
+<li id="GreenwoodCRNFS11"><a href="http://dblp.uni-trier.de/pers/hc/g/Greenwood:Phil">Phil Greenwood</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chitchyan:Ruzanna">Ruzanna Chitchyan</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rashid:Awais">Awais Rashid</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Noppen:Joost">Joost Noppen</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fleurey:Franck">Franck Fleurey</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Solberg:Arnor">Arnor Solberg</a>:<br /><b>Modelling adaptability and variability in requirements.</b> 343-344<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051667"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/GreenwoodCRNFS11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/GreenwoodCRNFS11.xml">XML</a></small></small></li>
+<li id="TeuflKMG11"><a href="http://dblp.uni-trier.de/pers/hc/t/Teufl:Sabine">Sabine Teufl</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Khalil:Maged">Maged Khalil</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mou:Dongyue">Dongyue Mou</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Geisberger:Eva">Eva Geisberger</a>:<br /><b>Experience with content-based requirements engineering assessments.</b> 345-346<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051668"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/TeuflKMG11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/TeuflKMG11.xml">XML</a></small></small></li>
+<li id="SeyffOB11"><a href="http://dblp.uni-trier.de/pers/hc/s/Seyff:Norbert">Norbert Seyff</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Ollmann:Gregor">Gregor Ollmann</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bortenschlager:Manfred">Manfred Bortenschlager</a>:<br /><b>iRequire: Gathering end-user requirements for new apps.</b> 347-348<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051669"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/SeyffOB11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/SeyffOB11.xml">XML</a></small></small></li>
+<li id="CoteHSH11"><a href="http://dblp.uni-trier.de/pers/hc/c/C=ocirc=t=eacute=:Isabelle">Isabelle C&#244;t&#233;</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Heisel:Maritta">Maritta Heisel</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schmidt:Holger">Holger Schmidt</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hatebur:Denis">Denis Hatebur</a>:<br /><b>UML4PF - A tool for problem-oriented requirements analysis.</b> 349-350<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051670"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/CoteHSH11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/CoteHSH11.xml">XML</a></small></small></li>
+<li id="YuTTFN11"><a href="http://dblp.uni-trier.de/pers/hc/y/Yu:Yijun">Yijun Yu</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tun:Thein_Than">Thein Than Tun</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tedeschi:Alessandra">Alessandra Tedeschi</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Franqueira:Virginia_N=_L=">Virginia N. L. Franqueira</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nuseibeh:Bashar">Bashar Nuseibeh</a>:<br /><b>OpenArgue: Supporting argumentation to evolve secure software systems.</b> 351-352<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051671"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/YuTTFN11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/YuTTFN11.xml">XML</a></small></small></li>
+<li id="LiaskosR11"><a href="http://dblp.uni-trier.de/pers/hc/l/Liaskos:Sotirios">Sotirios Liaskos</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rogozhkin:Vyacheslav">Vyacheslav Rogozhkin</a>:<br /><b>Applying preference-based customization.</b> 353-354<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051672"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/LiaskosR11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/LiaskosR11.xml">XML</a></small></small></li>
+<li id="WelshSB11"><a href="http://dblp.uni-trier.de/pers/hc/w/Welsh:Kristopher">Kristopher Welsh</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sawyer:Pete">Pete Sawyer</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bencomo:Nelly">Nelly Bencomo</a>:<br /><b>Run-time resolution of uncertainty.</b> 355-356<br /><small><a href="http://dx.doi.org/10.1109/RE.2011.6051673"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/re/WelshSB11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/re/WelshSB11.xml">XML</a></small></small></li>
+</ul>
+</dblp>
