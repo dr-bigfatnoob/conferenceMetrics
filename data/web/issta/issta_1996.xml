@@ -1,0 +1,100 @@
+<dblp>
+    <h2>Concurrent and Real-Time</h2>
+
+
+<ul>
+<li id="KangL96"><a href="http://dblp.uni-trier.de/pers/hc/k/Kang:Inhye">Inhye Kang</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lee:Insup">Insup Lee</a>:<br /><b>An Efficient State Space Generation for Analysis of Real-Time Systems.</b> 4-13<br /><small><a href="http://doi.acm.org/10.1145/229000.226297"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/KangL96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/KangL96.xml">XML</a></small></small></li>
+<li id="KoppolT96"><a href="http://dblp.uni-trier.de/pers/hc/k/Koppol:Pramod_V=">Pramod V. Koppol</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tai:Kuo=Chung">Kuo-Chung Tai</a>:<br /><b>An Incremental Approach to Structural Testing of Concurrent Software.</b> 14-23<br /><small><a href="http://doi.acm.org/10.1145/229000.226298"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/KoppolT96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/KoppolT96.xml">XML</a></small></small></li>
+<li id="ChamillardC96"><a href="http://dblp.uni-trier.de/pers/hc/c/Chamillard:A=_T=">A. T. Chamillard</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Clarke:Lori_A=">Lori A. Clarke</a>:<br /><b>Improving the Accuracy of Petri Net-Based Analysis of Concurrent Programs.</b> 24-38<br /><small><a href="http://doi.acm.org/10.1145/229000.226299"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/ChamillardC96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/ChamillardC96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Specification-Based Testing</h2>
+
+
+<ul>
+<li id="MorascaMP96"><a href="http://dblp.uni-trier.de/pers/hc/m/Morasca:Sandro">Sandro Morasca</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Morzenti:Angelo">Angelo Morzenti</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pietro:Pierluigi_San">Pierluigi San Pietro</a>:<br /><b>Generating Functional Test Cases in-the-large for Time-critical Systems from Logic-based Specifications.</b> 39-52<br /><small><a href="http://doi.acm.org/10.1145/229000.226300"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/MorascaMP96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/MorascaMP96.xml">XML</a></small></small></li>
+<li id="HughesS96"><a href="http://dblp.uni-trier.de/pers/hc/h/Hughes:Merlin">Merlin Hughes</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stotts:P=_David">P. David Stotts</a>:<br /><b>Daistish: Systematic Algebraic Testing for OO Programs in the Presence of Side-effects.</b> 53-61<br /><small><a href="http://doi.acm.org/10.1145/229000.226301"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/HughesS96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/HughesS96.xml">XML</a></small></small></li>
+<li id="ChangRS96"><a href="http://dblp.uni-trier.de/pers/hc/c/Chang:Juei">Juei Chang</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Richardson:Debra_J=">Debra J. Richardson</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sankar:Sriram">Sriram Sankar</a>:<br /><b>Structural Specification-Based Testing with ADL.</b> 62-70<br /><small><a href="http://doi.acm.org/10.1145/229000.226302"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/ChangRS96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/ChangRS96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Workshop Session 1</h2>
+
+
+<ul>
+<li id="CrowleyLL96"><a href="http://dblp.uni-trier.de/pers/hc/c/Crowley:James_L=">James L. Crowley</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Leathrum:James_F=">James F. Leathrum</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Liburdy:K=_A=">K. A. Liburdy</a>:<br /><b>Issues in the Full Scale Use of Formal Methods for Automated Testing.</b> 71-78<br /><small><a href="http://doi.acm.org/10.1145/229000.226303"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/CrowleyLL96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/CrowleyLL96.xml">XML</a></small></small></li>
+<li id="Heimdahl96"><a href="http://dblp.uni-trier.de/pers/hc/h/Heimdahl:Mats_Per_Erik">Mats Per Erik Heimdahl</a>:<br /><b>Experiences and Lessons from the Analysis of TCAS II.</b> 79-83<br /><small><a href="http://doi.acm.org/10.1145/229000.226304"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Heimdahl96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Heimdahl96.xml">XML</a></small></small></li>
+<li id="Hamlet96"><a href="http://dblp.uni-trier.de/pers/hc/h/Hamlet:Richard_G=">Richard G. Hamlet</a>:<br /><b>Predicting Dependability by Testing.</b> 84-91<br /><small><a href="http://doi.acm.org/10.1145/229000.226305"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Hamlet96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Hamlet96.xml">XML</a></small></small></li>
+<li id="MorellM96"><a href="http://dblp.uni-trier.de/pers/hc/m/Morell:Larry_J=">Larry J. Morell</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Murrill:Branson_W=">Branson W. Murrill</a>:<br /><b>Using Perturbation Analysis to Measure Variation in the Information Content of Test Sets.</b> 92-97<br /><small><a href="http://doi.acm.org/10.1145/229000.226306"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/MorellM96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/MorellM96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Analysis</h2>
+
+
+<ul>
+<li id="HowdenS96"><a href="http://dblp.uni-trier.de/pers/hc/h/Howden:William_E=">William E. Howden</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Shi:G=_M=">G. M. Shi</a>:<br /><b>Linear and Structural Event Sequence Analysis.</b> 98-106<br /><small><a href="http://doi.acm.org/10.1145/229000.226307"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/HowdenS96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/HowdenS96.xml">XML</a></small></small></li>
+<li id="HarroldR96"><a href="http://dblp.uni-trier.de/pers/hc/h/Harrold:Mary_Jean">Mary Jean Harrold</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rothermel:Gregg">Gregg Rothermel</a>:<br /><b>Separate Computation of Alias Information for Reuse.</b> 107-120<br /><small><small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/HarroldR96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/HarroldR96.xml">XML</a></small></small></li>
+<li id="DeMilloPS96"><a href="http://dblp.uni-trier.de/pers/hc/d/DeMillo:Richard_A=">Richard A. DeMillo</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pan:Hsin">Hsin Pan</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Spafford:Eugene_H=">Eugene H. Spafford</a>:<br /><b>Critical Slicing for Software Fault Localization.</b> 121-134<br /><small><a href="http://doi.acm.org/10.1145/229000.226310"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/DeMilloPS96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/DeMilloPS96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Implementation-Based Testing</h2>
+
+
+<ul>
+<li id="MarxF96"><a href="http://dblp.uni-trier.de/pers/hc/m/Marx:Delia_I=_S=">Delia I. S. Marx</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Frankl:Phyllis_G=">Phyllis G. Frankl</a>:<br /><b>The Path-Wise Approach to Data Flow Testing with Pointer Variables.</b> 135-146<br /><small><a href="http://doi.acm.org/10.1145/229000.226311"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/MarxF96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/MarxF96.xml">XML</a></small></small></li>
+<li id="MarreB96"><a href="http://dblp.uni-trier.de/pers/hc/m/Marr=eacute=:Martina">Martina Marr&#233;</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bertolino:Antonia">Antonia Bertolino</a>:<br /><b>Unconstrained Duals and Their Use in Achieving All-Uses Coverage.</b> 147-157<br /><small><a href="http://doi.acm.org/10.1145/229000.226312"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/MarreB96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/MarreB96.xml">XML</a></small></small></li>
+<li id="DaranT96"><a href="http://dblp.uni-trier.de/pers/hc/d/Daran:Muriel">Muriel Daran</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Th=eacute=venod=Fosse:Pascale">Pascale Th&#233;venod-Fosse</a>:<br /><b>Software Error Analysis: A Real Case Study Involving Real Faults and Mutations.</b> 158-171<br /><small><a href="http://doi.acm.org/10.1145/229000.226313"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/DaranT96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/DaranT96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Workshop Session 2</h2>
+
+
+<ul>
+<li id="PezzeY96"><a href="http://dblp.uni-trier.de/pers/hc/p/Pezz=egrave=:Mauro">Mauro Pezz&#232;</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Young:Michal">Michal Young</a>:<br /><b>Generation of Multi-Formalism State-Space Analysis Tools.</b> 172-179<br /><small><a href="http://doi.acm.org/10.1145/229000.226314"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/PezzeY96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/PezzeY96.xml">XML</a></small></small></li>
+<li id="SloaneH96"><a href="http://dblp.uni-trier.de/pers/hc/s/Sloane:Anthony_M=">Anthony M. Sloane</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Holdsworth:Jason">Jason Holdsworth</a>:<br /><b>Beyond Traditional Program Slicing.</b> 180-186<br /><small><a href="http://doi.acm.org/10.1145/229000.226315"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/SloaneH96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/SloaneH96.xml">XML</a></small></small></li>
+<li id="CallahanM96"><a href="http://dblp.uni-trier.de/pers/hc/c/Callahan:John_R=">John R. Callahan</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Montgomery:Todd_L=">Todd L. Montgomery</a>:<br /><b>An Approach to Verification and Validation of a Reliable Multicasting Protocol.</b> 187-194<br /><small><a href="http://doi.acm.org/10.1145/229000.226316"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/CallahanM96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/CallahanM96.xml">XML</a></small></small></li>
+<li id="OffuttH96"><a href="http://dblp.uni-trier.de/pers/hc/o/Offutt:A=_Jefferson">A. Jefferson Offutt</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hayes:Jane_Huffman">Jane Huffman Hayes</a>:<br /><b>A Semantic Model of Program Faults.</b> 195-200<br /><small><a href="http://doi.acm.org/10.1145/229000.226317"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/OffuttH96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/OffuttH96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Workshop Session 3</h2>
+
+
+<ul>
+<li id="YangP96"><a href="http://dblp.uni-trier.de/pers/hc/y/Yang:Cheer=Sun_D=">Cheer-Sun D. Yang</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pollock:Lori_L=">Lori L. Pollock</a>:<br /><b>Towards a Structural Load Testing Tool.</b> 201-208<br /><small><a href="http://doi.acm.org/10.1145/229000.226318"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/YangP96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/YangP96.xml">XML</a></small></small></li>
+<li id="Korel96"><a href="http://dblp.uni-trier.de/pers/hc/k/Korel:Bogdan">Bogdan Korel</a>:<br /><b>Automated Test Data Generation for Programs with Procedures.</b> 209-215<br /><small><a href="http://doi.acm.org/10.1145/229000.226319"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Korel96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Korel96.xml">XML</a></small></small></li>
+<li id="PomakisA96"><a href="http://dblp.uni-trier.de/pers/hc/p/Pomakis:Keith_P=">Keith P. Pomakis</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Atlee:Joanne_M=">Joanne M. Atlee</a>:<br /><b>Reachability Analysis of Feature Interactions: A Progress Report.</b> 216-223<br /><small><a href="http://doi.acm.org/10.1145/229000.226320"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/PomakisA96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/PomakisA96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Modelling</h2>
+
+
+<ul>
+<li id="BultanFG96"><a href="http://dblp.uni-trier.de/pers/hc/b/Bultan:Tevfik">Tevfik Bultan</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fischer:Jeffrey">Jeffrey Fischer</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gerber:Richard">Richard Gerber</a>:<br /><b>Compositional Verification by Model Checking for Counter-Examples.</b> 224-238<br /><small><a href="http://doi.acm.org/10.1145/229000.226321"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BultanFG96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BultanFG96.xml">XML</a></small></small></li>
+<li id="JacksonD96"><a href="http://dblp.uni-trier.de/pers/hc/j/Jackson:Daniel">Daniel Jackson</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Damon:Craig">Craig Damon</a>:<br /><b>Elements of Style: Analyzing a Software Design Feature with a Counterexample Detector.</b> 239-249<br /><small><a href="http://doi.acm.org/10.1145/229000.226322"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/JacksonD96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/JacksonD96.xml">XML</a></small></small></li>
+<li id="Corbett96"><a href="http://dblp.uni-trier.de/pers/hc/c/Corbett:James_C=">James C. Corbett</a>:<br /><b>Constructing Abstract Models of Concurrent Real-Time Software.</b> 250-260<br /><small><a href="http://doi.acm.org/10.1145/229000.226323"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Corbett96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Corbett96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Verification and Validation</h2>
+
+
+<ul>
+<li id="GodefroidPS96"><a href="http://dblp.uni-trier.de/pers/hc/g/Godefroid:Patrice">Patrice Godefroid</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Peled:Doron_A=">Doron A. Peled</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Staskauskas:Mark_G=">Mark G. Staskauskas</a>:<br /><b>Using Partial-Order Methods in the Formal Validation of Industrial Concurrent Programs.</b> 261-269<br /><small><a href="http://doi.acm.org/10.1145/229000.226324"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/GodefroidPS96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/GodefroidPS96.xml">XML</a></small></small></li>
+<li id="BarjaktarovicCJ96"><a href="http://dblp.uni-trier.de/pers/hc/b/Barjaktarovic:Milica">Milica Barjaktarovic</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chin:Shiu=Kai">Shiu-Kai Chin</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jabbour:Kamal">Kamal Jabbour</a>:<br /><b>Formal Specification and Verification of the Kernel Functional Unit of the OSI Session Layer Protocol and Service Using CCS.</b> 270-279<br /><small><a href="http://doi.acm.org/10.1145/229000.226325"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BarjaktarovicCJ96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BarjaktarovicCJ96.xml">XML</a></small></small></li>
+<li id="AtleeB96"><a href="http://dblp.uni-trier.de/pers/hc/a/Atlee:Joanne_M=">Joanne M. Atlee</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Buckley:Michael_A=">Michael A. Buckley</a>:<br /><b>A Logic-Model Semantics for SCR Software Requirements.</b> 280-292<br /><small><a href="http://doi.acm.org/10.1145/229000.226326"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/AtleeB96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/AtleeB96.xml">XML</a></small></small></li>
+</ul>
+</dblp>

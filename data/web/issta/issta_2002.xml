@@ -1,0 +1,111 @@
+<dblp>
+    <h2>Static analysis of Java programs</h2>
+
+
+<ul>
+<li id="MilanovaRR02"><a href="http://dblp.uni-trier.de/pers/hc/m/Milanova:Ana">Ana Milanova</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rountev:Atanas">Atanas Rountev</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ryder:Barbara_G=">Barbara G. Ryder</a>:<br /><b>Parameterized object sensitivity for points-to and side-effect analyses for Java.</b> 1-11<br /><small><a href="http://doi.acm.org/10.1145/566172.566174"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/MilanovaRR02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/MilanovaRR02.xml">XML</a></small></small></li>
+<li id="GroceV02"><a href="http://dblp.uni-trier.de/pers/hc/g/Groce:Alex">Alex Groce</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Visser:Willem">Willem Visser</a>:<br /><b>Model checking Java programs using structural heuristics.</b> 12-21<br /><small><a href="http://doi.acm.org/10.1145/566172.566175"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/GroceV02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/GroceV02.xml">XML</a></small></small></li>
+<li id="LiangPH02"><a href="http://dblp.uni-trier.de/pers/hc/l/Liang:Donglin">Donglin Liang</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pennings:Maikel">Maikel Pennings</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harrold:Mary_Jean">Mary Jean Harrold</a>:<br /><b>Evaluating the precision of static reference analysis using profiling.</b> 22-32<br /><small><a href="http://doi.acm.org/10.1145/566172.566176"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/LiangPH02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/LiangPH02.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Validating security properties</h2>
+
+
+<ul>
+<li id="Naumovich02"><a href="http://dblp.uni-trier.de/pers/hc/n/Naumovich:Gleb">Gleb Naumovich</a>:<br /><b>A conservative algorithm for computing the flow of permissions in Java programs.</b> 33-43<br /><small><a href="http://doi.acm.org/10.1145/566172.566178"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Naumovich02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Naumovich02.xml">XML</a></small></small></li>
+<li id="Stoller02"><a href="http://dblp.uni-trier.de/pers/hc/s/Stoller:Scott_D=">Scott D. Stoller</a>:<br /><b>Domain partitioning for open reactive systems.</b> 44-54<br /><small><a href="http://doi.acm.org/10.1145/566172.566179"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Stoller02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Stoller02.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Faults and failure analysis</h2>
+
+
+<ul>
+<li id="OstrandW02"><a href="http://dblp.uni-trier.de/pers/hc/o/Ostrand:Thomas_J=">Thomas J. Ostrand</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Weyuker:Elaine_J=">Elaine J. Weyuker</a>:<br /><b>The distirubtion of faults in a large industrial software system.</b> 55-64<br /><small><a href="http://doi.acm.org/10.1145/566172.566181"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/OstrandW02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/OstrandW02.xml">XML</a></small></small></li>
+<li id="OrsoLHL02"><a href="http://dblp.uni-trier.de/pers/hc/o/Orso:Alessandro">Alessandro Orso</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Liang:Donglin">Donglin Liang</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harrold:Mary_Jean">Mary Jean Harrold</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lipton:Richard_J=">Richard J. Lipton</a>:<br /><b>Gamma system: continuous evolution of software after deployment.</b> 65-69<br /><small><a href="http://doi.acm.org/10.1145/566172.566182"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/OrsoLHL02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/OrsoLHL02.xml">XML</a></small></small></li>
+<li id="BriandLS02"><a href="http://dblp.uni-trier.de/pers/hc/b/Briand:Lionel_C=">Lionel C. Briand</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Labiche:Yvan">Yvan Labiche</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sun:Hong">Hong Sun</a>:<br /><b>Investigating the use of analysis contracts to support fault isolation in object oriented code.</b> 70-80<br /><small><a href="http://doi.acm.org/10.1145/566172.566183"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BriandLS02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BriandLS02.xml">XML</a></small></small></li>
+<li id="HillerJS02"><a href="http://dblp.uni-trier.de/pers/hc/h/Hiller:Martin">Martin Hiller</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jhumka:Arshad">Arshad Jhumka</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Suri:Neeraj">Neeraj Suri</a>:<br /><b>PROPANE: an environment for examining the propagation of errors in software.</b> 81-85<br /><small><a href="http://doi.acm.org/10.1145/566172.566184"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/HillerJS02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/HillerJS02.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Improving testing efficiency</h2>
+
+
+<ul>
+<li id="TikirH02"><a href="http://dblp.uni-trier.de/pers/hc/t/Tikir:Mustafa_M=">Mustafa M. Tikir</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hollingsworth:Jeffrey_K=">Jeffrey K. Hollingsworth</a>:<br /><b>Efficient instrumentation for code coverage testing.</b> 86-96<br /><small><a href="http://doi.acm.org/10.1145/566172.566186"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/TikirH02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/TikirH02.xml">XML</a></small></small></li>
+<li id="SrivastavaT02"><a href="http://dblp.uni-trier.de/pers/hc/s/Srivastava:Amitabh">Amitabh Srivastava</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Thiagarajan:Jay">Jay Thiagarajan</a>:<br /><b>Effectively prioritizing tests in development environment.</b> 97-106<br /><small><a href="http://doi.acm.org/10.1145/566172.566187"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/SrivastavaT02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/SrivastavaT02.xml">XML</a></small></small></li>
+<li id="VaysburgTK02"><a href="http://dblp.uni-trier.de/pers/hc/v/Vaysburg:Boris">Boris Vaysburg</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tahat:Luay_Ho">Luay Ho Tahat</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Korel:Bogdan">Bogdan Korel</a>:<br /><b>Dependence analysis in reduction of requirement based test suites.</b> 107-111<br /><small><a href="http://doi.acm.org/10.1145/566172.566188"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/VaysburgTK02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/VaysburgTK02.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Specification-based testing</h2>
+
+
+<ul>
+<li id="GrieskampGSV02"><a href="http://dblp.uni-trier.de/pers/hc/g/Grieskamp:Wolfgang">Wolfgang Grieskamp</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gurevich:Yuri">Yuri Gurevich</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schulte:Wolfram">Wolfram Schulte</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Veanes:Margus">Margus Veanes</a>:<br /><b>Generating finite state machines from abstract state machines.</b> 112-122<br /><small><a href="http://doi.acm.org/10.1145/566172.566190"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/GrieskampGSV02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/GrieskampGSV02.xml">XML</a></small></small></li>
+<li id="BoyapatiKM02"><a href="http://dblp.uni-trier.de/pers/hc/b/Boyapati:Chandrasekhar">Chandrasekhar Boyapati</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Khurshid:Sarfraz">Sarfraz Khurshid</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marinov:Darko">Darko Marinov</a>:<br /><b>Korat: automated testing based on Java predicates.</b> 123-133<br /><small><a href="http://doi.acm.org/10.1145/566172.566191"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BoyapatiKM02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BoyapatiKM02.xml">XML</a></small></small></li>
+<li id="FriedmanHNS02"><a href="http://dblp.uni-trier.de/pers/hc/f/Friedman:G=">G. Friedman</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hartman:Alan">Alan Hartman</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nagin:Kenneth">Kenneth Nagin</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Shiran:T=">T. Shiran</a>:<br /><b>Projected state machine coverage for software testing.</b> 134-143<br /><small><a href="http://doi.acm.org/10.1145/566172.566192"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/FriedmanHNS02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/FriedmanHNS02.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Conformance and interoperability testing</h2>
+
+
+<ul>
+<li id="LatellaM02"><a href="http://dblp.uni-trier.de/pers/hc/l/Latella:Diego">Diego Latella</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Massink:Mieke">Mieke Massink</a>:<br /><b>On testing and conformance relations for UML statechart diagrams behaviours.</b> 144-153<br /><small><a href="http://doi.acm.org/10.1145/566172.566194"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/LatellaM02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/LatellaM02.xml">XML</a></small></small></li>
+<li id="MoorsVTZB02"><a href="http://dblp.uni-trier.de/pers/hc/m/Moors:Tim">Tim Moors</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Veeraraghavan:Malathi">Malathi Veeraraghavan</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tao:Zhifeng">Zhifeng Tao</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zheng:Xuan">Xuan Zheng</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Badri:Ramesh">Ramesh Badri</a>:<br /><b>Experiences in automating the testing of SS7 signalling transfer points.</b> 154-158<br /><small><a href="http://doi.acm.org/10.1145/566172.566195"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/MoorsVTZB02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/MoorsVTZB02.xml">XML</a></small></small></li>
+<li id="Cardell-Oliver02"><a href="http://dblp.uni-trier.de/pers/hc/c/Cardell=Oliver:Rachel">Rachel Cardell-Oliver</a>:<br /><b>Conformance test experiments for distributed real-time systems.</b> 159-163<br /><small><a href="http://doi.acm.org/10.1145/566172.566196"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Cardell-Oliver02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Cardell-Oliver02.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Analysis of concurrent programs</h2>
+
+
+<ul>
+<li id="Cheng02"><a href="http://dblp.uni-trier.de/pers/hc/c/Cheng:Yung=Pin">Yung-Pin Cheng</a>:<br /><b>Refactoring design models for inductive verification.</b> 164-168<br /><small><a href="http://doi.acm.org/10.1145/566172.566198"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Cheng02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Cheng02.xml">XML</a></small></small></li>
+<li id="Yavuz-KahveciB02"><a href="http://dblp.uni-trier.de/pers/hc/y/Yavuz=Kahveci:Tuba">Tuba Yavuz-Kahveci</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bultan:Tevfik">Tevfik Bultan</a>:<br /><b>Specification, verification, and synthesis of concurrency control components.</b> 169-179<br /><small><a href="http://doi.acm.org/10.1145/566172.566199"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Yavuz-KahveciB02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Yavuz-KahveciB02.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Theory of testing and reability</h2>
+
+
+<ul>
+<li id="Bishop02"><a href="http://dblp.uni-trier.de/pers/hc/b/Bishop:Peter_G=">Peter G. Bishop</a>:<br /><b>Rescaling reliability bounds for a new operational profile.</b> 180-190<br /><small><a href="http://doi.acm.org/10.1145/566172.566201"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Bishop02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Bishop02.xml">XML</a></small></small></li>
+<li id="ChenTZ02"><a href="http://dblp.uni-trier.de/pers/hc/c/Chen:Tsong_Yueh">Tsong Yueh Chen</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tse:T=_H=">T. H. Tse</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhou:Zhiquan">Zhiquan Zhou</a>:<br /><b>Semi-proving: an integrated method based on global symbolic evaluation and metamorphic testing.</b> 191-195<br /><small><a href="http://doi.acm.org/10.1145/566172.566202"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/ChenTZ02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/ChenTZ02.xml">XML</a></small></small></li>
+<li id="Hamlet02"><a href="http://dblp.uni-trier.de/pers/hc/h/Hamlet:Dick">Dick Hamlet</a>:<br /><b>Continuity in sofware systems.</b> 196-200<br /><small><a href="http://doi.acm.org/10.1145/566172.566203"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Hamlet02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Hamlet02.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>ISSTA panel:
+is ISSTA research relevant to industrial users?</h2>
+
+
+<ul>
+<li id="Bertolino02"><a href="http://dblp.uni-trier.de/pers/hc/b/Bertolino:Antonia">Antonia Bertolino</a>:<br /><b>ISSTA 2002 panel: is ISSTA research relevant to industrial users?</b> 201-202<br /><small><a href="http://doi.acm.org/10.1145/566172.566205"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Bertolino02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Bertolino02.xml">XML</a></small></small></li>
+<li id="Encontre02"><a href="http://dblp.uni-trier.de/pers/hc/e/Encontre:Vincent">Vincent Encontre</a>:<br /><b>Is ISSTA research relevant to industrial users? panel - ISSTA 2002: empowering the developer to be a tester too!</b> 203-204<br /><small><a href="http://doi.acm.org/10.1145/566172.566206"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Encontre02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Encontre02.xml">XML</a></small></small></li>
+<li id="Hartman02"><a href="http://dblp.uni-trier.de/pers/hc/h/Hartman:Alan">Alan Hartman</a>:<br /><b>Is ISSTA research relevant to industry?</b> 205-206<br /><small><a href="http://doi.acm.org/10.1145/566172.566207"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Hartman02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Hartman02.xml">XML</a></small></small></li>
+<li id="Peciola02"><a href="http://dblp.uni-trier.de/pers/hc/p/Peciola:Emilia">Emilia Peciola</a>:<br /><b>Ericsson lab Italy: is ISSTA research relevant to industrial users?</b> 207<br /><small><a href="http://doi.acm.org/10.1145/566172.566208"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Peciola02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Peciola02.xml">XML</a></small></small></li>
+<li id="Sreenivas02"><a href="http://dblp.uni-trier.de/pers/hc/s/Sreenivas:Ashok">Ashok Sreenivas</a>:<br /><b>Panel discussion: is ISSTA testing research relevant to industrial users?</b> 208-209<br /><small><a href="http://doi.acm.org/10.1145/566172.566209"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Sreenivas02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Sreenivas02.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Dynamic analysis</h2>
+
+
+<ul>
+<li id="ChoiZ02"><a href="http://dblp.uni-trier.de/pers/hc/c/Choi:Jong=Deok">Jong-Deok Choi</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zeller:Andreas">Andreas Zeller</a>:<br /><b>Isolating failure-inducing thread schedules.</b> 210-220<br /><small><a href="http://doi.acm.org/10.1145/566172.566211"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/ChoiZ02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/ChoiZ02.xml">XML</a></small></small></li>
+<li id="WhaleyML02"><a href="http://dblp.uni-trier.de/pers/hc/w/Whaley:John">John Whaley</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Martin:Michael_C=">Michael C. Martin</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lam:Monica_S=">Monica S. Lam</a>:<br /><b>Automatic extraction of object-oriented component interfaces.</b> 218-228<br /><small><a href="http://doi.acm.org/10.1145/566172.566212"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/WhaleyML02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/WhaleyML02.xml">XML</a></small></small></li>
+<li id="NimmerE02"><a href="http://dblp.uni-trier.de/pers/hc/n/Nimmer:Jeremy_W=">Jeremy W. Nimmer</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Ernst:Michael_D=">Michael D. Ernst</a>:<br /><b>Automatic generation of program specifications.</b> 229-239<br /><small><a href="http://doi.acm.org/10.1145/566172.566213"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/NimmerE02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/NimmerE02.xml">XML</a></small></small></li>
+</ul>
+</dblp>

@@ -14,8 +14,8 @@ from nameMagic import normaliseName, directLookup, reverseLookup
 dataPath = os.path.abspath("../../../data")
 
 
-conferences = ['icse', 'icsm', 'wcre', 'csmr', 'msr', 'gpce', 'fase', 'icpc', 'fse', 'scam', 'ase', 'saner', 'ssbse', 're']
-conferences = ['re']
+conferences = ['icse', 'icsm', 'wcre', 'csmr', 'msr', 'gpce', 'fase', 'icpc', 'fse', 'scam', 'ase', 'saner', 'ssbse', 're', 'issta']
+conferences = ['issta']
 # conferences = sys.argv[1:]
 
 for conference in conferences:

@@ -83,4 +83,4 @@ def parse_msr_old(tree, year, writer):
     writer.writerow([year, "main", name] + details.split(", "))
 
 
-parse_csv("re")
+parse_csv("issta")

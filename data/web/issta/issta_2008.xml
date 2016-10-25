@@ -1,0 +1,120 @@
+<dblp>
+    <h2>Keynote</h2>
+
+
+<ul>
+<li id="Larus08"><a href="http://dblp.uni-trier.de/pers/hc/l/Larus:James_R=">James R. Larus</a>:<br /><b>The real value of testing.</b> 1-2<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390631"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Larus08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Larus08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Symbolic and concrete execution</h2>
+
+
+<ul>
+<li id="BeckmanNRS08"><a href="http://dblp.uni-trier.de/pers/hc/b/Beckman:Nels_E=">Nels E. Beckman</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nori:Aditya_V=">Aditya V. Nori</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rajamani:Sriram_K=">Sriram K. Rajamani</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Simmons:Robert_J=">Robert J. Simmons</a>:<br /><b>Proofs from tests.</b> 3-14<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390634"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BeckmanNRS08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BeckmanNRS08.xml">XML</a></small></small></li>
+<li id="PasareanuMBGLPP08"><a href="http://dblp.uni-trier.de/pers/hc/p/Pasareanu:Corina_S=">Corina S. Pasareanu</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mehlitz:Peter_C=">Peter C. Mehlitz</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bushnell:David_H=">David H. Bushnell</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gundy=Burlet:Karen">Karen Gundy-Burlet</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lowry:Michael_R=">Michael R. Lowry</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Person:Suzette">Suzette Person</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pape:Mark">Mark Pape</a>:<br /><b>Combining unit-level symbolic execution and system-level concrete execution for testing NASA software.</b> 15-26<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390635"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/PasareanuMBGLPP08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/PasareanuMBGLPP08.xml">XML</a></small></small></li>
+<li id="XuGM08"><a href="http://dblp.uni-trier.de/pers/hc/x/Xu:Ru=Gang">Ru-Gang Xu</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Godefroid:Patrice">Patrice Godefroid</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Majumdar:Rupak">Rupak Majumdar</a>:<br /><b>Testing for buffer overflows with length abstraction.</b> 27-38<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390636"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/XuGM08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/XuGM08.xml">XML</a></small></small></li>
+<li id="ElkarabliehMK08"><a href="http://dblp.uni-trier.de/pers/hc/e/Elkarablieh:Bassem">Bassem Elkarablieh</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marinov:Darko">Darko Marinov</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Khurshid:Sarfraz">Sarfraz Khurshid</a>:<br /><b>Efficient solving of structural constraints.</b> 39-50<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390637"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/ElkarabliehMK08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/ElkarabliehMK08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Regression testing</h2>
+
+
+<ul>
+<li id="DoR08"><a href="http://dblp.uni-trier.de/pers/hc/d/Do:Hyunsook">Hyunsook Do</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rothermel:Gregg">Gregg Rothermel</a>:<br /><b>Using sensitivity analysis to create simplified economic models for regression testing.</b> 51-62<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390639"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/DoR08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/DoR08.xml">XML</a></small></small></li>
+<li id="YoonSMP08"><a href="http://dblp.uni-trier.de/pers/hc/y/Yoon:Il=Chul">Il-Chul Yoon</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sussman:Alan">Alan Sussman</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Memon:Atif_M=">Atif M. Memon</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Porter:Adam_A=">Adam A. Porter</a>:<br /><b>Effective and scalable software compatibility testing.</b> 63-74<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390640"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/YoonSMP08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/YoonSMP08.xml">XML</a></small></small></li>
+<li id="QuCR08"><a href="http://dblp.uni-trier.de/pers/hc/q/Qu:Xiao">Xiao Qu</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cohen:Myra_B=">Myra B. Cohen</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rothermel:Gregg">Gregg Rothermel</a>:<br /><b>Configuration-aware regression testing: an empirical study of sampling and prioritization.</b> 75-86<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390641"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/QuCR08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/QuCR08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Case studies</h2>
+
+
+<ul>
+<li id="PachecoLB08"><a href="http://dblp.uni-trier.de/pers/hc/p/Pacheco:Carlos">Carlos Pacheco</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lahiri:Shuvendu_K=">Shuvendu K. Lahiri</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Ball:Thomas">Thomas Ball</a>:<br /><b>Finding errors in .net with feedback-directed random testing.</b> 87-96<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390643"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/PachecoLB08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/PachecoLB08.xml">XML</a></small></small></li>
+<li id="DorLLSW08"><a href="http://dblp.uni-trier.de/pers/hc/d/Dor:Nurit">Nurit Dor</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lev=Ami:Tal">Tal Lev-Ami</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Litvak:Shay">Shay Litvak</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sagiv:Mooly">Mooly Sagiv</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Weiss:Dror">Dror Weiss</a>:<br /><b>Customization change impact analysis for erp professionals via program slicing.</b> 97-108<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390644"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/DorLLSW08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/DorLLSW08.xml">XML</a></small></small></li>
+<li id="KondohO08"><a href="http://dblp.uni-trier.de/pers/hc/k/Kondoh:Goh">Goh Kondoh</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Onodera:Tamiya">Tamiya Onodera</a>:<br /><b>Finding bugs in java native interface programs.</b> 109-118<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390645"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/KondohO08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/KondohO08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Keynote</h2>
+
+
+<ul>
+<li id="Liblit08"><a href="http://dblp.uni-trier.de/pers/hc/l/Liblit:Ben">Ben Liblit</a>:<br /><b>Cooperative debugging with five hundred million test cases.</b> 119-120<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390632"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Liblit08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Liblit08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Metrics and threads</h2>
+
+
+<ul>
+<li id="BuseW08"><a href="http://dblp.uni-trier.de/pers/hc/b/Buse:Raymond_P=_L=">Raymond P. L. Buse</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Weimer:Westley">Westley Weimer</a>:<br /><b>A metric for software readability.</b> 121-130<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390647"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BuseW08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BuseW08.xml">XML</a></small></small></li>
+<li id="LinckeLL08"><a href="http://dblp.uni-trier.de/pers/hc/l/Lincke:R=uuml=diger">R&#252;diger Lincke</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lundberg:Jonas">Jonas Lundberg</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/L=ouml=we:Welf">Welf L&#246;we</a>:<br /><b>Comparing software metrics tools.</b> 131-142<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390648"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/LinckeLL08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/LinckeLL08.xml">XML</a></small></small></li>
+<li id="TianNGT08"><a href="http://dblp.uni-trier.de/pers/hc/t/Tian:Chen">Chen Tian</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nagarajan:Vijay">Vijay Nagarajan</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gupta:Rajiv">Rajiv Gupta</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tallam:Sriraman">Sriraman Tallam</a>:<br /><b>Dynamic recognition of synchronization operations for improved data race detection.</b> 143-154<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390649"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/TianNGT08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/TianNGT08.xml">XML</a></small></small></li>
+<li id="BoddenH08"><a href="http://dblp.uni-trier.de/pers/hc/b/Bodden:Eric">Eric Bodden</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Havelund:Klaus">Klaus Havelund</a>:<br /><b>Racer: effective race detection using aspectj.</b> 155-166<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390650"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BoddenH08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BoddenH08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Fault localization</h2>
+
+
+<ul>
+<li id="JeffreyGG08"><a href="http://dblp.uni-trier.de/pers/hc/j/Jeffrey:Dennis">Dennis Jeffrey</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gupta:Neelam">Neelam Gupta</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gupta:Rajiv">Rajiv Gupta</a>:<br /><b>Fault localization using value replacement.</b> 167-178<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390652"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/JeffreyGG08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/JeffreyGG08.xml">XML</a></small></small></li>
+<li id="EdwardsTWVD08"><a href="http://dblp.uni-trier.de/pers/hc/e/Edwards:Alex">Alex Edwards</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tucker:Sean">Sean Tucker</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Worms:S=eacute=bastien">S&#233;bastien Worms</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vaidya:Rahul">Rahul Vaidya</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Demsky:Brian">Brian Demsky</a>:<br /><b>AFID: an automated fault identification tool.</b> 179-188<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390653"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/EdwardsTWVD08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/EdwardsTWVD08.xml">XML</a></small></small></li>
+<li id="BaahPH08"><a href="http://dblp.uni-trier.de/pers/hc/b/Baah:George_K=">George K. Baah</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Podgurski:Andy">Andy Podgurski</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harrold:Mary_Jean">Mary Jean Harrold</a>:<br /><b>The probabilistic program dependence graph and its application to fault diagnosis.</b> 189-200<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390654"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BaahPH08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BaahPH08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Static analysis</h2>
+
+
+<ul>
+<li id="PapiACPE08"><a href="http://dblp.uni-trier.de/pers/hc/p/Papi:Matthew_M=">Matthew M. Papi</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Ali:Mahmood">Mahmood Ali</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Correa_Jr=:Telmo_Luis">Telmo Luis Correa Jr.</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Perkins:Jeff_H=">Jeff H. Perkins</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Ernst:Michael_D=">Michael D. Ernst</a>:<br /><b>Practical pluggable types for java.</b> 201-212<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390656"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/PapiACPE08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/PapiACPE08.xml">XML</a></small></small></li>
+<li id="LoginovYCFRN08"><a href="http://dblp.uni-trier.de/pers/hc/l/Loginov:Alexey">Alexey Loginov</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yahav:Eran">Eran Yahav</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chandra_0001:Satish">Satish Chandra</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fink:Stephen">Stephen Fink</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rinetzky:Noam">Noam Rinetzky</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nanda:Mangala_Gowri">Mangala Gowri Nanda</a>:<br /><b>Verifying dereference safety via expanding-scope analysis.</b> 213-224<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390657"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/LoginovYCFRN08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/LoginovYCFRN08.xml">XML</a></small></small></li>
+<li id="XuR08"><a href="http://dblp.uni-trier.de/pers/hc/x/Xu:Guoqing_=Harry=">Guoqing (Harry) Xu</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rountev:Atanas">Atanas Rountev</a>:<br /><b>Merging equivalent contexts for scalable heap-cloning-based context-sensitive points-to analysis.</b> 225-236<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390658"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/XuR08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/XuR08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Web and security</h2>
+
+
+<ul>
+<li id="BalzarottiBCFKRVV08"><a href="http://dblp.uni-trier.de/pers/hc/b/Balzarotti:Davide">Davide Balzarotti</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Banks:Greg">Greg Banks</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cova:Marco">Marco Cova</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Felmetsger:Viktoria">Viktoria Felmetsger</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kemmerer:Richard_A=">Richard A. Kemmerer</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Robertson:William_K=">William K. Robertson</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Valeur:Fredrik">Fredrik Valeur</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vigna:Giovanni">Giovanni Vigna</a>:<br /><b>Are your votes <i>really</i> counted?: testing the security of real-world electronic voting systems.</b> 237-248<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390660"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BalzarottiBCFKRVV08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BalzarottiBCFKRVV08.xml">XML</a></small></small></li>
+<li id="WassermannYCDIS08"><a href="http://dblp.uni-trier.de/pers/hc/w/Wassermann:Gary">Gary Wassermann</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yu:Dachuan">Dachuan Yu</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chander:Ajay">Ajay Chander</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dhurjati:Dinakar">Dinakar Dhurjati</a>, <a href="http://dblp.uni-trier.de/pers/hc/i/Inamura:Hiroshi">Hiroshi Inamura</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Su:Zhendong">Zhendong Su</a>:<br /><b>Dynamic test input generation for web applications.</b> 249-260<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390661"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/WassermannYCDIS08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/WassermannYCDIS08.xml">XML</a></small></small></li>
+<li id="ArtziKDTDPE08"><a href="http://dblp.uni-trier.de/pers/hc/a/Artzi:Shay">Shay Artzi</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kiezun:Adam">Adam Kiezun</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dolby:Julian">Julian Dolby</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tip:Frank">Frank Tip</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dig:Danny">Danny Dig</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Paradkar:Amit_M=">Amit M. Paradkar</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Ernst:Michael_D=">Michael D. Ernst</a>:<br /><b>Finding bugs in dynamic web applications.</b> 261-272<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390662"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/ArtziKDTDPE08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/ArtziKDTDPE08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Inference</h2>
+
+
+<ul>
+<li id="BuseW08a"><a href="http://dblp.uni-trier.de/pers/hc/b/Buse:Raymond_P=_L=">Raymond P. L. Buse</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Weimer:Westley">Westley Weimer</a>:<br /><b>Automatic documentation inference for exceptions.</b> 273-282<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390664"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BuseW08a.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BuseW08a.xml">XML</a></small></small></li>
+<li id="KannanS08"><a href="http://dblp.uni-trier.de/pers/hc/k/Kannan:Yamini">Yamini Kannan</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sen:Koushik">Koushik Sen</a>:<br /><b>Universal symbolic execution and its application to likely data structure invariant generation.</b> 283-294<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390665"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/KannanS08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/KannanS08.xml">XML</a></small></small></li>
+<li id="SankaranarayananCIG08"><a href="http://dblp.uni-trier.de/pers/hc/s/Sankaranarayanan:Sriram">Sriram Sankaranarayanan</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chaudhuri:Swarat">Swarat Chaudhuri</a>, <a href="http://dblp.uni-trier.de/pers/hc/i/Ivancic:Franjo">Franjo Ivancic</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gupta:Aarti">Aarti Gupta</a>:<br /><b>Dynamic inference of likely data preconditions over predicates by tree learning.</b> 295-306<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390666"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/SankaranarayananCIG08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/SankaranarayananCIG08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Workshops</h2>
+
+
+<ul>
+<li id="DevanbuMNZD08"><a href="http://dblp.uni-trier.de/pers/hc/d/Devanbu:Premkumar_T=">Premkumar T. Devanbu</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Murphy:Brendan">Brendan Murphy</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nagappan:Nachiappan">Nachiappan Nagappan</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zimmermann_0001:Thomas">Thomas Zimmermann</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dallmeier:Valentin">Valentin Dallmeier</a>:<br /><b>DEFECTS 2008: international workshop on defects in large software systems.</b> 307-308<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390668"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/DevanbuMNZD08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/DevanbuMNZD08.xml">XML</a></small></small></li>
+<li id="UrSF08"><a href="http://dblp.uni-trier.de/pers/hc/u/Ur:Shmuel">Shmuel Ur</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stoller:Scott_D=">Scott D. Stoller</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Farchi:Eitan">Eitan Farchi</a>:<br /><b>6th workshop on parallel and distributed systems: testing and debugging (PADTAD '08).</b> 309-310<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390669"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/UrSF08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/UrSF08.xml">XML</a></small></small></li>
+<li id="BultanX08"><a href="http://dblp.uni-trier.de/pers/hc/b/Bultan:Tevfik">Tevfik Bultan</a>, <a href="http://dblp.uni-trier.de/pers/hc/x/Xie:Tao">Tao Xie</a>:<br /><b>Workshop on testing, analysis and verification of web software (TAV-WEB 2008).</b> 311-312<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390670"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BultanX08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BultanX08.xml">XML</a></small></small></li>
+<li id="LiblitR08"><a href="http://dblp.uni-trier.de/pers/hc/l/Liblit:Ben">Ben Liblit</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rountev:Atanas">Atanas Rountev</a>:<br /><b>WODA 2008: the sixth international workshop on dynamic analysis.</b> 313-314<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390671"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/LiblitR08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/LiblitR08.xml">XML</a></small></small></li>
+<li id="MarinovS08"><a href="http://dblp.uni-trier.de/pers/hc/m/Marinov:Darko">Darko Marinov</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schulte:Wolfram">Wolfram Schulte</a>:<br /><b>Workshop on state-space exploration for automated testing (SSEAT 2008).</b> 315-316<br /><small><a href="http://doi.acm.org/10.1145/1390630.1390672"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/MarinovS08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/MarinovS08.xml">XML</a></small></small></li>
+</ul>
+</dblp>

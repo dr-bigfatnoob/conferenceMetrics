@@ -1,0 +1,96 @@
+<dblp>
+    <h2>Specification-based Testing and Analysis</h2>
+
+
+<ul>
+<li id="ChechikG94"><a href="http://dblp.uni-trier.de/pers/hc/c/Chechik:Marsha">Marsha Chechik</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gannon:John_D=">John D. Gannon</a>:<br /><b>Automatic Verification of Requirements Implementation.</b> 1-14<br /><small><a href="http://doi.acm.org/10.1145/186258.186324"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/ChechikG94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/ChechikG94.xml">XML</a></small></small></li>
+<li id="DouglasK94"><a href="http://dblp.uni-trier.de/pers/hc/d/Douglas:Jeffrey">Jeffrey Douglas</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kemmerer:Richard_A=">Richard A. Kemmerer</a>:<br /><b>Aslantest: A Symbolic Execution Tool for Testing Aslan Formal Specifications.</b> 15-27<br /><small><a href="http://doi.acm.org/10.1145/186258.186487"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/DouglasK94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/DouglasK94.xml">XML</a></small></small></li>
+<li id="Kapur94"><a href="http://dblp.uni-trier.de/pers/hc/k/Kapur:Deepak">Deepak Kapur</a>:<br /><b>An Automated Tool for Analyzing Completeness of Equational Specifications.</b> 28-43<br /><small><a href="http://doi.acm.org/10.1145/186258.186496"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Kapur94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Kapur94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Test Generation</h2>
+
+
+<ul>
+<li id="AvritzerW94"><a href="http://dblp.uni-trier.de/pers/hc/a/Avritzer:Alberto">Alberto Avritzer</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Weyuker:Elaine_J=">Elaine J. Weyuker</a>:<br /><b>Generating Test Suites for Software Load Testing.</b> 44-57<br /><small><a href="http://doi.acm.org/10.1145/186258.186507"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/AvritzerW94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/AvritzerW94.xml">XML</a></small></small></li>
+<li id="PetersP94"><a href="http://dblp.uni-trier.de/pers/hc/p/Peters:Dennis_K=">Dennis K. Peters</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Parnas:David_Lorge">David Lorge Parnas</a>:<br /><b>Generating a Test Oracle from Program Documentation (Work in Progress).</b> 58-65<br /><small><a href="http://doi.acm.org/10.1145/186258.186508"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/PetersP94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/PetersP94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Path Analysis and Slicing</h2>
+
+
+<ul>
+<li id="KorelY94"><a href="http://dblp.uni-trier.de/pers/hc/k/Korel:Bogdan">Bogdan Korel</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yalamanchili:Satish">Satish Yalamanchili</a>:<br /><b>Forward Computation of Dynamic Program Slices.</b> 66-79<br /><small><a href="http://doi.acm.org/10.1145/186258.186514"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/KorelY94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/KorelY94.xml">XML</a></small></small></li>
+<li id="GoldbergWZ94"><a href="http://dblp.uni-trier.de/pers/hc/g/Goldberg:Allen">Allen Goldberg</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wang:Tie=Cheng">Tie-Cheng Wang</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zimmerman:David">David Zimmerman</a>:<br /><b>Applications of Feasible Path Analysis to Program Testing.</b> 80-94<br /><small><a href="http://doi.acm.org/10.1145/186258.186523"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/GoldbergWZ94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/GoldbergWZ94.xml">XML</a></small></small></li>
+<li id="JasperBWCZ94"><a href="http://dblp.uni-trier.de/pers/hc/j/Jasper:Robert">Robert Jasper</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Brennan:Mike">Mike Brennan</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Williamson:Keith_E=">Keith E. Williamson</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Currier:Bill">Bill Currier</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zimmerman:David">David Zimmerman</a>:<br /><b>Test Data Generation and Feasible Path Analysis.</b> 95-107<br /><small><a href="http://doi.acm.org/10.1145/186258.187150"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/JasperBWCZ94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/JasperBWCZ94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Invited Paper</h2>
+
+
+<ul>
+<li id="BochmannP94"><a href="http://dblp.uni-trier.de/pers/hc/b/Bochmann:Gregor_von">Gregor von Bochmann</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Petrenko:Alexandre">Alexandre Petrenko</a>:<br /><b>Protocol Testing: Review of Methods and Relevance for Software Testing.</b> 109-124<br /><small><a href="http://doi.acm.org/10.1145/186258.187153"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BochmannP94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BochmannP94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Tools</h2>
+
+
+<ul>
+<li id="Karam94"><a href="http://dblp.uni-trier.de/pers/hc/k/Karam:Gerald_M=">Gerald M. Karam</a>:<br /><b>Visualization using Timelines.</b> 125-137<br /><small><a href="http://doi.acm.org/10.1145/186258.187157"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Karam94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Karam94.xml">XML</a></small></small></li>
+<li id="Richardson94"><a href="http://dblp.uni-trier.de/pers/hc/r/Richardson:Debra_J=">Debra J. Richardson</a>:<br /><b>TAOS: Testing with Analysis and Oracle Support.</b> 138-153<br /><small><a href="http://doi.acm.org/10.1145/186258.187158"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Richardson94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Richardson94.xml">XML</a></small></small></li>
+<li id="SiepmannN94"><a href="http://dblp.uni-trier.de/pers/hc/s/Siepmann:Ernst">Ernst Siepmann</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Newton:A=_Richard">A. Richard Newton</a>:<br /><b>TOBAC: A Test Case Browser for Testing Object-Oriented Software.</b> 154-168<br /><small><a href="http://doi.acm.org/10.1145/186258.187168"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/SiepmannN94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/SiepmannN94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Test Coverage Techniques</h2>
+
+
+<ul>
+<li id="RothermelH94"><a href="http://dblp.uni-trier.de/pers/hc/r/Rothermel:Gregg">Gregg Rothermel</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harrold:Mary_Jean">Mary Jean Harrold</a>:<br /><b>Selecting Tests and Identifying Test Coverage Requirements for Modified Software.</b> 169-184<br /><small><a href="http://doi.acm.org/10.1145/186258.187171"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/RothermelH94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/RothermelH94.xml">XML</a></small></small></li>
+<li id="FleyshgakkerW94"><a href="http://dblp.uni-trier.de/pers/hc/f/Fleyshgakker:Vladimir_N=">Vladimir N. Fleyshgakker</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Weiss:Stewart_N=">Stewart N. Weiss</a>:<br /><b>Efficient Mutation Analysis: A New Approach.</b> 185-195<br /><small><a href="http://doi.acm.org/10.1145/186258.187179"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/FleyshgakkerW94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/FleyshgakkerW94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Workshop Session 1</h2>
+
+
+<ul>
+<li id="HowdenH94"><a href="http://dblp.uni-trier.de/pers/hc/h/Howden:William_E=">William E. Howden</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Huang:Yudong">Yudong Huang</a>:<br /><b>Confidence Oriented Software Dependability Measurement (Abstract).</b> 196<br /><small><a href="http://doi.acm.org/10.1145/186258.187194"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/HowdenH94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/HowdenH94.xml">XML</a></small></small></li>
+<li id="Marcus94"><a href="http://dblp.uni-trier.de/pers/hc/m/Marcus:Leo">Leo Marcus</a>:<br /><b>The Incorporation of Testing into Verification: Direct, Modular, and Hierarchical Correctness Degrees (Abstract).</b> 197<br /><small><a href="http://doi.acm.org/10.1145/186258.187196"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Marcus94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Marcus94.xml">XML</a></small></small></li>
+<li id="Forgacs94"><a href="http://dblp.uni-trier.de/pers/hc/f/Forg=aacute=cs:Istv=aacute=n">Istv&#225;n Forg&#225;cs</a>:<br /><b>The All Program Functions Criterion for Revealing Computation Errors (Abstract).</b> 198<br /><small><a href="http://doi.acm.org/10.1145/186258.187197"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Forgacs94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Forgacs94.xml">XML</a></small></small></li>
+<li id="KnightCFW94"><a href="http://dblp.uni-trier.de/pers/hc/k/Knight:John_C=">John C. Knight</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cass:Aaron_G=">Aaron G. Cass</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fern=aacute=ndez:Antonio_M=">Antonio M. Fern&#225;ndez</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wika:Kevin_G=">Kevin G. Wika</a>:<br /><b>Testing a Safety-Critical Application.</b> 199<br /><small><a href="http://doi.acm.org/10.1145/186258.187198"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/KnightCFW94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/KnightCFW94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Workshop Session 2</h2>
+
+
+<ul>
+<li id="MurrillM94"><a href="http://dblp.uni-trier.de/pers/hc/m/Murrill:Branson_W=">Branson W. Murrill</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Morell:Larry_J=">Larry J. Morell</a>:<br /><b>An Experimental Approach to Analyzing Software Semantics Using Error Flow Information (Abstract).</b> 200<br /><small><a href="http://doi.acm.org/10.1145/186258.187200"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/MurrillM94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/MurrillM94.xml">XML</a></small></small></li>
+<li id="PollockBS94"><a href="http://dblp.uni-trier.de/pers/hc/p/Pollock:Lori_L=">Lori L. Pollock</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bivens:Mary_P=">Mary P. Bivens</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Soffa:Mary_Lou">Mary Lou Soffa</a>:<br /><b>Debugging Optimized Code Via Tailoring (Abstract).</b> 201<br /><small><a href="http://doi.acm.org/10.1145/186258.187201"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/PollockBS94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/PollockBS94.xml">XML</a></small></small></li>
+<li id="BertolinoM94"><a href="http://dblp.uni-trier.de/pers/hc/b/Bertolino:Antonia">Antonia Bertolino</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marr=eacute=:Martina">Martina Marr&#233;</a>:<br /><b>A Meaningful Bound for Branch Testing (Abstract).</b> 202<br /><small><a href="http://doi.acm.org/10.1145/186258.187203"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BertolinoM94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BertolinoM94.xml">XML</a></small></small></li>
+<li id="Young94"><a href="http://dblp.uni-trier.de/pers/hc/y/Young:Michal">Michal Young</a>:<br /><b>State-Space Analysis as an Aid to Testing (Abstract).</b> 203<br /><small><a href="http://doi.acm.org/10.1145/186258.187204"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Young94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Young94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Concurrent and Real-Time Software</h2>
+
+
+<ul>
+<li id="Corbett94"><a href="http://dblp.uni-trier.de/pers/hc/c/Corbett:James_C=">James C. Corbett</a>:<br /><b>An Empirical Evaluation of Three Methods for Deadlock Analysis of Ada Tasking Programs.</b> 204-215<br /><small><a href="http://doi.acm.org/10.1145/186258.187206"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Corbett94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Corbett94.xml">XML</a></small></small></li>
+<li id="Damodaran-KamalF94"><a href="http://dblp.uni-trier.de/pers/hc/d/Damodaran=Kamal:Suresh_K=">Suresh K. Damodaran-Kamal</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Francioni:Joan_M=">Joan M. Francioni</a>:<br /><b>Testing Races in Parallel Programs with an OtOt Strategy.</b> 216-227<br /><small><a href="http://doi.acm.org/10.1145/186258.187242"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Damodaran-KamalF94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Damodaran-KamalF94.xml">XML</a></small></small></li>
+<li id="BuyS94"><a href="http://dblp.uni-trier.de/pers/hc/b/Buy:Ugo_A=">Ugo A. Buy</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sloan:Robert_H=">Robert H. Sloan</a>:<br /><b>Analysis of Real-Time Programs with Simple Time Petri Nets.</b> 228-239<br /><small><a href="http://doi.acm.org/10.1145/186258.187243"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BuyS94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BuyS94.xml">XML</a></small></small></li>
+</ul>
+</dblp>

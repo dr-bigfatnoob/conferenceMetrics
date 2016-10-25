@@ -1,0 +1,85 @@
+<dblp>
+    <h2>Session 1:
+test case selection and generation</h2>
+
+
+<ul>
+<li id="WalcottSKR06"><a href="http://dblp.uni-trier.de/pers/hc/w/Walcott:Kristen_R=">Kristen R. Walcott</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Soffa:Mary_Lou">Mary Lou Soffa</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kapfhammer:Gregory_M=">Gregory M. Kapfhammer</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roos:Robert_S=">Robert S. Roos</a>:<br /><b>TimeAware test suite prioritization.</b> 1-12<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146240"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/WalcottSKR06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/WalcottSKR06.xml">XML</a></small></small></li>
+<li id="McMinnHBT06"><a href="http://dblp.uni-trier.de/pers/hc/m/McMinn:Phil">Phil McMinn</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Binkley:David">David Binkley</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tonella:Paolo">Paolo Tonella</a>:<br /><b>The species per path approach to SearchBased test data generation.</b> 13-24<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146241"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/McMinnHBT06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/McMinnHBT06.xml">XML</a></small></small></li>
+<li id="WhalenRHM06"><a href="http://dblp.uni-trier.de/pers/hc/w/Whalen:Michael_W=">Michael W. Whalen</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rajan:Ajitha">Ajitha Rajan</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Heimdahl:Mats_Per_Erik">Mats Per Erik Heimdahl</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Miller:Steven_P=">Steven P. Miller</a>:<br /><b>Coverage metrics for requirements-based testing.</b> 25-36<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146242"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/WhalenRHM06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/WhalenRHM06.xml">XML</a></small></small></li>
+<li id="VisserPP06"><a href="http://dblp.uni-trier.de/pers/hc/v/Visser:Willem">Willem Visser</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pasareanu:Corina_S=">Corina S. Pasareanu</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pel=aacute=nek:Radek">Radek Pel&#225;nek</a>:<br /><b>Test input generation for java containers using state matching.</b> 37-48<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146243"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/VisserPP06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/VisserPP06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session 2:
+empirical studies</h2>
+
+
+<ul>
+<li id="RuthruffER06"><a href="http://dblp.uni-trier.de/pers/hc/r/Ruthruff:Joseph_R=">Joseph R. Ruthruff</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Elbaum:Sebastian_G=">Sebastian G. Elbaum</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rothermel:Gregg">Gregg Rothermel</a>:<br /><b>Experimental program analysis: a new program analysis paradigm.</b> 49-60<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146245"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/RuthruffER06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/RuthruffER06.xml">XML</a></small></small></li>
+<li id="BellOW06"><a href="http://dblp.uni-trier.de/pers/hc/b/Bell:Robert_M=">Robert M. Bell</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Ostrand:Thomas_J=">Thomas J. Ostrand</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Weyuker:Elaine_J=">Elaine J. Weyuker</a>:<br /><b>Looking for bugs in all the right places.</b> 61-72<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146246"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BellOW06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BellOW06.xml">XML</a></small></small></li>
+<li id="Wagner06"><a href="http://dblp.uni-trier.de/pers/hc/w/Wagner_0001:Stefan">Stefan Wagner</a>:<br /><b>A model and sensitivity analysis of the quality economics of defect-detection techniques.</b> 73-84<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146247"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Wagner06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Wagner06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session 3:
+modular reasoning</h2>
+
+
+<ul>
+<li id="Hamlet06"><a href="http://dblp.uni-trier.de/pers/hc/h/Hamlet:Dick">Dick Hamlet</a>:<br /><b>Subdomain testing of units and systems with state.</b> 85-96<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146249"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Hamlet06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Hamlet06.xml">XML</a></small></small></li>
+<li id="CobleighAC06"><a href="http://dblp.uni-trier.de/pers/hc/c/Cobleigh:Jamieson_M=">Jamieson M. Cobleigh</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Avrunin:George_S=">George S. Avrunin</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Clarke:Lori_A=">Lori A. Clarke</a>:<br /><b>Breaking up is hard to do: an investigation of decomposition for assume-guarantee reasoning.</b> 97-108<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146250"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/CobleighAC06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/CobleighAC06.xml">XML</a></small></small></li>
+<li id="DennisCJ06"><a href="http://dblp.uni-trier.de/pers/hc/d/Dennis:Greg">Greg Dennis</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chang:Felix_Sheng=Ho">Felix Sheng-Ho Chang</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jackson:Daniel">Daniel Jackson</a>:<br /><b>Modular verification of code with SAT.</b> 109-120<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146251"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/DennisCJ06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/DennisCJ06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session 4:
+static analysis</h2>
+
+
+<ul>
+<li id="CentonzeNFP06"><a href="http://dblp.uni-trier.de/pers/hc/c/Centonze:Paolina">Paolina Centonze</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Naumovich:Gleb">Gleb Naumovich</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fink:Stephen_J=">Stephen J. Fink</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pistoia:Marco">Marco Pistoia</a>:<br /><b>Role-Based access control consistency validation.</b> 121-132<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146253"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/CentonzeNFP06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/CentonzeNFP06.xml">XML</a></small></small></li>
+<li id="FinkYDRG06"><a href="http://dblp.uni-trier.de/pers/hc/f/Fink:Stephen_J=">Stephen J. Fink</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yahav:Eran">Eran Yahav</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dor:Nurit">Nurit Dor</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ramalingam:G=">G. Ramalingam</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Geay:Emmanuel">Emmanuel Geay</a>:<br /><b>Effective typestate verification in the presence of aliasing.</b> 133-144<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146254"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/FinkYDRG06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/FinkYDRG06.xml">XML</a></small></small></li>
+<li id="YorshBS06"><a href="http://dblp.uni-trier.de/pers/hc/y/Yorsh:Greta">Greta Yorsh</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Ball:Thomas">Thomas Ball</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sagiv:Mooly">Mooly Sagiv</a>:<br /><b>Testing, abstraction, theorem proving: better together!</b> 145-156<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146255"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/YorshBS06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/YorshBS06.xml">XML</a></small></small></li>
+<li id="SiegelMAC06"><a href="http://dblp.uni-trier.de/pers/hc/s/Siegel:Stephen_F=">Stephen F. Siegel</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mironova:Anastasia">Anastasia Mironova</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Avrunin:George_S=">George S. Avrunin</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Clarke:Lori_A=">Lori A. Clarke</a>:<br /><b>Using model checking with symbolic execution to verify parallel numerical programs.</b> 157-168<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146256"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/SiegelMAC06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/SiegelMAC06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session 5:
+test execution</h2>
+
+
+<ul>
+<li id="BoshernitsanDS06"><a href="http://dblp.uni-trier.de/pers/hc/b/Boshernitsan:Marat">Marat Boshernitsan</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Doong:Roong=Ko">Roong-Ko Doong</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Savoia:Alberto">Alberto Savoia</a>:<br /><b>From daikon to agitator: lessons and challenges in building a commercial tool for developer testing.</b> 169-180<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146258"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BoshernitsanDS06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BoshernitsanDS06.xml">XML</a></small></small></li>
+<li id="KiviluomaKM06"><a href="http://dblp.uni-trier.de/pers/hc/k/Kiviluoma:Kimmo">Kimmo Kiviluoma</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Koskinen:Johannes">Johannes Koskinen</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mikkonen:Tommi">Tommi Mikkonen</a>:<br /><b>Run-time monitoring of architecturally significant behaviors using behavioral profiles and aspects.</b> 181-190<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146259"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/KiviluomaKM06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/KiviluomaKM06.xml">XML</a></small></small></li>
+<li id="ZhangKPWJMZ06"><a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Xiaolan">Xiaolan Zhang</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Koved:Larry">Larry Koved</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pistoia:Marco">Marco Pistoia</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Weber:Sam">Sam Weber</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jaeger:Trent">Trent Jaeger</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marceau:Guillaume">Guillaume Marceau</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zeng:Liangzhao">Liangzhao Zeng</a>:<br /><b>The case for analysis preserving language transformation.</b> 191-202<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146260"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/ZhangKPWJMZ06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/ZhangKPWJMZ06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session 6:
+test automation</h2>
+
+
+<ul>
+<li id="TkachukR06"><a href="http://dblp.uni-trier.de/pers/hc/t/Tkachuk:Oksana">Oksana Tkachuk</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rajan:Sreeranga_P=">Sreeranga P. Rajan</a>:<br /><b>Application of automated environment generation to commercial software.</b> 203-214<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146262"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/TkachukR06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/TkachukR06.xml">XML</a></small></small></li>
+<li id="SevcikovaBSB06"><a href="http://dblp.uni-trier.de/pers/hc/s/Sevcikova:Hana">Hana Sevcikova</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Borning:Alan">Alan Borning</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Socha:David">David Socha</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bleek:Wolf=Gideon">Wolf-Gideon Bleek</a>:<br /><b>Automated testing of stochastic systems: a statistically grounded approach.</b> 215-224<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146263"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/SevcikovaBSB06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/SevcikovaBSB06.xml">XML</a></small></small></li>
+<li id="LenceviciusM06"><a href="http://dblp.uni-trier.de/pers/hc/l/Lencevicius:Raimondas">Raimondas Lencevicius</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Metz:Edu">Edu Metz</a>:<br /><b>Performance assertions for mobile devices.</b> 225-232<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146264"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/LenceviciusM06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/LenceviciusM06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session 7:
+dynamic analysis</h2>
+
+
+<ul>
+<li id="DemskyEGMPR06"><a href="http://dblp.uni-trier.de/pers/hc/d/Demsky:Brian">Brian Demsky</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Ernst:Michael_D=">Michael D. Ernst</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Guo:Philip_J=">Philip J. Guo</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/McCamant:Stephen">Stephen McCamant</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Perkins:Jeff_H=">Jeff H. Perkins</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rinard:Martin_C=">Martin C. Rinard</a>:<br /><b>Inference and enforcement of data structure consistency specifications.</b> 233-244<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146266"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/DemskyEGMPR06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/DemskyEGMPR06.xml">XML</a></small></small></li>
+<li id="CsallnerS06"><a href="http://dblp.uni-trier.de/pers/hc/c/Csallner:Christoph">Christoph Csallner</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Smaragdakis:Yannis">Yannis Smaragdakis</a>:<br /><b>DSD-Crasher: a hybrid analysis tool for bug finding.</b> 245-254<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146267"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/CsallnerS06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/CsallnerS06.xml">XML</a></small></small></li>
+<li id="GuoPME06"><a href="http://dblp.uni-trier.de/pers/hc/g/Guo:Philip_J=">Philip J. Guo</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Perkins:Jeff_H=">Jeff H. Perkins</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/McCamant:Stephen">Stephen McCamant</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Ernst:Michael_D=">Michael D. Ernst</a>:<br /><b>Dynamic inference of abstract types.</b> 255-265<br /><small><a href="http://doi.acm.org/10.1145/1146238.1146268"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/GuoPME06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/GuoPME06.xml">XML</a></small></small></li>
+</ul>
+</dblp>

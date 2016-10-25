@@ -1,0 +1,101 @@
+<dblp>
+    <h2>Invited Presentation</h2>
+
+
+<ul>
+<li id="Blum93"><a href="http://dblp.uni-trier.de/pers/hc/b/Blum:Manuel">Manuel Blum</a>:<br /><b>Designing Programs to Check Their Work (Abstract).</b> 1<br /><small><a href="http://doi.acm.org/10.1145/154183.154185"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Blum93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Blum93.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Specification-based Testing and Analysis</h2>
+
+
+<ul>
+<li id="Woit93"><a href="http://dblp.uni-trier.de/pers/hc/w/Woit:Denise_M=">Denise M. Woit</a>:<br /><b>Specifying Operational Profiles for Modules.</b> 2-10<br /><small><a href="http://doi.acm.org/10.1145/154183.154187"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Woit93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Woit93.xml">XML</a></small></small></li>
+<li id="StocksC93"><a href="http://dblp.uni-trier.de/pers/hc/s/Stocks:Phil">Phil Stocks</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Carrington:David_A=">David A. Carrington</a>:<br /><b>Test Template Framework: A Specification-Based Testing Case Study.</b> 11-18<br /><small><a href="http://doi.acm.org/10.1145/154183.154190"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/StocksC93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/StocksC93.xml">XML</a></small></small></li>
+<li id="Jackson93"><a href="http://dblp.uni-trier.de/pers/hc/j/Jackson:Daniel">Daniel Jackson</a>:<br /><b>Abstract Analysis with Aspect.</b> 19-27<br /><small><a href="http://doi.acm.org/10.1145/154183.154192"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Jackson93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Jackson93.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Concurrency Analysis</h2>
+
+
+<ul>
+<li id="FelderGP93"><a href="http://dblp.uni-trier.de/pers/hc/f/Felder:Miguel">Miguel Felder</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Ghezzi:Carlo">Carlo Ghezzi</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pezz=egrave=:Mauro">Mauro Pezz&#232;</a>:<br /><b>Analyzing Refinements of State Based Specifications: The Case of TB Nets.</b> 28-39<br /><small><a href="http://doi.acm.org/10.1145/154183.154193"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/FelderGP93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/FelderGP93.xml">XML</a></small></small></li>
+<li id="LevineT93"><a href="http://dblp.uni-trier.de/pers/hc/l/Levine:David_L=">David L. Levine</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Taylor:Richard_N=">Richard N. Taylor</a>:<br /><b>Metric-Driven Reengineering for Static Concurrency Analysis.</b> 40-50<br /><small><a href="http://doi.acm.org/10.1145/154183.154196"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/LevineT93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/LevineT93.xml">XML</a></small></small></li>
+<li id="DuriBDS93"><a href="http://dblp.uni-trier.de/pers/hc/d/Duri:Sastry">Sastry Duri</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Buy:Ugo_A=">Ugo A. Buy</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Devarapalli:R=">R. Devarapalli</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Shatz:Sol_M=">Sol M. Shatz</a>:<br /><b>Using State Space Reduction Methods for Deadlock Analysis in Ada Tasking.</b> 51-60<br /><small><a href="http://doi.acm.org/10.1145/154183.154197"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/DuriBDS93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/DuriBDS93.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Environment Support for Testing</h2>
+
+
+<ul>
+<li id="Vogel93"><a href="http://dblp.uni-trier.de/pers/hc/v/Vogel:Peter_A=">Peter A. Vogel</a>:<br /><b>An Integrated General Purpose Automated Test Environment.</b> 61-69<br /><small><a href="http://doi.acm.org/10.1145/154183.154200"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Vogel93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Vogel93.xml">XML</a></small></small></li>
+<li id="BelliJ93"><a href="http://dblp.uni-trier.de/pers/hc/b/Belli:Fevzi">Fevzi Belli</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jack:Oliver">Oliver Jack</a>:<br /><b>Implementation-Based Analysis and Testing of Prolog Programs.</b> 70-80<br /><small><a href="http://doi.acm.org/10.1145/154183.154203"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BelliJ93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BelliJ93.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Invited Presentation</h2>
+
+
+<ul>
+<li id="Modes93"><a href="http://dblp.uni-trier.de/pers/hc/m/Modes:Ronald_W=">Ronald W. Modes</a>:<br /><b>Structured IV&#38;V for the Space Shuttle Flight Software.</b> 81<br /><small><a href="http://doi.acm.org/10.1145/154183.154205"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Modes93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Modes93.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Statistical Approaches to Testing</h2>
+
+
+<ul>
+<li id="AvritzerL93"><a href="http://dblp.uni-trier.de/pers/hc/a/Avritzer:Alberto">Alberto Avritzer</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Larson:Brian">Brian Larson</a>:<br /><b>Load Testing Software Using Deterministic State Testing.</b> 82-88<br /><small><a href="http://doi.acm.org/10.1145/154183.154244"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/AvritzerL93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/AvritzerL93.xml">XML</a></small></small></li>
+<li id="HamletV93"><a href="http://dblp.uni-trier.de/pers/hc/h/Hamlet:Richard_G=">Richard G. Hamlet</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Voas:Jeffrey_M=">Jeffrey M. Voas</a>:<br /><b>Faults on Its Sleeve: Amplifying Software Reliability Testing.</b> 89-98<br /><small><a href="http://doi.acm.org/10.1145/154183.154246"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/HamletV93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/HamletV93.xml">XML</a></small></small></li>
+<li id="Thevenod-FosseW93"><a href="http://dblp.uni-trier.de/pers/hc/t/Th=eacute=venod=Fosse:Pascale">Pascale Th&#233;venod-Fosse</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Waeselynck:H=eacute=l=egrave=ne">H&#233;l&#232;ne Waeselynck</a>:<br /><b>STATEMATE Applied to Statistical Software Testing.</b> 99-109<br /><small><a href="http://doi.acm.org/10.1145/154183.154262"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Thevenod-FosseW93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Thevenod-FosseW93.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Real-Time Analysis</h2>
+
+
+<ul>
+<li id="CorbettA93"><a href="http://dblp.uni-trier.de/pers/hc/c/Corbett:James_C=">James C. Corbett</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Avrunin:George_S=">George S. Avrunin</a>:<br /><b>A Practical Technique for Bounding the Time Between Events in Concurrent Real-Time Systems.</b> 110-116<br /><small><a href="http://doi.acm.org/10.1145/154183.154263"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/CorbettA93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/CorbettA93.xml">XML</a></small></small></li>
+<li id="AtleeG93"><a href="http://dblp.uni-trier.de/pers/hc/a/Atlee:Joanne_M=">Joanne M. Atlee</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gannon:John_D=">John D. Gannon</a>:<br /><b>Analyzing Timing Requirements.</b> 117-127<br /><small><a href="http://doi.acm.org/10.1145/154183.154264"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/AtleeG93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/AtleeG93.xml">XML</a></small></small></li>
+<li id="Coen-PorisiniK93"><a href="http://dblp.uni-trier.de/pers/hc/c/Coen=Porisini:Alberto">Alberto Coen-Porisini</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kemmerer:Richard_A=">Richard A. Kemmerer</a>:<br /><b>The Composability of ASTRAL Realtime Specifications.</b> 128-138<br /><small><a href="http://doi.acm.org/10.1145/154183.154271"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Coen-PorisiniK93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Coen-PorisiniK93.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Mutation Testing</h2>
+
+
+<ul>
+<li id="UntchOH93"><a href="http://dblp.uni-trier.de/pers/hc/u/Untch:Roland_H=">Roland H. Untch</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Offutt:A=_Jefferson">A. Jefferson Offutt</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harrold:Mary_Jean">Mary Jean Harrold</a>:<br /><b>Mutation Analysis Using Mutant Schemata.</b> 139-148<br /><small><a href="http://doi.acm.org/10.1145/154183.154265"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/UntchOH93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/UntchOH93.xml">XML</a></small></small></li>
+<li id="WeissF93"><a href="http://dblp.uni-trier.de/pers/hc/w/Weiss:Stewart_N=">Stewart N. Weiss</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fleyshgakker:Vladimir_N=">Vladimir N. Fleyshgakker</a>:<br /><b>Improved Serial Algorithms for Mutation Analysis.</b> 149-158<br /><small><a href="http://doi.acm.org/10.1145/154183.154266"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/WeissF93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/WeissF93.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Invited Presentation</h2>
+
+
+<ul>
+<li id="Miller93"><a href="http://dblp.uni-trier.de/pers/hc/m/Miller:Edward_F=">Edward F. Miller</a>:<br /><b>Exploitation of Software Test Technology (Abstract).</b> 159<br /><small><a href="http://doi.acm.org/10.1145/154183.154267"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Miller93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Miller93.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Dependency Analysis</h2>
+
+
+<ul>
+<li id="HarroldMR93"><a href="http://dblp.uni-trier.de/pers/hc/h/Harrold:Mary_Jean">Mary Jean Harrold</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Malloy:Brian_A=">Brian A. Malloy</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rothermel:Gregg">Gregg Rothermel</a>:<br /><b>Efficient Construction of Program Dependence Graphs.</b> 160-170<br /><small><a href="http://doi.acm.org/10.1145/154183.154268"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/HarroldMR93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/HarroldMR93.xml">XML</a></small></small></li>
+<li id="Goradia93"><a href="http://dblp.uni-trier.de/pers/hc/g/Goradia:Tarak">Tarak Goradia</a>:<br /><b>Dynamic Impact Analysis: A Cost-Effective Technique to Enforce Error-Propagation.</b> 171-181<br /><small><a href="http://doi.acm.org/10.1145/154183.154269"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Goradia93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Goradia93.xml">XML</a></small></small></li>
+<li id="ThompsonRC93"><a href="http://dblp.uni-trier.de/pers/hc/t/Thompson:Margaret_C=">Margaret C. Thompson</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Richardson:Debra_J=">Debra J. Richardson</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Clarke:Lori_A=">Lori A. Clarke</a>:<br /><b>An Information Flow Model of Fault Detection.</b> 182-192<br /><small><a href="http://doi.acm.org/10.1145/154183.154270"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/ThompsonRC93.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/ThompsonRC93.xml">XML</a></small></small></li>
+</ul>
+</dblp>

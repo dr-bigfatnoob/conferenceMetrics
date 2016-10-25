@@ -22,6 +22,7 @@ ICSM_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/icsm/"
 SCAM_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/scam/"
 SSBSE_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/ssbse/"
 RE_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/re/"
+ISSTA_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/issta/"
 
 
 def parse_saner():
@@ -78,7 +79,8 @@ def parse_dblp_old(base_uri, conf):
           if e.code == 429:
             print "SLEEPING FOR 1 min"
             time.sleep(60)
-            year, authors, title, pages, page_count = format_dblp_xml(base_uri + item.attrib["id"] + ".xml")
+            year, authors, title, pages, page_count = format_dblp_xml(get_link_uri(item))
+            # year, authors, title, pages, page_count = format_dblp_xml(base_uri + item.attrib["id"] + ".xml")
           else:
             raise
         writer.writerow([year, authors, title, pages, page_count, topic, ""])
@@ -111,5 +113,5 @@ def get_link_uri(item):
     return a[0].attrib["href"]
   return None
 
-parse_dblp_old(RE_BASE_URI, 're')
+parse_dblp_old(ISSTA_BASE_URI, 'issta')
 # parse_saner()

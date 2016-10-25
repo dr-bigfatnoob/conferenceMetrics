@@ -30,8 +30,8 @@ from nameMap import nameMap
 
 DATA_PATH = os.path.abspath("../../data")
 
-CONFERENCES = ['icse', 'icsm', 'wcre', 'csmr', 'msr', 'gpce', 'fase', 'icpc', 'fse', 'scam', 'ase', 'saner', 'ssbse', 're']
-# CONFERENCES = ['re']
+CONFERENCES = ['icse', 'icsm', 'wcre', 'csmr', 'msr', 'gpce', 'fase', 'icpc', 'fse', 'scam', 'ase', 'saner', 'ssbse', 're', 'issta']
+CONFERENCES = ['issta']
 
 # Conference impact computed for the entire period 2000-2013
 # http://shine.icomp.ufam.edu.br/index.php
@@ -49,7 +49,8 @@ IMPACT = {
     'ASE':55,
     'SANER':-1,
     'SSBSE': -1,
-    'RE' : -1
+    'RE' : -1,
+    'ISSTA': -1
 }
 
 #schema_name = "conferences"

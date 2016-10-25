@@ -1,0 +1,113 @@
+<dblp>
+    <h2>Technical session 1:
+formal verification and analysis</h2>
+
+
+<ul>
+<li id="GodefroidK10"><a href="http://dblp.uni-trier.de/pers/hc/g/Godefroid:Patrice">Patrice Godefroid</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kinder:Johannes">Johannes Kinder</a>:<br /><b>Proving memory safety of floating-point computations by combining static and dynamic program analysis.</b> 1-12<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831710"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/GodefroidK10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/GodefroidK10.xml">XML</a></small></small></li>
+<li id="BaoZLZX10"><a href="http://dblp.uni-trier.de/pers/hc/b/Bao:Tao">Tao Bao</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zheng:Yunhui">Yunhui Zheng</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lin:Zhiqiang">Zhiqiang Lin</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Xiangyu">Xiangyu Zhang</a>, <a href="http://dblp.uni-trier.de/pers/hc/x/Xu:Dongyan">Dongyan Xu</a>:<br /><b>Strict control dependence and its effect on dynamic information flow analyses.</b> 13-24<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831711"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BaoZLZX10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BaoZLZX10.xml">XML</a></small></small></li>
+<li id="GaleottiRPF10"><a href="http://dblp.uni-trier.de/pers/hc/g/Galeotti:Juan_P=">Juan P. Galeotti</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rosner:Nicol=aacute=s">Nicol&#225;s Rosner</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pombo:Carlos_L=oacute=pez">Carlos L&#243;pez Pombo</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Frias:Marcelo_F=">Marcelo F. Frias</a>:<br /><b>Analysis of invariants for efficient bounded verification.</b> 25-36<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831712"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/GaleottiRPF10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/GaleottiRPF10.xml">XML</a></small></small></li>
+<li id="CarbinR10"><a href="http://dblp.uni-trier.de/pers/hc/c/Carbin:Michael">Michael Carbin</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rinard:Martin_C=">Martin C. Rinard</a>:<br /><b>Automatically identifying critical input regions and code in applications.</b> 37-48<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831713"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/CarbinR10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/CarbinR10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Technical session 2:
+debugging</h2>
+
+
+<ul>
+<li id="ArtziDTP10"><a href="http://dblp.uni-trier.de/pers/hc/a/Artzi:Shay">Shay Artzi</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dolby:Julian">Julian Dolby</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tip:Frank">Frank Tip</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pistoia:Marco">Marco Pistoia</a>:<br /><b>Directed test generation for effective fault localization.</b> 49-60<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831715"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/ArtziDTP10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/ArtziDTP10.xml">XML</a></small></small></li>
+<li id="WeiPFSBMZ10"><a href="http://dblp.uni-trier.de/pers/hc/w/Wei:Yi">Yi Wei</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pei_0001:Yu">Yu Pei</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Furia:Carlo_A=">Carlo A. Furia</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Silva:Lucas_Serpa">Lucas Serpa Silva</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Buchholz:Stefan">Stefan Buchholz</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Meyer:Bertrand">Bertrand Meyer</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zeller:Andreas">Andreas Zeller</a>:<br /><b>Automated fixing of programs with contracts.</b> 61-72<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831716"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/WeiPFSBMZ10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/WeiPFSBMZ10.xml">XML</a></small></small></li>
+<li id="BaahPH10"><a href="http://dblp.uni-trier.de/pers/hc/b/Baah:George_K=">George K. Baah</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Podgurski:Andy">Andy Podgurski</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harrold:Mary_Jean">Mary Jean Harrold</a>:<br /><b>Causal inference for statistical fault localization.</b> 73-84<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831717"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/BaahPH10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/BaahPH10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Technical session 3:
+mining and taxonomies</h2>
+
+
+<ul>
+<li id="DallmeierKMHZ10"><a href="http://dblp.uni-trier.de/pers/hc/d/Dallmeier:Valentin">Valentin Dallmeier</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Knopp:Nikolai">Nikolai Knopp</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mallon:Christoph">Christoph Mallon</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hack:Sebastian">Sebastian Hack</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zeller:Andreas">Andreas Zeller</a>:<br /><b>Generating test cases for specification mining.</b> 85-96<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831719"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/DallmeierKMHZ10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/DallmeierKMHZ10.xml">XML</a></small></small></li>
+<li id="DobolyiW10"><a href="http://dblp.uni-trier.de/pers/hc/d/Dobolyi:Kinga">Kinga Dobolyi</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Weimer:Westley">Westley Weimer</a>:<br /><b>Modeling consumer-perceived web application fault severities for testing.</b> 97-106<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831720"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/DobolyiW10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/DobolyiW10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Technical session 4:
+anomaly detection</h2>
+
+
+<ul>
+<li id="KwonS10"><a href="http://dblp.uni-trier.de/pers/hc/k/Kwon:Taeho">Taeho Kwon</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Su:Zhendong">Zhendong Su</a>:<br /><b>Automatic detection of unsafe component loadings.</b> 107-118<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831722"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/KwonS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/KwonS10.xml">XML</a></small></small></li>
+<li id="GruskaWZ10"><a href="http://dblp.uni-trier.de/pers/hc/g/Gruska:Natalie">Natalie Gruska</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wasylkowski:Andrzej">Andrzej Wasylkowski</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zeller:Andreas">Andreas Zeller</a>:<br /><b>Learning from 6, 000 projects: lightweight cross-project anomaly detection.</b> 119-130<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831723"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/GruskaWZ10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/GruskaWZ10.xml">XML</a></small></small></li>
+<li id="TangBLS10"><a href="http://dblp.uni-trier.de/pers/hc/t/Tang:Enyi">Enyi Tang</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Barr:Earl_T=">Earl T. Barr</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Li:Xuandong">Xuandong Li</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Su:Zhendong">Zhendong Su</a>:<br /><b>Perturbing numerical calculations for statistical analysis of floating-point program (in)stability.</b> 131-142<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831724"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/TangBLS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/TangBLS10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Doctoral symposium</h2>
+
+
+<ul>
+<li id="Jiang10"><a href="http://dblp.uni-trier.de/pers/hc/j/Jiang:Zhen_Ming">Zhen Ming Jiang</a>:<br /><b>Automated analysis of load testing results.</b> 143-146<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831726"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Jiang10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Jiang10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Technical session 5:
+test input generation and fuzzing</h2>
+
+
+<ul>
+<li id="FraserZ10"><a href="http://dblp.uni-trier.de/pers/hc/f/Fraser:Gordon">Gordon Fraser</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zeller:Andreas">Andreas Zeller</a>:<br /><b>Mutation-driven generation of unit tests and oracles.</b> 147-158<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831728"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/FraserZ10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/FraserZ10.xml">XML</a></small></small></li>
+<li id="JaygarlKXC10"><a href="http://dblp.uni-trier.de/pers/hc/j/Jaygarl:Hojun">Hojun Jaygarl</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kim:Sunghun">Sunghun Kim</a>, <a href="http://dblp.uni-trier.de/pers/hc/x/Xie:Tao">Tao Xie</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chang:Carl_K=">Carl K. Chang</a>:<br /><b>OCAT: object capture-based automated testing.</b> 159-170<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831729"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/JaygarlKXC10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/JaygarlKXC10.xml">XML</a></small></small></li>
+<li id="MartignoniPRB10"><a href="http://dblp.uni-trier.de/pers/hc/m/Martignoni:Lorenzo">Lorenzo Martignoni</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Paleari:Roberto">Roberto Paleari</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roglia:Giampaolo_Fresi">Giampaolo Fresi Roglia</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bruschi:Danilo">Danilo Bruschi</a>:<br /><b>Testing system virtual machines.</b> 171-182<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831730"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/MartignoniPRB10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/MartignoniPRB10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Technical session 6:
+symbolic execution</h2>
+
+
+<ul>
+<li id="StaatsP10"><a href="http://dblp.uni-trier.de/pers/hc/s/Staats:Matt">Matt Staats</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pasareanu:Corina_S=">Corina S. Pasareanu</a>:<br /><b>Parallel symbolic execution for structural test generation.</b> 183-194<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831732"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/StaatsP10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/StaatsP10.xml">XML</a></small></small></li>
+<li id="SantelicesH10"><a href="http://dblp.uni-trier.de/pers/hc/s/Santelices:Ra=uacute=l_A=">Ra&#250;l A. Santelices</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harrold:Mary_Jean">Mary Jean Harrold</a>:<br /><b>Exploiting program dependencies for scalable multiple-path symbolic execution.</b> 195-206<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831733"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/SantelicesH10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/SantelicesH10.xml">XML</a></small></small></li>
+<li id="DanielGM10"><a href="http://dblp.uni-trier.de/pers/hc/d/Daniel:Brett">Brett Daniel</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gvero:Tihomir">Tihomir Gvero</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marinov:Darko">Darko Marinov</a>:<br /><b>On test repair using symbolic execution.</b> 207-218<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831734"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/DanielGM10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/DanielGM10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Technical session 7:
+empirical studies</h2>
+
+
+<ul>
+<li id="ArcuriIB10"><a href="http://dblp.uni-trier.de/pers/hc/a/Arcuri:Andrea">Andrea Arcuri</a>, <a href="http://dblp.uni-trier.de/pers/hc/i/Iqbal:Muhammad_Zohaib_Z=">Muhammad Zohaib Z. Iqbal</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Briand:Lionel_C=">Lionel C. Briand</a>:<br /><b>Formal analysis of the effectiveness and predictability of random testing.</b> 219-230<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831736"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/ArcuriIB10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/ArcuriIB10.xml">XML</a></small></small></li>
+<li id="KettunenKTS10"><a href="http://dblp.uni-trier.de/pers/hc/k/Kettunen:Vesa">Vesa Kettunen</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kasurinen:Jussi">Jussi Kasurinen</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Taipale:Ossi">Ossi Taipale</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Smolander:Kari">Kari Smolander</a>:<br /><b>A study on agility and testing processes in software organizations.</b> 231-240<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831737"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/KettunenKTS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/KettunenKTS10.xml">XML</a></small></small></li>
+<li id="AyewahP10"><a href="http://dblp.uni-trier.de/pers/hc/a/Ayewah:Nathaniel">Nathaniel Ayewah</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pugh:William">William Pugh</a>:<br /><b>The Google FindBugs fixit.</b> 241-252<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831738"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/AyewahP10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/AyewahP10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Technical session 8:
+concurrency and differential testing</h2>
+
+
+<ul>
+<li id="WeeratungeZSJ10"><a href="http://dblp.uni-trier.de/pers/hc/w/Weeratunge:Dasarath">Dasarath Weeratunge</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Xiangyu">Xiangyu Zhang</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sumner:William_N=">William N. Sumner</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jagannathan:Suresh">Suresh Jagannathan</a>:<br /><b>Analyzing concurrency bugs using dual slicing.</b> 253-264<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831740"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/WeeratungeZSJ10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/WeeratungeZSJ10.xml">XML</a></small></small></li>
+<li id="PaleariMRB10"><a href="http://dblp.uni-trier.de/pers/hc/p/Paleari:Roberto">Roberto Paleari</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Martignoni:Lorenzo">Lorenzo Martignoni</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roglia:Giampaolo_Fresi">Giampaolo Fresi Roglia</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bruschi:Danilo">Danilo Bruschi</a>:<br /><b>N-version disassembly: differential testing of x86 disassemblers.</b> 265-274<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831741"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/PaleariMRB10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/PaleariMRB10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Formal demos</h2>
+
+
+<ul>
+<li id="OstrandW10"><a href="http://dblp.uni-trier.de/pers/hc/o/Ostrand:Thomas_J=">Thomas J. Ostrand</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Weyuker:Elaine_J=">Elaine J. Weyuker</a>:<br /><b>Software fault prediction tool.</b> 275-278<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831743"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/OstrandW10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/OstrandW10.xml">XML</a></small></small></li>
+<li id="Romero-MarionaZR10"><a href="http://dblp.uni-trier.de/pers/hc/r/Romero=Mariona:Jose">Jose Romero-Mariona</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Ziv:Hadar">Hadar Ziv</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Richardson:Debra_J=">Debra J. Richardson</a>:<br /><b>ASSURE: automated support for secure and usable requirements engineering.</b> 279-282<br /><small><a href="http://doi.acm.org/10.1145/1831708.1831744"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/issta/Romero-MarionaZR10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/issta/Romero-MarionaZR10.xml">XML</a></small></small></li>
+</ul>
+</dblp>
