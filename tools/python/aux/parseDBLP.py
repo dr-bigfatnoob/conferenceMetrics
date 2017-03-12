@@ -23,6 +23,8 @@ SCAM_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/scam/"
 SSBSE_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/ssbse/"
 RE_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/re/"
 ISSTA_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/issta/"
+ICST_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/icst/"
+ESEM_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/esem/"
 
 
 def parse_saner():
@@ -99,7 +101,7 @@ def format_dblp_xml(xml_uri):
     pages = pages[0].text
     splits = pages.strip().split("-")
     if len(splits) > 1 and splits[1] and splits[0]:
-      page_count = str(int(splits[1]) - int(splits[0]) + 1)
+      page_count = str(int(splits[1].split(":")[-1]) - int(splits[0].split(":")[-1]) + 1)
     else:
       page_count = "1"
   else:
@@ -113,5 +115,5 @@ def get_link_uri(item):
     return a[0].attrib["href"]
   return None
 
-parse_dblp_old(ISSTA_BASE_URI, 'issta')
+parse_dblp_old(ICST_BASE_URI, 'esem')
 # parse_saner()

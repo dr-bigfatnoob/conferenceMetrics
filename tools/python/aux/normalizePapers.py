@@ -7,15 +7,15 @@ sys.path.append('..')
 from dictUtils import MyDict
 from unicodeMagic import UnicodeReader, UnicodeWriter
 from unidecode import unidecode
-from nameMap import nameMap
 from nameMagic import normaliseName, directLookup, reverseLookup
 
 
 dataPath = os.path.abspath("../../../data")
 
 
-conferences = ['icse', 'icsm', 'wcre', 'csmr', 'msr', 'gpce', 'fase', 'icpc', 'fse', 'scam', 'ase', 'saner', 'ssbse', 're', 'issta']
-conferences = ['issta']
+conferences = ['icse', 'icsm', 'wcre', 'csmr', 'msr', 'gpce', 'fase', 'icpc', 'fse',
+               'scam', 'ase', 'saner', 'ssbse', 're', 'issta', 'icst', 'esem']
+conferences = ['icst']
 # conferences = sys.argv[1:]
 
 for conference in conferences:

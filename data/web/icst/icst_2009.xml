@@ -1,0 +1,174 @@
+<dblp>
+    <h2>GUI Testing</h2>
+
+
+<ul>
+<li id="FuGX09"><a href="http://dblp.uni-trier.de/pers/hc/f/Fu:Chen">Chen Fu</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Grechanik:Mark">Mark Grechanik</a>, <a href="http://dblp.uni-trier.de/pers/hc/x/Xie:Qing">Qing Xie</a>:<br /><b>Inferring Types of References to GUI Objects in Test Scripts.</b> 1-10<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.12"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/FuGX09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/FuGX09.xml">XML</a></small></small></li>
+<li id="BrooksRM09"><a href="http://dblp.uni-trier.de/pers/hc/b/Brooks:Penelope_A=">Penelope A. Brooks</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Robinson:Brian_P=">Brian P. Robinson</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Memon:Atif_M=">Atif M. Memon</a>:<br /><b>An Initial Characterization of Industrial Graphical User Interface Systems.</b> 11-20<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.11"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/BrooksRM09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/BrooksRM09.xml">XML</a></small></small></li>
+<li id="BertoliniPdM09"><a href="http://dblp.uni-trier.de/pers/hc/b/Bertolini:Cristiano">Cristiano Bertolini</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Peres:Glaucia">Glaucia Peres</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/d=Amorim:Marcelo">Marcelo d'Amorim</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mota:Alexandre">Alexandre Mota</a>:<br /><b>An Empirical Evaluation of Automated Black Box Testing Techniques for Crashing GUIs.</b> 21-30<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.27"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/BertoliniPdM09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/BertoliniPdM09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Model Checking</h2>
+
+
+<ul>
+<li id="PostS09"><a href="http://dblp.uni-trier.de/pers/hc/p/Post:Hendrik">Hendrik Post</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sinz:Carsten">Carsten Sinz</a>:<br /><b>Proving Functional Equivalence of Two AES Implementations Using Bounded Model Checking.</b> 31-40<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.39"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/PostS09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/PostS09.xml">XML</a></small></small></li>
+<li id="FraserG09"><a href="http://dblp.uni-trier.de/pers/hc/f/Fraser:Gordon">Gordon Fraser</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gargantini:Angelo">Angelo Gargantini</a>:<br /><b>An Evaluation of Model Checkers for Specification Based Test Case Generation.</b> 41-50<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.33"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/FraserG09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/FraserG09.xml">XML</a></small></small></li>
+<li id="GligoricGLMK09"><a href="http://dblp.uni-trier.de/pers/hc/g/Gligoric:Milos">Milos Gligoric</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gvero:Tihomir">Tihomir Gvero</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lauterburg:Steven">Steven Lauterburg</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marinov:Darko">Darko Marinov</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Khurshid:Sarfraz">Sarfraz Khurshid</a>:<br /><b>Optimizing Generation of Object Graphs in Java PathFinder.</b> 51-60<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.52"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/GligoricGLMK09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/GligoricGLMK09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Embedded and Real-Time Testing</h2>
+
+
+<ul>
+<li id="DavidLLN09"><a href="http://dblp.uni-trier.de/pers/hc/d/David:Alexandre">Alexandre David</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Larsen:Kim_Guldstrand">Kim Guldstrand Larsen</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Li:Shuhao">Shuhao Li</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nielsen:Brian">Brian Nielsen</a>:<br /><b>Timed Testing under Partial Observability.</b> 61-70<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.38"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/DavidLLN09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/DavidLLN09.xml">XML</a></small></small></li>
+<li id="AndresMN09"><a href="http://dblp.uni-trier.de/pers/hc/a/Andr=eacute=s:C=eacute=sar">C&#233;sar Andr&#233;s</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Merayo:Mercedes_G=">Mercedes G. Merayo</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/N=uacute==ntilde=ez:Manuel">Manuel N&#250;&#241;ez</a>:<br /><b>Passive Testing of Stochastic Timed Systems.</b> 71-80<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.35"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/AndresMN09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/AndresMN09.xml">XML</a></small></small></li>
+<li id="GrossmannSS09"><a href="http://dblp.uni-trier.de/pers/hc/g/Grossmann:Juergen">Juergen Grossmann</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Serbanescu:Diana_Alina">Diana Alina Serbanescu</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schieferdecker:Ina">Ina Schieferdecker</a>:<br /><b>Testing Embedded Real Time Systems with TTCN-3.</b> 81-90<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.37"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/GrossmannSS09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/GrossmannSS09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>QA and Test Management</h2>
+
+
+<ul>
+<li id="ChangRV09"><a href="http://dblp.uni-trier.de/pers/hc/c/Chang:Fangzhe">Fangzhe Chang</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ren:Jennifer">Jennifer Ren</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Viswanathan:Ramesh">Ramesh Viswanathan</a>:<br /><b>Optimal Resource Allocation for Batch Testing.</b> 91-100<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.25"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/ChangRV09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/ChangRV09.xml">XML</a></small></small></li>
+<li id="NodlerNG09"><a href="http://dblp.uni-trier.de/pers/hc/n/Nodler:Jens">Jens Nodler</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Neukirchen:Helmut">Helmut Neukirchen</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Grabowski:Jens">Jens Grabowski</a>:<br /><b>A Flexible Framework for Quality Assurance of Software Artefacts with Applications to Java, UML, and TTCN-3 Test Specifications.</b> 101-110<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.34"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/NodlerNG09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/NodlerNG09.xml">XML</a></small></small></li>
+<li id="MurphyKVC09"><a href="http://dblp.uni-trier.de/pers/hc/m/Murphy:Christian">Christian Murphy</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kaiser:Gail_E=">Gail E. Kaiser</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vo:Ian">Ian Vo</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chu:Matt">Matt Chu</a>:<br /><b>Quality Assurance of Software Applications Using the In Vivo Testing Approach.</b> 111-120<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.18"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/MurphyKVC09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/MurphyKVC09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Model Based Testing</h2>
+
+
+<ul>
+<li id="BandyopadhyayG09"><a href="http://dblp.uni-trier.de/pers/hc/b/Bandyopadhyay:Aritra">Aritra Bandyopadhyay</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Ghosh:Sudipto">Sudipto Ghosh</a>:<br /><b>Test Input Generation Using UML Sequence and State Machines Models.</b> 121-130<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.23"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/BandyopadhyayG09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/BandyopadhyayG09.xml">XML</a></small></small></li>
+<li id="AydalPUW09"><a href="http://dblp.uni-trier.de/pers/hc/a/Aydal:Emine_Gokce">Emine Gokce Aydal</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Paige:Richard_F=">Richard F. Paige</a>, <a href="http://dblp.uni-trier.de/pers/hc/u/Utting:Mark">Mark Utting</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Woodcock:Jim">Jim Woodcock</a>:<br /><b>Putting Formal Specifications under the Magnifying Glass: Model-based Testing for Validation.</b> 131-140<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.20"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/AydalPUW09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/AydalPUW09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Static Analysis</h2>
+
+
+<ul>
+<li id="WedyanAB09"><a href="http://dblp.uni-trier.de/pers/hc/w/Wedyan:Fadi">Fadi Wedyan</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Alrmuny:Dalal">Dalal Alrmuny</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bieman:James_M=">James M. Bieman</a>:<br /><b>The Effectiveness of Automated Static Analysis Tools for Fault Detection and Refactoring Prediction.</b> 141-150<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.21"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/WedyanAB09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/WedyanAB09.xml">XML</a></small></small></li>
+<li id="Gotlieb09"><a href="http://dblp.uni-trier.de/pers/hc/g/Gotlieb:Arnaud">Arnaud Gotlieb</a>:<br /><b>Euclide: A Constraint-Based Testing Framework for Critical C Programs.</b> 151-160<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.10"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/Gotlieb09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/Gotlieb09.xml">XML</a></small></small></li>
+<li id="HeckmanW09"><a href="http://dblp.uni-trier.de/pers/hc/h/Heckman:Sarah_Smith">Sarah Smith Heckman</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Williams:Laurie_A=">Laurie A. Williams</a>:<br /><b>A Model Building Process for Identifying Actionable Static Analysis Alerts.</b> 161-170<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.45"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/HeckmanW09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/HeckmanW09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Security Testing</h2>
+
+
+<ul>
+<li id="MouelhiTB09"><a href="http://dblp.uni-trier.de/pers/hc/m/Mouelhi:Tejeddine">Tejeddine Mouelhi</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Traon:Yves_Le">Yves Le Traon</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Baudry:Benoit">Benoit Baudry</a>:<br /><b>Transforming and Selecting Functional Test Cases for Security Policy Testing.</b> 171-180<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.49"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/MouelhiTB09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/MouelhiTB09.xml">XML</a></small></small></li>
+<li id="GegickRW09"><a href="http://dblp.uni-trier.de/pers/hc/g/Gegick:Michael">Michael Gegick</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rotella:Pete">Pete Rotella</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Williams:Laurie_A=">Laurie A. Williams</a>:<br /><b>Predicting Attack-prone Components.</b> 181-190<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.36"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/GegickRW09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/GegickRW09.xml">XML</a></small></small></li>
+<li id="JohM09"><a href="http://dblp.uni-trier.de/pers/hc/j/Joh:HyunChul">HyunChul Joh</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Malaiya:Yashwant_K=">Yashwant K. Malaiya</a>:<br /><b>Seasonal Variation in the Vulnerability Discovery Process.</b> 191-200<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.9"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/JohM09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/JohM09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Empirical Studies</h2>
+
+
+<ul>
+<li id="KarhuRTS09"><a href="http://dblp.uni-trier.de/pers/hc/k/Karhu:Katja">Katja Karhu</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Repo:Tiina">Tiina Repo</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Taipale:Ossi">Ossi Taipale</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Smolander:Kari">Kari Smolander</a>:<br /><b>Empirical Observations on Software Testing Automation.</b> 201-209<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.16"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/KarhuRTS09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/KarhuRTS09.xml">XML</a></small></small></li>
+<li id="WaliaC09"><a href="http://dblp.uni-trier.de/pers/hc/w/Walia:Gursimran_Singh">Gursimran Singh Walia</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Carver:Jeffrey_C=">Jeffrey C. Carver</a>:<br /><b>Evaluating the Effect of the Number of Naturally Occurring Faults on the Estimates Produced by Capture-Recapture Models.</b> 210-219<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.17"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/WaliaC09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/WaliaC09.xml">XML</a></small></small></li>
+<li id="KoochakzadehGM09"><a href="http://dblp.uni-trier.de/pers/hc/k/Koochakzadeh:Negar">Negar Koochakzadeh</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Garousi:Vahid">Vahid Garousi</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maurer:Frank">Frank Maurer</a>:<br /><b>Test Redundancy Measurement Based on Coverage Information: Evaluations and Lessons Learned.</b> 220-229<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.8"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/KoochakzadehGM09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/KoochakzadehGM09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Test Case Generation</h2>
+
+
+<ul>
+<li id="KalajiHS09"><a href="http://dblp.uni-trier.de/pers/hc/k/Kalaji:Abdul_Salam">Abdul Salam Kalaji</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hierons:Robert_M=">Robert M. Hierons</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Swift:Stephen">Stephen Swift</a>:<br /><b>Generating Feasible Transition Paths for Testing from an Extended Finite State Machine (EFSM).</b> 230-239<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.29"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/KalajiHS09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/KalajiHS09.xml">XML</a></small></small></li>
+<li id="BardinH09"><a href="http://dblp.uni-trier.de/pers/hc/b/Bardin:S=eacute=bastien">S&#233;bastien Bardin</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Herrmann:Philippe">Philippe Herrmann</a>:<br /><b>Pruning the Search Space in Path-Based Test Generation.</b> 240-249<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.15"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/BardinH09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/BardinH09.xml">XML</a></small></small></li>
+<li id="SiddiquiK09"><a href="http://dblp.uni-trier.de/pers/hc/s/Siddiqui:Junaid_Haroon">Junaid Haroon Siddiqui</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Khurshid:Sarfraz">Sarfraz Khurshid</a>:<br /><b>PKorat: Parallel Generation of Structurally Complex Test Inputs.</b> 250-259<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.48"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/SiddiquiK09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/SiddiquiK09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Real World Testing</h2>
+
+
+<ul>
+<li id="Chowdhary09"><a href="http://dblp.uni-trier.de/pers/hc/c/Chowdhary:Vishal">Vishal Chowdhary</a>:<br /><b>Practicing Testability in the Real World.</b> 260-268<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.53"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/Chowdhary09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/Chowdhary09.xml">XML</a></small></small></li>
+<li id="RogozF09"><a href="http://dblp.uni-trier.de/pers/hc/r/Rogoz:Krzysztof">Krzysztof Rogoz</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Figura:Katarzyna">Katarzyna Figura</a>:<br /><b>A Test Based Multidimensional Performance Model for a Mission Critical System Server.</b> 269-278<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.40"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/RogozF09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/RogozF09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Test Management</h2>
+
+
+<ul>
+<li id="AlmeidaAM09"><a href="http://dblp.uni-trier.de/pers/hc/a/Almeida:Erika_Regina_Campos_de">Erika Regina Campos de Almeida</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Abreu:Bruno_Teixeira_de">Bruno Teixeira de Abreu</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Moraes:Regina_L=uacute=cia_de_Oliveira">Regina L&#250;cia de Oliveira Moraes</a>:<br /><b>An Alternative Approach to Test Effort Estimation Based on Use Cases.</b> 279-288<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.31"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/AlmeidaAM09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/AlmeidaAM09.xml">XML</a></small></small></li>
+<li id="SilvaAJ09"><a href="http://dblp.uni-trier.de/pers/hc/s/Silva:Daniel_Guerreiro_e">Daniel Guerreiro e Silva</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Abreu:Bruno_Teixeira_de">Bruno Teixeira de Abreu</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jino:Mario">Mario Jino</a>:<br /><b>A Simple Approach for Estimation of Execution Effort of Functional Test Cases.</b> 289-298<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.47"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/SilvaAJ09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/SilvaAJ09.xml">XML</a></small></small></li>
+<li id="WikstrandFGZW09"><a href="http://dblp.uni-trier.de/pers/hc/w/Wikstrand:Greger">Greger Wikstrand</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Feldt:Robert">Robert Feldt</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gorantla:Jeevan_Kumar">Jeevan Kumar Gorantla</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhe:Wang">Wang Zhe</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/White:Conor">Conor White</a>:<br /><b>Dynamic Regression Test Selection Based on a File Cache.</b> 299-302<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.42"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/WikstrandFGZW09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/WikstrandFGZW09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Automation</h2>
+
+
+<ul>
+<li id="AngelettiGNPS09"><a href="http://dblp.uni-trier.de/pers/hc/a/Angeletti:Damiano">Damiano Angeletti</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Giunchiglia:Enrico">Enrico Giunchiglia</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Narizzano:Massimo">Massimo Narizzano</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Puddu:Alessandra">Alessandra Puddu</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sabina:Salvatore">Salvatore Sabina</a>:<br /><b>Automatic Test Generation for Coverage Analysis of ERTMS Software.</b> 303-306<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.22"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/AngelettiGNPS09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/AngelettiGNPS09.xml">XML</a></small></small></li>
+<li id="TanNM09"><a href="http://dblp.uni-trier.de/pers/hc/t/Tan:Roy_Patrick">Roy Patrick Tan</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nagpal:Pooja">Pooja Nagpal</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Miller:Shaun">Shaun Miller</a>:<br /><b>Automated Black Box Testing Tool for a Parallel Programming Library.</b> 307-316<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.32"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/TanNM09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/TanNM09.xml">XML</a></small></small></li>
+<li id="MathewS09"><a href="http://dblp.uni-trier.de/pers/hc/m/Mathew:Reena">Reena Mathew</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Spraetz:Ryan">Ryan Spraetz</a>:<br /><b>Test Automation on a SaaS Platform.</b> 317-325<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.46"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/MathewS09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/MathewS09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Web Testing</h2>
+
+
+<ul>
+<li id="BartoliniBMP09"><a href="http://dblp.uni-trier.de/pers/hc/b/Bartolini:Cesare">Cesare Bartolini</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bertolino:Antonia">Antonia Bertolino</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marchetti:Eda">Eda Marchetti</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Polini:Andrea">Andrea Polini</a>:<br /><b>WS-TAXI: A WSDL-based Testing Tool for Web Services.</b> 326-335<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.28"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/BartoliniBMP09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/BartoliniBMP09.xml">XML</a></small></small></li>
+<li id="LuoPC09"><a href="http://dblp.uni-trier.de/pers/hc/l/Luo:Xingmin">Xingmin Luo</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Ping:Fan">Fan Ping</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chen:Mei=Hwa">Mei-Hwa Chen</a>:<br /><b>Clustering and Tailoring User Session Data for Testing Web Applications.</b> 336-345<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.51"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/LuoPC09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/LuoPC09.xml">XML</a></small></small></li>
+<li id="HalfondCO09"><a href="http://dblp.uni-trier.de/pers/hc/h/Halfond:William_G=_J=">William G. J. Halfond</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Choudhary:Shauvik_Roy">Shauvik Roy Choudhary</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Orso:Alessandro">Alessandro Orso</a>:<br /><b>Penetration Testing with Improved Input Vector Identification.</b> 346-355<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.26"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/HalfondCO09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/HalfondCO09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Aspects and Faults</h2>
+
+
+<ul>
+<li id="KaminskiA09"><a href="http://dblp.uni-trier.de/pers/hc/k/Kaminski:Garrett_Kent">Garrett Kent Kaminski</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Ammann:Paul">Paul Ammann</a>:<br /><b>Using Logic Criterion Feasibility to Reduce Test Set Size While Guaranteeing Fault Detection.</b> 356-365<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.14"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/KaminskiA09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/KaminskiA09.xml">XML</a></small></small></li>
+<li id="SteimannB09"><a href="http://dblp.uni-trier.de/pers/hc/s/Steimann:Friedrich">Friedrich Steimann</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bertschler:Mario">Mario Bertschler</a>:<br /><b>A Simple Coverage-Based Locator for Multiple Faults.</b> 366-375<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.24"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/SteimannB09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/SteimannB09.xml">XML</a></small></small></li>
+<li id="DelamareBGT09"><a href="http://dblp.uni-trier.de/pers/hc/d/Delamare:Romain">Romain Delamare</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Baudry:Benoit">Benoit Baudry</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Ghosh:Sudipto">Sudipto Ghosh</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Traon:Yves_Le">Yves Le Traon</a>:<br /><b>A Test-Driven Approach to Developing Pointcut Descriptors in AspectJ.</b> 376-385<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.41"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/DelamareBGT09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/DelamareBGT09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Mutation and Non-functional Testing</h2>
+
+
+<ul>
+<li id="KaminskiA09a"><a href="http://dblp.uni-trier.de/pers/hc/k/Kaminski:Garrett_Kent">Garrett Kent Kaminski</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Ammann:Paul">Paul Ammann</a>:<br /><b>Using a Fault Hierarchy to Improve the Efficiency of DNF Logic Mutation Testing.</b> 386-395<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.13"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/KaminskiA09a.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/KaminskiA09a.xml">XML</a></small></small></li>
+<li id="ZhouF09"><a href="http://dblp.uni-trier.de/pers/hc/z/Zhou:Chixiang">Chixiang Zhou</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Frankl:Phyllis_G=">Phyllis G. Frankl</a>:<br /><b>Mutation Testing for Java Database Applications.</b> 396-405<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.43"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/ZhouF09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/ZhouF09.xml">XML</a></small></small></li>
+<li id="HillTES09"><a href="http://dblp.uni-trier.de/pers/hc/h/Hill:James_H=">James H. Hill</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Turner:Hamilton_A=">Hamilton A. Turner</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Edmondson:James_R=">James R. Edmondson</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schmidt:Douglas_C=">Douglas C. Schmidt</a>:<br /><b>Unit Testing Non-functional Concerns of Component-based Distributed Systems.</b> 406-415<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.44"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/HillTES09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/HillTES09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Assertions and Failure States</h2>
+
+
+<ul>
+<li id="LeitnerPMMO09"><a href="http://dblp.uni-trier.de/pers/hc/l/Leitner:Andreas">Andreas Leitner</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pretschner:Alexander">Alexander Pretschner</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mori:Stefan">Stefan Mori</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Meyer:Bertrand">Bertrand Meyer</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Oriol:Manuel">Manuel Oriol</a>:<br /><b>On the Effectiveness of Test Extraction without Overhead.</b> 416-425<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.30"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/LeitnerPMMO09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/LeitnerPMMO09.xml">XML</a></small></small></li>
+<li id="KorelZT09"><a href="http://dblp.uni-trier.de/pers/hc/k/Korel:Bogdan">Bogdan Korel</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Qi">Qi Zhang</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tao:Li">Li Tao</a>:<br /><b>Assertion-Based Validation of Modified Programs.</b> 426-435<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.50"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/KorelZT09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/KorelZT09.xml">XML</a></small></small></li>
+<li id="MurphySK09"><a href="http://dblp.uni-trier.de/pers/hc/m/Murphy:Christian">Christian Murphy</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Shen:Kuang">Kuang Shen</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kaiser:Gail_E=">Gail E. Kaiser</a>:<br /><b>Using JML Runtime Assertion Checking to Automate Metamorphic Testing in Applications without Test Oracles.</b> 436-445<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.19"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/MurphySK09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/MurphySK09.xml">XML</a></small></small></li>
+<li id="WolovickDQ09"><a href="http://dblp.uni-trier.de/pers/hc/w/Wolovick:Nicol=aacute=s">Nicol&#225;s Wolovick</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/D=Argenio:Pedro_R=">Pedro R. D'Argenio</a>, <a href="http://dblp.uni-trier.de/pers/hc/q/Qu:Hongyang">Hongyang Qu</a>:<br /><b>Optimizing Probabilities of Real-Time Test Case Execution.</b> 446-455<br /><small><a href="http://dx.doi.org/10.1109/ICST.2009.59"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icst/WolovickDQ09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icst/WolovickDQ09.xml">XML</a></small></small></li>
+</ul>
+</dblp>
