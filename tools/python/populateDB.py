@@ -93,7 +93,7 @@ def load_papers():
       session.add(conference)
 
       # Load the data into a csv reader
-      f = open(os.path.join(DATA_PATH, 'normalised-papers', '%s.csv' % conferenceName), 'rb')
+      f = open(os.path.join(DATA_PATH, 'normalised-papers', 'conferences', '%s.csv' % conferenceName), 'rb')
       reader = UnicodeReader(f)
 
       for row in reader:

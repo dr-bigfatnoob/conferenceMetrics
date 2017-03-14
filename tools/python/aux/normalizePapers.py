@@ -15,7 +15,7 @@ dataPath = os.path.abspath("../../../data")
 
 conferences = ['icse', 'icsm', 'wcre', 'csmr', 'msr', 'gpce', 'fase', 'icpc', 'fse',
                'scam', 'ase', 'saner', 'ssbse', 're', 'issta', 'icst', 'esem']
-conferences = ['icst']
+# conferences = ['icst']
 # conferences = sys.argv[1:]
 
 for conference in conferences:
@@ -25,7 +25,7 @@ for conference in conferences:
     f = open(os.path.join(dataPath, 'bht2csv', '%s_papers.csv' % conference), 'rb')
     reader = UnicodeReader(f)
     
-    g = open(os.path.join(dataPath, 'normalised-papers', '%s.csv' % conference), 'wb')
+    g = open(os.path.join(dataPath, 'normalised-papers', 'conferences', '%s.csv' % conference), 'wb')
     writer = UnicodeWriter(g)
 
 

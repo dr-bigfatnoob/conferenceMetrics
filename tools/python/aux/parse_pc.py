@@ -7,9 +7,9 @@ from unicodeMagic import UnicodeReader, UnicodeWriter
 dataPath = os.path.abspath("../../../data")
 
 def parse_csv(conf):
-  f = open(os.path.join(dataPath, 'web2csv', '%s_pc.csv'%conf), "wb")
+  f = open(os.path.join(dataPath, 'web2csv', 'conferences', '%s_pc.csv'%conf), "wb")
   writer = UnicodeWriter(f)
-  folder_path = os.path.join(dataPath, 'web_pc', conf)
+  folder_path = os.path.join(dataPath, 'web_pc', 'conferences', conf)
   for file_name in reversed(os.listdir(folder_path)):
     file_path = os.path.join(folder_path, file_name)
     print "**** %s ****" % file_path
@@ -21,9 +21,9 @@ def parse_csv(conf):
   f.close()
 
 def parse_ase_csv():
-  f = open(os.path.join(dataPath, 'web2csv', 'ase_pc.csv'), "wb")
+  f = open(os.path.join(dataPath, 'web2csv', 'conferences', 'ase_pc.csv'), "wb")
   writer = UnicodeWriter(f)
-  ase_path = os.path.join(dataPath, 'web_pc', 'ase')
+  ase_path = os.path.join(dataPath, 'web_pc', 'conferences', 'ase')
   for file_name in reversed(os.listdir(ase_path)):
     file_path = os.path.join(ase_path, file_name)
     print "**** %s ****" % file_path
@@ -35,10 +35,10 @@ def parse_ase_csv():
   f.close()
 
 def parse_msr():
-  f = open(os.path.join(dataPath, 'web2csv', 'msr_pc.csv'), "wb")
+  f = open(os.path.join(dataPath, 'web2csv', 'conferences', 'msr_pc.csv'), "wb")
   writer = UnicodeWriter(f)
   base_uri = "http://dblp.uni-trier.de/rec/xml/conf/msr/"
-  msr_path = os.path.join(dataPath, 'web_pc', 'msr')
+  msr_path = os.path.join(dataPath, 'web_pc','conferences', 'msr')
   for file_name in reversed(os.listdir(msr_path)):
     file_path = os.path.join(msr_path, file_name)
     print "**** %s ****" % file_path
