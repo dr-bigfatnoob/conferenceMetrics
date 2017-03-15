@@ -105,6 +105,7 @@ def parse_dblp_new(name, volumes, paper_type, base_uri=JOURNAL_BASE_URI):
     print(uri)
     resp = requests.get(uri)
     if resp.status_code != 200:
+      print(resp.headers)
       print("Status code: %d for %s%d.\nVerify URI: %s" % (resp.status_code, name, volume, uri))
       return
     soup = Soup(resp.content, "html").html
@@ -167,9 +168,9 @@ def get_link_uri(item):
   return None
 
 def _main():
-  journal = "software"
-  start = 8
-  end = 23
+  journal = "sigsoft"
+  start = 24
+  end = 32
   parse_dblp_new(journal, range(end,start-1,-1), "journals")
   # parse_dblp_old('esem', 'conferences')
   # parse_saner()

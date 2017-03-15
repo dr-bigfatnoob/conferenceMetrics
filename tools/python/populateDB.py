@@ -20,7 +20,7 @@ from sqlalchemy.orm import sessionmaker
 import os
 from unicodeMagic import UnicodeReader
 from unidecode import unidecode
-from initDB import Paper, Person, Conference, PCMembership, SubmissionsCount
+from initDB import Paper, Person, Venue, PCMembership, SubmissionsCount
 from resetDB import cleanStart
 from initDB import initDB
 from initDB import Base
@@ -30,34 +30,40 @@ from nameMap import nameMap
 
 DATA_PATH = os.path.abspath("../../data")
 
-CONFERENCES = ['icse', 'icsm', 'wcre', 'csmr', 'msr', 'gpce', 'fase', 'icpc', 'fse',
-               'scam', 'ase', 'saner', 'ssbse', 're', 'issta', 'icst', 'esem']
-# CONFERENCES = ['issta']
+CONFERENCES = [('icse', 'International Conference on Software Engineering', 117),
+               ('icsm', 'International Conference on Software Maintenance', 53),
+               ('wcre', 'Working Conference on Reverse Engineering', 43),
+               ('csmr', 'European Conference on Software Maintenance and Reengineering', 40),
+               ('msr', 'Mining Software Repositories', 32),
+               ('gpce', 'International Conference on Generative Programming', 37),
+               ('fase', 'Fundamental Approaches to Software Engineering', 42),
+               ('icpc', 'International Conference on Program Comprehension', 43),
+               ('fse', 'Foundations of Software Engineering', 59),
+               ('scam', 'International Conference on Source Code Analysis & Manipulation', 15),
+               ('ase', 'Automated Software Engineering', 55),
+               ('saner', 'International Conference on Software Analysis, Evolution, and Reengineering', -1),
+               ('ssbse', 'Symposium of Search Based Software Engineering', -1),
+               ('re', 'Requirements Engineering', -1),
+               ('issta', 'International Symposium on Software Testing and Analysis', -1),
+               ('icst', 'International Conference on Software Testing, Verification and Validation', -1),
+               ('esem', 'Empirical Software Engineering and Measurement', -1)]
+
+JOURNALS = [("jss", 'Journal of Systems and Software', -1),
+            ("tse", 'IEEE Transactions on Software Engineering', -1),
+            ("software", 'IEEE Software', -1),
+            ("ese", 'Empirical Software Engineering', -1),
+            ("spe", 'Software - Practice and Experience', -1),
+            ("ijseke", 'International Journal of Software Engineering and Knowledge Engineering', -1),
+            ("isse", 'Innovations in Systems and Software Engineering', -1),
+            ("smr", 'Journal of Software: Evolution and Process', -1),
+            ("sigsoft", 'ACM SIGSOFT Software Engineering Notes', -1)]
 
 # Conference impact computed for the entire period 2000-2013
 # http://shine.icomp.ufam.edu.br/index.php
-IMPACT = {
-    'ICSE':117, 
-    'ICSM':53, 
-    'WCRE':43,
-    'CSMR':40,
-    'MSR':32,
-    'GPCE':37,
-    'FASE':42,
-    'ICPC':43,
-    'FSE':59,
-    'SCAM':15,
-    'ASE':55,
-    'SANER':-1,
-    'SSBSE': -1,
-    'RE' : -1,
-    'ISSTA': -1,
-    'ICST': -1,
-    'ESEM': -1
-}
+
 
 #schema_name = "conferences"
-SCHEMA_NAME = "conferences_dummy"
+SCHEMA_NAME = "se"
 
 
 
@@ -81,56 +87,80 @@ class SessionFactory(object):
     if SessionFactory.session is not None:
       SessionFactory.session.commit()
 
+
+def load_file(reader, session, venue):
+  for i, row in enumerate(reader):
+    if i % 100 == 0:
+      print(i)
+    # Deconstruct each row
+    year = int(row[0])
+    author_names = [a.strip() for a in row[1].split(',')]
+    title = row[2]
+    pages = row[3]
+    try:
+      num_pages = int(row[4])
+    except:
+      num_pages = 0
+    session_h2 = unidecode(row[5]).strip()
+    session_h3 = unidecode(row[6]).strip()
+
+    # Create new paper and add it to the session
+    paper = Paper(venue, year, title, pages, num_pages, session_h2, session_h3, True)
+    session.add(paper)
+
+    # Add the authors
+    for author_name in author_names:
+      try:
+        author_name = nameMap[author_name]
+      except:
+        pass
+      try:
+        # I already have this author in the database
+        author = session.query(Person). \
+          filter_by(name=author_name). \
+          one()
+      except:
+        # New author; add to database
+        author = Person(author_name)
+        session.add(author)
+
+      paper.authors.append(author)
+
+
 def load_papers():
   session = SessionFactory.get_session()
-  print 'Loading papers:'
-  for conferenceName in CONFERENCES:
-      acronym = conferenceName
+  print 'Loading Conference papers:'
+  for acronym, name, impact in CONFERENCES:
       print acronym.upper()
 
-      # Create a new conference object
-      conference = Conference(acronym.upper(), IMPACT[acronym.upper()])
-      session.add(conference)
+      # Create a new venue object
+      venue = Venue(acronym.upper(), impact, name, is_conference=True)
+      session.add(venue)
 
       # Load the data into a csv reader
-      f = open(os.path.join(DATA_PATH, 'normalised-papers', 'conferences', '%s.csv' % conferenceName), 'rb')
+      f = open(os.path.join(DATA_PATH, 'normalised-papers', 'conferences', '%s.csv' % acronym), 'rb')
       reader = UnicodeReader(f)
+      load_file(reader, session, venue)
+      f.close()
+      session.commit()
 
-      for row in reader:
-          # Deconstruct each row
-          year = int(row[0])
-          author_names = [a.strip() for a in row[1].split(',')]
-          title = row[2]
-          pages = row[3]
-          try:
-              num_pages = int(row[4])
-          except:
-              num_pages = 0
-          session_h2 = unidecode(row[5]).strip()
-          session_h3 = unidecode(row[6]).strip()
+  print 'Loading Journal papers:'
+  for acronym, name, impact in JOURNALS:
+    print acronym.upper()
 
-          # Create new paper and add it to the session
-          paper = Paper(conference, year, title, pages, num_pages, session_h2, session_h3, True)
-          session.add(paper)
+    # Create a new venue object
+    venue = Venue(acronym.upper(), impact, name, is_conference=False)
+    session.add(venue)
 
-          # Add the authors
-          for author_name in author_names:
-              try:
-                  author_name = nameMap[author_name]
-              except:
-                  pass
-              try:
-                  # I already have this author in the database
-                  author = session.query(Person).\
-                          filter_by(name=author_name).\
-                          one()
-              except:
-                  # New author; add to database
-                  author = Person(author_name)
-                  session.add(author)
+    # Load the data into a csv reader
+    f = open(os.path.join(DATA_PATH, 'normalised-papers', 'journals', '%s.csv' % acronym), 'rb')
+    reader = UnicodeReader(f)
+    load_file(reader, session, venue)
+    f.close()
+    session.commit()
 
-              paper.authors.append(author)
   session.commit()
+
 
 def load_pc():
   session = SessionFactory.get_session()
@@ -172,19 +202,18 @@ def load_pc():
 
 
   print 'Loading PC members:'
-  for conferenceName in CONFERENCES:
-      acronym = conferenceName
+  for acronym, name, impact in CONFERENCES:
       print acronym.upper()
 
       # Get the conference object
       try:
           # I already have this PC conference in the database
-          conference = session.query(Conference).\
+          conference = session.query(Venue).\
                   filter_by(acronym=acronym).\
                   one()
       except:
           # New conference; add to database
-          conference = Conference(acronym.upper(), IMPACT[acronym.upper()])
+          conference = Venue(acronym.upper(), impact, name, is_conference=True)
           session.add(conference)
 
       # Load the data into a csv reader
@@ -229,14 +258,14 @@ def load_pc():
                           filter_by(year=year).\
                           filter_by(role=role).\
                           filter_by(pcmember=pcMember).\
-                          filter_by(conference=conference).\
+                          filter_by(venue=conference).\
                           one()
               except:
                   # New, add to database
                   membership = PCMembership(year, role)
 
                   membership.pcmember = pcMember
-                  membership.conference = conference
+                  membership.venue = conference
                   session.add(membership)
 
       # --- Update 8/12/2013 ---
@@ -264,15 +293,15 @@ def load_acceptance_ratio():
               pass
 
 
-  for conferenceName in CONFERENCES:
-      print conferenceName.upper()
-      conference = session.query(Conference).\
-              filter_by(acronym=conferenceName.upper()).\
+  for acronym, name, impact in CONFERENCES:
+      print acronym.upper()
+      conference = session.query(Venue).\
+              filter_by(acronym=acronym.upper()).\
               one()
 
-      for (year,count) in subm[conferenceName.upper()].items():
+      for (year,count) in subm[acronym.upper()].items():
           numSubm = SubmissionsCount(year, count)
-          numSubm.conference = conference
+          numSubm.venue = conference
           session.add(numSubm)
 
 

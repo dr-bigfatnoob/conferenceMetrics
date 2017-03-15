@@ -1,7 +1,10 @@
-Name, URL, Vol_start, Vol_end
-jss, http://dblp.uni-trier.de/db/journals/jss/, 14, 122
-tse, http://dblp.uni-trier.de/db/journals/tse/, 17, 42,
-software, http://dblp.uni-trier.de/db/journals/software/, 8, 33
-ese, http://dblp.uni-trier.de/db/journals/ese/, 1, 21
-spe, http://dblp.uni-trier.de/db/journals/spe/, 21, 46
-ijseke, http://dblp.uni-trier.de/db/journals/ijseke/ 1, 26
+acronym, URL, Vol_start, Vol_end, Name
+jss, http://dblp.uni-trier.de/db/journals/jss/, 14, 122, Journal of Systems and Software
+tse, http://dblp.uni-trier.de/db/journals/tse/, 17, 42, IEEE Transactions on Software Engineering
+software, http://dblp.uni-trier.de/db/journals/software/, 8, 33, IEEE Software
+ese, http://dblp.uni-trier.de/db/journals/ese/, 1, 21, Empirical Software Engineering
+spe, http://dblp.uni-trier.de/db/journals/spe/, 21, 46, Software - Practice and Experience
+ijseke, http://dblp.uni-trier.de/db/journals/ijseke/ 1, 26, International Journal of Software Engineering and Knowledge Engineering
+isse, http://dblp.uni-trier.de/db/journals/isse/, 1, 12, Innovations in Systems and Software Engineering
+smr, http://dblp.uni-trier.de/db/journals/smr/, 3, 28, Journal of Software: Evolution and Process
+sigsoft, http://dblp.uni-trier.de/db/journals/sigsoft/, 24, 41, ACM SIGSOFT Software Engineering Notes

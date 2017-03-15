@@ -46,30 +46,35 @@ class Person(Base):
         return "<Person('%s')>" % (self.name)
 
 
-class Conference(Base):
-    __tablename__ = 'conferences'
+class Venue(Base):
+    __tablename__ = 'venues'
     id = Column(Integer, primary_key=True)
     acronym = Column(String(20), nullable=False)
     name = Column(String(200))
     impact = Column(Integer)
+    is_conference = Column(Boolean)
 
-    def __init__(self, acronym, impact, name=None):
+    def __init__(self, acronym, impact, name=None, is_conference=True):
         self.acronym = acronym
         self.impact = impact
         self.name = name
+        self.is_conference = is_conference
 
     def __repr__(self):
-        return "<Conference('%s')>" % (self.acronym)
+        if self.is_conference:
+            return "<Conference('%s')>" % self.acronym
+        else:
+            return "<Journal('%s')>" % self.acronym
 
 
 class SubmissionsCount(Base):
     __tablename__ = 'submissions'
     id = Column(Integer, primary_key=True)
-    conference_id = Column(Integer, ForeignKey('conferences.id'))
+    venue_id = Column(Integer, ForeignKey('venues.id'))
     year = Column(Integer)
     number = Column(Integer)
 
-    conference = relationship(Conference, backref="submissions")
+    venue = relationship(Venue, backref="submissions")
 
     def __init__(self, year, number):
         self.year = year
@@ -80,7 +85,7 @@ class PCMembership(Base):
     __tablename__ = 'pc_membership'
     id = Column(Integer, primary_key=True)
     person_id = Column(Integer, ForeignKey('persons.id'))
-    conference_id = Column(Integer, ForeignKey('conferences.id'))
+    venue_id = Column(Integer, ForeignKey('venues.id'))
     year = Column(Integer)
     role = Column(String(100))
     
@@ -88,16 +93,16 @@ class PCMembership(Base):
         self.year = year
         self.role = role
     
-    conference = relationship(Conference, backref="pc_membership")
+    venue = relationship(Venue, backref="pc_membership")
     pcmember = relationship(Person, backref="pc_membership")    
 
 class Paper(Base):
     __tablename__ = 'papers'
     id = Column(Integer, primary_key=True)
-    conference_id = Column(Integer, ForeignKey('conferences.id'))
+    venue_id = Column(Integer, ForeignKey('venues.id'))
     year = Column(Integer)
     title = Column(String(500))
-    pages = Column(String(10))
+    pages = Column(String(30))
     num_pages = Column(Integer)
     session_h2 = Column(String(100))
     session_h3 = Column(String(100))
@@ -110,10 +115,10 @@ class Paper(Base):
     authors = relationship('Person', secondary=person_paper, backref='papers')
 
     '''One to many Conference<->Paper'''
-    conference = relationship("Conference", backref=backref('papers', order_by=id))
+    venue = relationship("Venue", backref=backref('papers', order_by=id))
 
-    def __init__(self, conference, year, title, pages, num_pages, session_h2, session_h3, selected=False):
-        self.conference = conference
+    def __init__(self, venue, year, title, pages, num_pages, session_h2, session_h3, selected=False):
+        self.venue = venue
         self.year = year
         self.title = Paper.de_punctuate(title)
         self.pages = pages
@@ -126,7 +131,7 @@ class Paper(Base):
         self.abstract = None
 
     def __repr__(self):
-        return "<Paper('%s, %d, %s')>" % (self.conference, self.year, self.title)
+        return "<Paper('%s, %d, %s')>" % (self.venue, self.year, self.title)
 
     @staticmethod
     def de_punctuate(s):
