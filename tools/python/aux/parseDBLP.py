@@ -97,8 +97,10 @@ def parse_dblp_old(name, paper_type):
 JOURNAL_BASE_URI='http://dblp.uni-trier.de/db/journals'
 JOURNAL_XML_BASE_URI = 'http://dblp.uni-trier.de/rec/xml'
 
-def parse_dblp_new(name, volumes, paper_type, base_uri=JOURNAL_BASE_URI):
-  f = open(os.path.join(dataPath, 'web2csv', paper_type, '%s.csv' % name), "wb")
+def parse_dblp_new(name, volumes, paper_type, base_uri=JOURNAL_BASE_URI, f_name=None):
+  if f_name is None:
+    f_name = name
+  f = open(os.path.join(dataPath, 'web2csv', paper_type, '%s.csv' % f_name), "wb")
   writer = UnicodeWriter(f)
   for volume in volumes:
     uri = "%s/%s/%s%d.html" % (base_uri, name, name, volume)
@@ -168,10 +170,11 @@ def get_link_uri(item):
   return None
 
 def _main():
-  journal = "sigsoft"
-  start = 24
-  end = 32
-  parse_dblp_new(journal, range(end,start-1,-1), "journals")
+  journal = "stvr"
+  ref = None
+  start = 1
+  end = 26
+  parse_dblp_new(journal, range(end,start-1,-1), "journals", f_name=ref)
   # parse_dblp_old('esem', 'conferences')
   # parse_saner()
 

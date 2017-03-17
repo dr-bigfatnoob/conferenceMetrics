@@ -101,7 +101,7 @@ class Paper(Base):
     id = Column(Integer, primary_key=True)
     venue_id = Column(Integer, ForeignKey('venues.id'))
     year = Column(Integer)
-    title = Column(String(500))
+    title = Column(String(1000))
     pages = Column(String(30))
     num_pages = Column(Integer)
     session_h2 = Column(String(100))

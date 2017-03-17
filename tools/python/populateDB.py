@@ -56,7 +56,12 @@ JOURNALS = [("jss", 'Journal of Systems and Software', -1),
             ("ijseke", 'International Journal of Software Engineering and Knowledge Engineering', -1),
             ("isse", 'Innovations in Systems and Software Engineering', -1),
             ("smr", 'Journal of Software: Evolution and Process', -1),
-            ("sigsoft", 'ACM SIGSOFT Software Engineering Notes', -1)]
+            ("sigsoft", 'ACM SIGSOFT Software Engineering Notes', -1),
+            ("rej", 'Requirements Engineering Journal', -1),
+            ("tosem", 'Transactions on Software Engineering and Methodology', -1),
+            ("asej", 'Automated Software Engineering Journal', -1),
+            ("sqj", 'Software Quality Journal', -1),
+            ("stvr", 'Software Testing, Verification & Reliability', -1)]
 
 # Conference impact computed for the entire period 2000-2013
 # http://shine.icomp.ufam.edu.br/index.php
