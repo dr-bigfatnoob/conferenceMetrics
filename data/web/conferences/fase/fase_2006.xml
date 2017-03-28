@@ -1,0 +1,100 @@
+<dblp>
+    <h2>Distributed Systems</h2>
+ 
+
+<ul>
+<li id="CooneyDR06"><a href="http://dblp.uni-trier.de/pers/hc/c/Cooney:Dominic">Dominic Cooney</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dumas:Marlon">Marlon Dumas</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roe:Paul">Paul Roe</a>:<b>GPSL: A Programming Language for Service Implementation.</b> 3-17<small><a href="http://dx.doi.org/10.1007/11693017_3"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/CooneyDR06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/CooneyDR06.xml">XML</a></small></small></li>
+<li id="FiadeiroL06"><a href="http://dblp.uni-trier.de/pers/hc/f/Fiadeiro:Jos=eacute=_Luiz">Jos&#233; Luiz Fiadeiro</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lopes:Ant=oacute=nia">Ant&#243;nia Lopes</a>:<b>A Formal Approach to Event-Based Architectures.</b> 18-32<small><a href="http://dx.doi.org/10.1007/11693017_4"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/FiadeiroL06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/FiadeiroL06.xml">XML</a></small></small></li>
+<li id="KochP06"><a href="http://dblp.uni-trier.de/pers/hc/k/Koch:Manuel">Manuel Koch</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pauls:Karl">Karl Pauls</a>:<b>Engineering Self-protection for Autonomous Systems.</b> 33-47<small><a href="http://dx.doi.org/10.1007/11693017_5"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/KochP06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/KochP06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Orthogonal Process Activities</h2>
+ 
+
+<ul>
+<li id="TaentzerC06"><a href="http://dblp.uni-trier.de/pers/hc/t/Taentzer:Gabriele">Gabriele Taentzer</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Carughi:Giovanni_Toffetti">Giovanni Toffetti Carughi</a>:<b>A Graph-Based Approach to Transform XML Documents.</b> 48-62<small><a href="http://dx.doi.org/10.1007/11693017_6"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/TaentzerC06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/TaentzerC06.xml">XML</a></small></small></li>
+<li id="HickeyN06"><a href="http://dblp.uni-trier.de/pers/hc/h/Hickey:Jason">Jason Hickey</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nogin:Aleksey">Aleksey Nogin</a>:<b>: Designing a Scalable Build Process.</b> 63-78<small><a href="http://dx.doi.org/10.1007/11693017_7"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/HickeyN06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/HickeyN06.xml">XML</a></small></small></li>
+<li id="IwataSF06"><a href="http://dblp.uni-trier.de/pers/hc/i/Iwata:Hajime">Hajime Iwata</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Shirogane:Junko">Junko Shirogane</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fukazawa:Yoshiaki">Yoshiaki Fukazawa</a>:<b>Automatic Generation of Tutorial Systems from Development Specification.</b> 79-92<small><a href="http://dx.doi.org/10.1007/11693017_8"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/IwataSF06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/IwataSF06.xml">XML</a></small></small></li>
+<li id="TowellD06"><a href="http://dblp.uni-trier.de/pers/hc/t/Towell:Dwayne">Dwayne Towell</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Denton:Jason">Jason Denton</a>:<b>A Software Implementation Progress Model.</b> 93-106<small><a href="http://dx.doi.org/10.1007/11693017_9"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/TowellD06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/TowellD06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Behavioral Models and State Machines</h2>
+ 
+
+<ul>
+<li id="BergJR06"><a href="http://dblp.uni-trier.de/pers/hc/b/Berg:Therese">Therese Berg</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jonsson:Bengt">Bengt Jonsson</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Raffelt:Harald">Harald Raffelt</a>:<b>Regular Inference for State Machines with Parameters.</b> 107-121<small><a href="http://dx.doi.org/10.1007/11693017_10"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/BergJR06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/BergJR06.xml">XML</a></small></small></li>
+<li id="DevereuxC06"><a href="http://dblp.uni-trier.de/pers/hc/d/Devereux:Benet">Benet Devereux</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chechik:Marsha">Marsha Chechik</a>:<b>Automated Support for Building Behavioral Models of Event-Driven Systems.</b> 122-138<small><a href="http://dx.doi.org/10.1007/11693017_11"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/DevereuxC06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/DevereuxC06.xml">XML</a></small></small></li>
+<li id="SridharH06"><a href="http://dblp.uni-trier.de/pers/hc/s/Sridhar:Nigamanth">Nigamanth Sridhar</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hallstrom:Jason_O=">Jason O. Hallstrom</a>:<b>A Behavioral Model for Software Containers.</b> 139-154<small><a href="http://dx.doi.org/10.1007/11693017_12"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/SridharH06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/SridharH06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Empirical Studies</h2>
+ 
+
+<ul>
+<li id="DamianLM06"><a href="http://dblp.uni-trier.de/pers/hc/d/Damian:Daniela_E=">Daniela E. Damian</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lanubile:Filippo">Filippo Lanubile</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mallardo:Teresa">Teresa Mallardo</a>:<b>An Empirical Study of the Impact of Asynchronous Discussions on Remote Synchronous Requirements Meetings.</b> 155-169<small><a href="http://dx.doi.org/10.1007/11693017_13"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/DamianLM06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/DamianLM06.xml">XML</a></small></small></li>
+<li id="Sacha06"><a href="http://dblp.uni-trier.de/pers/hc/s/Sacha:Krzysztof">Krzysztof Sacha</a>:<b>Evaluation of Expected Software Quality: A Customer's Viewpoint.</b> 170-183<small><a href="http://dx.doi.org/10.1007/11693017_14"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/Sacha06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/Sacha06.xml">XML</a></small></small></li>
+<li id="RobbyDK06"><a href="http://dblp.uni-trier.de/pers/hc/r/Robby:">Robby</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/DeLoach:Scott_A=">Scott A. DeLoach</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kolesnikov:Valeriy_A=">Valeriy A. Kolesnikov</a>:<b>Using Design Metrics for Predicting System Flexibility.</b> 184-198<small><a href="http://dx.doi.org/10.1007/11693017_15"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/RobbyDK06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/RobbyDK06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Requirements and Design</h2>
+ 
+
+<ul>
+<li id="LavazzaB06"><a href="http://dblp.uni-trier.de/pers/hc/l/Lavazza:Luigi">Luigi Lavazza</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bianco:Vieri_Del">Vieri Del Bianco</a>:<b>Combining Problem Frames and UML in the Description of Software Requirements.</b> 199-213<small><a href="http://dx.doi.org/10.1007/11693017_16"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/LavazzaB06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/LavazzaB06.xml">XML</a></small></small></li>
+<li id="HallstromST06"><a href="http://dblp.uni-trier.de/pers/hc/h/Hallstrom:Jason_O=">Jason O. Hallstrom</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Soundarajan:Neelam">Neelam Soundarajan</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tyler:Benjamin">Benjamin Tyler</a>:<b>Amplifying the Benefits of Design Patterns: From Specification Through Implementation.</b> 214-229<small><a href="http://dx.doi.org/10.1007/11693017_17"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/HallstromST06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/HallstromST06.xml">XML</a></small></small></li>
+<li id="WestphalT06"><a href="http://dblp.uni-trier.de/pers/hc/w/Westphal:Bernd">Bernd Westphal</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Toben:Tobe">Tobe Toben</a>:<b>The Good, the Bad and the Ugly: Well-Formedness of Live Sequence Charts.</b> 230-246<small><a href="http://dx.doi.org/10.1007/11693017_18"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/WestphalT06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/WestphalT06.xml">XML</a></small></small></li>
+<li id="MiliSLME06"><a href="http://dblp.uni-trier.de/pers/hc/m/Mili:Hafedh">Hafedh Mili</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sahraoui:Houari_A=">Houari A. Sahraoui</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lounis:Hakim">Hakim Lounis</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mcheick:Hamid">Hamid Mcheick</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Elkharraz:Amal">Amal Elkharraz</a>:<b>Concerned About Separation.</b> 247-261<small><a href="http://dx.doi.org/10.1007/11693017_19"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/MiliSLME06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/MiliSLME06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Model-Based Development</h2>
+ 
+
+<ul>
+<li id="BoronatCR06"><a href="http://dblp.uni-trier.de/pers/hc/b/Boronat:Artur">Artur Boronat</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cars=iacute=:Jos=eacute=_A=">Jos&#233; A. Cars&#237;</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ramos:Isidro">Isidro Ramos</a>:<b>Algebraic Specification of a Model Transformation Engine.</b> 262-277<small><a href="http://dx.doi.org/10.1007/11693017_20"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/BoronatCR06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/BoronatCR06.xml">XML</a></small></small></li>
+<li id="KobW06"><a href="http://dblp.uni-trier.de/pers/hc/k/K=ouml=b:Daniel">Daniel K&#246;b</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wotawa:Franz">Franz Wotawa</a>:<b>Fundamentals of Debugging Using a Resolution Calculus.</b> 278-292<small><a href="http://dx.doi.org/10.1007/11693017_21"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/KobW06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/KobW06.xml">XML</a></small></small></li>
+<li id="MinK06"><a href="http://dblp.uni-trier.de/pers/hc/m/Min:Hyun_Gi">Hyun Gi Min</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kim:Soo_Dong">Soo Dong Kim</a>:<b>A Technique to Represent and Generate Components in MDA/PIM for Automation.</b> 293-307<small><a href="http://dx.doi.org/10.1007/11693017_22"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/MinK06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/MinK06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Validation and Verification</h2>
+ 
+
+<ul>
+<li id="FeiLLM06"><a href="http://dblp.uni-trier.de/pers/hc/f/Fei:Long">Long Fei</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lee:Kyungwoo">Kyungwoo Lee</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Li:Fei">Fei Li</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Midkiff:Samuel_P=">Samuel P. Midkiff</a>:<b>Argus: Online Statistical Bug Detection.</b> 308-323<small><a href="http://dx.doi.org/10.1007/11693017_23"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/FeiLLM06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/FeiLLM06.xml">XML</a></small></small></li>
+<li id="AichernigD06"><a href="http://dblp.uni-trier.de/pers/hc/a/Aichernig:Bernhard_K=">Bernhard K. Aichernig</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Delgado:Carlo_Corrales">Carlo Corrales Delgado</a>:<b>From Faults Via Test Purposes to Test Cases: On the Fault-Based Testing of Concurrent Systems.</b> 324-338<small><a href="http://dx.doi.org/10.1007/11693017_24"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/AichernigD06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/AichernigD06.xml">XML</a></small></small></li>
+<li id="SenA06"><a href="http://dblp.uni-trier.de/pers/hc/s/Sen:Koushik">Koushik Sen</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Agha:Gul">Gul Agha</a>:<b>Automated Systematic Testing of Open Distributed Programs.</b> 339-356<small><a href="http://dx.doi.org/10.1007/11693017_25"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/SenA06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/SenA06.xml">XML</a></small></small></li>
+<li id="OlveczkyC06"><a href="http://dblp.uni-trier.de/pers/hc/=/=Ouml=lveczky:Peter_Csaba">Peter Csaba &#214;lveczky</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Caccamo:Marco">Marco Caccamo</a>:<b>Formal Simulation and Analysis of the CASH Scheduling Algorithm in Real-Time Maude.</b> 357-372<small><a href="http://dx.doi.org/10.1007/11693017_26"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/OlveczkyC06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/OlveczkyC06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Tool Demonstrations</h2>
+ 
+
+<ul>
+<li id="GiorgettiG06"><a href="http://dblp.uni-trier.de/pers/hc/g/Giorgetti:Alain">Alain Giorgetti</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Groslambert:Julien">Julien Groslambert</a>:<b>JAG: JML Annotation Generation for Verifying Temporal Properties.</b> 373-376<small><a href="http://dx.doi.org/10.1007/11693017_27"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/GiorgettiG06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/GiorgettiG06.xml">XML</a></small></small></li>
+<li id="RaffeltS06"><a href="http://dblp.uni-trier.de/pers/hc/r/Raffelt:Harald">Harald Raffelt</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Steffen:Bernhard">Bernhard Steffen</a>:<b>LearnLib: A Library for Automata Learning and Experimentation.</b> 377-380<small><a href="http://dx.doi.org/10.1007/11693017_28"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/RaffeltS06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/RaffeltS06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Evolution</h2>
+ 
+
+<ul>
+<li id="RamanathanJG06"><a href="http://dblp.uni-trier.de/pers/hc/r/Ramanathan:Murali_Krishna">Murali Krishna Ramanathan</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jagannathan:Suresh">Suresh Jagannathan</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Grama:Ananth">Ananth Grama</a>:<b>Trace-Based Memory Aliasing Across Program Versions.</b> 381-395<small><a href="http://dx.doi.org/10.1007/11693017_29"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/RamanathanJG06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/RamanathanJG06.xml">XML</a></small></small></li>
+<li id="RuffellS06"><a href="http://dblp.uni-trier.de/pers/hc/r/Ruffell:Fraser_P=">Fraser P. Ruffell</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Selby:Jason_W=_A=">Jason W. A. Selby</a>:<b>The Pervasiveness of Global Data in Evolving Software Systems.</b> 396-410<small><a href="http://dx.doi.org/10.1007/11693017_30"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/RuffellS06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/RuffellS06.xml">XML</a></small></small></li>
+<li id="GeigerFGP06"><a href="http://dblp.uni-trier.de/pers/hc/g/Geiger:Reto">Reto Geiger</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fluri:Beat">Beat Fluri</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gall:Harald_C=">Harald C. Gall</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pinzger:Martin">Martin Pinzger</a>:<b>Relation of Code Clones and Change Couplings.</b> 411-425<small><a href="http://dx.doi.org/10.1007/11693017_31"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/GeigerFGP06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/GeigerFGP06.xml">XML</a></small></small></li>
+</ul>
+</dblp>

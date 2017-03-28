@@ -1,0 +1,87 @@
+<dblp>
+    <h2>Visualization</h2>
+ 
+
+<ul>
+<li id="KnightM99"><a href="http://dblp.uni-trier.de/pers/hc/k/Knight:Claire">Claire Knight</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Munro:Malcolm">Malcolm Munro</a>:<b>Comprehension with[in] Virtual Environment Visualisations.</b> 4-11<small><a href="http://dx.doi.org/10.1109/WPC.1999.777733"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/KnightM99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/KnightM99.xml">XML</a></small></small></li>
+<li id="LinosOK99"><a href="http://dblp.uni-trier.de/pers/hc/l/Linos:Panagiotis_K=">Panagiotis K. Linos</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Ososanya:Esther_T=">Esther T. Ososanya</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Karunakaran:Vijay">Vijay Karunakaran</a>:<b>Improving the Visibility of Graphical Program Displays: An Experimental Study.</b> 12-19<small><a href="http://dx.doi.org/10.1109/WPC.1999.777735"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/LinosOK99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/LinosOK99.xml">XML</a></small></small></li>
+<li id="CainM99"><a href="http://dblp.uni-trier.de/pers/hc/c/Cain:James_Westland">James Westland Cain</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/McCrindle:Rachel_Jane">Rachel Jane McCrindle</a>:<b>Program Visualisation using C++ Lenses.</b> 20-26<small><a href="http://dx.doi.org/10.1109/WPC.1999.777738"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/CainM99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/CainM99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Architectures for Understanding</h2>
+ 
+
+<ul>
+<li id="BowmanH99"><a href="http://dblp.uni-trier.de/pers/hc/b/Bowman:Ivan_T=">Ivan T. Bowman</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Holt:Richard_C=">Richard C. Holt</a>:<b>Reconstructing Ownership Architectures To Help Understand Software Systems.</b> 28-37<small><a href="http://dx.doi.org/10.1109/WPC.1999.777740"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/BowmanH99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/BowmanH99.xml">XML</a></small></small></li>
+<li id="SellinkV99"><a href="http://dblp.uni-trier.de/pers/hc/s/Sellink:M=_P=_A=">M. P. A. Sellink</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Verhoef:Chris">Chris Verhoef</a>:<b>An Architecture for Automated Software Maintenance.</b> 38-48<small><a href="http://dx.doi.org/10.1109/WPC.1999.777742"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/SellinkV99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/SellinkV99.xml">XML</a></small></small></li>
+<li id="PatenaudeMDL99"><a href="http://dblp.uni-trier.de/pers/hc/p/Patenaude:Jean=Fran=ccedil=ois">Jean-Fran&#231;ois Patenaude</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Merlo:Ettore">Ettore Merlo</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dagenais:Michel">Michel Dagenais</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lagu=euml=:Bruno">Bruno Lagu&#235;</a>:<b>Extending Software Quality Assessment Techniques to Java Systems.</b> 49-56<small><a href="http://dx.doi.org/10.1109/WPC.1999.777743"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/PatenaudeMDL99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/PatenaudeMDL99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Integration Frameworks</h2>
+ 
+
+<ul>
+<li id="FasolinoV99"><a href="http://dblp.uni-trier.de/pers/hc/f/Fasolino:Anna_Rita">Anna Rita Fasolino</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Visaggio:Giuseppe">Giuseppe Visaggio</a>:<b>Improving Software Comprehension through an Automated Dependency Tracer.</b> 58-65<small><a href="http://dx.doi.org/10.1109/WPC.1999.777744"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/FasolinoV99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/FasolinoV99.xml">XML</a></small></small></li>
+<li id="BurnsteinS99"><a href="http://dblp.uni-trier.de/pers/hc/b/Burnstein:Ilene">Ilene Burnstein</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Saner:Floyd">Floyd Saner</a>:<b>An Application of Fuzzy Reasoning to Support Automated Program Comprehension.</b> 66-73<small><a href="http://dx.doi.org/10.1109/WPC.1999.777745"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/BurnsteinS99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/BurnsteinS99.xml">XML</a></small></small></li>
+<li id="DeursenM99"><a href="http://dblp.uni-trier.de/pers/hc/d/Deursen:Arie_van">Arie van Deursen</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Moonen:Leon">Leon Moonen</a>:<b>Understanding COBOL Systems using Inferred Types.</b> 74-81<small><a href="http://dx.doi.org/10.1109/WPC.1999.777746"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/DeursenM99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/DeursenM99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Comprehension Strategies</h2>
+ 
+
+<ul>
+<li id="MartinoMMV99"><a href="http://dblp.uni-trier.de/pers/hc/m/Martino:Beniamino_Di">Beniamino Di Martino</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mazzeo:Antonino">Antonino Mazzeo</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mazzocca:Nicola">Nicola Mazzocca</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Villano:Umberto">Umberto Villano</a>:<b>Restructuring Parallel Programs by Transformation of Point-To-Point Interactions into Collective Communication.</b> 84-91<small><a href="http://dx.doi.org/10.1109/WPC.1999.777747"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/MartinoMMV99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/MartinoMMV99.xml">XML</a></small></small></li>
+<li id="SneedD99"><a href="http://dblp.uni-trier.de/pers/hc/s/Sneed:Harry_M=">Harry M. Sneed</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dombovari:Tomas">Tomas Dombovari</a>:<b>Comprehending a Complex, Distributed, Object-Oriented Software System a Report from the Field.</b> 218-225<small><a href="http://dx.doi.org/10.1109/WPC.1999.777761"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/SneedD99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/SneedD99.xml">XML</a></small></small></li>
+<li id="Korel99"><a href="http://dblp.uni-trier.de/pers/hc/k/Korel:Bogdan">Bogdan Korel</a>:<b>Black-Box Understanding of COTS Components.</b> 92-99<small><a href="http://dx.doi.org/10.1109/WPC.1999.777748"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/Korel99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/Korel99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Parsing</h2>
+ 
+
+<ul>
+<li id="FrancelR99"><a href="http://dblp.uni-trier.de/pers/hc/f/Francel:Margaret_Ann">Margaret Ann Francel</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rugaber:Spencer">Spencer Rugaber</a>:<b>The Relationship of Slicing and Debugging to Program Understanding.</b> 106-113<small><a href="http://dx.doi.org/10.1109/WPC.1999.777749"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/FrancelR99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/FrancelR99.xml">XML</a></small></small></li>
+<li id="KnapenLDM99"><a href="http://dblp.uni-trier.de/pers/hc/k/Knapen:Gregory">Gregory Knapen</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lagu=euml=:Bruno">Bruno Lagu&#235;</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dagenais:Michel">Michel Dagenais</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Merlo:Ettore">Ettore Merlo</a>:<b>Parsing C++ Despite Missing Declarations.</b> 114-125<small><a href="http://dx.doi.org/10.1109/WPC.1999.777750"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/KnapenLDM99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/KnapenLDM99.xml">XML</a></small></small></li>
+<li id="Zhao99"><a href="http://dblp.uni-trier.de/pers/hc/z/Zhao:Jianjun">Jianjun Zhao</a>:<b>Slicing Concurrent Java Programs.</b> 126-133<small><a href="http://dx.doi.org/10.1109/WPC.1999.777751"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/Zhao99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/Zhao99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Decomposition and Composition</h2>
+ 
+
+<ul>
+<li id="CanforaCLL99"><a href="http://dblp.uni-trier.de/pers/hc/c/Canfora:Gerardo">Gerardo Canfora</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cimitile:Aniello">Aniello Cimitile</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lucia:Andrea_De">Andrea De Lucia</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lucca:Giuseppe_A=_Di">Giuseppe A. Di Lucca</a>:<b>A Case Study of Applying an Eclectic Approach to Identify Objects in Code.</b> 136-143<small><a href="http://dx.doi.org/10.1109/WPC.1999.777752"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/CanforaCLL99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/CanforaCLL99.xml">XML</a></small></small></li>
+<li id="Li99"><a href="http://dblp.uni-trier.de/pers/hc/l/Li_0001:Liwu">Liwu Li</a>:<b>On Managing Classes for Evolving Software.</b> 144-150<small><a href="http://dx.doi.org/10.1109/WPC.1999.777753"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/Li99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/Li99.xml">XML</a></small></small></li>
+<li id="AntoniolPTF99"><a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Potrich:Alessandra">Alessandra Potrich</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tonella:Paolo">Paolo Tonella</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fiutem:Roberto">Roberto Fiutem</a>:<b>Evolving Object Oriented Design to Improve Code Traceability.</b> 151-160<small><a href="http://dx.doi.org/10.1109/WPC.1999.777754"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/AntoniolPTF99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/AntoniolPTF99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Empirical Aspects</h2>
+ 
+
+<ul>
+<li id="Koskinen99"><a href="http://dblp.uni-trier.de/pers/hc/k/Koskinen:Jussi">Jussi Koskinen</a>:<b>Empirical Evaluation of Hypertextual Information Access from Program Text.</b> 162-169<small><a href="http://dx.doi.org/10.1109/WPC.1999.777755"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/Koskinen99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/Koskinen99.xml">XML</a></small></small></li>
+<li id="MayrhauserL99"><a href="http://dblp.uni-trier.de/pers/hc/m/Mayrhauser:Anneliese_von">Anneliese von Mayrhauser</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lang:Stephen">Stephen Lang</a>:<b>On the Role of Static Analysis during Software Maintenance.</b> 170-177<small><a href="http://dx.doi.org/10.1109/WPC.1999.777756"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/MayrhauserL99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/MayrhauserL99.xml">XML</a></small></small></li>
+<li id="WarrenBM99"><a href="http://dblp.uni-trier.de/pers/hc/w/Warren:Paul">Paul Warren</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Boldyreff:Cornelia">Cornelia Boldyreff</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Munro:Malcolm">Malcolm Munro</a>:<b>The Evolution of Websites.</b> 178-185<small><a href="http://dx.doi.org/10.1109/WPC.1999.777757"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/WarrenBM99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/WarrenBM99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Analysis</h2>
+ 
+
+<ul>
+<li id="CifuentesE99"><a href="http://dblp.uni-trier.de/pers/hc/c/Cifuentes:Cristina">Cristina Cifuentes</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Emmerik:Mike_Van">Mike Van Emmerik</a>:<b>Recovery of Jump Table Case Statements from Binary Code.</b> 192-199<small><a href="http://dx.doi.org/10.1109/WPC.1999.777758"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/CifuentesE99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/CifuentesE99.xml">XML</a></small></small></li>
+<li id="KesslerS99"><a href="http://dblp.uni-trier.de/pers/hc/k/Ke=szlig=ler:Christoph_W=">Christoph W. Ke&#223;ler</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Smith:Craig">Craig Smith</a>:<b>The SPARAMAT Approach to Automatic Comprehension of Sparse Matrix Computations.</b> 200-207<small><a href="http://dx.doi.org/10.1109/WPC.1999.777759"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/KesslerS99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/KesslerS99.xml">XML</a></small></small></li>
+<li id="HarmanFHBD99"><a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fox:Chris">Chris Fox</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hierons:Robert_M=">Robert M. Hierons</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Binkley:David">David Binkley</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Danicic:Sebastian">Sebastian Danicic</a>:<b>Program Simplification as a Means of Approximating Undecidable Propositions.</b> 208-217<small><a href="http://dx.doi.org/10.1109/WPC.1999.777760"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/HarmanFHBD99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/HarmanFHBD99.xml">XML</a></small></small></li>
+</ul>
+</dblp>

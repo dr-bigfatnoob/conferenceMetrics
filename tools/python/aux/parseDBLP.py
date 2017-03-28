@@ -13,57 +13,6 @@ dataPath = os.path.abspath("../../../data")
 
 xmlpath = os.path.join(dataPath, 'web', 'msr', 'msr2013.xml')
 
-ASE_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/kbse/"
-MSR_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/msr/"
-CSMR_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/csmr/"
-WCRE_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/wcre/"
-FASE_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/fase/"
-FSE_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/sigsoft/"
-GPCE_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/gpce/"
-ICPC_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/iwpc/"
-ICSE_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/icse/"
-ICSM_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/icsm/"
-SCAM_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/scam/"
-SSBSE_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/ssbse/"
-RE_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/re/"
-ISSTA_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/issta/"
-ICST_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/icst/"
-ESEM_BASE_URI = "http://dblp.uni-trier.de/rec/xml/conf/esem/"
-
-
-def parse_saner():
-  f = open(os.path.join(dataPath, 'web2csv', 'conferences', 'saner.csv'), "wb")
-  writer = UnicodeWriter(f)
-  conf_path = os.path.join(dataPath, 'web', 'conferences', 'saner')
-  for file_name in reversed(os.listdir(conf_path)):
-    year = file_name.split("_")[1].split(".")[0]
-    if int(year) < 2015:
-      base_uri = CSMR_BASE_URI
-    else:
-      base_uri = WCRE_BASE_URI
-    file_path = os.path.join(conf_path, file_name)
-    print "**** %s ****" % file_path
-    tree = ET.parse(file_path)
-    root = tree.getroot()
-    headers = root.findall('h2')
-    lists = root.findall('ul')
-    assert len(headers) == len(lists)
-    for header, lst in zip(headers, lists):
-      topic = header.text.replace("\n", "")
-      for item in lst.findall("li"):
-        try:
-          year, authors, title, pages, pageCount = format_dblp_xml(base_uri + item.attrib["id"] + ".xml")
-        except urllib2.HTTPError, e:
-          if e.code == 429:
-            print "SLEEPING FOR 1 min"
-            time.sleep(60)
-            year, authors, title, pages, pageCount = format_dblp_xml(base_uri + item.attrib["id"] + ".xml")
-          else:
-            raise
-        writer.writerow([year, authors, title, pages, pageCount, topic, ""])
-  f.close()
-
-
 def parse_dblp_old(name, paper_type):
   f = open(os.path.join(dataPath, 'web2csv', paper_type, '%s.csv'%name), "wb")
   writer = UnicodeWriter(f)
@@ -81,16 +30,16 @@ def parse_dblp_old(name, paper_type):
       for item in lst.findall("li"):
         try:
           # year, authors, title, pages, pageCount = format_dblp_xml(base_uri + item.attrib["id"] + ".xml")
-          year, authors, title, pages, page_count = format_dblp_xml(get_link_uri(item))
+          year, authors, title, pages, page_count, doi = format_dblp_xml(get_link_uri(item))
         except urllib2.HTTPError, e:
           if e.code == 429:
             print "SLEEPING FOR 1 min"
             time.sleep(60)
-            year, authors, title, pages, page_count = format_dblp_xml(get_link_uri(item))
+            year, authors, title, pages, page_count, doi = format_dblp_xml(get_link_uri(item))
             # year, authors, title, pages, page_count = format_dblp_xml(base_uri + item.attrib["id"] + ".xml")
           else:
             raise
-        writer.writerow([year, authors, title, pages, page_count, topic, ""])
+        writer.writerow([year, authors, title, doi, pages, page_count, topic, ""])
   f.close()
 
 
@@ -119,15 +68,15 @@ def parse_dblp_new(name, volumes, paper_type, base_uri=JOURNAL_BASE_URI, f_name=
         for li in current.find_all("li", recursive=False):
           xml_uri = "%s/%s.xml" % (JOURNAL_XML_BASE_URI, li.attrs['id'])
           try:
-            year, authors, title, pages, page_count = format_dblp_xml(xml_uri)
+            year, authors, title, pages, page_count, doi = format_dblp_xml(xml_uri)
           except urllib2.HTTPError, e:
             if e.code == 429:
               print "SLEEPING FOR 1 min"
               time.sleep(60)
-              year, authors, title, pages, page_count = format_dblp_xml(xml_uri)
+              year, authors, title, pages, page_count, doi = format_dblp_xml(xml_uri)
             else:
               raise
-          writer.writerow([year, authors, title, pages, page_count, topic, ""])
+          writer.writerow([year, authors, title, doi, pages, page_count, topic, ""])
       elif current.name == "header":
         topic = get_text(current)
       if current.name == "div":break
@@ -139,7 +88,12 @@ def get_text(bs_elem):
 
 def format_dblp_xml(xml_uri):
   print xml_uri
-  tree = ET.ElementTree(file=urllib2.urlopen(xml_uri))
+  try:
+    tree = ET.ElementTree(file=urllib2.urlopen(xml_uri))
+  except:
+    print "SLEEPING FOR 1 min"
+    time.sleep(60)
+    tree = ET.ElementTree(file=urllib2.urlopen(xml_uri))
   root = tree.getroot()
   year = root[0].findall("year")[0].text
   title = root[0].findall("title")[0].text
@@ -157,10 +111,14 @@ def format_dblp_xml(xml_uri):
         page_count = "1"
     except ValueError:
       page_count = "1"
-
   else:
     pages, page_count = "", ""
-  return year, authors, title, pages, page_count
+  doi = root[0].findall("ee")
+  if doi:
+    doi = doi[0].text
+  else:
+    doi = ""
+  return year, authors, title, pages, page_count, doi
 
 
 def get_link_uri(item):
@@ -169,14 +127,16 @@ def get_link_uri(item):
     return a[0].attrib["href"]
   return None
 
-def _main():
+def _parse_journal():
   journal = "stvr"
   ref = None
   start = 1
   end = 26
-  parse_dblp_new(journal, range(end,start-1,-1), "journals", f_name=ref)
-  # parse_dblp_old('esem', 'conferences')
-  # parse_saner()
+  parse_dblp_new(journal, range(end, start - 1, -1), "journals", f_name=ref)
+
+def _main():
+  _parse_journal()
+  # parse_dblp_old('wcre', 'conferences')
 
 
 if __name__ == "__main__":

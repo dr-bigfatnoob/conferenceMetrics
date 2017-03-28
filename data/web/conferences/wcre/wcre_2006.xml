@@ -1,0 +1,164 @@
+<dblp>
+    <h2>Keynotes</h2>
+ 
+
+<ul>
+<li id="Briand06"><a href="http://dblp.uni-trier.de/pers/hc/b/Briand:Lionel_C=">Lionel C. Briand</a>:<b>The Experimental Paradigm in Reverse Engineering: Role, Challenges, and Limitations.</b> 3-8<small><a href="http://dx.doi.org/10.1109/WCRE.2006.53"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/Briand06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/Briand06.xml">XML</a></small></small></li>
+<li id="Muller06"><a href="http://dblp.uni-trier.de/pers/hc/m/M=uuml=ller:Hausi_A=">Hausi A. M&#252;ller</a>:<b>Bits of History, Challenges for the Future and Autonomic Computing Technology.</b> 9-18<small><a href="http://dx.doi.org/10.1109/WCRE.2006.16"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/Muller06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/Muller06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Empirical Studies</h2>
+ 
+
+<ul>
+<li id="KapserG06"><a href="http://dblp.uni-trier.de/pers/hc/k/Kapser:Cory">Cory Kapser</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Godfrey:Michael_W=">Michael W. Godfrey</a>:<b>&#34;Cloning Considered Harmful&#34; Considered Harmful.</b> 19-28<small><a href="http://dx.doi.org/10.1109/WCRE.2006.1"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/KapserG06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/KapserG06.xml">XML</a></small></small></li>
+<li id="MarinMD06"><a href="http://dblp.uni-trier.de/pers/hc/m/Marin:Marius">Marius Marin</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Moonen:Leon">Leon Moonen</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Deursen:Arie_van">Arie van Deursen</a>:<b>A common framework for aspect mining based on crosscutting concern sorts.</b> 29-38<small><a href="http://dx.doi.org/10.1109/WCRE.2006.6"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/MarinMD06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/MarinMD06.xml">XML</a></small></small></li>
+<li id="KnodelMN06"><a href="http://dblp.uni-trier.de/pers/hc/k/Knodel:Jens">Jens Knodel</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Muthig:Dirk">Dirk Muthig</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Naab:Matthias">Matthias Naab</a>:<b>Understanding Software Architectures by Visualization--An Experiment with Graphical Elements.</b> 39-50<small><a href="http://dx.doi.org/10.1109/WCRE.2006.54"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/KnodelMN06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/KnodelMN06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Comprehension</h2>
+ 
+
+<ul>
+<li id="LoK06"><a href="http://dblp.uni-trier.de/pers/hc/l/Lo:David">David Lo</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Khoo:Siau=Cheng">Siau-Cheng Khoo</a>:<b>QUARK: Empirical Assessment of Automaton-based Specification Miners.</b> 51-60<small><a href="http://dx.doi.org/10.1109/WCRE.2006.47"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/LoK06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/LoK06.xml">XML</a></small></small></li>
+<li id="SartipiDS06"><a href="http://dblp.uni-trier.de/pers/hc/s/Sartipi:Kamran">Kamran Sartipi</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dezhkam:Nima">Nima Dezhkam</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Safyallah:Hossein">Hossein Safyallah</a>:<b>An Orchestrated Multi-view Software Architecture Reconstruction Environment.</b> 61-70<small><a href="http://dx.doi.org/10.1109/WCRE.2006.13"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/SartipiDS06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/SartipiDS06.xml">XML</a></small></small></li>
+<li id="ZouG06"><a href="http://dblp.uni-trier.de/pers/hc/z/Zou:Lijie">Lijie Zou</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Godfrey:Michael_W=">Michael W. Godfrey</a>:<b>An Industrial Case Study of Program Artifacts Viewed During Maintenance Tasks.</b> 71-82<small><a href="http://dx.doi.org/10.1109/WCRE.2006.12"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/ZouG06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/ZouG06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Concept and Feature Location</h2>
+ 
+
+<ul>
+<li id="RatiuD06"><a href="http://dblp.uni-trier.de/pers/hc/r/Ratiu:Daniel">Daniel Ratiu</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Deissenboeck:Florian">Florian Deissenboeck</a>:<b>How Programs Represent Reality (and how they don't).</b> 83-92<small><a href="http://dx.doi.org/10.1109/WCRE.2006.32"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/RatiuD06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/RatiuD06.xml">XML</a></small></small></li>
+<li id="KothariDMS06"><a href="http://dblp.uni-trier.de/pers/hc/k/Kothari:Jay">Jay Kothari</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Denton:Trip">Trip Denton</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mancoridis:Spiros">Spiros Mancoridis</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Shokoufandeh:Ali">Ali Shokoufandeh</a>:<b>On Computing the Canonical Features of Software Systems.</b> 93-102<small><a href="http://dx.doi.org/10.1109/WCRE.2006.39"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/KothariDMS06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/KothariDMS06.xml">XML</a></small></small></li>
+<li id="BinkleyGHLM06"><a href="http://dblp.uni-trier.de/pers/hc/b/Binkley:David">David Binkley</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gold:Nicolas">Nicolas Gold</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Li:Zheng">Zheng Li</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mahdavi:Kiarash">Kiarash Mahdavi</a>:<b>An Empirical Study of Executable Concept Slice Size.</b> 103-114<small><a href="http://dx.doi.org/10.1109/WCRE.2006.11"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/BinkleyGHLM06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/BinkleyGHLM06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Migration towards SOA</h2>
+ 
+
+<ul>
+<li id="LiT06"><a href="http://dblp.uni-trier.de/pers/hc/l/Li:Shimin">Shimin Li</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tahvildari:Ladan">Ladan Tahvildari</a>:<b>A Service-Oriented Componentization Framework for Java Software Systems.</b> 115-124<small><a href="http://dx.doi.org/10.1109/WCRE.2006.7"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/LiT06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/LiT06.xml">XML</a></small></small></li>
+<li id="SneedS06"><a href="http://dblp.uni-trier.de/pers/hc/s/Sneed:Harry_M=">Harry M. Sneed</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sneed:Stephan_H=">Stephan H. Sneed</a>:<b>Reverse Engineering of System Interfaces A Report from the Field.</b> 125-133<small><a href="http://dx.doi.org/10.1109/WCRE.2006.50"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/SneedS06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/SneedS06.xml">XML</a></small></small></li>
+<li id="LaitkorpiKS06"><a href="http://dblp.uni-trier.de/pers/hc/l/Laitkorpi:Markku">Markku Laitkorpi</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Koskinen:Johannes">Johannes Koskinen</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Syst=auml=:Tarja">Tarja Syst&#228;</a>:<b>A UML-based Approach for Abstracting Application Interfaces to REST-like Services.</b> 134-146<small><a href="http://dx.doi.org/10.1109/WCRE.2006.8"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/LaitkorpiKS06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/LaitkorpiKS06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Data Reverse Engineering</h2>
+ 
+
+<ul>
+<li id="MerloLA06"><a href="http://dblp.uni-trier.de/pers/hc/m/Merlo:Ettore">Ettore Merlo</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Letarte:Dominic">Dominic Letarte</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>:<b>Insider and Ousider Threat-Sensitive SQL Injection Vulnerability Analysis in PHP.</b> 147-156<small><a href="http://dx.doi.org/10.1109/WCRE.2006.33"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/MerloLA06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/MerloLA06.xml">XML</a></small></small></li>
+<li id="CleveHH06"><a href="http://dblp.uni-trier.de/pers/hc/c/Cleve:Anthony">Anthony Cleve</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Henrard:Jean">Jean Henrard</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hainaut:Jean=Luc">Jean-Luc Hainaut</a>:<b>Data Reverse Engineering using System Dependency Graphs.</b> 157-166<small><a href="http://dx.doi.org/10.1109/WCRE.2006.22"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/CleveHH06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/CleveHH06.xml">XML</a></small></small></li>
+<li id="LimRL06"><a href="http://dblp.uni-trier.de/pers/hc/l/Lim:Junghee">Junghee Lim</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Reps:Thomas_W=">Thomas W. Reps</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Liblit:Ben">Ben Liblit</a>:<b>Extracting Output Formats from Executables.</b> 167-178<small><a href="http://dx.doi.org/10.1109/WCRE.2006.29"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/LimRL06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/LimRL06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Visualizing Software Evolution</h2>
+ 
+
+<ul>
+<li id="FischerG06"><a href="http://dblp.uni-trier.de/pers/hc/f/Fischer:Michael">Michael Fischer</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gall:Harald_C=">Harald C. Gall</a>:<b>EvoGraph: A Lightweight Approach to Evolutionary and Structural Analysis of Large Software Systems.</b> 179-188<small><a href="http://dx.doi.org/10.1109/WCRE.2006.26"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/FischerG06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/FischerG06.xml">XML</a></small></small></li>
+<li id="DAmbrosL06"><a href="http://dblp.uni-trier.de/pers/hc/d/D=Ambros:Marco">Marco D'Ambros</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lanza:Michele">Michele Lanza</a>:<b>Reverse Engineering with Logical Coupling.</b> 189-198<small><a href="http://dx.doi.org/10.1109/WCRE.2006.51"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/DAmbrosL06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/DAmbrosL06.xml">XML</a></small></small></li>
+<li id="BeyerH06"><a href="http://dblp.uni-trier.de/pers/hc/b/Beyer_0001:Dirk">Dirk Beyer</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hassan:Ahmed_E=">Ahmed E. Hassan</a>:<b>Animated Visualization of Software History using Evolution Storyboards.</b> 199-210<small><a href="http://dx.doi.org/10.1109/WCRE.2006.14"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/BeyerH06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/BeyerH06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Mining Software Repositories</h2>
+ 
+
+<ul>
+<li id="GanesanMKY06"><a href="http://dblp.uni-trier.de/pers/hc/g/Ganesan:Dharmalingam">Dharmalingam Ganesan</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Muthig:Dirk">Dirk Muthig</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Knodel:Jens">Jens Knodel</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yoshimura:Kentaro">Kentaro Yoshimura</a>:<b>Discovering Organizational Aspects from the Source Code History Log during the Product Line Planning Phase--A Case Study.</b> 211-220<small><a href="http://dx.doi.org/10.1109/WCRE.2006.24"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/GanesanMKY06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/GanesanMKY06.xml">XML</a></small></small></li>
+<li id="BouktifGA06"><a href="http://dblp.uni-trier.de/pers/hc/b/Bouktif:Salah">Salah Bouktif</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gu=eacute=h=eacute=neuc:Yann=Ga=euml=l">Yann-Ga&#235;l Gu&#233;h&#233;neuc</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>:<b>Extracting Change-patterns from CVS Repositories.</b> 221-230<small><a href="http://dx.doi.org/10.1109/WCRE.2006.27"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/BouktifGA06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/BouktifGA06.xml">XML</a></small></small></li>
+<li id="XiePM06"><a href="http://dblp.uni-trier.de/pers/hc/x/Xie:Xinrong">Xinrong Xie</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Poshyvanyk:Denys">Denys Poshyvanyk</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marcus:Andrian">Andrian Marcus</a>:<b>Visualization of CVS Repository Information.</b> 231-242<small><a href="http://dx.doi.org/10.1109/WCRE.2006.55"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/XiePM06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/XiePM06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Analysis</h2>
+ 
+
+<ul>
+<li id="MoiseW06"><a href="http://dblp.uni-trier.de/pers/hc/m/Moise:Daniel_L=">Daniel L. Moise</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wong:Kenny">Kenny Wong</a>:<b>Extracting Facts from Perl Code.</b> 243-252<small><a href="http://dx.doi.org/10.1109/WCRE.2006.28"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/MoiseW06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/MoiseW06.xml">XML</a></small></small></li>
+<li id="KoschkeFF06"><a href="http://dblp.uni-trier.de/pers/hc/k/Koschke:Rainer">Rainer Koschke</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Falke:Raimar">Raimar Falke</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Frenzel:Pierre">Pierre Frenzel</a>:<b>Clone Detection Using Abstract Syntax Suffix Trees.</b> 253-262<small><a href="http://dx.doi.org/10.1109/WCRE.2006.18"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/KoschkeFF06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/KoschkeFF06.xml">XML</a></small></small></li>
+<li id="XingS06"><a href="http://dblp.uni-trier.de/pers/hc/x/Xing:Zhenchang">Zhenchang Xing</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stroulia:Eleni">Eleni Stroulia</a>:<b>Refactoring Detection based on UMLDiff Change-Facts Queries.</b> 263-274<small><a href="http://dx.doi.org/10.1109/WCRE.2006.48"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/XingS06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/XingS06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Industrial Track</h2>
+ 
+
+<ul>
+<li id="LormansGDSS06"><a href="http://dblp.uni-trier.de/pers/hc/l/Lormans:Marco">Marco Lormans</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gro=szlig=:Hans=Gerhard">Hans-Gerhard Gro&#223;</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Deursen:Arie_van">Arie van Deursen</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Solingen:Rini_van">Rini van Solingen</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stehouwer:Andr=eacute=">Andr&#233; Stehouwer</a>:<b>Monitoring Requirements Coverage using Reconstructed Views: An Industrial Case Study.</b> 275-284<small><a href="http://dx.doi.org/10.1109/WCRE.2006.38"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/LormansGDSS06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/LormansGDSS06.xml">XML</a></small></small></li>
+<li id="CapiluppiMB06"><a href="http://dblp.uni-trier.de/pers/hc/c/Capiluppi:Andrea">Andrea Capiluppi</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Millen:Jamie">Jamie Millen</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Boldyreff:Cornelia">Cornelia Boldyreff</a>:<b>How Outsourcing Affects the Quality of Mission Critical Software.</b> 285-287<small><a href="http://dx.doi.org/10.1109/WCRE.2006.31"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/CapiluppiMB06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/CapiluppiMB06.xml">XML</a></small></small></li>
+<li id="CoxS06"><a href="http://dblp.uni-trier.de/pers/hc/c/Cox:Anthony">Anthony Cox</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Smedley:Trevor_J=">Trevor J. Smedley</a>:<b>Reverse Engineering in Support of Litigation: Experiences in an Adversarial Environment.</b> 288-292<small><a href="http://dx.doi.org/10.1109/WCRE.2006.49"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/CoxS06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/CoxS06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Tool Demonstrations</h2>
+ 
+
+<ul>
+<li id="ColosimoLST06"><a href="http://dblp.uni-trier.de/pers/hc/c/Colosimo:Massimo">Massimo Colosimo</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lucia:Andrea_De">Andrea De Lucia</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Scanniello:Giuseppe">Giuseppe Scanniello</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tortora:Genoveffa">Genoveffa Tortora</a>:<b>MELIS: an Eclipse Based Environment for the Migration of Legacy Systems to the Web.</b> 293-294<small><a href="http://dx.doi.org/10.1109/WCRE.2006.34"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/ColosimoLST06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/ColosimoLST06.xml">XML</a></small></small></li>
+<li id="Bodhuin06"><a href="http://dblp.uni-trier.de/pers/hc/b/Bodhuin:Thierry">Thierry Bodhuin</a>:<b>PODoJA: Packaging Optimizer for Downloadable Java Applications.</b> 295-296<small><a href="http://dx.doi.org/10.1109/WCRE.2006.43"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/Bodhuin06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/Bodhuin06.xml">XML</a></small></small></li>
+<li id="KorshunovaPBM06"><a href="http://dblp.uni-trier.de/pers/hc/k/Korshunova:E=">E. Korshunova</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Petkovic:Marija">Marija Petkovic</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Brand:M=_G=_J=_van_den">M. G. J. van den Brand</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mousavi:Mohammad_Reza">Mohammad Reza Mousavi</a>:<b>CPP2XMI: Reverse Engineering of UML Class, Sequence, and Activity Diagrams from C++ Source Code.</b> 297-298<small><a href="http://dx.doi.org/10.1109/WCRE.2006.21"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/KorshunovaPBM06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/KorshunovaPBM06.xml">XML</a></small></small></li>
+<li id="MarinMD06a"><a href="http://dblp.uni-trier.de/pers/hc/m/Marin:Marius">Marius Marin</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Moonen:Leon">Leon Moonen</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Deursen:Arie_van">Arie van Deursen</a>:<b>FINT: Tool Support for Aspect Mining.</b> 299-300<small><a href="http://dx.doi.org/10.1109/WCRE.2006.30"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/MarinMD06a.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/MarinMD06a.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>PhD Symposium</h2>
+ 
+
+<ul>
+<li id="Cerulo06"><a href="http://dblp.uni-trier.de/pers/hc/c/Cerulo:Luigi">Luigi Cerulo</a>:<b>On the Use of Process Trails to Understand Software Development.</b> 303-304<small><a href="http://dx.doi.org/10.1109/WCRE.2006.40"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/Cerulo06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/Cerulo06.xml">XML</a></small></small></li>
+<li id="Meyer06"><a href="http://dblp.uni-trier.de/pers/hc/m/Meyer:Matthias">Matthias Meyer</a>:<b>Pattern-based Reengineering of Software Systems.</b> 305-306<small><a href="http://dx.doi.org/10.1109/WCRE.2006.42"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/Meyer06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/Meyer06.xml">XML</a></small></small></li>
+<li id="Ribic06"><a href="http://dblp.uni-trier.de/pers/hc/r/Ribic:Samir">Samir Ribic</a>:<b>Concept and implementation of the programming language and translator, for embedded systems, based on machine code decompilation and equivalence between source and executable code.</b> 307-308<small><a href="http://dx.doi.org/10.1109/WCRE.2006.20"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/Ribic06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/Ribic06.xml">XML</a></small></small></li>
+<li id="Marinescu06"><a href="http://dblp.uni-trier.de/pers/hc/m/Marinescu:Cristina">Cristina Marinescu</a>:<b>Quality Assessment of Enterprise Software Systems.</b> 309-310<small><a href="http://dx.doi.org/10.1109/WCRE.2006.46"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/Marinescu06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/Marinescu06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Workshops</h2>
+ 
+
+<ul>
+<li id="MoonenM06"><a href="http://dblp.uni-trier.de/pers/hc/m/Moonen:Leon">Leon Moonen</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mancoridis:Spiros">Spiros Mancoridis</a>:<b>Code Based Software Security Assessments.</b> 313<small><a href="http://dx.doi.org/10.1109/WCRE.2006.19"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/MoonenM06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/MoonenM06.xml">XML</a></small></small></li>
+<li id="Torchiano06"><a href="http://dblp.uni-trier.de/pers/hc/t/Torchiano:Marco">Marco Torchiano</a>:<b>Empirical Studies in Reverse Engineering.</b> 314<small><a href="http://dx.doi.org/10.1109/WCRE.2006.25"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/Torchiano06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/Torchiano06.xml">XML</a></small></small></li>
+<li id="ZaidmanGH06"><a href="http://dblp.uni-trier.de/pers/hc/z/Zaidman:Andy">Andy Zaidman</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Greevy:Orla">Orla Greevy</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hamou=Lhadj:Abdelwahab">Abdelwahab Hamou-Lhadj</a>:<b>Program COmprehension through Dynamic Analysis.</b> 315<small><a href="http://dx.doi.org/10.1109/WCRE.2006.45"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/ZaidmanGH06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/ZaidmanGH06.xml">XML</a></small></small></li>
+<li id="FontanaRGAS06"><a href="http://dblp.uni-trier.de/pers/hc/f/Fontana:Francesca_Arcelli">Francesca Arcelli Fontana</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Raibulet:Claudia">Claudia Raibulet</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gu=eacute=h=eacute=neuc:Yann=Ga=euml=l">Yann-Ga&#235;l Gu&#233;h&#233;neuc</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Smith:Jason_McC=">Jason McC. Smith</a>:<b>Design Pattern Detection for Reverse Engineering.</b> 316<small><a href="http://dx.doi.org/10.1109/WCRE.2006.23"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/FontanaRGAS06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/FontanaRGAS06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Tutorial</h2>
+ 
+
+<ul>
+<li id="Sim06"><a href="http://dblp.uni-trier.de/pers/hc/s/Sim:Susan_Elliott">Susan Elliott Sim</a>:<b>Case Studies for Reverse Engineers.</b> 319<small><a href="http://dx.doi.org/10.1109/WCRE.2006.17"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/Sim06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/Sim06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>IEEE International Astrenet Aspect Analysis (AAA) Workshop</h2>
+ 
+
+<ul>
+<li id="HarmanBT06"><a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Black:Sue">Sue Black</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tonella:Paolo">Paolo Tonella</a>:<b>Workshop Introduction Astrenet Aspect Analysis.</b> 323<small><a href="http://dx.doi.org/10.1109/WCRE.2006.56"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/HarmanBT06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/HarmanBT06.xml">XML</a></small></small></li>
+<li id="KnieselB06"><a href="http://dblp.uni-trier.de/pers/hc/k/Kniesel:G=uuml=nter">G&#252;nter Kniesel</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bardey:Uwe">Uwe Bardey</a>:<b>An Analysis of the Correctness and Completeness of Aspect Weaving.</b> 324-333<small><a href="http://dx.doi.org/10.1109/WCRE.2006.10"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/KnieselB06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/KnieselB06.xml">XML</a></small></small></li>
+<li id="Krinke06"><a href="http://dblp.uni-trier.de/pers/hc/k/Krinke:Jens">Jens Krinke</a>:<b>Mining Control Flow Graphs for Crosscutting Concerns.</b> 334-342<small><a href="http://dx.doi.org/10.1109/WCRE.2006.37"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/Krinke06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/Krinke06.xml">XML</a></small></small></li>
+</ul>
+</dblp>

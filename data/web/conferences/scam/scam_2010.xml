@@ -1,0 +1,74 @@
+<dblp>
+    <h2>Measurement</h2>
+ 
+
+<ul>
+<li id="WheelerB10"><a href="http://dblp.uni-trier.de/pers/hc/w/Wheeler:Amy">Amy Wheeler</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Binkley:Dave">Dave Binkley</a>:<b>Subclass Instantiation Distribution.</b> 23-32<small><a href="http://dx.doi.org/10.1109/SCAM.2010.12"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/WheelerB10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/WheelerB10.xml">XML</a></small></small></li>
+<li id="UjhaziFPG10"><a href="http://dblp.uni-trier.de/pers/hc/u/Ujhazi:Bela">Bela Ujhazi</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Ferenc:Rudolf">Rudolf Ferenc</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Poshyvanyk:Denys">Denys Poshyvanyk</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gyim=oacute=thy:Tibor">Tibor Gyim&#243;thy</a>:<b>New Conceptual Coupling and Cohesion Metrics for Object-Oriented Systems.</b> 33-42<small><a href="http://dx.doi.org/10.1109/SCAM.2010.14"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/UjhaziFPG10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/UjhaziFPG10.xml">XML</a></small></small></li>
+<li id="AllierVDS10"><a href="http://dblp.uni-trier.de/pers/hc/a/Allier:Simon">Simon Allier</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vaucher:St=eacute=phane">St&#233;phane Vaucher</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dufour:Bruno">Bruno Dufour</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sahraoui:Houari_A=">Houari A. Sahraoui</a>:<b>Deriving Coupling Metrics from Call Graphs.</b> 43-52<small><a href="http://dx.doi.org/10.1109/SCAM.2010.25"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/AllierVDS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/AllierVDS10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Concepts</h2>
+ 
+
+<ul>
+<li id="ThomasAHB10"><a href="http://dblp.uni-trier.de/pers/hc/t/Thomas:Stephen_W=">Stephen W. Thomas</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Adams:Bram">Bram Adams</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hassan:Ahmed_E=">Ahmed E. Hassan</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Blostein:Dorothea">Dorothea Blostein</a>:<b>Validating the Use of Topic Models for Software Evolution.</b> 55-64<small><a href="http://dx.doi.org/10.1109/SCAM.2010.13"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/ThomasAHB10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/ThomasAHB10.xml">XML</a></small></small></li>
+<li id="GrantC10"><a href="http://dblp.uni-trier.de/pers/hc/g/Grant:Scott">Scott Grant</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cordy:James_R=">James R. Cordy</a>:<b>Estimating the Optimal Number of Latent Concepts in Source Code Analysis.</b> 65-74<small><a href="http://dx.doi.org/10.1109/SCAM.2010.22"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/GrantC10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/GrantC10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Clones</h2>
+ 
+
+<ul>
+<li id="BrixtelFLBR10"><a href="http://dblp.uni-trier.de/pers/hc/b/Brixtel:Romain">Romain Brixtel</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fontaine:Mathieu">Mathieu Fontaine</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lesner:Boris">Boris Lesner</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bazin:Cyril">Cyril Bazin</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Robbes:Romain">Romain Robbes</a>:<b>Language-Independent Clone Detection Applied to Plagiarism Detection.</b> 77-86<small><a href="http://dx.doi.org/10.1109/SCAM.2010.19"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/BrixtelFLBR10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/BrixtelFLBR10.xml">XML</a></small></small></li>
+<li id="SahaAZRS10"><a href="http://dblp.uni-trier.de/pers/hc/s/Saha:Ripon_K=">Ripon K. Saha</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Asaduzzaman:Muhammad">Muhammad Asaduzzaman</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zibran:Minhaz_F=">Minhaz F. Zibran</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roy:Chanchal_K=">Chanchal K. Roy</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schneider:Kevin_A=">Kevin A. Schneider</a>:<b>Evaluating Code Clone Genealogies at Release Level: An Empirical Study.</b> 87-96<small><a href="http://dx.doi.org/10.1109/SCAM.2010.32"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/SahaAZRS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/SahaAZRS10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Demos</h2>
+ 
+
+<ul>
+<li id="Pise10"><a href="http://dblp.uni-trier.de/pers/hc/p/P=iacute=se:Michael">Michael P&#237;se</a>:<b>The Fika Parser Generator.</b> 99-100<small><a href="http://dx.doi.org/10.1109/SCAM.2010.27"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Pise10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Pise10.xml">XML</a></small></small></li>
+<li id="BastenS10"><a href="http://dblp.uni-trier.de/pers/hc/b/Basten:Bas">Bas Basten</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Storm:Tijs_van_der">Tijs van der Storm</a>:<b>AMBIDEXTER: Practical Ambiguity Detection.</b> 101-102<small><a href="http://dx.doi.org/10.1109/SCAM.2010.21"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/BastenS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/BastenS10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Static Analysis Using Graphs</h2>
+ 
+
+<ul>
+<li id="Graf10"><a href="http://dblp.uni-trier.de/pers/hc/g/Graf:J=uuml=rgen">J&#252;rgen Graf</a>:<b>Speeding Up Context-, Object- and Field-Sensitive SDG Generation.</b> 105-114<small><a href="http://dx.doi.org/10.1109/SCAM.2010.9"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Graf10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Graf10.xml">XML</a></small></small></li>
+<li id="KesterMB10"><a href="http://dblp.uni-trier.de/pers/hc/k/Kester:Devin">Devin Kester</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mwebesa:Martin">Martin Mwebesa</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bradbury:Jeremy_S=">Jeremy S. Bradbury</a>:<b>How Good is Static Analysis at Finding Concurrency Bugs?</b> 115-124<small><a href="http://dx.doi.org/10.1109/SCAM.2010.26"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/KesterMB10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/KesterMB10.xml">XML</a></small></small></li>
+<li id="EdvinssonLL10"><a href="http://dblp.uni-trier.de/pers/hc/e/Edvinsson:Marcus">Marcus Edvinsson</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lundberg:Jonas">Jonas Lundberg</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/L=ouml=we:Welf">Welf L&#246;we</a>:<b>Parallel Reachability and Escape Analyses.</b> 125-134<small><a href="http://dx.doi.org/10.1109/SCAM.2010.10"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/EdvinssonLL10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/EdvinssonLL10.xml">XML</a></small></small></li>
+<li id="LuoHDQ10"><a href="http://dblp.uni-trier.de/pers/hc/l/Luo:Zhi_Da">Zhi Da Luo</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hillis:Linda">Linda Hillis</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Das:Raja">Raja Das</a>, <a href="http://dblp.uni-trier.de/pers/hc/q/Qi:Yao">Yao Qi</a>:<b>Effective Static Analysis to Find Concurrency Bugs in Java.</b> 135-144<small><a href="http://dx.doi.org/10.1109/SCAM.2010.20"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/LuoHDQ10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/LuoHDQ10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Modularity</h2>
+ 
+
+<ul>
+<li id="KatsV10"><a href="http://dblp.uni-trier.de/pers/hc/k/Kats:Lennart_C=_L=">Lennart C. L. Kats</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Visser:Eelco">Eelco Visser</a>:<b>Encapsulating Software Platform Logic by Aspect-Oriented Programming: A Case Study in Using Aspects for Language Portability.</b> 147-156<small><a href="http://dx.doi.org/10.1109/SCAM.2010.11"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/KatsV10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/KatsV10.xml">XML</a></small></small></li>
+<li id="LiT10"><a href="http://dblp.uni-trier.de/pers/hc/l/Li:Huiqing">Huiqing Li</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Thompson:Simon_J=">Simon J. Thompson</a>:<b>Refactoring Support for Modularity Maintenance in Erlang.</b> 157-166<small><a href="http://dx.doi.org/10.1109/SCAM.2010.17"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/LiT10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/LiT10.xml">XML</a></small></small></li>
+<li id="Borok-NagyMMPP10"><a href="http://dblp.uni-trier.de/pers/hc/b/Borok=Nagy:Zoltan">Zoltan Borok-Nagy</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Majer:Viktor">Viktor Majer</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mihalicza:J=oacute=zsef">J&#243;zsef Mihalicza</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pataki:Norbert">Norbert Pataki</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Porkol=aacute=b:Zolt=aacute=n">Zolt&#225;n Porkol&#225;b</a>:<b>Visualization of C++ Template Metaprograms.</b> 167-176<small><a href="http://dx.doi.org/10.1109/SCAM.2010.16"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Borok-NagyMMPP10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Borok-NagyMMPP10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Data and Memory</h2>
+ 
+
+<ul>
+<li id="TroshinaDC10"><a href="http://dblp.uni-trier.de/pers/hc/t/Troshina:Katerina">Katerina Troshina</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Derevenets:Yegor">Yegor Derevenets</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chernov:Alexander">Alexander Chernov</a>:<b>Reconstruction of Composite Types for Decompilation.</b> 179-188<small><a href="http://dx.doi.org/10.1109/SCAM.2010.24"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/TroshinaDC10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/TroshinaDC10.xml">XML</a></small></small></li>
+<li id="KetterlinC10"><a href="http://dblp.uni-trier.de/pers/hc/k/Ketterlin:Alain">Alain Ketterlin</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Clauss:Philippe">Philippe Clauss</a>:<b>Recovering the Memory Behavior of Executable Programs.</b> 189-198<small><a href="http://dx.doi.org/10.1109/SCAM.2010.18"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/KetterlinC10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/KetterlinC10.xml">XML</a></small></small></li>
+<li id="SimpsonB10"><a href="http://dblp.uni-trier.de/pers/hc/s/Simpson:Matthew_S=">Matthew S. Simpson</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Barua:Rajeev">Rajeev Barua</a>:<b>MemSafe: Ensuring the Spatial and Temporal Memory Safety of C at Runtime.</b> 199-208<small><a href="http://dx.doi.org/10.1109/SCAM.2010.15"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/SimpsonB10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/SimpsonB10.xml">XML</a></small></small></li>
+</ul>
+</dblp>

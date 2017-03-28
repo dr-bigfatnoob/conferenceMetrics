@@ -1,0 +1,158 @@
+<dblp>
+    <h2>Experiences with Formal Representations of Software</h2>
+ 
+
+<ul>
+<li id="Ardis94"><a href="http://dblp.uni-trier.de/pers/hc/a/Ardis:Mark_A=">Mark A. Ardis</a>:<b>Lessons from Using Basic LOTOS.</b> 5-14<small><a href="http://portal.acm.org/citation.cfm?id=257734.257736"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Ardis94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Ardis94.xml">XML</a></small></small></li>
+<li id="KeaneH94"><a href="http://dblp.uni-trier.de/pers/hc/k/Keane:John_A=">John A. Keane</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hussak:Walter">Walter Hussak</a>:<b>A Formal Approach to Determining Parallel Resource Bindings: Experience Report.</b> 15-22<small><a href="http://portal.acm.org/citation.cfm?id=257734.257738"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/KeaneH94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/KeaneH94.xml">XML</a></small></small></li>
+<li id="DevanbuJ94"><a href="http://dblp.uni-trier.de/pers/hc/d/Devanbu:Premkumar_T=">Premkumar T. Devanbu</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jones:Mark_A=">Mark A. Jones</a>:<b>The Use of Description Logics in KBSE Systems: Experience Report.</b> 23-35<small><a href="http://portal.acm.org/citation.cfm?id=257734.257739"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/DevanbuJ94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/DevanbuJ94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Understanding Complex Systems</h2>
+ 
+
+<ul>
+<li id="MayrhauserV94"><a href="http://dblp.uni-trier.de/pers/hc/m/Mayrhauser:Anneliese_von">Anneliese von Mayrhauser</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vans:A=_Marie">A. Marie Vans</a>:<b>Comprehension Processes During Large Scale Maintenance.</b> 39-48<small><a href="http://portal.acm.org/citation.cfm?id=257734.257741"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/MayrhauserV94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/MayrhauserV94.xml">XML</a></small></small></li>
+<li id="KroneS94"><a href="http://dblp.uni-trier.de/pers/hc/k/Krone:Maren">Maren Krone</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Snelting:Gregor">Gregor Snelting</a>:<b>On the Inference of Configuration Structures from Source Code.</b> 49-57<small><a href="http://portal.acm.org/citation.cfm?id=257734.257742"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/KroneS94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/KroneS94.xml">XML</a></small></small></li>
+<li id="BakerE94"><a href="http://dblp.uni-trier.de/pers/hc/b/Baker:Marla_J=">Marla J. Baker</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Eick:Stephen_G=">Stephen G. Eick</a>:<b>Visualizing Software Systems.</b> 59-67<small><a href="http://portal.acm.org/citation.cfm?id=257734.257744"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/BakerE94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/BakerE94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Architectures</h2>
+ 
+
+<ul>
+<li id="AllenG94"><a href="http://dblp.uni-trier.de/pers/hc/a/Allen:Robert_J=">Robert J. Allen</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Garlan:David">David Garlan</a>:<b>Formalizing Architectural Connection.</b> 71-80<small><a href="http://doi.acm.org/10.1145/257734.257745"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/AllenG94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/AllenG94.xml">XML</a></small></small></li>
+<li id="KazmanBWA94"><a href="http://dblp.uni-trier.de/pers/hc/k/Kazman:Rick">Rick Kazman</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bass:Leonard_J=">Leonard J. Bass</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Webb:Mike">Mike Webb</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Abowd:Gregory_D=">Gregory D. Abowd</a>:<b>SAAM: A Method for Analyzing the Properties of Software Architectures.</b> 81-90<small><a href="http://portal.acm.org/citation.cfm?id=257734.257746"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/KazmanBWA94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/KazmanBWA94.xml">XML</a></small></small></li>
+<li id="MiliMM94"><a href="http://dblp.uni-trier.de/pers/hc/m/Mili:Ali">Ali Mili</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mili:Rym">Rym Mili</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mittermeir:Roland">Roland Mittermeir</a>:<b>Storing and Retrieving Software Components: A Refinement Based System.</b> 91-100<small><a href="http://portal.acm.org/citation.cfm?id=257734.257748"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/MiliMM94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/MiliMM94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Measurement and Evaluation</h2>
+ 
+
+<ul>
+<li id="PorterV94"><a href="http://dblp.uni-trier.de/pers/hc/p/Porter:Adam_A=">Adam A. Porter</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Votta:Lawrence_G=">Lawrence G. Votta</a>:<b>An Experiment to Assess Different Defect Detection Methods for Software Requirements Inspections.</b> 103-112<small><a href="http://portal.acm.org/citation.cfm?id=257734.257749"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/PorterV94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/PorterV94.xml">XML</a></small></small></li>
+<li id="Johnson94"><a href="http://dblp.uni-trier.de/pers/hc/j/Johnson:Philip_M=">Philip M. Johnson</a>:<b>An Instrumented Approach to Improving Software Quality Through Formal Technical Review.</b> 113-122<small><a href="http://portal.acm.org/citation.cfm?id=257734.257751"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Johnson94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Johnson94.xml">XML</a></small></small></li>
+<li id="TakadaMT94"><a href="http://dblp.uni-trier.de/pers/hc/t/Takada:Y=">Y. Takada</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Matsumoto:Ken=ichi">Ken-ichi Matsumoto</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Torii:Koji">Koji Torii</a>:<b>A Programmer Performance Measure Based on Programmer State Transitions in Testing and Debugging Process.</b> 123-132<small><a href="http://portal.acm.org/citation.cfm?id=257734.257752"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/TakadaMT94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/TakadaMT94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Best Paper of ICSE-6</h2>
+ 
+
+<ul>
+<li id="GreenspanMB94"><a href="http://dblp.uni-trier.de/pers/hc/g/Greenspan:Sol_J=">Sol J. Greenspan</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mylopoulos:John">John Mylopoulos</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Borgida:Alexander">Alexander Borgida</a>:<b>On Formal Requirements Modeling Languages: RML Revisited.</b> 135-147<small><a href="http://portal.acm.org/citation.cfm?id=257734.257754"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/GreenspanMB94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/GreenspanMB94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+
+
+
+<h2>Process Modelling</h2>
+ 
+
+<ul>
+<li id="YuM94"><a href="http://dblp.uni-trier.de/pers/hc/y/Yu:Eric_S=_K=">Eric S. K. Yu</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mylopoulos:John">John Mylopoulos</a>:<b>Understanding &#34;Why&#34; in Software Process Modelling, Analysis, and Design.</b> 159-168<small><a href="http://portal.acm.org/citation.cfm?id=257734.257757"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/YuM94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/YuM94.xml">XML</a></small></small></li>
+<li id="YasumotoHT94"><a href="http://dblp.uni-trier.de/pers/hc/y/Yasumoto:Keiichi">Keiichi Yasumoto</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Higashino:Teruo">Teruo Higashino</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Taniguchi:Kenichi">Kenichi Taniguchi</a>:<b>Software Process Description Using LOTOS and Its Enaction.</b> 169-178<small><a href="http://portal.acm.org/citation.cfm?id=257734.257758"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/YasumotoHT94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/YasumotoHT94.xml">XML</a></small></small></li>
+<li id="Ben-ShaulK94"><a href="http://dblp.uni-trier.de/pers/hc/b/Ben=Shaul:Israel">Israel Ben-Shaul</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kaiser:Gail_E=">Gail E. Kaiser</a>:<b>A Paradigm for Decentralized Process Modeling and Its Realization in the Oz Environment.</b> 179-188<small><a href="http://portal.acm.org/citation.cfm?id=257734.257764"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Ben-ShaulK94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Ben-ShaulK94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Testing I</h2>
+ 
+
+<ul>
+<li id="HutchinsFGO94"><a href="http://dblp.uni-trier.de/pers/hc/h/Hutchins:Monica">Monica Hutchins</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Foster:Herbert">Herbert Foster</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Goradia:Tarak">Tarak Goradia</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Ostrand:Thomas_J=">Thomas J. Ostrand</a>:<b>Experiments of the Effectiveness of Dataflow- and Controlflow-Based Test Adequacy Criteria.</b> 191-200<small><a href="http://portal.acm.org/citation.cfm?id=257734.257766"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/HutchinsFGO94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/HutchinsFGO94.xml">XML</a></small></small></li>
+<li id="RothermelH94"><a href="http://dblp.uni-trier.de/pers/hc/r/Rothermel:Gregg">Gregg Rothermel</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harrold:Mary_Jean">Mary Jean Harrold</a>:<b>A Framework for Evaluating Regression Test Selection Techniques.</b> 201-210<small><a href="http://portal.acm.org/citation.cfm?id=257734.257767"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/RothermelH94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/RothermelH94.xml">XML</a></small></small></li>
+<li id="ChenRV94"><a href="http://dblp.uni-trier.de/pers/hc/c/Chen:Yih=Farn">Yih-Farn Chen</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rosenblum:David_S=">David S. Rosenblum</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vo:Kiem=Phong">Kiem-Phong Vo</a>:<b>TestTube: A System for Selective Regression Testing.</b> 211-220<small><a href="http://portal.acm.org/citation.cfm?id=257734.257769"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/ChenRV94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/ChenRV94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>State of the Art Report</h2>
+ 
+
+<ul>
+<li id="Gaudel94"><a href="http://dblp.uni-trier.de/pers/hc/g/Gaudel:Marie=Claude">Marie-Claude Gaudel</a>:<b>Formal Specification Techniques (Extended Abstract).</b> 223-227<small><a href="http://portal.acm.org/citation.cfm?id=257734.257771"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Gaudel94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Gaudel94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Testing II</h2>
+ 
+
+<ul>
+<li id="DeshmukhDLL94"><a href="http://dblp.uni-trier.de/pers/hc/d/Deshmukh:G=">G. Deshmukh</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Deshpande:R=">R. Deshpande</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Leathrum:James_F=">James F. Leathrum</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Liburdy:K=_A=">K. A. Liburdy</a>:<b>The Role of Testing Methodologies in Open Systems Standards: A POSIX Experience Report.</b> 233-240<small><a href="http://portal.acm.org/citation.cfm?id=257734.257773"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/DeshmukhDLL94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/DeshmukhDLL94.xml">XML</a></small></small></li>
+<li id="DevanbuRW94"><a href="http://dblp.uni-trier.de/pers/hc/d/Devanbu:Premkumar_T=">Premkumar T. Devanbu</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rosenblum:David_S=">David S. Rosenblum</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wolf:Alexander_L=">Alexander L. Wolf</a>:<b>Automated Construction of Testing and Analysis Tools.</b> 241-250<small><a href="http://portal.acm.org/citation.cfm?id=257734.257774"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/DevanbuRW94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/DevanbuRW94.xml">XML</a></small></small></li>
+<li id="Kramer94"><a href="http://dblp.uni-trier.de/pers/hc/k/Kramer:Jeff">Jeff Kramer</a>:<b>Distributed Software Engineering.</b> 253-263<small><a href="http://portal.acm.org/citation.cfm?id=257734.257777"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Kramer94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Kramer94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Panels</h2>
+ 
+
+<ul>
+<li id="Wentzel94"><a href="http://dblp.uni-trier.de/pers/hc/w/Wentzel:Kevin_D=">Kevin D. Wentzel</a>:<b>Software Reuse - Facts and Myths.</b> 267-268<small><a href="http://portal.acm.org/citation.cfm?id=257734.257779"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Wentzel94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Wentzel94.xml">XML</a></small></small></li>
+<li id="Basili94"><a href="http://dblp.uni-trier.de/pers/hc/b/Basili:Victor_R=">Victor R. Basili</a>:<b>Facts and Myths Affecting Software Reuse.</b> 269<small><a href="http://portal.acm.org/citation.cfm?id=257734.257781"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Basili94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Basili94.xml">XML</a></small></small></li>
+<li id="Griss94"><a href="http://dblp.uni-trier.de/pers/hc/g/Griss:Martin_L=">Martin L. Griss</a>:<b>Software Reuse Experience at Hewlett-Packard.</b> 270<small><a href="http://portal.acm.org/citation.cfm?id=257734.257783"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Griss94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Griss94.xml">XML</a></small></small></li>
+<li id="Tracz94"><a href="http://dblp.uni-trier.de/pers/hc/t/Tracz:Will">Will Tracz</a>:<b>Software Reuse Myths Revisited.</b> 271-272<small><a href="http://portal.acm.org/citation.cfm?id=257734.257784"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Tracz94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Tracz94.xml">XML</a></small></small></li>
+<li id="Wasmund94"><a href="http://dblp.uni-trier.de/pers/hc/w/Wasmund:Michael">Michael Wasmund</a>:<b>Reuse Facts and Myths.</b> 273<small><a href="http://portal.acm.org/citation.cfm?id=257734.257786"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Wasmund94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Wasmund94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Invited Talk</h2>
+ 
+
+<ul>
+<li id="Parnas94"><a href="http://dblp.uni-trier.de/pers/hc/p/Parnas:David_Lorge">David Lorge Parnas</a>:<b>Software Aging.</b> 279-287<small><a href="http://portal.acm.org/citation.cfm?id=257734.257788"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Parnas94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Parnas94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Real-Time and Distributed Systems</h2>
+ 
+
+<ul>
+<li id="Callison94"><a href="http://dblp.uni-trier.de/pers/hc/c/Callison:H=_Rebecca">H. Rebecca Callison</a>:<b>A Periodic Object Model for Real-Time Systems.</b> 291-300<small><a href="http://portal.acm.org/citation.cfm?id=257734.257789"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Callison94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Callison94.xml">XML</a></small></small></li>
+<li id="Vardanega94"><a href="http://dblp.uni-trier.de/pers/hc/v/Vardanega:Tullio">Tullio Vardanega</a>:<b>Experience with the Development of Hard Real-Time Embedded Ada Software.</b> 301-308<small><a href="http://portal.acm.org/citation.cfm?id=257734.257791"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Vardanega94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Vardanega94.xml">XML</a></small></small></li>
+<li id="CheungK94"><a href="http://dblp.uni-trier.de/pers/hc/c/Cheung:Shing=Chi">Shing-Chi Cheung</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kramer:Jeff">Jeff Kramer</a>:<b>An Integrated Method for Effective Behaviour Analysis of Distributed Systems.</b> 309-320<small><a href="http://portal.acm.org/citation.cfm?id=257734.257792"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/CheungK94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/CheungK94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Process Analysis and Improvement</h2>
+ 
+
+<ul>
+<li id="Johnson94a"><a href="http://dblp.uni-trier.de/pers/hc/j/Johnson:Albert">Albert Johnson</a>:<b>Software Process Improvement Experience in the DP/MIS Function: Experience Report.</b> 323-329<small><a href="http://portal.acm.org/citation.cfm?id=257734.257793"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Johnson94a.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Johnson94a.xml">XML</a></small></small></li>
+<li id="BrodmanJ94"><a href="http://dblp.uni-trier.de/pers/hc/b/Brodman:Judith_G=">Judith G. Brodman</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Johnson:Donna_L=">Donna L. Johnson</a>:<b>What Small Business and Small Organizations Say About the CMM: Experience Report.</b> 331-340<small><a href="http://portal.acm.org/citation.cfm?id=257734.257795"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/BrodmanJ94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/BrodmanJ94.xml">XML</a></small></small></li>
+<li id="GargMPST94"><a href="http://dblp.uni-trier.de/pers/hc/g/Garg:Pankaj_K=">Pankaj K. Garg</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mi:Peiwei">Peiwei Mi</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pham:Thuan">Thuan Pham</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Scacchi:Walt">Walt Scacchi</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Thunquest:Gary">Gary Thunquest</a>:<b>The SMART Approach for Software Process Engineering.</b> 341-350<small><a href="http://portal.acm.org/citation.cfm?id=257734.257797"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/GargMPST94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/GargMPST94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Workshops</h2>
+ 
+
+<ul>
+<li id="FickasS94"><a href="http://dblp.uni-trier.de/pers/hc/f/Fickas:Stephen">Stephen Fickas</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Selfridge:Peter_G=">Peter G. Selfridge</a>:<b>Software Engineering and Artificial Intelligence.</b> 353-354<small><a href="http://portal.acm.org/citation.cfm?id=257734.257799"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/FickasS94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/FickasS94.xml">XML</a></small></small></li>
+<li id="King94"><a href="http://dblp.uni-trier.de/pers/hc/k/King:Roger">Roger King</a>:<b>Workshop on the Intersection Between Databases and Software Engineering.</b> 355<small><a href="http://portal.acm.org/citation.cfm?id=257734.257800"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/King94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/King94.xml">XML</a></small></small></li>
+<li id="TaylorC94"><a href="http://dblp.uni-trier.de/pers/hc/t/Taylor:Richard_N=">Richard N. Taylor</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Coutaz:Jo=euml=lle">Jo&#235;lle Coutaz</a>:<b>Workshop on Software Engineering and computer-Human Interaction: Joint Research Issues.</b> 356-357<small><a href="http://portal.acm.org/citation.cfm?id=257734.257801"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/TaylorC94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/TaylorC94.xml">XML</a></small></small></li>
+<li id="Finkelstein94"><a href="http://dblp.uni-trier.de/pers/hc/f/Finkelstein:Anthony">Anthony Finkelstein</a>:<b>Software Engineering Education: A Place in the Sun?</b> 358-359<small><a href="http://portal.acm.org/citation.cfm?id=257734.257804"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Finkelstein94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Finkelstein94.xml">XML</a></small></small></li>
+<li id="GarlanA94"><a href="http://dblp.uni-trier.de/pers/hc/g/Garlan:David">David Garlan</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Perry:Dewayne_E=">Dewayne E. Perry</a>:<b>Software Architecture: Practice, Potential, and Pitfalls.</b> 363-364<small><a href="http://portal.acm.org/citation.cfm?id=257734.257806"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/GarlanA94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/GarlanA94.xml">XML</a></small></small></li>
+<li id="Boehm94"><a href="http://dblp.uni-trier.de/pers/hc/b/Boehm:Barry_W=">Barry W. Boehm</a>:<b>Software Architectures: Critical Success Factors and Cost Drivers.</b> 365<small><a href="http://portal.acm.org/citation.cfm?id=257734.257807"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Boehm94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Boehm94.xml">XML</a></small></small></li>
+<li id="Kramer94a"><a href="http://dblp.uni-trier.de/pers/hc/k/Kramer:Jeff">Jeff Kramer</a>:<b>Exoskeletal Software.</b> 366<small><a href="http://portal.acm.org/citation.cfm?id=257734.257810"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Kramer94a.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Kramer94a.xml">XML</a></small></small></li>
+<li id="Curtis94"><a href="http://dblp.uni-trier.de/pers/hc/c/Curtis:Bill">Bill Curtis</a>:<b>A Process for Hitting Paydirt.</b> 369<small><a href="http://portal.acm.org/citation.cfm?id=257734.257812"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Curtis94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Curtis94.xml">XML</a></small></small></li>
+</ul>
+
+</dblp>

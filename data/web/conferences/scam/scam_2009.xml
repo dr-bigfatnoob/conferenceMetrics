@@ -1,0 +1,75 @@
+<dblp>
+<h2>Slicing &#38; Concurrency</h2>
+ 
+
+<ul>
+<li id="LangeM09"><a href="http://dblp.uni-trier.de/pers/hc/l/Lange:Robert_Charles">Robert Charles Lange</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mancoridis:Spiros">Spiros Mancoridis</a>:<b>thr2csp: Toward Transforming Threads into Communicating Sequential Processes.</b> 3-12<small><a href="http://dx.doi.org/10.1109/SCAM.2009.10"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/LangeM09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/LangeM09.xml">XML</a></small></small></li>
+<li id="Giffhorn09"><a href="http://dblp.uni-trier.de/pers/hc/g/Giffhorn:Dennis">Dennis Giffhorn</a>:<b>Chopping Concurrent Programs.</b> 13-22<small><a href="http://dx.doi.org/10.1109/SCAM.2009.11"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Giffhorn09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Giffhorn09.xml">XML</a></small></small></li>
+<li id="Ward09"><a href="http://dblp.uni-trier.de/pers/hc/w/Ward:Martin_P=">Martin P. Ward</a>:<b>Properties of Slicing Definitions.</b> 23-32<small><a href="http://dx.doi.org/10.1109/SCAM.2009.12"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Ward09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Ward09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Dependence Analysis</h2>
+ 
+
+<ul>
+<li id="QianZX09"><a href="http://dblp.uni-trier.de/pers/hc/q/Qian:Ju">Ju Qian</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhou:Yuming">Yuming Zhou</a>, <a href="http://dblp.uni-trier.de/pers/hc/x/Xu:Baowen">Baowen Xu</a>:<b>Improving Side-Effect Analysis with Lazy Access Path Resolving.</b> 35-44<small><a href="http://dx.doi.org/10.1109/SCAM.2009.13"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/QianZX09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/QianZX09.xml">XML</a></small></small></li>
+<li id="GutzmannKLL09"><a href="http://dblp.uni-trier.de/pers/hc/g/Gutzmann:Tobias">Tobias Gutzmann</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Khairova:Antonina">Antonina Khairova</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lundberg:Jonas">Jonas Lundberg</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/L=ouml=we:Welf">Welf L&#246;we</a>:<b>Towards Comparing and Combining Points-to Analyses.</b> 45-54<small><a href="http://dx.doi.org/10.1109/SCAM.2009.14"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/GutzmannKLL09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/GutzmannKLL09.xml">XML</a></small></small></li>
+<li id="AlvesV09"><a href="http://dblp.uni-trier.de/pers/hc/a/Alves:Tiago_L=">Tiago L. Alves</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Visser:Joost">Joost Visser</a>:<b>Static Estimation of Test Coverage.</b> 55-64<small><a href="http://dx.doi.org/10.1109/SCAM.2009.15"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/AlvesV09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/AlvesV09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Clones</h2>
+ 
+
+<ul>
+<li id="TiarksKF09"><a href="http://dblp.uni-trier.de/pers/hc/t/Tiarks:Rebecca">Rebecca Tiarks</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Koschke:Rainer">Rainer Koschke</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Falke:Raimar">Raimar Falke</a>:<b>An Assessment of Type-3 Clones as Detected by State-of-the-Art Tools.</b> 67-76<small><a href="http://dx.doi.org/10.1109/SCAM.2009.16"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/TiarksKF09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/TiarksKF09.xml">XML</a></small></small></li>
+<li id="Gode09"><a href="http://dblp.uni-trier.de/pers/hc/g/G=ouml=de:Nils">Nils G&#246;de</a>:<b>Evolution of Type-1 Clones.</b> 77-86<small><a href="http://dx.doi.org/10.1109/SCAM.2009.17"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Gode09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Gode09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Code Tracing</h2>
+ 
+
+<ul>
+<li id="BinkleyH09"><a href="http://dblp.uni-trier.de/pers/hc/b/Binkley:David">David Binkley</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>:<b>Identifying 'Linchpin Vertices' That Cause Large Dependence Clusters.</b> 89-98<small><a href="http://dx.doi.org/10.1109/SCAM.2009.18"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/BinkleyH09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/BinkleyH09.xml">XML</a></small></small></li>
+<li id="SpaccoW09"><a href="http://dblp.uni-trier.de/pers/hc/s/Spacco:Jaime">Jaime Spacco</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Williams:Chadd_C=">Chadd C. Williams</a>:<b>Lightweight Techniques for Tracking Unique Program Statements.</b> 99-108<small><a href="http://dx.doi.org/10.1109/SCAM.2009.19"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/SpaccoW09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/SpaccoW09.xml">XML</a></small></small></li>
+<li id="Prause09"><a href="http://dblp.uni-trier.de/pers/hc/p/Prause:Christian">Christian Prause</a>:<b>Maintaining Fine-Grained Code Metadata Regardless of Moving, Copying and Merging.</b> 109-118<small><a href="http://dx.doi.org/10.1109/SCAM.2009.20"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Prause09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Prause09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Tools Demos</h2>
+ 
+
+<ul>
+<li id="GutzmannS09"><a href="http://dblp.uni-trier.de/pers/hc/g/Gutzmann:Tobias">Tobias Gutzmann</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Steijger:Tamara">Tamara Steijger</a>:<b>Backporting Java 5 Code.</b> 121-122<small><a href="http://dx.doi.org/10.1109/SCAM.2009.21"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/GutzmannS09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/GutzmannS09.xml">XML</a></small></small></li>
+<li id="CanetCM09"><a href="http://dblp.uni-trier.de/pers/hc/c/Canet:G=eacute=raud">G&#233;raud Canet</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cuoq:Pascal">Pascal Cuoq</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Monate:Benjamin">Benjamin Monate</a>:<b>A Value Analysis for C Programs.</b> 123-124<small><a href="http://dx.doi.org/10.1109/SCAM.2009.22"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/CanetCM09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/CanetCM09.xml">XML</a></small></small></li>
+<li id="Ward09a"><a href="http://dblp.uni-trier.de/pers/hc/w/Ward:Martin_P=">Martin P. Ward</a>:<b>The FermaT Maintenance Environment Tool Demonstration.</b> 125-126<small><a href="http://dx.doi.org/10.1109/SCAM.2009.23"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Ward09a.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Ward09a.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Abstraction &#38; Reverse Engineering</h2>
+ 
+
+<ul>
+<li id="HamiltonD09"><a href="http://dblp.uni-trier.de/pers/hc/h/Hamilton:James_Alexander_George">James Alexander George Hamilton</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Danicic:Sebastian">Sebastian Danicic</a>:<b>An Evaluation of Current Java Bytecode Decompilers.</b> 129-136<small><a href="http://dx.doi.org/10.1109/SCAM.2009.24"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/HamiltonD09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/HamiltonD09.xml">XML</a></small></small></li>
+<li id="AchenbachO09"><a href="http://dblp.uni-trier.de/pers/hc/a/Achenbach:Michael">Michael Achenbach</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Ostermann:Klaus">Klaus Ostermann</a>:<b>Engineering Abstractions in Model Checking and Testing.</b> 137-146<small><a href="http://dx.doi.org/10.1109/SCAM.2009.25"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/AchenbachO09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/AchenbachO09.xml">XML</a></small></small></li>
+<li id="DavidH09"><a href="http://dblp.uni-trier.de/pers/hc/d/David:Valentin">Valentin David</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Haveraaen:Magne">Magne Haveraaen</a>:<b>Concepts as Syntactic Sugar.</b> 147-156<small><a href="http://dx.doi.org/10.1109/SCAM.2009.26"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/DavidH09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/DavidH09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Analysis Frameworks</h2>
+ 
+
+<ul>
+<li id="AlikacemS09"><a href="http://dblp.uni-trier.de/pers/hc/a/Alikacem:El_Hachemi">El Hachemi Alikacem</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sahraoui:Houari_A=">Houari A. Sahraoui</a>:<b>A Metric Extraction Framework Based on a High-Level Description Language.</b> 159-167<small><a href="http://dx.doi.org/10.1109/SCAM.2009.27"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/AlikacemS09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/AlikacemS09.xml">XML</a></small></small></li>
+<li id="KlintSV09"><a href="http://dblp.uni-trier.de/pers/hc/k/Klint:Paul">Paul Klint</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Storm:Tijs_van_der">Tijs van der Storm</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vinju:Jurgen_J=">Jurgen J. Vinju</a>:<b>RASCAL: A Domain Specific Language for Source Code Analysis and Manipulation.</b> 168-177<small><a href="http://dx.doi.org/10.1109/SCAM.2009.28"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/KlintSV09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/KlintSV09.xml">XML</a></small></small></li>
+<li id="LammelZ09"><a href="http://dblp.uni-trier.de/pers/hc/l/L=auml=mmel:Ralf">Ralf L&#228;mmel</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zaytsev:Vadim">Vadim Zaytsev</a>:<b>Recovering Grammar Relationships for the Java Language Specification.</b> 178-186<small><a href="http://dx.doi.org/10.1109/SCAM.2009.29"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/LammelZ09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/LammelZ09.xml">XML</a></small></small></li>
+</ul>
+</dblp>

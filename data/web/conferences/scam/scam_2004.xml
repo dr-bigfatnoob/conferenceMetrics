@@ -1,0 +1,72 @@
+<dblp>
+    <h2>Keynote</h2>
+ 
+
+<ul>
+<li id="Rothermel04"><a href="http://dblp.uni-trier.de/pers/hc/r/Rothermel:Gregg">Gregg Rothermel</a>:<b>Using Source-Code Analysis to Help End-User Programmers Create Dependable Software.</b> 3<small><a href="http://dx.doi.org/10.1109/SCAM.2004.25"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Rothermel04.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Rothermel04.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Decompilation</h2>
+ 
+
+<ul>
+<li id="SuWHM04"><a href="http://dblp.uni-trier.de/pers/hc/s/Su:Bogong">Bogong Su</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wang:Jian">Jian Wang</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hu:Erh=Wen">Erh-Wen Hu</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Manzano:Joseph_B=">Joseph B. Manzano</a>:<b>Software De-Pipelining Technique.</b> 7-16<small><a href="http://dx.doi.org/10.1109/SCAM.2004.20"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/SuWHM04.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/SuWHM04.xml">XML</a></small></small></li>
+<li id="LakhotiaK04"><a href="http://dblp.uni-trier.de/pers/hc/l/Lakhotia:Arun">Arun Lakhotia</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kumar:Eric_Uday">Eric Uday Kumar</a>:<b>Abstracting Stack to Detect Obfuscated Calls in Binaries.</b> 17-26<small><a href="http://dx.doi.org/10.1109/SCAM.2004.2"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/LakhotiaK04.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/LakhotiaK04.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Slicing</h2>
+ 
+
+<ul>
+<li id="Krinke04"><a href="http://dblp.uni-trier.de/pers/hc/k/Krinke:Jens">Jens Krinke</a>:<b>Context-Sensitivity Matters, But Context Does Not.</b> 29-35<small><a href="http://dx.doi.org/10.1109/SCAM.2004.8"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Krinke04.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Krinke04.xml">XML</a></small></small></li>
+<li id="Gallagher04"><a href="http://dblp.uni-trier.de/pers/hc/g/Gallagher:Keith_Brian">Keith Brian Gallagher</a>:<b>Some Notes on Interprocedural Program Slicing.</b> 36-42<small><a href="http://dx.doi.org/10.1109/SCAM.2004.21"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Gallagher04.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Gallagher04.xml">XML</a></small></small></li>
+<li id="BinkleyDGHKO04"><a href="http://dblp.uni-trier.de/pers/hc/b/Binkley:David">David Binkley</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Danicic:Sebastian">Sebastian Danicic</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gyim=oacute=thy:Tibor">Tibor Gyim&#243;thy</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kiss_0001:=Aacute=kos">&#193;kos Kiss</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Ouarbya:Lahcen">Lahcen Ouarbya</a>:<b>Formalizing Executable Dynamic and Forward Slicing.</b> 43-52<small><a href="http://dx.doi.org/10.1109/SCAM.2004.13"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/BinkleyDGHKO04.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/BinkleyDGHKO04.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Restructuring</h2>
+ 
+
+<ul>
+<li id="NaumannULF04"><a href="http://dblp.uni-trier.de/pers/hc/n/Naumann:Uwe">Uwe Naumann</a>, <a href="http://dblp.uni-trier.de/pers/hc/u/Utke:Jean">Jean Utke</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lyons:Andrew">Andrew Lyons</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fagan:Michael_W=">Michael W. Fagan</a>:<b>Control Flow Reversal for Adjoint Code Generation.</b> 55-64<small><a href="http://dx.doi.org/10.1109/SCAM.2004.9"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/NaumannULF04.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/NaumannULF04.xml">XML</a></small></small></li>
+<li id="FatiregunHH04"><a href="http://dblp.uni-trier.de/pers/hc/f/Fatiregun:Deji">Deji Fatiregun</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hierons:Robert_M=">Robert M. Hierons</a>:<b>Evolving Transformation Sequences using Genetic Algorithms.</b> 66-75<small><a href="http://dx.doi.org/10.1109/SCAM.2004.11"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/FatiregunHH04.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/FatiregunHH04.xml">XML</a></small></small></li>
+<li id="XuLZS04"><a href="http://dblp.uni-trier.de/pers/hc/x/Xu:Xia">Xia Xu</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lung:Chung=Horng">Chung-Horng Lung</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zaman:Marzia">Marzia Zaman</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Srinivasan:Anand">Anand Srinivasan</a>:<b>Program Restructuring Through Clustering Techniques.</b> 75-84<small><a href="http://dx.doi.org/10.1109/SCAM.2004.18"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/XuLZS04.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/XuLZS04.xml">XML</a></small></small></li>
+<li id="HarmanBSH04"><a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Binkley:David">David Binkley</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Singh:Ranjit">Ranjit Singh</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hierons:Robert_M=">Robert M. Hierons</a>:<b>Amorphous Procedure Extraction.</b> 85-94<small><a href="http://dx.doi.org/10.1109/SCAM.2004.4"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/HarmanBSH04.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/HarmanBSH04.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Aspect-Oriented Programming </h2>
+ 
+
+<ul>
+<li id="TourweM04"><a href="http://dblp.uni-trier.de/pers/hc/t/Tourw=eacute=:Tom">Tom Tourw&#233;</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mens:Kim">Kim Mens</a>:<b>Mining Aspectual Views using Formal Concept Analysis.</b> 97-106<small><a href="http://dx.doi.org/10.1109/SCAM.2004.15"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/TourweM04.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/TourweM04.xml">XML</a></small></small></li>
+<li id="CeccatoT04"><a href="http://dblp.uni-trier.de/pers/hc/c/Ceccato:Mariano">Mariano Ceccato</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tonella:Paolo">Paolo Tonella</a>:<b>Adding Distribution to Existing Applications by Means of Aspect Oriented Programming.</b> 107-116<small><a href="http://dx.doi.org/10.1109/SCAM.2004.3"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/CeccatoT04.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/CeccatoT04.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Maintenance</h2>
+ 
+
+<ul>
+<li id="HouHR04"><a href="http://dblp.uni-trier.de/pers/hc/h/Hou:Daqing">Daqing Hou</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hoover:H=_James">H. James Hoover</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rudnicki:Piotr">Piotr Rudnicki</a>:<b>Specifying the Law of Demeter and C++ Programming Guidelines with FCL.</b> 119-127<small><a href="http://dx.doi.org/10.1109/SCAM.2004.22"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/HouHR04.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/HouHR04.xml">XML</a></small></small></li>
+<li id="WahlerSGF04"><a href="http://dblp.uni-trier.de/pers/hc/w/Wahler:Vera">Vera Wahler</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Seipel:Dietmar">Dietmar Seipel</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gudenberg:J=uuml=rgen_Wolff_von">J&#252;rgen Wolff von Gudenberg</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fischer:Gregor">Gregor Fischer</a>:<b>Clone Detection in Source Code by Frequent Itemset Techniques.</b> 128-135<small><a href="http://dx.doi.org/10.1109/SCAM.2004.6"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/WahlerSGF04.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/WahlerSGF04.xml">XML</a></small></small></li>
+<li id="BruntinkD04"><a href="http://dblp.uni-trier.de/pers/hc/b/Bruntink:Magiel">Magiel Bruntink</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Deursen:Arie_van">Arie van Deursen</a>:<b>Predicting Class Testability using Object-Oriented Metrics.</b> 136-145<small><a href="http://dx.doi.org/10.1109/SCAM.2004.16"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/BruntinkD04.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/BruntinkD04.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Source Code</h2>
+ 
+
+<ul>
+<li id="RoblesG04"><a href="http://dblp.uni-trier.de/pers/hc/r/Robles:Gregorio">Gregorio Robles</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gonz=aacute=lez=Barahona:Jes=uacute=s_M=">Jes&#250;s M. Gonz&#225;lez-Barahona</a>:<b>Executable Source Code and Non-Executable Source Code: Analysis and Relationships.</b> 149-157<small><a href="http://dx.doi.org/10.1109/SCAM.2004.12"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/RoblesG04.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/RoblesG04.xml">XML</a></small></small></li>
+<li id="MaruyamaY04"><a href="http://dblp.uni-trier.de/pers/hc/m/Maruyama:Katsuhisa">Katsuhisa Maruyama</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yamamoto:Shinichiro">Shinichiro Yamamoto</a>:<b>A CASE Tool Platform Using an XML Representation of Java Source Code.</b> 158-167<small><a href="http://dx.doi.org/10.1109/SCAM.2004.1"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/MaruyamaY04.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/MaruyamaY04.xml">XML</a></small></small></li>
+</ul>
+</dblp>

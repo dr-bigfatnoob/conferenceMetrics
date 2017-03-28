@@ -1,0 +1,93 @@
+<dblp>
+    <h2>Understanding Evolution and Change Patterns</h2>
+
+
+<ul>
+<li id="NeamtiuFH05"><a href="http://dblp.uni-trier.de/pers/hc/n/Neamtiu:Iulian">Iulian Neamtiu</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Foster:Jeffrey_S=">Jeffrey S. Foster</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hicks:Michael_W=">Michael W. Hicks</a>:<b>Understanding source code evolution using abstract syntax tree matching.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083143"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/NeamtiuFH05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/NeamtiuFH05.xml">XML</a></small></small></li>
+<li id="WilliamsH05"><a href="http://dblp.uni-trier.de/pers/hc/w/Williams:Chadd_C=">Chadd C. Williams</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hollingsworth:Jeffrey_K=">Jeffrey K. Hollingsworth</a>:<b>Recovering system specific rules from software repositories.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083144"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/WilliamsH05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/WilliamsH05.xml">XML</a></small></small></li>
+<li id="FischerORG05"><a href="http://dblp.uni-trier.de/pers/hc/f/Fischer:Michael">Michael Fischer</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Oberleitner:Johann">Johann Oberleitner</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ratzinger:Jacek">Jacek Ratzinger</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gall:Harald_C=">Harald C. Gall</a>:<b>Mining evolution data of a product family.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083145"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/FischerORG05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/FischerORG05.xml">XML</a></small></small></li>
+<li id="KimN05"><a href="http://dblp.uni-trier.de/pers/hc/k/Kim:Miryung">Miryung Kim</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Notkin:David">David Notkin</a>:<b>Using a clone genealogy extractor for understanding and supporting evolution of code clones.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083146"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/KimN05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/KimN05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+
+<h2>Defect Analysis</h2>
+
+
+<ul>
+<li id="SliwerskiZZ05"><a href="http://dblp.uni-trier.de/pers/hc/s/Sliwerski:Jacek">Jacek Sliwerski</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zimmermann_0001:Thomas">Thomas Zimmermann</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zeller:Andreas">Andreas Zeller</a>:<b>When do changes induce fixes?</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083147"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/SliwerskiZZ05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/SliwerskiZZ05.xml">XML</a></small></small></li>
+<li id="GorgW05"><a href="http://dblp.uni-trier.de/pers/hc/g/G=ouml=rg:Carsten">Carsten G&#246;rg</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wei=szlig=gerber:Peter">Peter Wei&#223;gerber</a>:<b>Error detection by refactoring reconstruction.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083148"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/GorgW05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/GorgW05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+
+<h2>Education</h2>
+
+
+<ul>
+<li id="SpaccoSHP05"><a href="http://dblp.uni-trier.de/pers/hc/s/Spacco:Jaime">Jaime Spacco</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Strecker:Jaymie">Jaymie Strecker</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hovemeyer:David">David Hovemeyer</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pugh:William">William Pugh</a>:<b>Software repository mining with Marmoset: an automated programming project snapshot and testing system.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083149"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/SpaccoSHP05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/SpaccoSHP05.xml">XML</a></small></small></li>
+<li id="MierleLRW05"><a href="http://dblp.uni-trier.de/pers/hc/m/Mierle:Keir">Keir Mierle</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Laven:Kevin">Kevin Laven</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roweis:Sam_T=">Sam T. Roweis</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wilson:Greg">Greg Wilson</a>:<b>Mining student CVS repositories for performance indicators.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083150"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/MierleLRW05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/MierleLRW05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+
+<h2>Text Mining</h2>
+
+
+<ul>
+<li id="OhbaG05"><a href="http://dblp.uni-trier.de/pers/hc/o/Ohba:Masaru">Masaru Ohba</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gondow:Katsuhiko">Katsuhiko Gondow</a>:<b>Toward mining &#34;concept keywords&#34; from identifiers in large software projects.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083151"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/OhbaG05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/OhbaG05.xml">XML</a></small></small></li>
+<li id="YingWA05"><a href="http://dblp.uni-trier.de/pers/hc/y/Ying:Annie_T=_T=">Annie T. T. Ying</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wright:James_L=">James L. Wright</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Abrams:Steven">Steven Abrams</a>:<b>Source code that talks: an exploration of Eclipse task comments and their implication to repository mining.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083152"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/YingWA05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/YingWA05.xml">XML</a></small></small></li>
+<li id="HayesDS05"><a href="http://dblp.uni-trier.de/pers/hc/h/Hayes:Jane_Huffman">Jane Huffman Hayes</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dekhtyar:Alex">Alex Dekhtyar</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sundaram:Senthil_Karthikeyan">Senthil Karthikeyan Sundaram</a>:<b>Text mining for software engineering: how analyst feedback impacts final results.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083153"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/HayesDS05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/HayesDS05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+
+<h2>Software Changes and Evolution</h2>
+
+
+<ul>
+<li id="KimWB05"><a href="http://dblp.uni-trier.de/pers/hc/k/Kim_0001:Sunghun">Sunghun Kim</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Whitehead_Jr=:E=_James">E. James Whitehead Jr.</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bevan:Jennifer">Jennifer Bevan</a>:<b>Analysis of signature change patterns.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083154"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/KimWB05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/KimWB05.xml">XML</a></small></small></li>
+<li id="RatzingerFG05"><a href="http://dblp.uni-trier.de/pers/hc/r/Ratzinger:Jacek">Jacek Ratzinger</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fischer:Michael">Michael Fischer</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gall:Harald_C=">Harald C. Gall</a>:<b>Improving evolvability through refactoring.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083155"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/RatzingerFG05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/RatzingerFG05.xml">XML</a></small></small></li>
+<li id="AntoniolRV05"><a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rollo:Vincenzo_Fabio">Vincenzo Fabio Rollo</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Venturi:Gabriele">Gabriele Venturi</a>:<b>Linear predictive coding and cepstrum coefficients for mining time variant information from software repositories.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083156"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/AntoniolRV05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/AntoniolRV05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+
+<h2>Process and Collaboration</h2>
+
+
+<ul>
+<li id="VanHilstGL05"><a href="http://dblp.uni-trier.de/pers/hc/v/VanHilst:Michael">Michael VanHilst</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Garg:Pankaj_K=">Pankaj K. Garg</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lo:Christopher">Christopher Lo</a>:<b>Repository mining and Six Sigma for process improvement.</b> 1-4<small><a href="http://doi.acm.org/10.1145/1083142.1083157"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/VanHilstGL05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/VanHilstGL05.xml">XML</a></small></small></li>
+<li id="HuangL05"><a href="http://dblp.uni-trier.de/pers/hc/h/Huang:Shih=Kun">Shih-Kun Huang</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Liu:Kang=min">Kang-min Liu</a>:<b>Mining version histories to verify the learning process of Legitimate Peripheral Participants.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083158"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/HuangL05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/HuangL05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+
+<h2>Taxonomies &#38; Formal Representations</h2>
+
+
+<ul>
+<li id="KagdiCM05"><a href="http://dblp.uni-trier.de/pers/hc/k/Kagdi:Huzefa_H=">Huzefa H. Kagdi</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Collard:Michael_L=">Michael L. Collard</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maletic:Jonathan_I=">Jonathan I. Maletic</a>:<b>Towards a taxonomy of approaches for mining of source code repositories.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083159"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/KagdiCM05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/KagdiCM05.xml">XML</a></small></small></li>
+<li id="GermanCS05"><a href="http://dblp.uni-trier.de/pers/hc/g/Germ=aacute=n:Daniel_M=">Daniel M. Germ&#225;n</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cubranic:Davor">Davor Cubranic</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Storey:Margaret=Anne_D=">Margaret-Anne D. Storey</a>:<b>A framework for describing and understanding mining tools in software development.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083160"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/GermanCS05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/GermanCS05.xml">XML</a></small></small></li>
+<li id="HindleG05"><a href="http://dblp.uni-trier.de/pers/hc/h/Hindle:Abram">Abram Hindle</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Germ=aacute=n:Daniel_M=">Daniel M. Germ&#225;n</a>:<b>SCQL: a formal model and a query language for source control repositories.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083161"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/HindleG05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/HindleG05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+
+<h2>Integration and Collaboration</h2>
+
+
+<ul>
+<li id="RoblesG05"><a href="http://dblp.uni-trier.de/pers/hc/r/Robles:Gregorio">Gregorio Robles</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gonz=aacute=lez=Barahona:Jes=uacute=s_M=">Jes&#250;s M. Gonz&#225;lez-Barahona</a>:<b>Developer identification methods for integrated data from various sources.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083162"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/RoblesG05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/RoblesG05.xml">XML</a></small></small></li>
+<li id="OhiraOOM05"><a href="http://dblp.uni-trier.de/pers/hc/o/Ohira:Masao">Masao Ohira</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Ohsugi:Naoki">Naoki Ohsugi</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Ohoka:Tetsuya">Tetsuya Ohoka</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Matsumoto:Ken=ichi">Ken-ichi Matsumoto</a>:<b>Accelerating cross-project knowledge collaboration using collaborative filtering and social networks.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083163"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/OhiraOOM05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/OhiraOOM05.xml">XML</a></small></small></li>
+<li id="ConklinHC05"><a href="http://dblp.uni-trier.de/pers/hc/c/Conklin:Megan">Megan Conklin</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Howison:James">James Howison</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Crowston:Kevin">Kevin Crowston</a>:<b>Collaboration using OSSmole: a repository of FLOSS data and analyses.</b> <small><a href="http://doi.acm.org/10.1145/1083142.1083164"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/ConklinHC05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/ConklinHC05.xml">XML</a></small></small></li>
+</ul>
+
+</dblp>

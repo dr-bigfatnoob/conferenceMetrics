@@ -1,0 +1,73 @@
+<dblp>
+    <h2>Technical papers 1</h2>
+ 
+
+<ul>
+<li id="RosenmullerSSA08"><a href="http://dblp.uni-trier.de/pers/hc/r/Rosenm=uuml=ller:Marko">Marko Rosenm&#252;ller</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Siegmund:Norbert">Norbert Siegmund</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Saake:Gunter">Gunter Saake</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Apel:Sven">Sven Apel</a>:<b>Code generation to support static and dynamic composition of software product lines.</b> 3-12<small><a href="http://doi.acm.org/10.1145/1449913.1449917"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/RosenmullerSSA08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/RosenmullerSSA08.xml">XML</a></small></small></li>
+<li id="MendoncaWCC08"><a href="http://dblp.uni-trier.de/pers/hc/m/Mendon=ccedil=a:Marc=iacute=lio">Marc&#237;lio Mendon&#231;a</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wasowski:Andrzej">Andrzej Wasowski</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Czarnecki:Krzysztof">Krzysztof Czarnecki</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cowan:Donald_D=">Donald D. Cowan</a>:<b>Efficient compilation techniques for large scale feature models.</b> 13-22<small><a href="http://doi.acm.org/10.1145/1449913.1449918"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/MendoncaWCC08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/MendoncaWCC08.xml">XML</a></small></small></li>
+<li id="KimKB08"><a href="http://dblp.uni-trier.de/pers/hc/k/Kim:Chang_Hwan_Peter">Chang Hwan Peter Kim</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/K=auml=stner:Christian">Christian K&#228;stner</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Batory:Don_S=">Don S. Batory</a>:<b>On the modularity of feature interactions.</b> 23-34<small><a href="http://doi.acm.org/10.1145/1449913.1449919"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/KimKB08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/KimKB08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Technical papers 2</h2>
+ 
+
+<ul>
+<li id="Batory08"><a href="http://dblp.uni-trier.de/pers/hc/b/Batory:Don_S=">Don S. Batory</a>:<b>Using modern mathematics as an FOSD modeling language.</b> 35-44<small><a href="http://doi.acm.org/10.1145/1449913.1449921"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/Batory08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/Batory08.xml">XML</a></small></small></li>
+<li id="ZhangAN08"><a href="http://dblp.uni-trier.de/pers/hc/z/Zhang_0002:Ye">Ye Zhang</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Amtoft:Torben">Torben Amtoft</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nielson:Flemming">Flemming Nielson</a>:<b>From generic to specific: off-line optimization for a general constraint solver.</b> 45-54<small><a href="http://doi.acm.org/10.1145/1449913.1449922"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/ZhangAN08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/ZhangAN08.xml">XML</a></small></small></li>
+<li id="RothamelL08"><a href="http://dblp.uni-trier.de/pers/hc/r/Rothamel:Tom">Tom Rothamel</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Liu:Yanhong_A=">Yanhong A. Liu</a>:<b>Generating incremental implementations of object-set queries.</b> 55-66<small><a href="http://doi.acm.org/10.1145/1449913.1449923"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/RothamelL08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/RothamelL08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Technical papers 3</h2>
+ 
+
+<ul>
+<li id="GottschlingL08"><a href="http://dblp.uni-trier.de/pers/hc/g/Gottschling:Peter">Peter Gottschling</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lumsdaine:Andrew">Andrew Lumsdaine</a>:<b>Integrating semantics and compilation: using c++ concepts to develop robust and efficient reusable libraries.</b> 67-76<small><a href="http://doi.acm.org/10.1145/1449913.1449925"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/GottschlingL08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/GottschlingL08.xml">XML</a></small></small></li>
+<li id="DenneyF08"><a href="http://dblp.uni-trier.de/pers/hc/d/Denney:Ewen">Ewen Denney</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fischer_0002:Bernd">Bernd Fischer</a>:<b>Generating customized verifiers for automatically generated code.</b> 77-88<small><a href="http://doi.acm.org/10.1145/1449913.1449926"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/DenneyF08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/DenneyF08.xml">XML</a></small></small></li>
+<li id="JarviMPFS08"><a href="http://dblp.uni-trier.de/pers/hc/j/J=auml=rvi:Jaakko">Jaakko J&#228;rvi</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marcus:Mat">Mat Marcus</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Parent:Sean">Sean Parent</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Freeman:John">John Freeman</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Smith:Jacob_N=">Jacob N. Smith</a>:<b>Property models: from incidental algorithms to reusable components.</b> 89-98<small><a href="http://doi.acm.org/10.1145/1449913.1449927"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/JarviMPFS08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/JarviMPFS08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Keynote address</h2>
+ 
+
+<ul>
+<li id="Meijer08"><a href="http://dblp.uni-trier.de/pers/hc/m/Meijer:Erik">Erik Meijer</a>:<b>Fundamentalist functional programming.</b> 99-100<small><a href="http://doi.acm.org/10.1145/1449913.1449929"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/Meijer08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/Meijer08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Technical papers 4</h2>
+ 
+
+<ul>
+<li id="ApelKL08"><a href="http://dblp.uni-trier.de/pers/hc/a/Apel:Sven">Sven Apel</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/K=auml=stner:Christian">Christian K&#228;stner</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lengauer:Christian">Christian Lengauer</a>:<b>Feature featherweight java: a calculus for feature-oriented programming and stepwise refinement.</b> 101-112<small><a href="http://doi.acm.org/10.1145/1449913.1449931"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/ApelKL08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/ApelKL08.xml">XML</a></small></small></li>
+<li id="KaminaT08"><a href="http://dblp.uni-trier.de/pers/hc/k/Kamina:Tetsuo">Tetsuo Kamina</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tamai:Tetsuo">Tetsuo Tamai</a>:<b>Lightweight dependent classes.</b> 113-124<small><a href="http://doi.acm.org/10.1145/1449913.1449932"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/KaminaT08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/KaminaT08.xml">XML</a></small></small></li>
+<li id="LienhardtSS08"><a href="http://dblp.uni-trier.de/pers/hc/l/Lienhardt:Michael">Michael Lienhardt</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schmitt:Alan">Alan Schmitt</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stefani:Jean=Bernard">Jean-Bernard Stefani</a>:<b>Typing communicating component assemblages.</b> 125-136<small><a href="http://doi.acm.org/10.1145/1449913.1449933"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/LienhardtSS08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/LienhardtSS08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Technical papers 5</h2>
+ 
+
+<ul>
+<li id="HoferORM08"><a href="http://dblp.uni-trier.de/pers/hc/h/Hofer:Christian">Christian Hofer</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Ostermann:Klaus">Klaus Ostermann</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rendel:Tillmann">Tillmann Rendel</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Moors:Adriaan">Adriaan Moors</a>:<b>Polymorphic embedding of dsls.</b> 137-148<small><a href="http://doi.acm.org/10.1145/1449913.1449935"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/HoferORM08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/HoferORM08.xml">XML</a></small></small></li>
+<li id="MercadalPCL08"><a href="http://dblp.uni-trier.de/pers/hc/m/Mercadal:Julien">Julien Mercadal</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Palix:Nicolas">Nicolas Palix</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Consel:Charles">Charles Consel</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lawall:Julia_L=">Julia L. Lawall</a>:<b>Pantaxou: a domain-specific language for developing safe coordination services.</b> 149-160<small><a href="http://doi.acm.org/10.1145/1449913.1449936"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/MercadalPCL08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/MercadalPCL08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Technical papers 6</h2>
+ 
+
+<ul>
+<li id="ApelKB08"><a href="http://dblp.uni-trier.de/pers/hc/a/Apel:Sven">Sven Apel</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/K=auml=stner:Christian">Christian K&#228;stner</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Batory:Don_S=">Don S. Batory</a>:<b>Program refactoring using functional aspects.</b> 161-170<small><a href="http://doi.acm.org/10.1145/1449913.1449938"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/ApelKB08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/ApelKB08.xml">XML</a></small></small></li>
+<li id="SavgaRGA08"><a href="http://dblp.uni-trier.de/pers/hc/s/Savga:Ilie">Ilie Savga</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rudolf_0001:Michael">Michael Rudolf</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Goetz:Sebastian">Sebastian Goetz</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/A=szlig=mann:Uwe">Uwe A&#223;mann</a>:<b>Practical refactoring-based framework upgrade.</b> 171-180<small><a href="http://doi.acm.org/10.1145/1449913.1449939"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/SavgaRGA08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/SavgaRGA08.xml">XML</a></small></small></li>
+<li id="KulkarniR08"><a href="http://dblp.uni-trier.de/pers/hc/k/Kulkarni:Vinay">Vinay Kulkarni</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Reddy:Sreedhar">Sreedhar Reddy</a>:<b>An abstraction for reusable MDD components: model-based generation of model-based code generators.</b> 181-184<small><a href="http://doi.acm.org/10.1145/1449913.1449940"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/KulkarniR08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/KulkarniR08.xml">XML</a></small></small></li>
+</ul>
+</dblp>

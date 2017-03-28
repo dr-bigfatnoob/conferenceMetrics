@@ -1,0 +1,76 @@
+<dblp>
+    <h2>Design</h2>
+ 
+
+<ul>
+<li id="FeatherF94"><a href="http://dblp.uni-trier.de/pers/hc/f/Feather:Martin_S=">Martin S. Feather</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fickas:Stephen">Stephen Fickas</a>:<b>A Framework for Distributed System Designs.</b> 6-13<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342683"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/FeatherF94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/FeatherF94.xml">XML</a></small></small></li>
+<li id="TerveenS94"><a href="http://dblp.uni-trier.de/pers/hc/t/Terveen:Loren_G=">Loren G. Terveen</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Selfridge:Peter_G=">Peter G. Selfridge</a>:<b>Intelligent Assistance for Software Construction: A Case Study.</b> 14-21<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342682"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/TerveenS94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/TerveenS94.xml">XML</a></small></small></li>
+<li id="GirgensohnRS94"><a href="http://dblp.uni-trier.de/pers/hc/g/Girgensohn:Andreas">Andreas Girgensohn</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Redmiles:David_F=">David F. Redmiles</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Shipman_III:Frank_M=">Frank M. Shipman III</a>:<b>Agent-Based Support for Communication Between Developers and Users in Software Design.</b> 22-29<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342681"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/GirgensohnRS94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/GirgensohnRS94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Synthesis</h2>
+ 
+
+<ul>
+<li id="MintonW94"><a href="http://dblp.uni-trier.de/pers/hc/m/Minton:Steven">Steven Minton</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wolfe:Shawn_R=">Shawn R. Wolfe</a>:<b>Using Machine Learning to Synthesize Search Programs.</b> 31-38<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342680"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/MintonW94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/MintonW94.xml">XML</a></small></small></li>
+<li id="Novak94"><a href="http://dblp.uni-trier.de/pers/hc/n/Novak:Gordon_S=">Gordon S. Novak</a>:<b>Composing Reusable Software Components Through Views.</b> 39-47<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342679"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Novak94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Novak94.xml">XML</a></small></small></li>
+<li id="LowryPPU94a"><a href="http://dblp.uni-trier.de/pers/hc/l/Lowry:Michael_R=">Michael R. Lowry</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Philpot:Andrew">Andrew Philpot</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pressburger:Thomas">Thomas Pressburger</a>, <a href="http://dblp.uni-trier.de/pers/hc/u/Underwood:Ian">Ian Underwood</a>:<b>A Formal Approach to Domain-Oriented Software Design Environments.</b> 48-57<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342678"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/LowryPPU94a.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/LowryPPU94a.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Testing/Validation</h2>
+ 
+
+<ul>
+<li id="ChilenskiN94"><a href="http://dblp.uni-trier.de/pers/hc/c/Chilenski:John">John Chilenski</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Newcomb:Philip">Philip Newcomb</a>:<b>Formal Specification Tools for Test Coverage Analysis.</b> 59-68<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342677"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/ChilenskiN94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/ChilenskiN94.xml">XML</a></small></small></li>
+<li id="Hall94"><a href="http://dblp.uni-trier.de/pers/hc/h/Hall:Robert_J=">Robert J. Hall</a>:<b>Systematic Incremental Validation of Rule-Based Reactive Systems.</b> 69-78<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342676"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Hall94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Hall94.xml">XML</a></small></small></li>
+<li id="TongKP94"><a href="http://dblp.uni-trier.de/pers/hc/t/Tong:Andrew_Z=">Andrew Z. Tong</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kaiser:Gail_E=">Gail E. Kaiser</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Popovich:Steven_S=">Steven S. Popovich</a>:<b>A Flexible Rule-Chaining Engine for Process-Based Software Engineering.</b> 79-88<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342675"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/TongKP94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/TongKP94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Reuse</h2>
+ 
+
+<ul>
+<li id="JengC94"><a href="http://dblp.uni-trier.de/pers/hc/j/Jeng:Jun=Jang">Jun-Jang Jeng</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cheng:Betty_H=_C=">Betty H. C. Cheng</a>:<b>A Formal Approach to Reusing More General Components.</b> 90-97<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342674"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/JengC94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/JengC94.xml">XML</a></small></small></li>
+<li id="LauzonR94"><a href="http://dblp.uni-trier.de/pers/hc/l/Lauzon:David">David Lauzon</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rose_0001:Thomas">Thomas Rose</a>:<b>Task Oriented and Similarity-Based Retrieval.</b> 98-107<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342673"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/LauzonR94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/LauzonR94.xml">XML</a></small></small></li>
+<li id="WildR94"><a href="http://dblp.uni-trier.de/pers/hc/w/Wild:J=_Christian">J. Christian Wild</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rosca:Daniela">Daniela Rosca</a>:<b>Evolution and Reuse of Formal Specification Using Decision Structures.</b> 108-115<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342672"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/WildR94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/WildR94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Understanding</h2>
+ 
+
+<ul>
+<li id="SelfridgeH94"><a href="http://dblp.uni-trier.de/pers/hc/s/Selfridge:Peter_G=">Peter G. Selfridge</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Heineman:George_T=">George T. Heineman</a>:<b>Graphical Support for Code-Level Software Understanding.</b> 117-124<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342671"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/SelfridgeH94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/SelfridgeH94.xml">XML</a></small></small></li>
+<li id="QuiliciC94"><a href="http://dblp.uni-trier.de/pers/hc/q/Quilici:Alex">Alex Quilici</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chin:David_N=">David N. Chin</a>:<b>A Cooperative Program Understanding Environment.</b> 125-132<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342670"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/QuiliciC94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/QuiliciC94.xml">XML</a></small></small></li>
+<li id="DekkerV94"><a href="http://dblp.uni-trier.de/pers/hc/d/Dekker:Ren=eacute=">Ren&#233; Dekker</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Ververs:Frans">Frans Ververs</a>:<b>Abstract Data Structure Recognition.</b> 133-140<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342669"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/DekkerV94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/DekkerV94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Miscellaneous</h2>
+ 
+
+<ul>
+<li id="Bolcer94"><a href="http://dblp.uni-trier.de/pers/hc/b/Bolcer:Gregory_Alan">Gregory Alan Bolcer</a>:<b>User Interface Design Assistance For Large-Scale Software Development.</b> 142-149<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342668"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Bolcer94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Bolcer94.xml">XML</a></small></small></li>
+<li id="Balmas94"><a href="http://dblp.uni-trier.de/pers/hc/b/Balmas:Francoise">Francoise Balmas</a>:<b>An Augmented Pattern Matcher as a Tool to Synthesize Conceptual Descriptions of Programs.</b> 150-157<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342667"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Balmas94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Balmas94.xml">XML</a></small></small></li>
+<li id="LoiaQ94"><a href="http://dblp.uni-trier.de/pers/hc/l/Loia:Vincenzo">Vincenzo Loia</a>, <a href="http://dblp.uni-trier.de/pers/hc/q/Quaggetto:Michel">Michel Quaggetto</a>:<b>Integrating Object-Oriented Paradigms and Logic Programming: The OPLA Language.</b> 158-164<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342666"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/LoiaQ94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/LoiaQ94.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Process/Project Management</h2>
+ 
+
+<ul>
+<li id="BoehmB94"><a href="http://dblp.uni-trier.de/pers/hc/b/Boehm:Barry_W=">Barry W. Boehm</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bose:Prasanta_K=">Prasanta K. Bose</a>:<b>Critical Success Factors for Knowledge-Based Software Engineering Applications.</b> 166-171<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342665"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/BoehmB94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/BoehmB94.xml">XML</a></small></small></li>
+<li id="Madachy94"><a href="http://dblp.uni-trier.de/pers/hc/m/Madachy:Raymond_J=">Raymond J. Madachy</a>:<b>Knowledge-Based Risk Assessment and Cost Estimation.</b> 172-178<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342664"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Madachy94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Madachy94.xml">XML</a></small></small></li>
+<li id="Toth94"><a href="http://dblp.uni-trier.de/pers/hc/t/Toth:Gregory_A=">Gregory A. Toth</a>:<b>Software Technology Risk Advisor.</b> 179-188<small><a href="http://dx.doi.org/10.1109/KBSE.1994.342663"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Toth94.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Toth94.xml">XML</a></small></small></li>
+</ul>
+</dblp>

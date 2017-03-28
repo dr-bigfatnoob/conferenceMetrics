@@ -1,0 +1,118 @@
+<dblp>
+    <h2>Staging</h2>
+ 
+
+<ul>
+<li id="KaminAK06"><a href="http://dblp.uni-trier.de/pers/hc/k/Kamin:Sam">Sam Kamin</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Aktemur:Baris">Baris Aktemur</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Katelman:Michael">Michael Katelman</a>:<b>Staging static analyses for program generation.</b> 1-10<small><a href="http://doi.acm.org/10.1145/1173706.1173708"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/KaminAK06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/KaminAK06.xml">XML</a></small></small></li>
+<li id="VieraP06"><a href="http://dblp.uni-trier.de/pers/hc/v/Viera:Marcos">Marcos Viera</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pardo:Alberto">Alberto Pardo</a>:<b>A multi-stage language with intensional analysis.</b> 11-20<small><a href="http://doi.acm.org/10.1145/1173706.1173709"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/VieraP06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/VieraP06.xml">XML</a></small></small></li>
+<li id="Riehl06"><a href="http://dblp.uni-trier.de/pers/hc/r/Riehl:Jonathan">Jonathan Riehl</a>:<b>Assimilating MetaBorg: : embedding language tools in languages.</b> 21-28<small><a href="http://doi.acm.org/10.1145/1173706.1173710"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/Riehl06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/Riehl06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Components</h2>
+ 
+
+<ul>
+<li id="Moreno06"><a href="http://dblp.uni-trier.de/pers/hc/m/Moreno:Gabriel_A=">Gabriel A. Moreno</a>:<b>Creating custom containers with generative techniques.</b> 29-38<small><a href="http://doi.acm.org/10.1145/1173706.1173712"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/Moreno06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/Moreno06.xml">XML</a></small></small></li>
+<li id="StuckenholzO06"><a href="http://dblp.uni-trier.de/pers/hc/s/Stuckenholz:Alexander">Alexander Stuckenholz</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Osterloh:Andre">Andre Osterloh</a>:<b>Safe component updates.</b> 39-48<small><a href="http://doi.acm.org/10.1145/1173706.1173713"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/StuckenholzO06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/StuckenholzO06.xml">XML</a></small></small></li>
+<li id="ReppyS06"><a href="http://dblp.uni-trier.de/pers/hc/r/Reppy:John_H=">John H. Reppy</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Song:Chunyan">Chunyan Song</a>:<b>Application-specific foreign-interface generation.</b> 49-58<small><a href="http://doi.acm.org/10.1145/1173706.1173714"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/ReppyS06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/ReppyS06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Advanced aspects</h2>
+ 
+
+<ul>
+<li id="ApelB06"><a href="http://dblp.uni-trier.de/pers/hc/a/Apel:Sven">Sven Apel</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Batory:Don_S=">Don S. Batory</a>:<b>When to use features and aspects?: a case study.</b> 59-68<small><a href="http://doi.acm.org/10.1145/1173706.1173716"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/ApelB06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/ApelB06.xml">XML</a></small></small></li>
+<li id="YanagisawaKC06"><a href="http://dblp.uni-trier.de/pers/hc/y/Yanagisawa:Yoshisato">Yoshisato Yanagisawa</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kourai:Kenichi">Kenichi Kourai</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chiba:Shigeru">Shigeru Chiba</a>:<b>A dynamic aspect-oriented system for OS kernels.</b> 69-78<small><a href="http://doi.acm.org/10.1145/1173706.1173717"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/YanagisawaKC06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/YanagisawaKC06.xml">XML</a></small></small></li>
+<li id="DouenceBNS06"><a href="http://dblp.uni-trier.de/pers/hc/d/Douence:R=eacute=mi">R&#233;mi Douence</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Botlan:Didier_Le">Didier Le Botlan</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Noy=eacute=:Jacques">Jacques Noy&#233;</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/S=uuml=dholt:Mario">Mario S&#252;dholt</a>:<b>Concurrent aspects.</b> 79-88<small><a href="http://doi.acm.org/10.1145/1173706.1173718"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/DouenceBNS06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/DouenceBNS06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Short papers</h2>
+ 
+
+<ul>
+<li id="TilevichS06"><a href="http://dblp.uni-trier.de/pers/hc/t/Tilevich:Eli">Eli Tilevich</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Smaragdakis:Yannis">Yannis Smaragdakis</a>:<b>Transparent program transformationsin the presence of opaque code.</b> 89-94<small><a href="http://doi.acm.org/10.1145/1173706.1173720"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/TilevichS06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/TilevichS06.xml">XML</a></small></small></li>
+<li id="MascenaMAG06"><a href="http://dblp.uni-trier.de/pers/hc/m/Mascena:Jorge_Cl=aacute=udio_Cordeiro_Pires">Jorge Cl&#225;udio Cordeiro Pires Mascena</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Meira:Silvio_Romero_de_Lemos">Silvio Romero de Lemos Meira</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Almeida:Eduardo_Santana_de">Eduardo Santana de Almeida</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Garcia:Vinicius_Cardoso">Vinicius Cardoso Garcia</a>:<b>Towards an effective integrated reuse environment.</b> 95-100<small><a href="http://doi.acm.org/10.1145/1173706.1173721"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/MascenaMAG06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/MascenaMAG06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Safety and verification</h2>
+ 
+
+<ul>
+<li id="PerryJW06"><a href="http://dblp.uni-trier.de/pers/hc/p/Perry:Frances">Frances Perry</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jia:Limin">Limin Jia</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Walker:David">David Walker</a>:<b>Expressing heap-shape contracts in linear logic.</b> 101-110<small><a href="http://doi.acm.org/10.1145/1173706.1173723"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/PerryJW06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/PerryJW06.xml">XML</a></small></small></li>
+<li id="BradyH06"><a href="http://dblp.uni-trier.de/pers/hc/b/Brady:Edwin">Edwin Brady</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hammond:Kevin">Kevin Hammond</a>:<b>A verified staged interpreter is a verified compiler.</b> 111-120<small><a href="http://doi.acm.org/10.1145/1173706.1173724"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/BradyH06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/BradyH06.xml">XML</a></small></small></li>
+<li id="DenneyF06"><a href="http://dblp.uni-trier.de/pers/hc/d/Denney:Ewen">Ewen Denney</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fischer_0002:Bernd">Bernd Fischer</a>:<b>A generic annotation inference algorithm for the safety certification of automatically generated code.</b> 121-130<small><a href="http://doi.acm.org/10.1145/1173706.1173725"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/DenneyF06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/DenneyF06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Applications</h2>
+ 
+
+<ul>
+<li id="ReederG06"><a href="http://dblp.uni-trier.de/pers/hc/r/Reeder:Janina">Janina Reeder</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Giegerich:Robert">Robert Giegerich</a>:<b>A graphical programming system for molecular motif search.</b> 131-140<small><a href="http://doi.acm.org/10.1145/1173706.1173727"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/ReederG06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/ReederG06.xml">XML</a></small></small></li>
+<li id="Fontijne06"><a href="http://dblp.uni-trier.de/pers/hc/f/Fontijne:Daniel">Daniel Fontijne</a>:<b>Gaigen 2: a geometric algebra implementation generator.</b> 141-150<small><a href="http://doi.acm.org/10.1145/1173706.1173728"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/Fontijne06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/Fontijne06.xml">XML</a></small></small></li>
+<li id="BromanNF06"><a href="http://dblp.uni-trier.de/pers/hc/b/Broman:David">David Broman</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nystr=ouml=m:Kaj">Kaj Nystr&#246;m</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fritzson:Peter">Peter Fritzson</a>:<b>Determining over- and under-constrained systems of equations using structural constraint delta.</b> 151-160<small><a href="http://doi.acm.org/10.1145/1173706.1173729"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/BromanNF06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/BromanNF06.xml">XML</a></small></small></li>
+<li id="BarronC06"><a href="http://dblp.uni-trier.de/pers/hc/b/Barron:Peter">Peter Barron</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cahill:Vinny">Vinny Cahill</a>:<b>YABS: a domain-specific language for pervasive computing based on stigmergy.</b> 285-294<small><a href="http://doi.acm.org/10.1145/1173706.1173730"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/BarronC06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/BarronC06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Measurement and evaluation</h2>
+ 
+
+<ul>
+<li id="LammelO06"><a href="http://dblp.uni-trier.de/pers/hc/l/L=auml=mmel:Ralf">Ralf L&#228;mmel</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Ostermann:Klaus">Klaus Ostermann</a>:<b>Software extension and integration with type classes.</b> 161-170<small><a href="http://doi.acm.org/10.1145/1173706.1173732"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/LammelO06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/LammelO06.xml">XML</a></small></small></li>
+<li id="BinderH06"><a href="http://dblp.uni-trier.de/pers/hc/b/Binder:Walter">Walter Binder</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hulaas:Jarle">Jarle Hulaas</a>:<b>Flexible and efficient measurement of dynamic bytecode metrics.</b> 171-180<small><a href="http://doi.acm.org/10.1145/1173706.1173733"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/BinderH06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/BinderH06.xml">XML</a></small></small></li>
+<li id="Weimer06"><a href="http://dblp.uni-trier.de/pers/hc/w/Weimer:Westley">Westley Weimer</a>:<b>Patches as better bug reports.</b> 181-190<small><a href="http://doi.acm.org/10.1145/1173706.1173734"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/Weimer06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/Weimer06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program families</h2>
+ 
+
+<ul>
+<li id="TrujilloBD06"><a href="http://dblp.uni-trier.de/pers/hc/t/Trujillo:Salvador">Salvador Trujillo</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Batory:Don_S=">Don S. Batory</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/D=iacute=az:Oscar">Oscar D&#237;az</a>:<b>Feature refactoring a multi-representation program into a product line.</b> 191-200<small><a href="http://doi.acm.org/10.1145/1173706.1173736"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/TrujilloBD06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/TrujilloBD06.xml">XML</a></small></small></li>
+<li id="AlvesGMKBL06"><a href="http://dblp.uni-trier.de/pers/hc/a/Alves:Vander">Vander Alves</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gheyi:Rohit">Rohit Gheyi</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Massoni:Tiago">Tiago Massoni</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kulesza:Uir=aacute=">Uir&#225; Kulesza</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Borba:Paulo">Paulo Borba</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lucena:Carlos_Jos=eacute=_Pereira_de">Carlos Jos&#233; Pereira de Lucena</a>:<b>Refactoring product lines.</b> 201-210<small><a href="http://doi.acm.org/10.1145/1173706.1173737"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/AlvesGMKBL06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/AlvesGMKBL06.xml">XML</a></small></small></li>
+<li id="CzarneckiP06"><a href="http://dblp.uni-trier.de/pers/hc/c/Czarnecki:Krzysztof">Krzysztof Czarnecki</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pietroszek:Krzysztof">Krzysztof Pietroszek</a>:<b>Verifying feature-based model templates against well-formedness OCL constraints.</b> 211-220<small><a href="http://doi.acm.org/10.1145/1173706.1173738"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/CzarneckiP06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/CzarneckiP06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Panel discussion</h2>
+ 
+
+<ul>
+<li id="LeavensABBCFHJMJSSS06"><a href="http://dblp.uni-trier.de/pers/hc/l/Leavens:Gary_T=">Gary T. Leavens</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Abrial:Jean=Raymond">Jean-Raymond Abrial</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Batory:Don_S=">Don S. Batory</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Butler:Michael_J=">Michael J. Butler</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Coglio:Alessandro">Alessandro Coglio</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fisler:Kathi">Kathi Fisler</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hehner:Eric_C=_R=">Eric C. R. Hehner</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jones:Cliff_B=">Cliff B. Jones</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Miller:Dale">Dale Miller</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jones:Simon_L=_Peyton">Simon L. Peyton Jones</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sitaraman:Murali">Murali Sitaraman</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Smith:Douglas_R=">Douglas R. Smith</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stump:Aaron">Aaron Stump</a>:<b>Roadmap for enhanced languages and methods to aid verification.</b> 221-236<small><a href="http://doi.acm.org/10.1145/1173706.1173740"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/LeavensABBCFHJMJSSS06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/LeavensABBCFHJMJSSS06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Short papers</h2>
+ 
+
+<ul>
+<li id="Prehofer06"><a href="http://dblp.uni-trier.de/pers/hc/p/Prehofer:Christian">Christian Prehofer</a>:<b>Semantic reasoning about feature composition via multiple aspect-weavings.</b> 237-242<small><a href="http://doi.acm.org/10.1145/1173706.1173742"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/Prehofer06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/Prehofer06.xml">XML</a></small></small></li>
+<li id="ShiCX06"><a href="http://dblp.uni-trier.de/pers/hc/s/Shi:Rui">Rui Shi</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chen:Chiyan">Chiyan Chen</a>, <a href="http://dblp.uni-trier.de/pers/hc/x/Xi:Hongwei">Hongwei Xi</a>:<b>Distributed meta-programming.</b> 243-248<small><a href="http://doi.acm.org/10.1145/1173706.1173743"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/ShiCX06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/ShiCX06.xml">XML</a></small></small></li>
+<li id="JouaultBK06"><a href="http://dblp.uni-trier.de/pers/hc/j/Jouault:Fr=eacute=d=eacute=ric">Fr&#233;d&#233;ric Jouault</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/B=eacute=zivin:Jean">Jean B&#233;zivin</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kurtev:Ivan">Ivan Kurtev</a>:<b>TCS: a DSL for the specification of textual concrete syntaxes in model engineering.</b> 249-254<small><a href="http://doi.acm.org/10.1145/1173706.1173744"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/JouaultBK06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/JouaultBK06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Compilation</h2>
+ 
+
+<ul>
+<li id="PorkolabMS06"><a href="http://dblp.uni-trier.de/pers/hc/p/Porkol=aacute=b:Zolt=aacute=n">Zolt&#225;n Porkol&#225;b</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mihalicza:J=oacute=zsef">J&#243;zsef Mihalicza</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sipos:=Aacute=d=aacute=m">&#193;d&#225;m Sipos</a>:<b>Debugging C++ template metaprograms.</b> 255-264<small><a href="http://doi.acm.org/10.1145/1173706.1173746"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/PorkolabMS06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/PorkolabMS06.xml">XML</a></small></small></li>
+<li id="BaggeDHK06"><a href="http://dblp.uni-trier.de/pers/hc/b/Bagge:Anya_Helene">Anya Helene Bagge</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/David:Valentin">Valentin David</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Haveraaen:Magne">Magne Haveraaen</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kalleberg:Karl_Trygve">Karl Trygve Kalleberg</a>:<b>Stayin' alert: : moulding failure and exceptions to your needs.</b> 265-274<small><a href="http://doi.acm.org/10.1145/1173706.1173747"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/BaggeDHK06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/BaggeDHK06.xml">XML</a></small></small></li>
+<li id="FahndrichCL06"><a href="http://dblp.uni-trier.de/pers/hc/f/F=auml=hndrich:Manuel">Manuel F&#228;hndrich</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Carbin:Michael">Michael Carbin</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Larus:James_R=">James R. Larus</a>:<b>Reflective program generation with patterns.</b> 275-284<small><a href="http://doi.acm.org/10.1145/1173706.1173748"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/FahndrichCL06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/FahndrichCL06.xml">XML</a></small></small></li>
+</ul>
+</dblp>

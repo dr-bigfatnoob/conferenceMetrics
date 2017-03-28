@@ -1,0 +1,118 @@
+<dblp>
+    <h2>Feature and Concept Analysis</h2>
+ 
+
+<ul>
+<li id="KothariDSM07"><a href="http://dblp.uni-trier.de/pers/hc/k/Kothari:Jay">Jay Kothari</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Denton:Trip">Trip Denton</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Shokoufandeh:Ali">Ali Shokoufandeh</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mancoridis:Spiros">Spiros Mancoridis</a>:<b>Reducing Program Comprehension Effort in Evolving Software by Recognizing Feature Implementation Convergence.</b> 17-26<small><a href="http://dx.doi.org/10.1109/ICPC.2007.33"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/KothariDSM07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/KothariDSM07.xml">XML</a></small></small></li>
+<li id="CareyG07"><a href="http://dblp.uni-trier.de/pers/hc/c/Carey:Maurice_M=">Maurice M. Carey</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gannod:Gerald_C=">Gerald C. Gannod</a>:<b>Recovering Concepts from Source Code with Automated Concept Identification.</b> 27-36<small><a href="http://dx.doi.org/10.1109/ICPC.2007.31"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/CareyG07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/CareyG07.xml">XML</a></small></small></li>
+<li id="PoshyvanykM07"><a href="http://dblp.uni-trier.de/pers/hc/p/Poshyvanyk:Denys">Denys Poshyvanyk</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marcus:Andrian">Andrian Marcus</a>:<b>Combining Formal Concept Analysis with Information Retrieval for Concept Location in Source Code.</b> 37-48<small><a href="http://dx.doi.org/10.1109/ICPC.2007.13"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/PoshyvanykM07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/PoshyvanykM07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Dynamic Analysis</h2>
+ 
+
+<ul>
+<li id="CornelissenHZMWD07"><a href="http://dblp.uni-trier.de/pers/hc/c/Cornelissen:Bas">Bas Cornelissen</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Holten:Danny">Danny Holten</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zaidman:Andy">Andy Zaidman</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Moonen:Leon">Leon Moonen</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wijk:Jarke_J=_van">Jarke J. van Wijk</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Deursen:Arie_van">Arie van Deursen</a>:<b>Understanding Execution Traces Using Massive Sequence and Circular Bundle Views.</b> 49-58<small><a href="http://dx.doi.org/10.1109/ICPC.2007.39"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/CornelissenHZMWD07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/CornelissenHZMWD07.xml">XML</a></small></small></li>
+<li id="LienhardGN07"><a href="http://dblp.uni-trier.de/pers/hc/l/Lienhard:Adrian">Adrian Lienhard</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Greevy:Orla">Orla Greevy</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nierstrasz:Oscar">Oscar Nierstrasz</a>:<b>Tracking Objects to Detect Feature Dependencies.</b> 59-68<small><a href="http://dx.doi.org/10.1109/ICPC.2007.38"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/LienhardGN07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/LienhardGN07.xml">XML</a></small></small></li>
+<li id="StefikAPB07"><a href="http://dblp.uni-trier.de/pers/hc/s/Stefik:Andreas">Andreas Stefik</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Alexander:Roger_T=">Roger T. Alexander</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Patterson:Robert">Robert Patterson</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Brown:Jonathan">Jonathan Brown</a>:<b>WAD: A Feasibility study using the Wicked Audio Debugger.</b> 69-80<small><a href="http://dx.doi.org/10.1109/ICPC.2007.42"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/StefikAPB07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/StefikAPB07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Conceptual Models</h2>
+ 
+
+<ul>
+<li id="Godfrey07"><a href="http://dblp.uni-trier.de/pers/hc/g/Godfrey:Michael_W=">Michael W. Godfrey</a>:<b>A Hybrid Program Model for Object-Oriented Reverse Engineering.</b> 81-90<small><a href="http://dx.doi.org/10.1109/ICPC.2007.7"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/Godfrey07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/Godfrey07.xml">XML</a></small></small></li>
+<li id="RatiuD07"><a href="http://dblp.uni-trier.de/pers/hc/r/Ratiu:Daniel">Daniel Ratiu</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Deissenboeck:Florian">Florian Deissenboeck</a>:<b>From Reality to Programs and (Not Quite) Back Again.</b> 91-102<small><a href="http://dx.doi.org/10.1109/ICPC.2007.22"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/RatiuD07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/RatiuD07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Empirical Studies</h2>
+ 
+
+<ul>
+<li id="AlwisMR07"><a href="http://dblp.uni-trier.de/pers/hc/a/Alwis:Brian_de">Brian de Alwis</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Murphy:Gail_C=">Gail C. Murphy</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Robillard:Martin_P=">Martin P. Robillard</a>:<b>A Comparative Study of Three Program Exploration Tools.</b> 103-112<small><a href="http://dx.doi.org/10.1109/ICPC.2007.6"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/AlwisMR07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/AlwisMR07.xml">XML</a></small></small></li>
+<li id="YusufKM07"><a href="http://dblp.uni-trier.de/pers/hc/y/Yusuf:Shehnaaz">Shehnaaz Yusuf</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kagdi:Huzefa_H=">Huzefa H. Kagdi</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maletic:Jonathan_I=">Jonathan I. Maletic</a>:<b>Assessing the Comprehension of UML Class Diagrams via Eye Tracking.</b> 113-122<small><a href="http://dx.doi.org/10.1109/ICPC.2007.10"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/YusufKM07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/YusufKM07.xml">XML</a></small></small></li>
+<li id="XieKS07"><a href="http://dblp.uni-trier.de/pers/hc/x/Xie:Shaohua">Shaohua Xie</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kraemer:Eileen">Eileen Kraemer</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stirewalt:R=_E=_Kurt">R. E. Kurt Stirewalt</a>:<b>Empirical Evaluation of a UML Sequence Diagram with Adornments to Support Understanding of Thread Interactions.</b> 123-134<small><a href="http://dx.doi.org/10.1109/ICPC.2007.19"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/XieKS07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/XieKS07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Mining Software Repositories</h2>
+ 
+
+<ul>
+<li id="ZouGH07"><a href="http://dblp.uni-trier.de/pers/hc/z/Zou:Lijie">Lijie Zou</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Godfrey:Michael_W=">Michael W. Godfrey</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hassan:Ahmed_E=">Ahmed E. Hassan</a>:<b>Detecting Interaction Coupling from Task Interaction Histories.</b> 135-144<small><a href="http://dx.doi.org/10.1109/ICPC.2007.18"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/ZouGH07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/ZouGH07.xml">XML</a></small></small></li>
+<li id="KagdiMS07"><a href="http://dblp.uni-trier.de/pers/hc/k/Kagdi:Huzefa_H=">Huzefa H. Kagdi</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maletic:Jonathan_I=">Jonathan I. Maletic</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sharif:Bonita">Bonita Sharif</a>:<b>Mining Software Repositories for Traceability Links.</b> 145-154<small><a href="http://dx.doi.org/10.1109/ICPC.2007.28"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/KagdiMS07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/KagdiMS07.xml">XML</a></small></small></li>
+<li id="RobbesL07"><a href="http://dblp.uni-trier.de/pers/hc/r/Robbes:Romain">Romain Robbes</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lanza:Michele">Michele Lanza</a>:<b>Characterizing and Understanding Development Sessions.</b> 155-166<small><a href="http://dx.doi.org/10.1109/ICPC.2007.12"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/RobbesL07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/RobbesL07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Aspects and Change</h2>
+ 
+
+<ul>
+<li id="RoyURD07"><a href="http://dblp.uni-trier.de/pers/hc/r/Roy:Chanchal_Kumar">Chanchal Kumar Roy</a>, <a href="http://dblp.uni-trier.de/pers/hc/u/Uddin:Mohammad_Gias">Mohammad Gias Uddin</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roy:Banani">Banani Roy</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dean:Thomas_R=">Thomas R. Dean</a>:<b>Evaluating Aspect Mining Techniques: A Case Study.</b> 167-176<small><a href="http://dx.doi.org/10.1109/ICPC.2007.21"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/RoyURD07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/RoyURD07.xml">XML</a></small></small></li>
+<li id="MirarabHT07"><a href="http://dblp.uni-trier.de/pers/hc/m/Mirarab:Siavash">Siavash Mirarab</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hassouna:Alaa">Alaa Hassouna</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tahvildari:Ladan">Ladan Tahvildari</a>:<b>Using Bayesian Belief Networks to Predict Change Propagation in Software Systems.</b> 177-188<small><a href="http://dx.doi.org/10.1109/ICPC.2007.41"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/MirarabHT07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/MirarabHT07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Static Analysis</h2>
+ 
+
+<ul>
+<li id="PetterssonL07"><a href="http://dblp.uni-trier.de/pers/hc/p/Pettersson:Niklas">Niklas Pettersson</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/L=ouml=we:Welf">Welf L&#246;we</a>:<b>A Non-conservative Approach to Software Pattern Detection.</b> 189-198<small><a href="http://dx.doi.org/10.1109/ICPC.2007.8"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/PetterssonL07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/PetterssonL07.xml">XML</a></small></small></li>
+<li id="HungZ07"><a href="http://dblp.uni-trier.de/pers/hc/h/Hung:Maokeng">Maokeng Hung</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zou:Ying">Ying Zou</a>:<b>Recovering Workflows from Multi Tiered E-commerce Systems.</b> 198-207<small><a href="http://dx.doi.org/10.1109/ICPC.2007.32"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/HungZ07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/HungZ07.xml">XML</a></small></small></li>
+<li id="ZhangI07"><a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Yi">Yi Zhang</a>, <a href="http://dblp.uni-trier.de/pers/hc/i/Iyer:S=_Purushothaman">S. Purushothaman Iyer</a>:<b>Error Report Driven Post-Mortem Analysis.</b> 208-220<small><a href="http://dx.doi.org/10.1109/ICPC.2007.43"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/ZhangI07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/ZhangI07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Visualization</h2>
+ 
+
+<ul>
+<li id="LangeC07"><a href="http://dblp.uni-trier.de/pers/hc/l/Lange:Christian_F=_J=">Christian F. J. Lange</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chaudron:Michel_R=_V=">Michel R. V. Chaudron</a>:<b>Interactive Views to Improve the Comprehension of UML Models - An Experimental Validation.</b> 221-230<small><a href="http://dx.doi.org/10.1109/ICPC.2007.23"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/LangeC07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/LangeC07.xml">XML</a></small></small></li>
+<li id="WettelL07"><a href="http://dblp.uni-trier.de/pers/hc/w/Wettel:Richard">Richard Wettel</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lanza:Michele">Michele Lanza</a>:<b>Program Comprehension through Software Habitability.</b> 231-240<small><a href="http://dx.doi.org/10.1109/ICPC.2007.30"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/WettelL07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/WettelL07.xml">XML</a></small></small></li>
+<li id="HeldalSS07"><a href="http://dblp.uni-trier.de/pers/hc/h/Heldal:Rogardt">Rogardt Heldal</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Samuelsson:Jenny">Jenny Samuelsson</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sundin:Ola">Ola Sundin</a>:<b>Scenario Explorer: Interactive Visualization of Use Cases.</b> 241-252<small><a href="http://dx.doi.org/10.1109/ICPC.2007.34"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/HeldalSS07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/HeldalSS07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Short Papers Session</h2>
+ 
+
+<ul>
+<li id="NaeemBH07"><a href="http://dblp.uni-trier.de/pers/hc/n/Naeem:Nomair_A=">Nomair A. Naeem</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Batchelder:Michael">Michael Batchelder</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hendren:Laurie_J=">Laurie J. Hendren</a>:<b>Metrics for Measuring the Effectiveness of Decompilers and Obfuscators.</b> 253-258<small><a href="http://dx.doi.org/10.1109/ICPC.2007.27"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/NaeemBH07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/NaeemBH07.xml">XML</a></small></small></li>
+<li id="JiangKRS07"><a href="http://dblp.uni-trier.de/pers/hc/j/Jiang:Juanjuan">Juanjuan Jiang</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Koskinen:Johannes">Johannes Koskinen</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ruokonen:Anna">Anna Ruokonen</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Syst=auml=:Tarja">Tarja Syst&#228;</a>:<b>Constructing Usage Scenarios for API Redocumentation.</b> 259-264<small><a href="http://dx.doi.org/10.1109/ICPC.2007.16"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/JiangKRS07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/JiangKRS07.xml">XML</a></small></small></li>
+<li id="ReinikainenHLKS07"><a href="http://dblp.uni-trier.de/pers/hc/r/Reinikainen:Tommi">Tommi Reinikainen</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hammouda:Imed">Imed Hammouda</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Laiho:Juha">Juha Laiho</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Koskimies:Kai">Kai Koskimies</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Syst=auml=:Tarja">Tarja Syst&#228;</a>:<b>Software Comprehension through Concern-based Queries.</b> 265-270<small><a href="http://dx.doi.org/10.1109/ICPC.2007.36"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/ReinikainenHLKS07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/ReinikainenHLKS07.xml">XML</a></small></small></li>
+<li id="ShearerC07"><a href="http://dblp.uni-trier.de/pers/hc/s/Shearer:C=_Dylan">C. Dylan Shearer</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Collard:Michael_L=">Michael L. Collard</a>:<b>Enforcing Constraints Between Documentary Comments and Source Code.</b> 271-280<small><a href="http://dx.doi.org/10.1109/ICPC.2007.20"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/ShearerC07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/ShearerC07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Working Sessions</h2>
+ 
+
+<ul>
+<li id="Tilley07"><a href="http://dblp.uni-trier.de/pers/hc/t/Tilley:Scott_R=">Scott R. Tilley</a>:<b>15 Years of Program Comprehension.</b> 279-280<small><a href="http://dx.doi.org/10.1109/ICPC.2007.1"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/Tilley07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/Tilley07.xml">XML</a></small></small></li>
+<li id="PentaSK07"><a href="http://dblp.uni-trier.de/pers/hc/p/Penta:Massimiliano_Di">Massimiliano Di Penta</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stirewalt:R=_E=_Kurt">R. E. Kurt Stirewalt</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kraemer:Eileen">Eileen Kraemer</a>:<b>Designing your Next Empirical Study on Program Comprehension.</b> 281-285<small><a href="http://dx.doi.org/10.1109/ICPC.2007.17"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/PentaSK07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/PentaSK07.xml">XML</a></small></small></li>
+<li id="LuccaSFSH07"><a href="http://dblp.uni-trier.de/pers/hc/l/Lucca:Giuseppe_A=_Di">Giuseppe A. Di Lucca</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Smit:Michael">Michael Smit</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fraser:Bruce">Bruce Fraser</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stroulia:Eleni">Eleni Stroulia</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hoover:H=_James">H. James Hoover</a>:<b>Comprehending Aspect-Oriented Programs: Challenges and Open Issues.</b> 286-292<small><a href="http://dx.doi.org/10.1109/ICPC.2007.14"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/LuccaSFSH07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/LuccaSFSH07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Tool Demonstrations</h2>
+ 
+
+<ul>
+<li id="JermakovicsSSS07"><a href="http://dblp.uni-trier.de/pers/hc/j/Jermakovics:Andrejs">Andrejs Jermakovics</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Scotto:Marco">Marco Scotto</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sillitti:Alberto">Alberto Sillitti</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Succi:Giancarlo">Giancarlo Succi</a>:<b>Lagrein: Visualizing User Requirements and Development Effort.</b> 293-296<small><a href="http://dx.doi.org/10.1109/ICPC.2007.24"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/JermakovicsSSS07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/JermakovicsSSS07.xml">XML</a></small></small></li>
+<li id="Vivanco07"><a href="http://dblp.uni-trier.de/pers/hc/v/Vivanco:Rodrigo_A=">Rodrigo A. Vivanco</a>:<b>Use of a Genetic Algorithm to Identify Source Code Metrics Which Improves Cognitive Complexity Predictive Models.</b> 297-300<small><a href="http://dx.doi.org/10.1109/ICPC.2007.40"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/Vivanco07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/Vivanco07.xml">XML</a></small></small></li>
+</ul>
+</dblp>

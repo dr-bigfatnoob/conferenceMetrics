@@ -1,0 +1,265 @@
+<dblp>
+ 
+
+<h2>Faults and Regression Testing</h2>
+ 
+
+<ul>
+<li id="DiGiuseppeJ11"><a href="http://dblp.uni-trier.de/pers/hc/d/DiGiuseppe:Nicholas">Nicholas DiGiuseppe</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jones:James_A=">James A. Jones</a>:<b>Fault interaction and its repercussions.</b> 3-12<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080767"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/DiGiuseppeJ11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/DiGiuseppeJ11.xml">XML</a></small></small></li>
+<li id="HuangLZXW11"><a href="http://dblp.uni-trier.de/pers/hc/h/Huang:Sheng">Sheng Huang</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Li:Zhong_Jie">Zhong Jie Li</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhu:Jun">Jun Zhu</a>, <a href="http://dblp.uni-trier.de/pers/hc/x/Xiao:Yanghua">Yanghua Xiao</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wang_0009:Wei">Wei Wang</a>:<b>A novel approach to regression test selection for J2EE applications.</b> 13-22<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080768"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/HuangLZXW11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/HuangLZXW11.xml">XML</a></small></small></li>
+<li id="ZhangKK11"><a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Lingming">Lingming Zhang</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kim:Miryung">Miryung Kim</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Khurshid:Sarfraz">Sarfraz Khurshid</a>:<b>Localizing failure-inducing program edits based on spectrum information.</b> 23-32<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080769"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/ZhangKK11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/ZhangKK11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Impact Analysis</h2>
+ 
+
+<ul>
+<li id="DamG11"><a href="http://dblp.uni-trier.de/pers/hc/d/Dam:Hoa_Khanh">Hoa Khanh Dam</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Ghose:Aditya">Aditya Ghose</a>:<b>Automated change impact analysis for agent systems.</b> 33-42<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080770"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/DamG11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/DamG11.xml">XML</a></small></small></li>
+<li id="KobayashiMIHKY11"><a href="http://dblp.uni-trier.de/pers/hc/k/Kobayashi:Kenichi">Kenichi Kobayashi</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Matsuo:Akihiko">Akihiko Matsuo</a>, <a href="http://dblp.uni-trier.de/pers/hc/i/Inoue:Katsuro">Katsuro Inoue</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hayase:Yasuhiro">Yasuhiro Hayase</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kamimura:Manabu">Manabu Kamimura</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yoshino:Toshiaki">Toshiaki Yoshino</a>:<b>ImpactScale: Quantifying change impact to predict faults in large software systems.</b> 43-52<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080771"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/KobayashiMIHKY11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/KobayashiMIHKY11.xml">XML</a></small></small></li>
+<li id="HassaineBGHA11"><a href="http://dblp.uni-trier.de/pers/hc/h/Hassaine:Salima">Salima Hassaine</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Boughanmi:Ferdaous">Ferdaous Boughanmi</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gu=eacute=h=eacute=neuc:Yann=Ga=euml=l">Yann-Ga&#235;l Gu&#233;h&#233;neuc</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hamel:Sylvie">Sylvie Hamel</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>:<b>A seismology-inspired approach to study change propagation.</b> 53-62<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080772"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/HassaineBGHA11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/HassaineBGHA11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Dynamic Analysis</h2>
+ 
+
+<ul>
+<li id="QusefBOLB11"><a href="http://dblp.uni-trier.de/pers/hc/q/Qusef:Abdallah">Abdallah Qusef</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bavota:Gabriele">Gabriele Bavota</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Oliveto:Rocco">Rocco Oliveto</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lucia:Andrea_De">Andrea De Lucia</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Binkley:David">David Binkley</a>:<b>SCOTCH: Test-to-code traceability using slicing and conceptual coupling.</b> 63-72<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080773"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/QusefBOLB11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/QusefBOLB11.xml">XML</a></small></small></li>
+<li id="YousefiS11"><a href="http://dblp.uni-trier.de/pers/hc/y/Yousefi:Anis">Anis Yousefi</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sartipi:Kamran">Kamran Sartipi</a>:<b>Identifying distributed features in SOA by mining dynamic call trees.</b> 73-82<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080774"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/YousefiS11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/YousefiS11.xml">XML</a></small></small></li>
+<li id="SyerAH11"><a href="http://dblp.uni-trier.de/pers/hc/s/Syer:Mark_D=">Mark D. Syer</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Adams:Bram">Bram Adams</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hassan:Ahmed_E=">Ahmed E. Hassan</a>:<b>Identifying performance deviations in thread pools.</b> 83-92<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080775"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/SyerAH11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/SyerAH11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Natural Language Analysis</h2>
+ 
+
+<ul>
+<li id="ButlerWYS11"><a href="http://dblp.uni-trier.de/pers/hc/b/Butler:Simon">Simon Butler</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wermelinger:Michel">Michel Wermelinger</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yu:Yijun">Yijun Yu</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sharp:Helen">Helen Sharp</a>:<b>Mining java class naming conventions.</b> 93-102<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080776"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/ButlerWYS11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/ButlerWYS11.xml">XML</a></small></small></li>
+<li id="RastkarMB11"><a href="http://dblp.uni-trier.de/pers/hc/r/Rastkar:Sarah">Sarah Rastkar</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Murphy:Gail_C=">Gail C. Murphy</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bradley:Alexander_W=_J=">Alexander W. J. Bradley</a>:<b>Generating natural language summaries for crosscutting source code concerns.</b> 103-112<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080777"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/RastkarMB11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/RastkarMB11.xml">XML</a></small></small></li>
+<li id="LawrieB11"><a href="http://dblp.uni-trier.de/pers/hc/l/Lawrie:Dawn">Dawn Lawrie</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Binkley:David">David Binkley</a>:<b>Expanding identifiers to normalize source code vocabulary.</b> 113-122<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080778"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/LawrieB11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/LawrieB11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Traceability</h2>
+ 
+
+<ul>
+<li id="MirakhorliC11"><a href="http://dblp.uni-trier.de/pers/hc/m/Mirakhorli:Mehdi">Mehdi Mirakhorli</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cleland=Huang:Jane">Jane Cleland-Huang</a>:<b>Using tactic traceability information models to reduce the risk of architectural degradation during system maintenance.</b> 123-132<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080779"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/MirakhorliC11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/MirakhorliC11.xml">XML</a></small></small></li>
+<li id="GethersOPL11"><a href="http://dblp.uni-trier.de/pers/hc/g/Gethers:Malcom">Malcom Gethers</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Oliveto:Rocco">Rocco Oliveto</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Poshyvanyk:Denys">Denys Poshyvanyk</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lucia:Andrea_De">Andrea De Lucia</a>:<b>On integrating orthogonal information retrieval methods to improve traceability recovery.</b> 133-142<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080780"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/GethersOPL11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/GethersOPL11.xml">XML</a></small></small></li>
+<li id="BrunetGF11"><a href="http://dblp.uni-trier.de/pers/hc/b/Brunet:Jo=atilde=o">Jo&#227;o Brunet</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Guerrero:Dalton_Serey">Dalton Serey Guerrero</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Figueiredo:Jorge_C=_A=_de">Jorge C. A. de Figueiredo</a>:<b>Structural conformance checking with design tests: An evaluation of usability and calability.</b> 143-152<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080781"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/BrunetGF11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/BrunetGF11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Migration and Refactoring</h2>
+ 
+
+<ul>
+<li id="AliWAPGH11"><a href="http://dblp.uni-trier.de/pers/hc/a/Ali:Nasir">Nasir Ali</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wu:Wei">Wei Wu</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Penta:Massimiliano_Di">Massimiliano Di Penta</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gu=eacute=h=eacute=neuc:Yann=Ga=euml=l">Yann-Ga&#235;l Gu&#233;h&#233;neuc</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hayes:Jane_Huffman">Jane Huffman Hayes</a>:<b>MoMS: Multi-objective miniaturization of software.</b> 153-162<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080782"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/AliWAPGH11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/AliWAPGH11.xml">XML</a></small></small></li>
+<li id="KhadkaRSJH11"><a href="http://dblp.uni-trier.de/pers/hc/k/Khadka:Ravi">Ravi Khadka</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Reijnders:Gijs">Gijs Reijnders</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Saeidi:Amir">Amir Saeidi</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jansen:Slinger">Slinger Jansen</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hage:Jurriaan">Jurriaan Hage</a>:<b>A method engineering based legacy to SOA migration method.</b> 163-172<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080783"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/KhadkaRSJH11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/KhadkaRSJH11.xml">XML</a></small></small></li>
+<li id="SoaresMG11"><a href="http://dblp.uni-trier.de/pers/hc/s/Soares:Gustavo">Gustavo Soares</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mongiovi:Melina">Melina Mongiovi</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gheyi:Rohit">Rohit Gheyi</a>:<b>Identifying overly strong conditions in refactoring implementations.</b> 173-182<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080784"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/SoaresMG11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/SoaresMG11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Components</h2>
+ 
+
+<ul>
+<li id="SunKZ11"><a href="http://dblp.uni-trier.de/pers/hc/s/Sun:Chengnian">Chengnian Sun</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Khoo:Siau=Cheng">Siau-Cheng Khoo</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Shao_Jie">Shao Jie Zhang</a>:<b>Graph-based detection of library API imitations.</b> 183-192<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080785"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/SunKZ11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/SunKZ11.xml">XML</a></small></small></li>
+<li id="YazdanshenasM11"><a href="http://dblp.uni-trier.de/pers/hc/y/Yazdanshenas:Amir_Reza">Amir Reza Yazdanshenas</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Moonen:Leon">Leon Moonen</a>:<b>Crossing the boundaries while analyzing heterogeneous component-based software systems.</b> 193-202<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080786"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/YazdanshenasM11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/YazdanshenasM11.xml">XML</a></small></small></li>
+<li id="ShevertalovM11"><a href="http://dblp.uni-trier.de/pers/hc/s/Shevertalov:Maxim">Maxim Shevertalov</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mancoridis:Spiros">Spiros Mancoridis</a>:<b>On the maintenance of UI-integrated mashup applications.</b> 203-212<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080787"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/ShevertalovM11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/ShevertalovM11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Comprehension</h2>
+ 
+
+<ul>
+<li id="WangPXZ11"><a href="http://dblp.uni-trier.de/pers/hc/w/Wang:Jinshui">Jinshui Wang</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Peng:Xin">Xin Peng</a>, <a href="http://dblp.uni-trier.de/pers/hc/x/Xing:Zhenchang">Zhenchang Xing</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhao:Wenyun">Wenyun Zhao</a>:<b>An exploratory study of feature location process: Distinct phases, recurring patterns, and elementary actions.</b> 213-222<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080788"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/WangPXZ11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/WangPXZ11.xml">XML</a></small></small></li>
+<li id="PirzadehHS11"><a href="http://dblp.uni-trier.de/pers/hc/p/Pirzadeh:Heidar">Heidar Pirzadeh</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hamou=Lhadj:Abdelwahab">Abdelwahab Hamou-Lhadj</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Shah:Mohak">Mohak Shah</a>:<b>Exploiting text mining techniques in the analysis of execution traces.</b> 223-232<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080789"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/PirzadehHS11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/PirzadehHS11.xml">XML</a></small></small></li>
+<li id="HouP11"><a href="http://dblp.uni-trier.de/pers/hc/h/Hou:Daqing">Daqing Hou</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pletcher:David_M=">David M. Pletcher</a>:<b>An evaluation of the strategies of sorting, filtering, and grouping API methods for Code Completion.</b> 233-242<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080790"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/HouP11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/HouP11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Reliability and Quality</h2>
+ 
+
+<ul>
+<li id="BakotaHKFG11"><a href="http://dblp.uni-trier.de/pers/hc/b/Bakota:Tibor">Tibor Bakota</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Heged=uuml=s:P=eacute=ter">P&#233;ter Heged&#252;s</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kortvelyesi:Peter">Peter Kortvelyesi</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Ferenc:Rudolf">Rudolf Ferenc</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gyim=oacute=thy:Tibor">Tibor Gyim&#243;thy</a>:<b>A probabilistic software quality model.</b> 243-252<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080791"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/BakotaHKFG11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/BakotaHKFG11.xml">XML</a></small></small></li>
+<li id="KhomhCZSD11"><a href="http://dblp.uni-trier.de/pers/hc/k/Khomh:Foutse">Foutse Khomh</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chan:Brian">Brian Chan</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zou:Ying">Ying Zou</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sinha:Anand">Anand Sinha</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dietz:Dave">Dave Dietz</a>:<b>Predicting post-release defects using pre-release field testing results.</b> 253-262<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080792"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/KhomhCZSD11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/KhomhCZSD11.xml">XML</a></small></small></li>
+<li id="BachwaniCBKZ11"><a href="http://dblp.uni-trier.de/pers/hc/b/Bachwani:Rekha">Rekha Bachwani</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Crameri:Olivier">Olivier Crameri</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bianchini:Ricardo">Ricardo Bianchini</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kostic:Dejan">Dejan Kostic</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zwaenepoel:Willy">Willy Zwaenepoel</a>:<b>Sahara: Guiding the debugging of failed software upgrades.</b> 263-272<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080793"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/BachwaniCBKZ11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/BachwaniCBKZ11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Clones</h2>
+ 
+
+<ul>
+<li id="BarbourKZ11"><a href="http://dblp.uni-trier.de/pers/hc/b/Barbour:Liliane">Liliane Barbour</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Khomh:Foutse">Foutse Khomh</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zou:Ying">Ying Zou</a>:<b>Late propagation in software clones.</b> 273-282<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080794"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/BarbourKZ11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/BarbourKZ11.xml">XML</a></small></small></li>
+<li id="OssherSL11"><a href="http://dblp.uni-trier.de/pers/hc/o/Ossher:Joel">Joel Ossher</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sajnani:Hitesh">Hitesh Sajnani</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lopes:Cristina_Videira">Cristina Videira Lopes</a>:<b>File cloning in open source Java projects: The good, the bad, and the ugly.</b> 283-292<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080795"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/OssherSL11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/OssherSL11.xml">XML</a></small></small></li>
+<li id="SahaRS11"><a href="http://dblp.uni-trier.de/pers/hc/s/Saha:Ripon_K=">Ripon K. Saha</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roy:Chanchal_K=">Chanchal K. Roy</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schneider:Kevin_A=">Kevin A. Schneider</a>:<b>An automatic framework for extracting and classifying near-miss clone genealogies.</b> 293-302<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080796"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/SahaRS11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/SahaRS11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Metrics</h2>
+ 
+
+<ul>
+<li id="RomanoP11"><a href="http://dblp.uni-trier.de/pers/hc/r/Romano:Daniele">Daniele Romano</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pinzger:Martin">Martin Pinzger</a>:<b>Using source code metrics to predict change-prone Java interfaces.</b> 303-312<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080797"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/RomanoP11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/RomanoP11.xml">XML</a></small></small></li>
+<li id="VasilescuSB11"><a href="http://dblp.uni-trier.de/pers/hc/v/Vasilescu:Bogdan">Bogdan Vasilescu</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Serebrenik:Alexander">Alexander Serebrenik</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Brand:Mark_van_den">Mark van den Brand</a>:<b>You can't control the unfamiliar: A study on the relations between aggregation techniques for software metrics.</b> 313-322<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080798"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/VasilescuSB11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/VasilescuSB11.xml">XML</a></small></small></li>
+<li id="HongKCB11"><a href="http://dblp.uni-trier.de/pers/hc/h/Hong:Qiaona">Qiaona Hong</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kim_0001:Sunghun">Sunghun Kim</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cheung:S=_C=">S. C. Cheung</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bird:Christian">Christian Bird</a>:<b>Understanding a developer social network and its evolution.</b> 323-332<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080799"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/HongKCB11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/HongKCB11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Clustering and Categorization</h2>
+ 
+
+<ul>
+<li id="DhaliwalKZ11"><a href="http://dblp.uni-trier.de/pers/hc/d/Dhaliwal:Tejinder">Tejinder Dhaliwal</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Khomh:Foutse">Foutse Khomh</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zou:Ying">Ying Zou</a>:<b>Classifying field crash reports for fixing bugs: A case study of Mozilla Firefox.</b> 333-342<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080800"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/DhaliwalKZ11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/DhaliwalKZ11.xml">XML</a></small></small></li>
+<li id="McMillanVPG11"><a href="http://dblp.uni-trier.de/pers/hc/m/McMillan:Collin">Collin McMillan</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/V=aacute=squez:Mario_Linares">Mario Linares V&#225;squez</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Poshyvanyk:Denys">Denys Poshyvanyk</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Grechanik:Mark">Mark Grechanik</a>:<b>Categorizing software applications for maintenance.</b> 343-352<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080801"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/McMillanVPG11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/McMillanVPG11.xml">XML</a></small></small></li>
+<li id="ShternT11"><a href="http://dblp.uni-trier.de/pers/hc/s/Shtern:Mark">Mark Shtern</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tzerpos:Vassilios">Vassilios Tzerpos</a>:<b>Evaluating software clustering using multiple simulated authoritative decompositions.</b> 353-361<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080802"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/ShternT11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/ShternT11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+ 
+
+<h2>Testing</h2>
+ 
+
+<ul>
+<li id="RogstadBDRA11"><a href="http://dblp.uni-trier.de/pers/hc/r/Rogstad:Erik">Erik Rogstad</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Briand:Lionel_C=">Lionel C. Briand</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dalberg:Ronny">Ronny Dalberg</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rynning:Marianne">Marianne Rynning</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Arisholm:Erik">Erik Arisholm</a>:<b>Industrial experiences with automated regression testing of a legacy database application.</b> 362-371<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080803"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/RogstadBDRA11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/RogstadBDRA11.xml">XML</a></small></small></li>
+<li id="SrikanthC11"><a href="http://dblp.uni-trier.de/pers/hc/s/Srikanth:Hema">Hema Srikanth</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cohen:Myra_B=">Myra B. Cohen</a>:<b>Regression testing in Software as a Service: An industrial case study.</b> 372-381<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080804"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/SrikanthC11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/SrikanthC11.xml">XML</a></small></small></li>
+<li id="CarlsonDD11"><a href="http://dblp.uni-trier.de/pers/hc/c/Carlson:Ryan">Ryan Carlson</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Do:Hyunsook">Hyunsook Do</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Denton:Anne">Anne Denton</a>:<b>A clustering approach to improving test case prioritization: An industrial case study.</b> 382-391<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080805"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/CarlsonDD11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/CarlsonDD11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Reverse Engineering</h2>
+ 
+
+<ul>
+<li id="SnipesRM11"><a href="http://dblp.uni-trier.de/pers/hc/s/Snipes:Will">Will Snipes</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Robinson:Brian_P=">Brian P. Robinson</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Murphy=Hill:Emerson_R=">Emerson R. Murphy-Hill</a>:<b>Code Hot Spot: A tool for extraction and analysis of code change history.</b> 392-401<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080806"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/SnipesRM11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/SnipesRM11.xml">XML</a></small></small></li>
+<li id="TarvoZC11"><a href="http://dblp.uni-trier.de/pers/hc/t/Tarvo:Alexander">Alexander Tarvo</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zimmermann_0001:Thomas">Thomas Zimmermann</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Czerwonka:Jacek">Jacek Czerwonka</a>:<b>An integration resolution algorithm for mining multiple branches in version control systems.</b> 402-411<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080807"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/TarvoZC11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/TarvoZC11.xml">XML</a></small></small></li>
+<li id="DilshenerW11"><a href="http://dblp.uni-trier.de/pers/hc/d/Dilshener:Tezcan">Tezcan Dilshener</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wermelinger:Michel">Michel Wermelinger</a>:<b>Relating developers' concepts and artefact vocabulary in a financial software module.</b> 412-417<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080808"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/DilshenerW11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/DilshenerW11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Evolution and Migration</h2>
+ 
+
+<ul>
+<li id="ZhangSPXZ11"><a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Gang">Gang Zhang</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Shen:Liwei">Liwei Shen</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Peng:Xin">Xin Peng</a>, <a href="http://dblp.uni-trier.de/pers/hc/x/Xing:Zhenchang">Zhenchang Xing</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhao:Wenyun">Wenyun Zhao</a>:<b>Incremental and iterative reengineering towards Software Product Line: An industrial case study.</b> 418-427<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080809"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/ZhangSPXZ11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/ZhangSPXZ11.xml">XML</a></small></small></li>
+<li id="Salvaneschi11"><a href="http://dblp.uni-trier.de/pers/hc/s/Salvaneschi:Paolo">Paolo Salvaneschi</a>:<b>The evolution of Information Systems a case study on document management.</b> 428-437<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080810"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Salvaneschi11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Salvaneschi11.xml">XML</a></small></small></li>
+<li id="MatthesSH11"><a href="http://dblp.uni-trier.de/pers/hc/m/Matthes:Florian">Florian Matthes</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schulz:Christopher">Christopher Schulz</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Haller:Klaus">Klaus Haller</a>:<b>Testing &#38; quality assurance in data migration projects.</b> 438-447<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080811"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/MatthesSH11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/MatthesSH11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Analysis and Verification</h2>
+ 
+
+<ul>
+<li id="JiresalCN11"><a href="http://dblp.uni-trier.de/pers/hc/j/Jiresal:Rahul">Rahul Jiresal</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Contractor:Adnan">Adnan Contractor</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Naik:Ravindra">Ravindra Naik</a>:<b>Precise detection of un-initialized variables in large, real-life COBOL programs in presence of unrealizable paths.</b> 448-456<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080812"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/JiresalCN11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/JiresalCN11.xml">XML</a></small></small></li>
+<li id="MihaliczaPG11"><a href="http://dblp.uni-trier.de/pers/hc/m/Mihalicza:J=oacute=zsef">J&#243;zsef Mihalicza</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Porkol=aacute=b:Zolt=aacute=n">Zolt&#225;n Porkol&#225;b</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gabor:Abel">Abel Gabor</a>:<b>Type-preserving heap profiler for C++.</b> 457-466<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080813"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/MihaliczaPG11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/MihaliczaPG11.xml">XML</a></small></small></li>
+<li id="GrooteOW11"><a href="http://dblp.uni-trier.de/pers/hc/g/Groote:Jan_Friso">Jan Friso Groote</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Osaiweran:Ammar">Ammar Osaiweran</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wesselius:Jacco_H=">Jacco H. Wesselius</a>:<b>Analyzing the effects of formal methods on the development of industrial control software.</b> 467-472<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6081983"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/GrooteOW11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/GrooteOW11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Metrics and Estimation</h2>
+ 
+
+<ul>
+<li id="NishizonoMVM11"><a href="http://dblp.uni-trier.de/pers/hc/n/Nishizono:Kazuki">Kazuki Nishizono</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Morisaki:Shuji">Shuji Morisaki</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vivanco:Rodrigo">Rodrigo Vivanco</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Matsumoto:Ken=ichi">Ken-ichi Matsumoto</a>:<b>Source code comprehension strategies and metrics to predict comprehension effort in software maintenance and evolution tasks - an empirical study with industry practitioners.</b> 473-481<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080814"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/NishizonoMVM11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/NishizonoMVM11.xml">XML</a></small></small></li>
+<li id="KuDYW11"><a href="http://dblp.uni-trier.de/pers/hc/k/Ku:Yan">Yan Ku</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Du:Jing">Jing Du</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yang:Ye">Ye Yang</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wang:Qing">Qing Wang</a>:<b>Estimating software maintenance effort from use cases: An industrial case study.</b> 482-491<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080815"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/KuDYW11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/KuDYW11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+ 
+
+<h2>Linguistic Analysis of Software Artifacts</h2>
+ 
+
+<ul>
+<li id="BiggersEKE11"><a href="http://dblp.uni-trier.de/pers/hc/b/Biggers:Lauren_R=">Lauren R. Biggers</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Eddy:Brian_P=">Brian P. Eddy</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kraft:Nicholas_A=">Nicholas A. Kraft</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Etzkorn:Letha_H=">Letha H. Etzkorn</a>:<b>Toward a metrics suite for source code lexicons.</b> 492-495<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080816"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/BiggersEKE11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/BiggersEKE11.xml">XML</a></small></small></li>
+<li id="WieseHH11"><a href="http://dblp.uni-trier.de/pers/hc/w/Wiese:Andrew">Andrew Wiese</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Ho:Valerie">Valerie Ho</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hill:Emily">Emily Hill</a>:<b>A comparison of stemmers on source code identifiers for software search.</b> 496-499<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080817"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/WieseHH11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/WieseHH11.xml">XML</a></small></small></li>
+<li id="RomanoSRG11"><a href="http://dblp.uni-trier.de/pers/hc/r/Romano_0001:Simone">Simone Romano</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Scanniello:Giuseppe">Giuseppe Scanniello</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Risi:Michele">Michele Risi</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gravino:Carmine">Carmine Gravino</a>:<b>Clustering and lexical information support for the recovery of design pattern in source code.</b> 500-503<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080818"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/RomanoSRG11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/RomanoSRG11.xml">XML</a></small></small></li>
+<li id="SmitGHS11"><a href="http://dblp.uni-trier.de/pers/hc/s/Smit:Michael">Michael Smit</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gergel:Barry">Barry Gergel</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hoover:H=_James">H. James Hoover</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stroulia:Eleni">Eleni Stroulia</a>:<b>Code convention adherence in evolving software.</b> 504-507<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080819"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/SmitGHS11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/SmitGHS11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Changes and Maintainability</h2>
+ 
+
+<ul>
+<li id="KagdiGP11"><a href="http://dblp.uni-trier.de/pers/hc/k/Kagdi:Huzefa_H=">Huzefa H. Kagdi</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gethers:Malcom">Malcom Gethers</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Poshyvanyk:Denys">Denys Poshyvanyk</a>:<b>SE<sup>2</sup> model to support software evolution.</b> 512-515<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080820"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/KagdiGP11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/KagdiGP11.xml">XML</a></small></small></li>
+<li id="CorreiaF11"><a href="http://dblp.uni-trier.de/pers/hc/c/Correia:Jos=eacute=_Pedro">Jos&#233; Pedro Correia</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Ferreira:Miguel_Alexandre">Miguel Alexandre Ferreira</a>:<b>Measuring maintainability of spreadsheets in the wild.</b> 516-519<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080821"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/CorreiaF11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/CorreiaF11.xml">XML</a></small></small></li>
+<li id="DraganCHM11"><a href="http://dblp.uni-trier.de/pers/hc/d/Dragan:Natalia">Natalia Dragan</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Collard:Michael_L=">Michael L. Collard</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hammad:Maen">Maen Hammad</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maletic:Jonathan_I=">Jonathan I. Maletic</a>:<b>Using stereotypes to help characterize commits.</b> 520-523<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080822"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/DraganCHM11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/DraganCHM11.xml">XML</a></small></small></li>
+<li id="Scanniello11"><a href="http://dblp.uni-trier.de/pers/hc/s/Scanniello:Giuseppe">Giuseppe Scanniello</a>:<b>Source code survival with the Kaplan Meier.</b> 524-527<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080823"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Scanniello11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Scanniello11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Managing and Supporting Software Maintenance Activities</h2>
+ 
+
+<ul>
+<li id="GuoSGCTSSS11"><a href="http://dblp.uni-trier.de/pers/hc/g/Guo:Yuepu">Yuepu Guo</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Seaman:Carolyn_B=">Carolyn B. Seaman</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gomes:Rebeka">Rebeka Gomes</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cavalcanti:Antonio_L=_O=">Antonio L. O. Cavalcanti</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tonin:Graziela">Graziela Tonin</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Silva:Fabio_Q=_B=_da">Fabio Q. B. da Silva</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Santos:Andr=eacute=_Luis_M=">Andr&#233; Luis M. Santos</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Siebra:Clauirton_de">Clauirton de Siebra</a>:<b>Tracking technical debt - An exploratory case study.</b> 528-531<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080824"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/GuoSGCTSSS11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/GuoSGCTSSS11.xml">XML</a></small></small></li>
+<li id="PaymalPBS11"><a href="http://dblp.uni-trier.de/pers/hc/p/Paymal:Prashant">Prashant Paymal</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Patil:Rajvardhan">Rajvardhan Patil</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bhowmick:Sanjukta">Sanjukta Bhowmick</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Siy:Harvey_P=">Harvey P. Siy</a>:<b>Measuring disruption from software evolution activities using graph-based metrics.</b> 532-535<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080825"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/PaymalPBS11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/PaymalPBS11.xml">XML</a></small></small></li>
+<li id="LeeK11"><a href="http://dblp.uni-trier.de/pers/hc/l/Lee:Seonah">Seonah Lee</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kang:Sungwon">Sungwon Kang</a>:<b>Clustering and recommending collections of code relevant to tasks.</b> 536-539<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080826"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/LeeK11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/LeeK11.xml">XML</a></small></small></li>
+<li id="BouwersDV11"><a href="http://dblp.uni-trier.de/pers/hc/b/Bouwers:Eric">Eric Bouwers</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Deursen:Arie_van">Arie van Deursen</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Visser:Joost">Joost Visser</a>:<b>Dependency profiles for software architecture evaluations.</b> 540-543<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080827"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/BouwersDV11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/BouwersDV11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Post Doctoral Symposium Track</h2>
+ 
+
+<ul>
+<li id="Sharif11"><a href="http://dblp.uni-trier.de/pers/hc/s/Sharif:Bonita">Bonita Sharif</a>:<b>Empirical assessment of UML class diagram layouts based on architectural importance.</b> 544-549<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080828"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Sharif11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Sharif11.xml">XML</a></small></small></li>
+<li id="Dragan11"><a href="http://dblp.uni-trier.de/pers/hc/d/Dragan:Natalia">Natalia Dragan</a>:<b>Emergent laws of method and class stereotypes in object oriented software.</b> 550-555<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080829"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Dragan11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Dragan11.xml">XML</a></small></small></li>
+<li id="Roover11"><a href="http://dblp.uni-trier.de/pers/hc/r/Roover:Coen_De">Coen De Roover</a>:<b>A logic meta-programming foundation for example-driven pattern detection in object-oriented programs.</b> 556-561<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080830"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Roover11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Roover11.xml">XML</a></small></small></li>
+<li id="Hindle11"><a href="http://dblp.uni-trier.de/pers/hc/h/Hindle:Abram">Abram Hindle</a>:<b>Evidence-based software process recovery: A post-doctoral view.</b> 562-567<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080831"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Hindle11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Hindle11.xml">XML</a></small></small></li>
+<li id="Bird11"><a href="http://dblp.uni-trier.de/pers/hc/b/Bird:Christian">Christian Bird</a>:<b>Sociotechnical coordination and collaboration in open source software.</b> 568-573<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080832"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Bird11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Bird11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Tool Demonstrations Track</h2>
+ 
+
+<ul>
+<li id="SampathBJM11"><a href="http://dblp.uni-trier.de/pers/hc/s/Sampath:Sreedevi">Sreedevi Sampath</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bryce:Ren=eacute=e_C=">Ren&#233;e C. Bryce</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jain:Sachin">Sachin Jain</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Manchester:Schuyler">Schuyler Manchester</a>:<b>A tool for combination-based prioritization and reduction of user-session-based test suites.</b> 574-577<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080833"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/SampathBJM11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/SampathBJM11.xml">XML</a></small></small></li>
+<li id="Perez-CastilloFGP11"><a href="http://dblp.uni-trier.de/pers/hc/p/P=eacute=rez=Castillo:Ricardo">Ricardo P&#233;rez-Castillo</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fern=aacute=ndez=Ropero:Mar=iacute=a">Mar&#237;a Fern&#225;ndez-Ropero</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Guzm=aacute=n:Ignacio_Garc=iacute=a_Rodr=iacute=guez_de">Ignacio Garc&#237;a Rodr&#237;guez de Guzm&#225;n</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Piattini:Mario">Mario Piattini</a>:<b>MARBLE. A business process archeology tool.</b> 578-581<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080834"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Perez-CastilloFGP11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Perez-CastilloFGP11.xml">XML</a></small></small></li>
+<li id="NogueraRKJ11"><a href="http://dblp.uni-trier.de/pers/hc/n/Noguera:Carlos">Carlos Noguera</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roover:Coen_De">Coen De Roover</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kellens:Andy">Andy Kellens</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jonckers:Viviane">Viviane Jonckers</a>:<b>Program querying with a SOUL: The BARISTA tool suite.</b> 582-585<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080835"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/NogueraRKJ11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/NogueraRKJ11.xml">XML</a></small></small></li>
+<li id="TsantalisNS11"><a href="http://dblp.uni-trier.de/pers/hc/t/Tsantalis:Nikolaos">Nikolaos Tsantalis</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Negara:Natalia">Natalia Negara</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stroulia:Eleni">Eleni Stroulia</a>:<b>Webdiff: A generic differencing service for software artifacts.</b> 586-589<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080836"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/TsantalisNS11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/TsantalisNS11.xml">XML</a></small></small></li>
+<li id="RupakhetiH11"><a href="http://dblp.uni-trier.de/pers/hc/r/Rupakheti:Chandan_Raj">Chandan Raj Rupakheti</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hou:Daqing">Daqing Hou</a>:<b>EQ: Checking the implementation of equality in Java.</b> 590-593<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080837"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/RupakhetiH11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/RupakhetiH11.xml">XML</a></small></small></li>
+<li id="TorresTPWY11"><a href="http://dblp.uni-trier.de/pers/hc/t/Torres:Antonio_Gonz=aacute=lez">Antonio Gonz&#225;lez Torres</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Ther=oacute=n:Roberto">Roberto Ther&#243;n</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Garc=iacute=a=Pe=ntilde=alvo:Francisco_Jos=eacute=">Francisco Jos&#233; Garc&#237;a-Pe&#241;alvo</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wermelinger:Michel">Michel Wermelinger</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yu:Yijun">Yijun Yu</a>:<b>Maleku: An evolutionary visual software analysis tool for providing insights into software evolution.</b> 594-597<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080838"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/TorresTPWY11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/TorresTPWY11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Tutorials</h2>
+ 
+
+<ul>
+<li id="DAmbrosR11"><a href="http://dblp.uni-trier.de/pers/hc/d/D=Ambros:Marco">Marco D'Ambros</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Robbes:Romain">Romain Robbes</a>:<b>Effective mining of software repositories.</b> 598<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080839"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/DAmbrosR11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/DAmbrosR11.xml">XML</a></small></small></li>
+<li id="KuhnK11"><a href="http://dblp.uni-trier.de/pers/hc/k/Kuhn:Rick">Rick Kuhn</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kacker:Raghu">Raghu Kacker</a>:<b>Practical combinatorial (t-way) methods for detecting complex faults in regression testing.</b> 599<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080840"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/KuhnK11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/KuhnK11.xml">XML</a></small></small></li>
+<li id="Demeyer11"><a href="http://dblp.uni-trier.de/pers/hc/d/Demeyer:Serge">Serge Demeyer</a>:<b>Research methods in computer science.</b> 600<small><a href="http://dx.doi.org/10.1109/ICSM.2011.6080841"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Demeyer11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Demeyer11.xml">XML</a></small></small></li>
+</ul>
+</dblp>

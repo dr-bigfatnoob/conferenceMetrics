@@ -30,7 +30,8 @@ from nameMap import nameMap
 
 DATA_PATH = os.path.abspath("../../data")
 
-CONFERENCES = [('icse', 'International Conference on Software Engineering', 117),
+CONFERENCES = [
+  ('icse', 'International Conference on Software Engineering', 117),
                ('icsm', 'International Conference on Software Maintenance', 53),
                ('wcre', 'Working Conference on Reverse Engineering', 43),
                ('csmr', 'European Conference on Software Maintenance and Reengineering', 40),
@@ -46,9 +47,11 @@ CONFERENCES = [('icse', 'International Conference on Software Engineering', 117)
                ('re', 'Requirements Engineering', -1),
                ('issta', 'International Symposium on Software Testing and Analysis', -1),
                ('icst', 'International Conference on Software Testing, Verification and Validation', -1),
-               ('esem', 'Empirical Software Engineering and Measurement', -1)]
+               ('esem', 'Empirical Software Engineering and Measurement', -1)
+]
 
-JOURNALS = [("jss", 'Journal of Systems and Software', -1),
+JOURNALS = [
+  ("jss", 'Journal of Systems and Software', -1),
             ("tse", 'IEEE Transactions on Software Engineering', -1),
             ("software", 'IEEE Software', -1),
             ("ese", 'Empirical Software Engineering', -1),
@@ -101,16 +104,17 @@ def load_file(reader, session, venue):
     year = int(row[0])
     author_names = [a.strip() for a in row[1].split(',')]
     title = row[2]
-    pages = row[3]
+    doi_url = row[3]
+    pages = row[4]
     try:
-      num_pages = int(row[4])
+      num_pages = int(row[5])
     except:
       num_pages = 0
-    session_h2 = unidecode(row[5]).strip()
-    session_h3 = unidecode(row[6]).strip()
+    session_h2 = unidecode(row[6]).strip()
+    session_h3 = unidecode(row[7]).strip()
 
     # Create new paper and add it to the session
-    paper = Paper(venue, year, title, pages, num_pages, session_h2, session_h3, True)
+    paper = Paper(venue, year, title, pages, num_pages, session_h2, session_h3, doi_url=doi_url, selected=True)
     session.add(paper)
 
     # Add the authors
@@ -134,20 +138,20 @@ def load_file(reader, session, venue):
 
 def load_papers():
   session = SessionFactory.get_session()
-  print 'Loading Conference papers:'
-  for acronym, name, impact in CONFERENCES:
-      print acronym.upper()
-
-      # Create a new venue object
-      venue = Venue(acronym.upper(), impact, name, is_conference=True)
-      session.add(venue)
-
-      # Load the data into a csv reader
-      f = open(os.path.join(DATA_PATH, 'normalised-papers', 'conferences', '%s.csv' % acronym), 'rb')
-      reader = UnicodeReader(f)
-      load_file(reader, session, venue)
-      f.close()
-      session.commit()
+  # print 'Loading Conference papers:'
+  # for acronym, name, impact in CONFERENCES:
+  #     print acronym.upper()
+  #
+  #     # Create a new venue object
+  #     venue = Venue(acronym.upper(), impact, name, is_conference=True)
+  #     session.add(venue)
+  #
+  #     # Load the data into a csv reader
+  #     f = open(os.path.join(DATA_PATH, 'normalised-papers', 'conferences', '%s.csv' % acronym), 'rb')
+  #     reader = UnicodeReader(f)
+  #     load_file(reader, session, venue)
+  #     f.close()
+  #     session.commit()
 
   print 'Loading Journal papers:'
   for acronym, name, impact in JOURNALS:
@@ -325,7 +329,7 @@ load_papers()
 
 load_pc()
 
-# load_acceptance_ratio()
+load_acceptance_ratio()
 
 SessionFactory.commit()
 

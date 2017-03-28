@@ -1,0 +1,99 @@
+<dblp>
+    <h2>General Design Issues</h2>
+ 
+
+<ul>
+<li id="IpCH91"><a href="http://dblp.uni-trier.de/pers/hc/i/Ip:Saimond">Saimond Ip</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cheung:Louis_Chi=Yan">Louis Chi-Yan Cheung</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Holden:Tony">Tony Holden</a>:<b>Complex Objects in Knowledge-Based Requirements Engineering.</b> 8-15<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638016"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/IpCH91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/IpCH91.xml">XML</a></small></small></li>
+<li id="FeatherFH91"><a href="http://dblp.uni-trier.de/pers/hc/f/Feather:Martin_S=">Martin S. Feather</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fickas:Stephen">Stephen Fickas</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Helm:B=_Robert">B. Robert Helm</a>:<b>Composite System Design: The Good News and the Bad News.</b> 16-25<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638017"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/FeatherFH91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/FeatherFH91.xml">XML</a></small></small></li>
+<li id="Schoen91"><a href="http://dblp.uni-trier.de/pers/hc/s/Schoen:Eric">Eric Schoen</a>:<b>Active Assistance for Domain Modeling.</b> 26-35<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638018"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Schoen91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Schoen91.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Requirements</h2>
+ 
+
+<ul>
+<li id="Zeroual91"><a href="http://dblp.uni-trier.de/pers/hc/z/Zeroual:Kacem">Kacem Zeroual</a>:<b>KBRAS: A Knowledge-Based Requirements Acquisition System.</b> 38-47<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638019"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Zeroual91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Zeroual91.xml">XML</a></small></small></li>
+<li id="JohnsonFH91"><a href="http://dblp.uni-trier.de/pers/hc/j/Johnson:W=_Lewis">W. Lewis Johnson</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Feather:Martin_S=">Martin S. Feather</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harris:David_R=">David R. Harris</a>:<b>The KBSA Requirements/Specifications Facet: ARIES.</b> 48-56<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638020"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/JohnsonFH91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/JohnsonFH91.xml">XML</a></small></small></li>
+<li id="JohnsonH91"><a href="http://dblp.uni-trier.de/pers/hc/j/Johnson:W=_Lewis">W. Lewis Johnson</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harris:David_R=">David R. Harris</a>:<b>Sharing and Reuse of Requirements Knowledge.</b> 57-66<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638021"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/JohnsonH91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/JohnsonH91.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Automatic Programming</h2>
+ 
+
+<ul>
+<li id="Graves91"><a href="http://dblp.uni-trier.de/pers/hc/g/Graves:Henson">Henson Graves</a>:<b>Lockheed Environment for Automatic Programming.</b> 68-76<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638022"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Graves91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Graves91.xml">XML</a></small></small></li>
+<li id="Setliff91"><a href="http://dblp.uni-trier.de/pers/hc/s/Setliff:Dorothy_E=">Dorothy E. Setliff</a>:<b>Using Domain Knowledge to Synthesize Routing Software.</b> 77-82<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638023"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Setliff91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Setliff91.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session 4A:
+KBSA (Knowledge-Based software Assistant)</h2>
+ 
+
+<ul>
+<li id="DeBellisSC91"><a href="http://dblp.uni-trier.de/pers/hc/d/DeBellis:Michael">Michael DeBellis</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sasso:William_C=">William C. Sasso</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cabral:Gui">Gui Cabral</a>:<b>Directions for Future KBSA Research.</b> 84-89<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638024"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/DeBellisSC91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/DeBellisSC91.xml">XML</a></small></small></li>
+<li id="Sasso91"><a href="http://dblp.uni-trier.de/pers/hc/s/Sasso:William_C=">William C. Sasso</a>:<b>Motivating Adoption of KBSA: Issues, Arguments, and Strategies.</b> 90-96<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638025"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Sasso91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Sasso91.xml">XML</a></small></small></li>
+<li id="CabralD91"><a href="http://dblp.uni-trier.de/pers/hc/c/Cabral:Gui">Gui Cabral</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/DeBellis:Michael">Michael DeBellis</a>:<b>Domain-Specific Representations in the KBSA Concept Demo.</b> 97-106<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638026"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/CabralD91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/CabralD91.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session 4B:
+Reuse</h2>
+ 
+
+<ul>
+<li id="MaidenS91"><a href="http://dblp.uni-trier.de/pers/hc/m/Maiden:Neil_A=_M=">Neil A. M. Maiden</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sutcliffe:Alistair_G=">Alistair G. Sutcliffe</a>:<b>Analogical Matching for Specification Reuse.</b> 108-116<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638027"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/MaidenS91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/MaidenS91.xml">XML</a></small></small></li>
+<li id="MiriryalaH91"><a href="http://dblp.uni-trier.de/pers/hc/m/Miriyala:Kanth">Kanth Miriyala</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harandi:Mehdi_T=">Mehdi T. Harandi</a>:<b>The Role of Analogy in Specification Derivation.</b> 117-126<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638028"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/MiriryalaH91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/MiriryalaH91.xml">XML</a></small></small></li>
+<li id="MeggendorferM91"><a href="http://dblp.uni-trier.de/pers/hc/m/Meggendorfer:S=">S. Meggendorfer</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Manhart:P=">P. Manhart</a>:<b>A Knowledge and Deduction Based Software Retrieval Tool.</b> 127-133<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638029"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/MeggendorferM91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/MeggendorferM91.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Debugging</h2>
+ 
+
+<ul>
+<li id="AllemangC91"><a href="http://dblp.uni-trier.de/pers/hc/a/Allemang:Dean">Dean Allemang</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chandrasekaran_0001:B=">B. Chandrasekaran</a>:<b>Functional Representation and Program Debugging.</b> 136-143<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638030"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/AllemangC91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/AllemangC91.xml">XML</a></small></small></li>
+<li id="Liao91"><a href="http://dblp.uni-trier.de/pers/hc/l/Liao:Yingsha">Yingsha Liao</a>:<b>Requirement Directed Automatic Instrumentation Generation for Program Monitoring and Measuring.</b> 144-150<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638031"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Liao91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Liao91.xml">XML</a></small></small></li>
+<li id="FrinckeAL91"><a href="http://dblp.uni-trier.de/pers/hc/f/Frincke:Deborah_A=">Deborah A. Frincke</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Archer:Myla">Myla Archer</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Levitt:Karl_N=">Karl N. Levitt</a>:<b>CTPLAN: A Planning-Based Approach to Automatically Detecting Flaws in Concurrent Algorithms.</b> 151-160<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638032"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/FrinckeAL91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/FrinckeAL91.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Reverse Engineering/System Understanding</h2>
+ 
+
+<ul>
+<li id="KozaczynskiLN91"><a href="http://dblp.uni-trier.de/pers/hc/k/Kozaczynski:Wojtek">Wojtek Kozaczynski</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Letovsky:Stanley">Stanley Letovsky</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Ning:Jim_Q=">Jim Q. Ning</a>:<b>A Knowledge-Based Approach to Software System Understanding.</b> 162-170<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638033"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/KozaczynskiLN91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/KozaczynskiLN91.xml">XML</a></small></small></li>
+<li id="Yu91"><a href="http://dblp.uni-trier.de/pers/hc/y/Yu:Benjamin">Benjamin Yu</a>:<b>LARGE Software System Maintenance.</b> 171-177<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638034"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Yu91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Yu91.xml">XML</a></small></small></li>
+<li id="MajidiR91"><a href="http://dblp.uni-trier.de/pers/hc/m/Majidi:Mehan">Mehan Majidi</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Redmiles:David_F=">David F. Redmiles</a>:<b>A Knowledge-Based Interface to Promote Software Understanding.</b> 178-185<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638035"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/MajidiR91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/MajidiR91.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Learning</h2>
+ 
+
+<ul>
+<li id="HarandiL91"><a href="http://dblp.uni-trier.de/pers/hc/h/Harandi:Mehdi_T=">Mehdi T. Harandi</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lee:Hing=Yan">Hing-Yan Lee</a>:<b>Acquiring Software Design Schemas: A Machine Learning Perspective.</b> 188-197<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638036"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/HarandiL91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/HarandiL91.xml">XML</a></small></small></li>
+<li id="BailinGT91"><a href="http://dblp.uni-trier.de/pers/hc/b/Bailin:Sidney_C=">Sidney C. Bailin</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gattis:Robert_H=">Robert H. Gattis</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Truszkowski:Walt">Walt Truszkowski</a>:<b>A Learning-Based Software Engineering Environment.</b> 198-206<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638037"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/BailinGT91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/BailinGT91.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Process Support</h2>
+ 
+
+<ul>
+<li id="Morris91"><a href="http://dblp.uni-trier.de/pers/hc/m/Morris:Robert">Robert Morris</a>:<b>Implementation of an Activity Coordination System.</b> 208-214<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638038"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Morris91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Morris91.xml">XML</a></small></small></li>
+<li id="HeinemanKBB91"><a href="http://dblp.uni-trier.de/pers/hc/h/Heineman:George_T=">George T. Heineman</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kaiser:Gail_E=">Gail E. Kaiser</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Barghouti:Naser_S=">Naser S. Barghouti</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Ben=Shaul:Israel">Israel Ben-Shaul</a>:<b>Rule Chaining in MARVEL: Dynamic Binding of Parameters.</b> 215-222<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638039"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/HeinemanKBB91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/HeinemanKBB91.xml">XML</a></small></small></li>
+<li id="RameshD91"><a href="http://dblp.uni-trier.de/pers/hc/r/Ramesh:Balasubramaniam">Balasubramaniam Ramesh</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dhar:Vasant">Vasant Dhar</a>:<b>Representation and Maintenance of Process Knowledge for Large Scale Systems Development.</b> 223-231<small><a href="http://dx.doi.org/10.1109/KBSE.1991.638040"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/RameshD91.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/RameshD91.xml">XML</a></small></small></li>
+</ul>
+
+</dblp>

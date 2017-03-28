@@ -1,0 +1,55 @@
+<dblp>
+    <h2>Synthesis I</h2>
+ 
+
+<ul>
+<li id="EllmanM96"><a href="http://dblp.uni-trier.de/pers/hc/e/Ellman:Thomas">Thomas Ellman</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Murata:Takahiro">Takahiro Murata</a>:<br /><b>Deductive synthesis of numerical simulation programs from networks of algebraic and ordinary differential equations.</b> 2-11<br /><small><a href="http://dx.doi.org/10.1109/KBSE.1996.552818"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/EllmanM96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/EllmanM96.xml">XML</a></small></small></li>
+<li id="GomesSW96"><a href="http://dblp.uni-trier.de/pers/hc/g/Gomes:Carla_P=">Carla P. Gomes</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Smith:Douglas_R=">Douglas R. Smith</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Westfold:Stephen_J=">Stephen J. Westfold</a>:<br /><b>Synthesis of schedulers for planned shutdowns of power plants.</b> 12-20<br /><small><a href="http://dx.doi.org/10.1109/KBSE.1996.552819"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/GomesSW96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/GomesSW96.xml">XML</a></small></small></li>
+<li id="GrahamB96"><a href="http://dblp.uni-trier.de/pers/hc/g/Graham_Jr=:Robert_P=">Robert P. Graham Jr.</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bailor:Paul_D=">Paul D. Bailor</a>:<br /><b>Synthesis of local search algorithms by algebraic means.</b> 21-30<br /><small><a href="http://dx.doi.org/10.1109/KBSE.1996.552820"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/GrahamB96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/GrahamB96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Verification and Validation</h2>
+ 
+
+<ul>
+<li id="HoweP96"><a href="http://dblp.uni-trier.de/pers/hc/h/Howe:Adele_E=">Adele E. Howe</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pyeatt:Larry_D=">Larry D. Pyeatt</a>:<br /><b>Constructing transition models of AI planner behavior.</b> 33-41<br /><small><a href="http://dx.doi.org/10.1109/KBSE.1996.552821"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/HoweP96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/HoweP96.xml">XML</a></small></small></li>
+<li id="Hall96"><a href="http://dblp.uni-trier.de/pers/hc/h/Hall:Robert_J=">Robert J. Hall</a>:<b>Trusting your assistant.</b> 42-51<small><a href="http://dx.doi.org/10.1109/KBSE.1996.552822"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Hall96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Hall96.xml">XML</a></small></small></li>
+<li id="Ledru96"><a href="http://dblp.uni-trier.de/pers/hc/l/Ledru:Yves">Yves Ledru</a>:<br /><b>Complementing semi-formal specifications with Z.</b> 52-61<br /><small><a href="http://dx.doi.org/10.1109/KBSE.1996.552823"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Ledru96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Ledru96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Knowledge-Based Environments</h2>
+ 
+
+<ul>
+<li id="RobbinsHR96"><a href="http://dblp.uni-trier.de/pers/hc/r/Robbins:Jason_E=">Jason E. Robbins</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hilbert:David_M=">David M. Hilbert</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Redmiles:David_F=">David F. Redmiles</a>:<br /><b>Extending design environments to software architecture design.</b> 63-72<br /><small><a href="http://dx.doi.org/10.1109/KBSE.1996.552824"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/RobbinsHR96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/RobbinsHR96.xml">XML</a></small></small></li>
+<li id="Benner96"><a href="http://dblp.uni-trier.de/pers/hc/b/Benner:Kevin">Kevin Benner</a>:<br /><b>Addressing complexity, coordination, and automation in software development with the KBSA/ADM.</b> 73-83<br /><small><a href="http://dx.doi.org/10.1109/KBSE.1996.552825"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Benner96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Benner96.xml">XML</a></small></small></li>
+<li id="DellenKM96"><a href="http://dblp.uni-trier.de/pers/hc/d/Dellen:Barbara">Barbara Dellen</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kohler:Kirstin">Kirstin Kohler</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maurer:Frank">Frank Maurer</a>:<br /><b>Integrating software process models and design rationales.</b> 84-93<br /><small><a href="http://dx.doi.org/10.1109/KBSE.1996.552826"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/DellenKM96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/DellenKM96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Reverse Engineering</h2>
+ 
+
+<ul>
+<li id="Quilici0W96"><a href="http://dblp.uni-trier.de/pers/hc/q/Quilici:Alex">Alex Quilici</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yang_0001:Qiang">Qiang Yang</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Woods:Steven">Steven Woods</a>:<br /><b>Applying plan recognition algorithms to program understanding.</b> 96-103<br /><small><a href="http://dx.doi.org/10.1109/KBSE.1996.552827"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Quilici0W96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Quilici0W96.xml">XML</a></small></small></li>
+<li id="KeaneE96"><a href="http://dblp.uni-trier.de/pers/hc/k/Keane:John_Eric">John Eric Keane</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Ellman:Thomas">Thomas Ellman</a>:<br /><b>Knowledge-based re-engineering of legacy programs for robustness in automated design.</b> 104-113<br /><small><a href="http://dx.doi.org/10.1109/KBSE.1996.552828"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/KeaneE96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/KeaneE96.xml">XML</a></small></small></li>
+<li id="HarmerMB96"><a href="http://dblp.uni-trier.de/pers/hc/h/Harmer:Terence_J=">Terence J. Harmer</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/McParland:Patrick_J=">Patrick J. McParland</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Boyle:James_M=">James M. Boyle</a>:<br /><b>Using knowledge-based transformations to reverse-engineer COBOL programs.</b> 114-123<br /><small><a href="http://dx.doi.org/10.1109/KBSE.1996.552829"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/HarmerMB96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/HarmerMB96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Synthesis</h2>
+ 
+
+<ul>
+<li id="SidarkeviciuteT96"><a href="http://dblp.uni-trier.de/pers/hc/s/Sidarkeviciute:Diana">Diana Sidarkeviciute</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tyugu:Enn">Enn Tyugu</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kuusik:Ago">Ago Kuusik</a>:<br /><b>A knowledge-based toolkit for software visualisation.</b> 125-133<br /><small><a href="http://dx.doi.org/10.1109/KBSE.1996.552830"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/SidarkeviciuteT96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/SidarkeviciuteT96.xml">XML</a></small></small></li>
+<li id="Darche96"><a href="http://dblp.uni-trier.de/pers/hc/d/Darche:Fawzia_Derrough">Fawzia Derrough Darche</a>:<br /><b>Set differentiation: a method for the automatic generation of filtering algorithms.</b> 134-143<br /><small><a href="http://dx.doi.org/10.1109/KBSE.1996.552831"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Darche96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Darche96.xml">XML</a></small></small></li>
+<li id="SatoMYW96"><a href="http://dblp.uni-trier.de/pers/hc/s/Sato:Akiyoshi">Akiyoshi Sato</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Miki:Masato">Masato Miki</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yamanouchi:Toru">Toru Yamanouchi</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Watanabe:Masanobu">Masanobu Watanabe</a>:<br /><b>Software synthesis for trade-off design.</b> 144-153<br /><small><a href="http://dx.doi.org/10.1109/KBSE.1996.552832"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/SatoMYW96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/SatoMYW96.xml">XML</a></small></small></li>
+</ul>
+
+</dblp>

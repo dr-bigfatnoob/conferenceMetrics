@@ -1,0 +1,66 @@
+<dblp>
+    <h2>Separation of concerns 1</h2>
+ 
+
+<ul>
+<li id="ClarkeHS10"><a href="http://dblp.uni-trier.de/pers/hc/c/Clarke:Dave">Dave Clarke</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Helvensteijn:Michiel">Michiel Helvensteijn</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schaefer:Ina">Ina Schaefer</a>:<b>Abstract delta modeling.</b> 13-22<small><a href="http://doi.acm.org/10.1145/1868294.1868298"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/ClarkeHS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/ClarkeHS10.xml">XML</a></small></small></li>
+<li id="RysselPK10"><a href="http://dblp.uni-trier.de/pers/hc/r/Ryssel:Uwe">Uwe Ryssel</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Ploennigs:Joern">Joern Ploennigs</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kabitzsch:Klaus">Klaus Kabitzsch</a>:<b>Automatic variation-point identification in function-block-based models.</b> 23-32<small><a href="http://doi.acm.org/10.1145/1868294.1868299"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/RysselPK10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/RysselPK10.xml">XML</a></small></small></li>
+<li id="SinceroTLS10"><a href="http://dblp.uni-trier.de/pers/hc/s/Sincero:Julio">Julio Sincero</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tartler:Reinhard">Reinhard Tartler</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lohmann:Daniel">Daniel Lohmann</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schr=ouml=der=Preikschat:Wolfgang">Wolfgang Schr&#246;der-Preikschat</a>:<b>Efficient extraction and analysis of preprocessor-based variability.</b> 33-42<small><a href="http://doi.acm.org/10.1145/1868294.1868300"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/SinceroTLS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/SinceroTLS10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Languages and language technology 1</h2>
+ 
+
+<ul>
+<li id="MiddelkoopDS10"><a href="http://dblp.uni-trier.de/pers/hc/m/Middelkoop:Arie">Arie Middelkoop</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dijkstra:Atze">Atze Dijkstra</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Swierstra:S=_Doaitse">S. Doaitse Swierstra</a>:<b>Iterative type inference with attribute grammars.</b> 43-52<small><a href="http://doi.acm.org/10.1145/1868294.1868302"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/MiddelkoopDS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/MiddelkoopDS10.xml">XML</a></small></small></li>
+<li id="KriegerKW10"><a href="http://dblp.uni-trier.de/pers/hc/k/Krieger:Matthias_P=">Matthias P. Krieger</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Knapp:Alexander">Alexander Knapp</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wolff:Burkhart">Burkhart Wolff</a>:<b>Automatic and efficient simulation of operation contracts.</b> 53-62<small><a href="http://doi.acm.org/10.1145/1868294.1868303"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/KriegerKW10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/KriegerKW10.xml">XML</a></small></small></li>
+<li id="LongMSR10"><a href="http://dblp.uni-trier.de/pers/hc/l/Long:Yuheng">Yuheng Long</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mooney:Sean_L=">Sean L. Mooney</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sondag:Tyler">Tyler Sondag</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rajan:Hridesh">Hridesh Rajan</a>:<b>Implicit invocation meets safe, implicit concurrency.</b> 63-72<small><a href="http://doi.acm.org/10.1145/1868294.1868304"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/LongMSR10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/LongMSR10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Components</h2>
+ 
+
+<ul>
+<li id="NavasBP10"><a href="http://dblp.uni-trier.de/pers/hc/n/Navas:Juan_F=">Juan F. Navas</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Babau:Jean=Philippe">Jean-Philippe Babau</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pulou:Jacques">Jacques Pulou</a>:<b>A component-based run-time evolution infrastructure for resource-constrained embedded systems.</b> 73-82<small><a href="http://doi.acm.org/10.1145/1868294.1868306"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/NavasBP10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/NavasBP10.xml">XML</a></small></small></li>
+<li id="HoferO10"><a href="http://dblp.uni-trier.de/pers/hc/h/Hofer:Christian">Christian Hofer</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Ostermann:Klaus">Klaus Ostermann</a>:<b>Modular domain-specific language components in scala.</b> 83-92<small><a href="http://doi.acm.org/10.1145/1868294.1868307"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/HoferO10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/HoferO10.xml">XML</a></small></small></li>
+<li id="WolfingerLJM10"><a href="http://dblp.uni-trier.de/pers/hc/w/Wolfinger:Reinhard">Reinhard Wolfinger</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/L=ouml=berbauer:Markus">Markus L&#246;berbauer</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jahn_0001:Markus">Markus Jahn</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/M=ouml=ssenb=ouml=ck:Hanspeter">Hanspeter M&#246;ssenb&#246;ck</a>:<b>Adding genericity to a plug-in framework.</b> 93-102<small><a href="http://doi.acm.org/10.1145/1868294.1868308"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/WolfingerLJM10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/WolfingerLJM10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Separation of concerns 2</h2>
+ 
+
+<ul>
+<li id="SchulzeAK10"><a href="http://dblp.uni-trier.de/pers/hc/s/Schulze:Sandro">Sandro Schulze</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Apel:Sven">Sven Apel</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/K=auml=stner:Christian">Christian K&#228;stner</a>:<b>Code clones in feature-oriented software product lines.</b> 103-112<small><a href="http://doi.acm.org/10.1145/1868294.1868310"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/SchulzeAK10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/SchulzeAK10.xml">XML</a></small></small></li>
+<li id="TanterMBA10"><a href="http://dblp.uni-trier.de/pers/hc/t/Tanter:=Eacute=ric">&#201;ric Tanter</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Moret:Philippe">Philippe Moret</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Binder:Walter">Walter Binder</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Ansaloni:Danilo">Danilo Ansaloni</a>:<b>Composition of dynamic analysis aspects.</b> 113-122<small><a href="http://doi.acm.org/10.1145/1868294.1868311"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/TanterMBA10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/TanterMBA10.xml">XML</a></small></small></li>
+<li id="WurthingerBAMM10"><a href="http://dblp.uni-trier.de/pers/hc/w/W=uuml=rthinger:Thomas">Thomas W&#252;rthinger</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Binder:Walter">Walter Binder</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Ansaloni:Danilo">Danilo Ansaloni</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Moret:Philippe">Philippe Moret</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/M=ouml=ssenb=ouml=ck:Hanspeter">Hanspeter M&#246;ssenb&#246;ck</a>:<b>Applications of enhanced dynamic code evolution for Java in GUI development and dynamic aspect-oriented programming.</b> 123-126<small><a href="http://doi.acm.org/10.1145/1868294.1868312"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/WurthingerBAMM10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/WurthingerBAMM10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Languages and language technology 2</h2>
+ 
+
+<ul>
+<li id="RompfO10"><a href="http://dblp.uni-trier.de/pers/hc/r/Rompf:Tiark">Tiark Rompf</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Odersky:Martin">Martin Odersky</a>:<b>Lightweight modular staging: a pragmatic approach to runtime code generation and compiled DSLs.</b> 127-136<small><a href="http://doi.acm.org/10.1145/1868294.1868314"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/RompfO10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/RompfO10.xml">XML</a></small></small></li>
+<li id="PorkolabS10"><a href="http://dblp.uni-trier.de/pers/hc/p/Porkol=aacute=b:Zolt=aacute=n">Zolt&#225;n Porkol&#225;b</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sinkovics:=Aacute=bel">&#193;bel Sinkovics</a>:<b>Domain-specific language integration with compile-time parser generator library.</b> 137-146<small><a href="http://doi.acm.org/10.1145/1868294.1868315"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/PorkolabS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/PorkolabS10.xml">XML</a></small></small></li>
+<li id="AtkinsonFL10"><a href="http://dblp.uni-trier.de/pers/hc/a/Atkinson:Kevin">Kevin Atkinson</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Flatt:Matthew">Matthew Flatt</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lindstrom:Gary">Gary Lindstrom</a>:<b>ABI compatibility through a customizable language.</b> 147-156<small><a href="http://doi.acm.org/10.1145/1868294.1868316"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/AtkinsonFL10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/AtkinsonFL10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Generation</h2>
+ 
+
+<ul>
+<li id="BordignonSS10"><a href="http://dblp.uni-trier.de/pers/hc/b/Bordignon:Mirko">Mirko Bordignon</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schultz:Ulrik_Pagh">Ulrik Pagh Schultz</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/St=oslash=y:Kasper">Kasper St&#248;y</a>:<b>Model-based kinematics generation for modular mechatronic toolkits.</b> 157-166<small><a href="http://doi.acm.org/10.1145/1868294.1868318"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/BordignonSS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/BordignonSS10.xml">XML</a></small></small></li>
+<li id="MiaoS10"><a href="http://dblp.uni-trier.de/pers/hc/m/Miao:Weiyu">Weiyu Miao</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Siek:Jeremy_G=">Jeremy G. Siek</a>:<b>Incremental type-checking for type-reflective metaprograms.</b> 167-176<small><a href="http://doi.acm.org/10.1145/1868294.1868319"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/MiaoS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/MiaoS10.xml">XML</a></small></small></li>
+<li id="GrechRF10"><a href="http://dblp.uni-trier.de/pers/hc/g/Grech:Neville">Neville Grech</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rathke:Julian">Julian Rathke</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fischer_0002:Bernd">Bernd Fischer</a>:<b>JEqualityGen: generating equality and hashing methods.</b> 177-186<small><a href="http://doi.acm.org/10.1145/1868294.1868320"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/GrechRF10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/GrechRF10.xml">XML</a></small></small></li>
+</ul>
+
+</dblp>

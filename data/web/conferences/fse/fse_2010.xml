@@ -1,0 +1,172 @@
+<dblp>
+    
+<h2>Distributed systems</h2>
+ 
+
+<ul>
+<li id="ElkhodaryEM10"><a href="http://dblp.uni-trier.de/pers/hc/e/Elkhodary:Ahmed_M=">Ahmed M. Elkhodary</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Esfahani:Naeem">Naeem Esfahani</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Malek:Sam">Sam Malek</a>:<b>FUSION: a framework for engineering self-tuning self-adaptive software systems.</b> 7-16<small><a href="http://doi.acm.org/10.1145/1882291.1882296"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/ElkhodaryEM10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/ElkhodaryEM10.xml">XML</a></small></small></li>
+<li id="KillianNPBAJ10"><a href="http://dblp.uni-trier.de/pers/hc/k/Killian:Charles_Edwin">Charles Edwin Killian</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nagaraj:Karthik">Karthik Nagaraj</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pervez:Salman">Salman Pervez</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Braud:Ryan">Ryan Braud</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Anderson:James_W=">James W. Anderson</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jhala:Ranjit">Ranjit Jhala</a>:<b>Finding latent performance bugs in systems implementations.</b> 17-26<small><a href="http://doi.acm.org/10.1145/1882291.1882297"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/KillianNPBAJ10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/KillianNPBAJ10.xml">XML</a></small></small></li>
+<li id="HalleB10"><a href="http://dblp.uni-trier.de/pers/hc/h/Hall=eacute=:Sylvain">Sylvain Hall&#233;</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bultan:Tevfik">Tevfik Bultan</a>:<b>Realizability analysis for message-based interactions using shared-state projections.</b> 27-36<small><a href="http://doi.acm.org/10.1145/1882291.1882298"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/HalleB10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/HalleB10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Concurrency</h2>
+ 
+
+<ul>
+<li id="SorrentinoFM10"><a href="http://dblp.uni-trier.de/pers/hc/s/Sorrentino_0002:Francesco">Francesco Sorrentino</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Farzan:Azadeh">Azadeh Farzan</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Madhusudan:P=">P. Madhusudan</a>:<b>PENELOPE: weaving threads to expose atomicity violations.</b> 37-46<small><a href="http://doi.acm.org/10.1145/1882291.1882300"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/SorrentinoFM10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/SorrentinoFM10.xml">XML</a></small></small></li>
+<li id="SinhaW10"><a href="http://dblp.uni-trier.de/pers/hc/s/Sinha:Nishant">Nishant Sinha</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wang_0001:Chao">Chao Wang</a>:<b>Staged concurrent program analysis.</b> 47-56<small><a href="http://doi.acm.org/10.1145/1882291.1882301"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/SinhaW10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/SinhaW10.xml">XML</a></small></small></li>
+<li id="JalbertS10"><a href="http://dblp.uni-trier.de/pers/hc/j/Jalbert:Nicholas">Nicholas Jalbert</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sen:Koushik">Koushik Sen</a>:<b>A trace simplification technique for effective debugging of concurrent programs.</b> 57-66<small><a href="http://doi.acm.org/10.1145/1882291.1882302"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/JalbertS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/JalbertS10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Miscellaneous</h2>
+ 
+
+<ul>
+<li id="YilmazP10"><a href="http://dblp.uni-trier.de/pers/hc/y/Yilmaz:Cemal">Cemal Yilmaz</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Porter:Adam_A=">Adam A. Porter</a>:<b>Combining hardware and software instrumentation to classify program executions.</b> 67-76<small><a href="http://doi.acm.org/10.1145/1882291.1882304"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/YilmazP10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/YilmazP10.xml">XML</a></small></small></li>
+<li id="DIppolitoBPU10"><a href="http://dblp.uni-trier.de/pers/hc/d/D=Ippolito:Nicol=aacute=s">Nicol&#225;s D'Ippolito</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Braberman:V=iacute=ctor_A=">V&#237;ctor A. Braberman</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Piterman:Nir">Nir Piterman</a>, <a href="http://dblp.uni-trier.de/pers/hc/u/Uchitel:Sebasti=aacute=n">Sebasti&#225;n Uchitel</a>:<b>Synthesis of live behaviour models.</b> 77-86<small><a href="http://doi.acm.org/10.1145/1882291.1882305"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/DIppolitoBPU10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/DIppolitoBPU10.xml">XML</a></small></small></li>
+<li id="WangZXMS10"><a href="http://dblp.uni-trier.de/pers/hc/w/Wang:Xiaoyin">Xiaoyin Wang</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhang_0023:Lu">Lu Zhang</a>, <a href="http://dblp.uni-trier.de/pers/hc/x/Xie:Tao">Tao Xie</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mei:Hong">Hong Mei</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sun:Jiasu">Jiasu Sun</a>:<b>Locating need-to-translate constant strings in web applications.</b> 87-96<small><a href="http://doi.acm.org/10.1145/1882291.1882306"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/WangZXMS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/WangZXMS10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Empirical studies of systems</h2>
+ 
+
+<ul>
+<li id="BachmannBRDB10"><a href="http://dblp.uni-trier.de/pers/hc/b/Bachmann:Adrian">Adrian Bachmann</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bird:Christian">Christian Bird</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rahman:Foyzur">Foyzur Rahman</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Devanbu:Premkumar_T=">Premkumar T. Devanbu</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bernstein:Abraham">Abraham Bernstein</a>:<b>The missing links: bugs and bug-fix commits.</b> 97-106<small><a href="http://doi.acm.org/10.1145/1882291.1882308"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/BachmannBRDB10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/BachmannBRDB10.xml">XML</a></small></small></li>
+<li id="RamasubbuB10"><a href="http://dblp.uni-trier.de/pers/hc/r/Ramasubbu:Narayan">Narayan Ramasubbu</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Balan:Rajesh_Krishna">Rajesh Krishna Balan</a>:<b>Evolution of a bluetooth test application product line: a case study.</b> 107-116<small><a href="http://doi.acm.org/10.1145/1882291.1882309"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/RamasubbuB10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/RamasubbuB10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Empirical studies of people</h2>
+ 
+
+<ul>
+<li id="Mockus10"><a href="http://dblp.uni-trier.de/pers/hc/m/Mockus:Audris">Audris Mockus</a>:<b>Organizational volatility and its effects on software defects.</b> 117-126<small><a href="http://doi.acm.org/10.1145/1882291.1882311"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/Mockus10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/Mockus10.xml">XML</a></small></small></li>
+<li id="DagenaisR10"><a href="http://dblp.uni-trier.de/pers/hc/d/Dagenais:Barth=eacute=l=eacute=my">Barth&#233;l&#233;my Dagenais</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Robillard:Martin_P=">Martin P. Robillard</a>:<b>Creating and evolving developer documentation: understanding the decisions of open source contributors.</b> 127-136<small><a href="http://doi.acm.org/10.1145/1882291.1882312"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/DagenaisR10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/DagenaisR10.xml">XML</a></small></small></li>
+<li id="ZhouM10a"><a href="http://dblp.uni-trier.de/pers/hc/z/Zhou:Minghui">Minghui Zhou</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mockus:Audris">Audris Mockus</a>:<b>Developer fluency: achieving true mastery in software projects.</b> 137-146<small><a href="http://doi.acm.org/10.1145/1882291.1882313"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/ZhouM10a.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/ZhouM10a.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Code similarities</h2>
+ 
+
+<ul>
+<li id="GabelS10"><a href="http://dblp.uni-trier.de/pers/hc/g/Gabel:Mark">Mark Gabel</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Su:Zhendong">Zhendong Su</a>:<b>A study of the uniqueness of source code.</b> 147-156<small><a href="http://doi.acm.org/10.1145/1882291.1882315"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/GabelS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/GabelS10.xml">XML</a></small></small></li>
+<li id="BajracharyaOL10"><a href="http://dblp.uni-trier.de/pers/hc/b/Bajracharya:Sushil_Krishna">Sushil Krishna Bajracharya</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Ossher:Joel">Joel Ossher</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lopes:Cristina_Videira">Cristina Videira Lopes</a>:<b>Leveraging usage similarity for effective retrieval of examples in code repositories.</b> 157-166<small><a href="http://doi.acm.org/10.1145/1882291.1882316"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/BajracharyaOL10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/BajracharyaOL10.xml">XML</a></small></small></li>
+<li id="LeeRHK10"><a href="http://dblp.uni-trier.de/pers/hc/l/Lee:Mu=Woong">Mu-Woong Lee</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roh:Jong=Won">Jong-Won Roh</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hwang:Seung=won">Seung-won Hwang</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kim_0001:Sunghun">Sunghun Kim</a>:<b>Instant code clone search.</b> 167-176<small><a href="http://doi.acm.org/10.1145/1882291.1882317"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/LeeRHK10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/LeeRHK10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Verification</h2>
+ 
+
+<ul>
+<li id="BanerjeeRHL10"><a href="http://dblp.uni-trier.de/pers/hc/b/Banerjee:Ansuman">Ansuman Banerjee</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roychoudhury:Abhik">Abhik Roychoudhury</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harlie:Johannes_A=">Johannes A. Harlie</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Liang:Zhenkai">Zhenkai Liang</a>:<b>Golden implementation driven software debugging.</b> 177-186<small><a href="http://doi.acm.org/10.1145/1882291.1882319"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/BanerjeeRHL10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/BanerjeeRHL10.xml">XML</a></small></small></li>
+<li id="LiG10"><a href="http://dblp.uni-trier.de/pers/hc/l/Li:Guodong">Guodong Li</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gopalakrishnan:Ganesh">Ganesh Gopalakrishnan</a>:<b>Scalable SMT-based verification of GPU kernel functions.</b> 187-196<small><a href="http://doi.acm.org/10.1145/1882291.1882320"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/LiG10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/LiG10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Replay</h2>
+ 
+
+<ul>
+<li id="WuLWXLLGGZZ10"><a href="http://dblp.uni-trier.de/pers/hc/w/Wu:Ming">Ming Wu</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Long:Fan">Fan Long</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wang:Xi">Xi Wang</a>, <a href="http://dblp.uni-trier.de/pers/hc/x/Xu:Zhilei">Zhilei Xu</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lin:Haoxiang">Haoxiang Lin</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Liu:Xuezheng">Xuezheng Liu</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Guo:Zhenyu">Zhenyu Guo</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Guo:Huayang">Huayang Guo</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhou:Lidong">Lidong Zhou</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Zheng">Zheng Zhang</a>:<b>Language-based replay via data flow cut.</b> 197-206<small><a href="http://doi.acm.org/10.1145/1882291.1882322"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/WuLWXLLGGZZ10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/WuLWXLLGGZZ10.xml">XML</a></small></small></li>
+<li id="HuangLZ10"><a href="http://dblp.uni-trier.de/pers/hc/h/Huang_0001:Jeff">Jeff Huang</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Liu_0010:Peng">Peng Liu</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Charles">Charles Zhang</a>:<b>LEAP: lightweight deterministic multi-processor replay of concurrent java programs.</b> 207-216<small><a href="http://doi.acm.org/10.1145/1882291.1882323"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/HuangLZ10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/HuangLZ10.xml">XML</a></small></small></li>
+<li id="SumnerZ10"><a href="http://dblp.uni-trier.de/pers/hc/s/Sumner:William_N=">William N. Sumner</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Xiangyu">Xiangyu Zhang</a>:<b>Memory indexing: canonicalizing addresses across executions.</b> 217-226<small><a href="http://doi.acm.org/10.1145/1882291.1882324"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/SumnerZ10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/SumnerZ10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Web services</h2>
+ 
+
+<ul>
+<li id="EpifaniGT10"><a href="http://dblp.uni-trier.de/pers/hc/e/Epifani:Ilenia">Ilenia Epifani</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Ghezzi:Carlo">Carlo Ghezzi</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tamburrelli:Giordano">Giordano Tamburrelli</a>:<b>Change-point detection for black-box services.</b> 227-236<small><a href="http://doi.acm.org/10.1145/1882291.1882326"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/EpifaniGT10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/EpifaniGT10.xml">XML</a></small></small></li>
+<li id="CarzanigaGPP10"><a href="http://dblp.uni-trier.de/pers/hc/c/Carzaniga:Antonio">Antonio Carzaniga</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gorla:Alessandra">Alessandra Gorla</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Perino:Nicol=ograve=">Nicol&#242; Perino</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pezz=egrave=:Mauro">Mauro Pezz&#232;</a>:<b>Automatic workarounds for web applications.</b> 237-246<small><a href="http://doi.acm.org/10.1145/1882291.1882327"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/CarzanigaGPP10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/CarzanigaGPP10.xml">XML</a></small></small></li>
+<li id="SimmondsBC10"><a href="http://dblp.uni-trier.de/pers/hc/s/Simmonds:Jocelyn">Jocelyn Simmonds</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Ben=David:Shoham">Shoham Ben-David</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chechik:Marsha">Marsha Chechik</a>:<b>Guided recovery for web service applications.</b> 247-256<small><a href="http://doi.acm.org/10.1145/1882291.1882328"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/SimmondsBC10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/SimmondsBC10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Testing</h2>
+ 
+
+<ul>
+<li id="XuKKRC10"><a href="http://dblp.uni-trier.de/pers/hc/x/Xu:Zhihong">Zhihong Xu</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kim:Yunho">Yunho Kim</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kim:Moonzoo">Moonzoo Kim</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rothermel:Gregg">Gregg Rothermel</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cohen:Myra_B=">Myra B. Cohen</a>:<b>Directed test suite augmentation: techniques and tradeoffs.</b> 257-266<small><a href="http://doi.acm.org/10.1145/1882291.1882330"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/XuKKRC10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/XuKKRC10.xml">XML</a></small></small></li>
+<li id="HemmatiBAA10"><a href="http://dblp.uni-trier.de/pers/hc/h/Hemmati:Hadi">Hadi Hemmati</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Briand:Lionel_C=">Lionel C. Briand</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Arcuri:Andrea">Andrea Arcuri</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Ali:Shaukat">Shaukat Ali</a>:<b>An enhanced test case selection approach for model-based testing: an industrial case study.</b> 267-276<small><a href="http://doi.acm.org/10.1145/1882291.1882331"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/HemmatiBAA10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/HemmatiBAA10.xml">XML</a></small></small></li>
+<li id="KanadeARR10"><a href="http://dblp.uni-trier.de/pers/hc/k/Kanade:Aditya">Aditya Kanade</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Alur:Rajeev">Rajeev Alur</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rajamani:Sriram_K=">Sriram K. Rajamani</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ramalingam:Ganesan">Ganesan Ramalingam</a>:<b>Representation dependence testing using program inversion.</b> 277-286<small><a href="http://doi.acm.org/10.1145/1882291.1882332"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/KanadeARR10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/KanadeARR10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Dependencies</h2>
+ 
+
+<ul>
+<li id="LitvakDBRS10"><a href="http://dblp.uni-trier.de/pers/hc/l/Litvak:Shay">Shay Litvak</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dor:Nurit">Nurit Dor</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bod=iacute=k:Rastislav">Rastislav Bod&#237;k</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rinetzky:Noam">Noam Rinetzky</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sagiv:Mooly">Mooly Sagiv</a>:<b>Field-sensitive program dependence analysis.</b> 287-296<small><a href="http://doi.acm.org/10.1145/1882291.1882334"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/LitvakDBRS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/LitvakDBRS10.xml">XML</a></small></small></li>
+<li id="CossetteW10"><a href="http://dblp.uni-trier.de/pers/hc/c/Cossette:Bradley">Bradley Cossette</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Walker:Robert_J=">Robert J. Walker</a>:<b>DSketch: lightweight, adaptable dependency analysis.</b> 297-306<small><a href="http://doi.acm.org/10.1145/1882291.1882335"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/CossetteW10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/CossetteW10.xml">XML</a></small></small></li>
+<li id="LeS10"><a href="http://dblp.uni-trier.de/pers/hc/l/Le:Wei">Wei Le</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Soffa:Mary_Lou">Mary Lou Soffa</a>:<b>Path-based fault correlations.</b> 307-316<small><a href="http://doi.acm.org/10.1145/1882291.1882336"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/LeS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/LeS10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Analysis</h2>
+ 
+
+<ul>
+<li id="LiCK10"><a href="http://dblp.uni-trier.de/pers/hc/l/Li:Lian">Lian Li</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cifuentes:Cristina">Cristina Cifuentes</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Keynes:Nathan">Nathan Keynes</a>:<b>Practical and effective symbolic analysis for buffer overflow detection.</b> 317-326<small><a href="http://doi.acm.org/10.1145/1882291.1882338"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/LiCK10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/LiCK10.xml">XML</a></small></small></li>
+<li id="JoshiNSG10"><a href="http://dblp.uni-trier.de/pers/hc/j/Joshi:Pallavi">Pallavi Joshi</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Naik:Mayur">Mayur Naik</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sen:Koushik">Koushik Sen</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gay:David">David Gay</a>:<b>An effective dynamic analysis for detecting generalized deadlocks.</b> 327-336<small><a href="http://doi.acm.org/10.1145/1882291.1882339"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/JoshiNSG10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/JoshiNSG10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Doctoral symposium</h2>
+ 
+
+<ul>
+<li id="Charrada10"><a href="http://dblp.uni-trier.de/pers/hc/c/Charrada:Eya_Ben">Eya Ben Charrada</a>:<b>Updating requirements from tests during maintenance and evolution.</b> 337-340<small><a href="http://doi.acm.org/10.1145/1882291.1882341"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/Charrada10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/Charrada10.xml">XML</a></small></small></li>
+<li id="Krka10"><a href="http://dblp.uni-trier.de/pers/hc/k/Krka:Ivo">Ivo Krka</a>:<b>From requirements to partial behavior models: an iterative approach to incremental specification refinement.</b> 341-344<small><a href="http://doi.acm.org/10.1145/1882291.1882342"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/Krka10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/Krka10.xml">XML</a></small></small></li>
+<li id="Elkhodary10"><a href="http://dblp.uni-trier.de/pers/hc/e/Elkhodary:Ahmed_M=">Ahmed M. Elkhodary</a>:<b>A learning-based approach for engineering feature-oriented self-adaptive software systems.</b> 345-348<small><a href="http://doi.acm.org/10.1145/1882291.1882343"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/Elkhodary10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/Elkhodary10.xml">XML</a></small></small></li>
+<li id="Shokry10"><a href="http://dblp.uni-trier.de/pers/hc/s/Shokry:Hesham">Hesham Shokry</a>:<b>Towards behavior elaboration and synthesis using modes.</b> 349-352<small><a href="http://doi.acm.org/10.1145/1882291.1882344"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/Shokry10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/Shokry10.xml">XML</a></small></small></li>
+<li id="BadreddinL10"><a href="http://dblp.uni-trier.de/pers/hc/b/Badreddin:Omar_Bahy">Omar Bahy Badreddin</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lethbridge:Timothy_C=">Timothy C. Lethbridge</a>:<b>A study of applying a research prototype tool in industrial practice.</b> 353-356<small><a href="http://doi.acm.org/10.1145/1882291.1882345"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/BadreddinL10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/BadreddinL10.xml">XML</a></small></small></li>
+<li id="Rubinov10"><a href="http://dblp.uni-trier.de/pers/hc/r/Rubinov:Konstantin">Konstantin Rubinov</a>:<b>Generating integration test cases automatically.</b> 357-360<small><a href="http://doi.acm.org/10.1145/1882291.1882346"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/Rubinov10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/Rubinov10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Formal demonstrations</h2>
+ 
+
+<ul>
+<li id="JinOX10"><a href="http://dblp.uni-trier.de/pers/hc/j/Jin:Wei">Wei Jin</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Orso:Alessandro">Alessandro Orso</a>, <a href="http://dblp.uni-trier.de/pers/hc/x/Xie:Tao">Tao Xie</a>:<b>BERT: a tool for behavioral regression testing.</b> 361-362<small><a href="http://doi.acm.org/10.1145/1882291.1882348"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/JinOX10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/JinOX10.xml">XML</a></small></small></li>
+<li id="LauterburgKMA10"><a href="http://dblp.uni-trier.de/pers/hc/l/Lauterburg:Steven">Steven Lauterburg</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Karmani:Rajesh_K=">Rajesh K. Karmani</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marinov:Darko">Darko Marinov</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Agha:Gul">Gul Agha</a>:<b>Basset: a tool for systematic testing of actor programs.</b> 363-364<small><a href="http://doi.acm.org/10.1145/1882291.1882349"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/LauterburgKMA10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/LauterburgKMA10.xml">XML</a></small></small></li>
+<li id="LiuSD10"><a href="http://dblp.uni-trier.de/pers/hc/l/Liu_0003:Yang">Yang Liu</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sun_0001:Jun">Jun Sun</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dong:Jin_Song">Jin Song Dong</a>:<b>Analyzing hierarchical complex real-time systems.</b> 365-366<small><a href="http://doi.acm.org/10.1145/1882291.1882350"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/LiuSD10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/LiuSD10.xml">XML</a></small></small></li>
+<li id="MyersS10"><a href="http://dblp.uni-trier.de/pers/hc/m/Myers:Del">Del Myers</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Storey:Margaret=Anne_D=">Margaret-Anne D. Storey</a>:<b>Using dynamic analysis to create trace-focused user interfaces for IDEs.</b> 367-368<small><a href="http://doi.acm.org/10.1145/1882291.1882351"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/MyersS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/MyersS10.xml">XML</a></small></small></li>
+<li id="BirdBRB10"><a href="http://dblp.uni-trier.de/pers/hc/b/Bird:Christian">Christian Bird</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bachmann:Adrian">Adrian Bachmann</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rahman:Foyzur">Foyzur Rahman</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bernstein:Abraham">Abraham Bernstein</a>:<b>LINKSTER: enabling efficient manual inspection and annotation of mined data.</b> 369-370<small><a href="http://doi.acm.org/10.1145/1882291.1882352"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/BirdBRB10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/BirdBRB10.xml">XML</a></small></small></li>
+<li id="KimGLR10"><a href="http://dblp.uni-trier.de/pers/hc/k/Kim:Miryung">Miryung Kim</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gee:Matthew">Matthew Gee</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Loh:Alex">Alex Loh</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rachatasumrit:Napol">Napol Rachatasumrit</a>:<b>Ref-Finder: a refactoring reconstruction tool based on logic query templates.</b> 371-372<small><a href="http://doi.acm.org/10.1145/1882291.1882353"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/KimGLR10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/KimGLR10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Informal demonstrations</h2>
+ 
+
+<ul>
+<li id="KneussSK10"><a href="http://dblp.uni-trier.de/pers/hc/k/Kneuss:Etienne">Etienne Kneuss</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Suter:Philippe">Philippe Suter</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kuncak:Viktor">Viktor Kuncak</a>:<b>Phantm: PHP analyzer for type mismatch.</b> 373-374<small><a href="http://doi.acm.org/10.1145/1882291.1882355"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/KneussSK10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/KneussSK10.xml">XML</a></small></small></li>
+<li id="ErnstA10"><a href="http://dblp.uni-trier.de/pers/hc/e/Ernst:Michael_D=">Michael D. Ernst</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Ali:Mahmood">Mahmood Ali</a>:<b>Building and using pluggable type systems.</b> 375-376<small><a href="http://doi.acm.org/10.1145/1882291.1882356"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/ErnstA10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/ErnstA10.xml">XML</a></small></small></li>
+<li id="DeAntoniMTRBMGRS10"><a href="http://dblp.uni-trier.de/pers/hc/d/DeAntoni:Julien">Julien DeAntoni</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mallet:Fr=eacute=d=eacute=ric">Fr&#233;d&#233;ric Mallet</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Thomas:Fr=eacute=d=eacute=ric">Fr&#233;d&#233;ric Thomas</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Reydet:Gonzague">Gonzague Reydet</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Babau:Jean=Philippe">Jean-Philippe Babau</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mraidha:Chokri">Chokri Mraidha</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gauthier:Ludovic">Ludovic Gauthier</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rioux:Laurent">Laurent Rioux</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sordon:Nicolas">Nicolas Sordon</a>:<b>RT-simex: retro-analysis of execution traces.</b> 377-378<small><a href="http://doi.acm.org/10.1145/1882291.1882357"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/DeAntoniMTRBMGRS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/DeAntoniMTRBMGRS10.xml">XML</a></small></small></li>
+<li id="FisherFMR10"><a href="http://dblp.uni-trier.de/pers/hc/f/Fisher_II:Marc">Marc Fisher II</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marrs:Luke">Luke Marrs</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ryder:Barbara_G=">Barbara G. Ryder</a>:<b>HI-C: diagnosing object churn in framework-based applications.</b> 379-380<small><a href="http://doi.acm.org/10.1145/1882291.1882358"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/FisherFMR10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/FisherFMR10.xml">XML</a></small></small></li>
+<li id="BegelKZ10"><a href="http://dblp.uni-trier.de/pers/hc/b/Begel:Andrew">Andrew Begel</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Khoo:Yit_Phang">Yit Phang Khoo</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zimmermann_0001:Thomas">Thomas Zimmermann</a>:<b>WhoselsThat: finding software engineers with codebook.</b> 381-382<small><a href="http://doi.acm.org/10.1145/1882291.1882359"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/BegelKZ10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/BegelKZ10.xml">XML</a></small></small></li>
+<li id="WinbladhZR10"><a href="http://dblp.uni-trier.de/pers/hc/w/Winbladh:Kristina">Kristina Winbladh</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Ziv:Hadar">Hadar Ziv</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Richardson:Debra_J=">Debra J. Richardson</a>:<b>iMuse: interactive model-based use-case and storytelling environment.</b> 383-384<small><a href="http://doi.acm.org/10.1145/1882291.1882360"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/WinbladhZR10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/WinbladhZR10.xml">XML</a></small></small></li>
+<li id="HuangLZ10a"><a href="http://dblp.uni-trier.de/pers/hc/h/Huang_0001:Jeff">Jeff Huang</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Liu_0010:Peng">Peng Liu</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Charles">Charles Zhang</a>:<b>LEAP: lightweight deterministic multi-processor replay of concurrent java programs.</b> 385-386<small><a href="http://doi.acm.org/10.1145/1882291.1882361"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/sigsoft/HuangLZ10a.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/sigsoft/HuangLZ10a.xml">XML</a></small></small></li>
+</ul>
+</dblp>

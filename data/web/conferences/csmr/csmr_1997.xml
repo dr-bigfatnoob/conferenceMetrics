@@ -1,0 +1,116 @@
+<dblp>
+    <h2>Methodology</h2>
+ 
+
+<ul>
+<li id="JarzabekW97"><a href="http://dblp.uni-trier.de/pers/hc/j/Jarzabek:Stan">Stan Jarzabek</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Woon:Irene">Irene Woon</a>:<b>Towards a precise description of reverse engineering methods and tools.</b> 3-9<small><a href="http://dx.doi.org/10.1109/CSMR.1997.582995"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/JarzabekW97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/JarzabekW97.xml">XML</a></small></small></li>
+<li id="FranchB97"><a href="http://dblp.uni-trier.de/pers/hc/f/Franch:Xavier">Xavier Franch</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Botella:Pere">Pere Botella</a>:<b>Supporting software maintenance with non-functional information.</b> 10-16<small><a href="http://dx.doi.org/10.1109/CSMR.1997.582996"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/FranchB97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/FranchB97.xml">XML</a></small></small></li>
+<li id="KutschaHK97"><a href="http://dblp.uni-trier.de/pers/hc/k/Kutscha:Sebastian">Sebastian Kutscha</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Henning:Klaus">Klaus Henning</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kesselmeier:Horst">Horst Kesselmeier</a>:<b>The Task Artifact Cycle: a Conceptual Approach to Maintenance and Reengineering.</b> 17-19<small><a href="http://dx.doi.org/10.1109/CSMR.1997.582997"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/KutschaHK97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/KutschaHK97.xml">XML</a></small></small></li>
+<li id="KoelschW97"><a href="http://dblp.uni-trier.de/pers/hc/k/K=ouml=lsch:Ulrike">Ulrike K&#246;lsch</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wallrath:Mechtild">Mechtild Wallrath</a>:<b>A Process Model for Controlling and Performing Re-Engineering Tasks.</b> 20-24<small><a href="http://dx.doi.org/10.1109/CSMR.1997.582998"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/KoelschW97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/KoelschW97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Configuration Management</h2>
+ 
+
+<ul>
+<li id="Schwille97"><a href="http://dblp.uni-trier.de/pers/hc/s/Schwille:J=uuml=rgen">J&#252;rgen Schwille</a>:<b>Modeling product and process characteristics in software configuration management.</b> 25-32<small><a href="http://dx.doi.org/10.1109/CSMR.1997.582999"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Schwille97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Schwille97.xml">XML</a></small></small></li>
+<li id="Kilpi97"><a href="http://dblp.uni-trier.de/pers/hc/k/Kilpi:Tapani">Tapani Kilpi</a>:<b>New Challenges for Version Control and Configuration Management: a Framework and Evaluation.</b> 33-42<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583000"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Kilpi97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Kilpi97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Formal Methods</h2>
+ 
+
+<ul>
+<li id="Lowe97"><a href="http://dblp.uni-trier.de/pers/hc/l/L=ouml=we:Michael">Michael L&#246;we</a>:<b>Formal Methods.</b> 43<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583002"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Lowe97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Lowe97.xml">XML</a></small></small></li>
+<li id="Favre97"><a href="http://dblp.uni-trier.de/pers/hc/f/Favre:Jean=Marie">Jean-Marie Favre</a>:<b>A Rigorous Approach to Support the Maintenance of Large Portable Software.</b> 44-47<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583003"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Favre97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Favre97.xml">XML</a></small></small></li>
+<li id="Michael97"><a href="http://dblp.uni-trier.de/pers/hc/m/Michael:Christoph_C=">Christoph C. Michael</a>:<b>Using evolution constraints to assess the failure-proneness of evolving software.</b> 48-53<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583004"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Michael97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Michael97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Analysis I</h2>
+ 
+
+<ul>
+<li id="MendoncaK97"><a href="http://dblp.uni-trier.de/pers/hc/m/Mendon=ccedil=a:Nabor_C=">Nabor C. Mendon&#231;a</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kramer:Jeff">Jeff Kramer</a>:<b>A Quality-Based Analysis of Architecture Recovery Environments.</b> 54-59<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583006"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/MendoncaK97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/MendoncaK97.xml">XML</a></small></small></li>
+<li id="TonellaAFM97"><a href="http://dblp.uni-trier.de/pers/hc/t/Tonella:Paolo">Paolo Tonella</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fiutem:Roberto">Roberto Fiutem</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Merlo:Ettore">Ettore Merlo</a>:<b>Variable Precision Reaching Definitions Analysis for Software Maintenance.</b> 60-67<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583007"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/TonellaAFM97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/TonellaAFM97.xml">XML</a></small></small></li>
+<li id="Rajlich97"><a href="http://dblp.uni-trier.de/pers/hc/r/Rajlich:Vaclav">Vaclav Rajlich</a>:<b>Incremental Redocumentation with Hypertext.</b> 68-73<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583009"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Rajlich97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Rajlich97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Analysis II</h2>
+ 
+
+<ul>
+<li id="DumkeW97"><a href="http://dblp.uni-trier.de/pers/hc/d/Dumke:Reiner_R=">Reiner R. Dumke</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Winkler:Achim_S=">Achim S. Winkler</a>:<b>CAME Tools for an Efficient Software Maintenance.</b> 74-81<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583011"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/DumkeW97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/DumkeW97.xml">XML</a></small></small></li>
+<li id="FriedrichW97"><a href="http://dblp.uni-trier.de/pers/hc/f/Friedrich:Horst">Horst Friedrich</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Witschurke:Reiner">Reiner Witschurke</a>:<b>The FAPU Workbench.</b> 82-88<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583012"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/FriedrichW97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/FriedrichW97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Keynote Session 2</h2>
+ 
+
+<ul>
+<li id="Kisting97"><a href="http://dblp.uni-trier.de/pers/hc/k/Kisting:Josef">Josef Kisting</a>:<b>The challenge of the Year 2000 problem.</b> 89-92<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583013"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Kisting97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Kisting97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Year 2000 I</h2>
+ 
+
+<ul>
+<li id="Nesi97"><a href="http://dblp.uni-trier.de/pers/hc/n/Nesi:Paolo">Paolo Nesi</a>:<b>Year 2000.</b> 93<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583014"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Nesi97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Nesi97.xml">XML</a></small></small></li>
+<li id="MullerG97"><a href="http://dblp.uni-trier.de/pers/hc/m/M=uuml=ller:Bernd">Bernd M&#252;ller</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gimnich:Rainer">Rainer Gimnich</a>:<b>Planning Year 2000 transformations using standard tools: an experience report.</b> 94-100<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583015"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/MullerG97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/MullerG97.xml">XML</a></small></small></li>
+<li id="Ory97"><a href="http://dblp.uni-trier.de/pers/hc/=/=Ouml=ry:Zsolt">Zsolt &#214;ry</a>:<b>A theory driven approach to century change.</b> 101-105<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583016"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Ory97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Ory97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Year 2000 II</h2>
+ 
+
+<ul>
+<li id="Aebi97"><a href="http://dblp.uni-trier.de/pers/hc/a/Aebi:Daniel">Daniel Aebi</a>:<b>A process model for re-engineering, migration and multi-use of business data.</b> 106-113<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583018"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Aebi97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Aebi97.xml">XML</a></small></small></li>
+<li id="Allegra97"><a href="http://dblp.uni-trier.de/pers/hc/a/Allegra:Joseph">Joseph Allegra</a>:<b>Overlooked issues of the Year 2000 upgrade.</b> 114-118<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583019"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Allegra97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Allegra97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Case Studies</h2>
+ 
+
+<ul>
+<li id="Sneed97"><a href="http://dblp.uni-trier.de/pers/hc/s/Sneed:Harry_M=">Harry M. Sneed</a>:<b>Measuring the performance of a software maintenance department.</b> 119-127<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583020"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Sneed97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Sneed97.xml">XML</a></small></small></li>
+<li id="PidaparthiC97"><a href="http://dblp.uni-trier.de/pers/hc/p/Pidaparthi:Sagar">Sagar Pidaparthi</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cysewski:Grzegorz">Grzegorz Cysewski</a>:<b>Case Study in Migration to Object-Oriented System Structure Using Design Transformation Methods.</b> 128-135<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583021"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/PidaparthiC97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/PidaparthiC97.xml">XML</a></small></small></li>
+<li id="Holl97"><a href="http://dblp.uni-trier.de/pers/hc/h/Holl:Burkhard">Burkhard Holl</a>:<b>A Software Configuration Management System for the Maintenance of Nuclear Power Plant Simulators.</b> 136-139<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583022"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Holl97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Holl97.xml">XML</a></small></small></li>
+<li id="Meltz97"><a href="http://dblp.uni-trier.de/pers/hc/m/Meltz:Peter">Peter Meltz</a>:<b>Assessment of the options for Hardware-/Software-Reengineering of two KSG/GfS Full-Scope-Simulators.</b> 140-143<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583024"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Meltz97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Meltz97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Migration of User Interfaces</h2>
+ 
+
+<ul>
+<li id="ClassenHMS97"><a href="http://dblp.uni-trier.de/pers/hc/c/Cla=szlig=en:Ingo">Ingo Cla&#223;en</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hennig:Klaus">Klaus Hennig</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mohr:Ingo">Ingo Mohr</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schulz:Michael">Michael Schulz</a>:<b>CUI to GUI Migration: Static Analysis of Character-Based Panels.</b> 144-149<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583026"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/ClassenHMS97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/ClassenHMS97.xml">XML</a></small></small></li>
+<li id="Csaba97"><a href="http://dblp.uni-trier.de/pers/hc/c/Csaba:L=aacute=szl=oacute=">L&#225;szl&#243; Csaba</a>:<b>Experience with User Interface Reengineering Transferring DOS Panels to Windows.</b> 150-156<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583028"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Csaba97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Csaba97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Object-Oriented-Reuse</h2>
+ 
+
+<ul>
+<li id="FantechiNS97"><a href="http://dblp.uni-trier.de/pers/hc/f/Fantechi:Alessandro">Alessandro Fantechi</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nesi:Paolo">Paolo Nesi</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Somma:E=">E. Somma</a>:<b>Object-Oriented Analysis of COBOL.</b> 157-164<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583029"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/FantechiNS97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/FantechiNS97.xml">XML</a></small></small></li>
+<li id="LucasSM97"><a href="http://dblp.uni-trier.de/pers/hc/l/Lucas:Carine">Carine Lucas</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Steyaert:Patrick">Patrick Steyaert</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mens:Kim">Kim Mens</a>:<b>Managing Software Evolution through Reuse Contracts.</b> 165-170<small><a href="http://dx.doi.org/10.1109/CSMR.1997.583032"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/LucasSM97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/LucasSM97.xml">XML</a></small></small></li>
+</ul>
+
+</dblp>

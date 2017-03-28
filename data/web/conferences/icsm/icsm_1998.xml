@@ -1,0 +1,164 @@
+<dblp>
+    <h2>Models I</h2>
+ 
+
+<ul>
+<li id="OhlssonW98"><a href="http://dblp.uni-trier.de/pers/hc/o/Ohlsson:Magnus_C=">Magnus C. Ohlsson</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wohlin:Claes">Claes Wohlin</a>:<b>Identification of Green, Yellow and Red Legacy Components.</b> 6-15<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738484"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/OhlssonW98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/OhlssonW98.xml">XML</a></small></small></li>
+<li id="OcaC98"><a href="http://dblp.uni-trier.de/pers/hc/o/Oca:Carlos_Montes_de">Carlos Montes de Oca</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Carver:Doris_L=">Doris L. Carver</a>:<b>Identification of Data Cohesive Subsystems Using Data Mining Techniques.</b> 16-23<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738485"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/OcaC98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/OcaC98.xml">XML</a></small></small></li>
+<li id="MunsonE98"><a href="http://dblp.uni-trier.de/pers/hc/m/Munson:John_C=">John C. Munson</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Elbaum:Sebastian_G=">Sebastian G. Elbaum</a>:<b>Code Churn: A Measure for Estimating the Impact of Code Change.</b> 24-<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738486"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/MunsonE98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/MunsonE98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Empirical Studies I</h2>
+ 
+
+<ul>
+<li id="RothermelHOH98"><a href="http://dblp.uni-trier.de/pers/hc/r/Rothermel:Gregg">Gregg Rothermel</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harrold:Mary_Jean">Mary Jean Harrold</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Ostrin:Jeffery">Jeffery Ostrin</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hong:Christie">Christie Hong</a>:<b>An Empirical Study of the Effects of Minimization on the Fault Detection Capabilities of Test Suites.</b> 34-43<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738487"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/RothermelHOH98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/RothermelHOH98.xml">XML</a></small></small></li>
+<li id="VokolosF98"><a href="http://dblp.uni-trier.de/pers/hc/v/Vokolos:Filippos_I=">Filippos I. Vokolos</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Frankl:Phyllis_G=">Phyllis G. Frankl</a>:<b>Empirical Evaluation of the Textual Differencing Regression Testing Technique.</b> 44-53<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738488"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/VokolosF98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/VokolosF98.xml">XML</a></small></small></li>
+<li id="LindvallR98"><a href="http://dblp.uni-trier.de/pers/hc/l/Lindvall:Mikael">Mikael Lindvall</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Runesson:Magnus">Magnus Runesson</a>:<b>The Visibility of Maintenance in Object Models: An Empirical Study.</b> 54-<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738489"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/LindvallR98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/LindvallR98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Panel</h2>
+ 
+
+<ul>
+<li id="JonesKMPS98"><a href="http://dblp.uni-trier.de/pers/hc/j/Jones:Wendell_D=">Wendell D. Jones</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Khoshgoftaar:Taghi_M=">Taghi M. Khoshgoftaar</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Munson:John_C=">John C. Munson</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pearse:T=_Troy">T. Troy Pearse</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stark:George_E=">George E. Stark</a>:<b>Hitting the Moving Target: Trials and Tribulations of Modeling Quality in Evolving Software Systems.</b> 66-67<small><a href="http://doi.ieeecomputersociety.org/10.1109/ICSM.1998.10001"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/JonesKMPS98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/JonesKMPS98.xml">XML</a></small></small></li>
+<li id="KhoshgoftaarA98"><a href="http://dblp.uni-trier.de/pers/hc/k/Khoshgoftaar:Taghi_M=">Taghi M. Khoshgoftaar</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Allen:Edward_B=">Edward B. Allen</a>:<b>Can a Software Quality Model Hit a Moving Target?</b> 68-70<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738491"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/KhoshgoftaarA98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/KhoshgoftaarA98.xml">XML</a></small></small></li>
+<li id="Munson98"><a href="http://dblp.uni-trier.de/pers/hc/m/Munson:John_C=">John C. Munson</a>:<b>Some Comments on the Software Measurement Process.</b> 71<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738492"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Munson98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Munson98.xml">XML</a></small></small></li>
+<li id="Pearse98"><a href="http://dblp.uni-trier.de/pers/hc/p/Pearse:T=_Troy">T. Troy Pearse</a>:<b>Using Software Metrics to Control Firmware Evolution.</b> 72-73<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738493"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Pearse98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Pearse98.xml">XML</a></small></small></li>
+<li id="Stark98"><a href="http://dblp.uni-trier.de/pers/hc/s/Stark:George_E=">George E. Stark</a>:<b>Modeling Process and Product Quality during Maintenance.</b> 74-<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738494"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Stark98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Stark98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Empirical Studies II</h2>
+ 
+
+<ul>
+<li id="NiessinkV98"><a href="http://dblp.uni-trier.de/pers/hc/n/Niessink:Frank">Frank Niessink</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vliet:Hans_van">Hans van Vliet</a>:<b>Two Case Studies in Measuring Software Maintenance Effort.</b> 76-85<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738495"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/NiessinkV98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/NiessinkV98.xml">XML</a></small></small></li>
+<li id="SneedM98"><a href="http://dblp.uni-trier.de/pers/hc/s/Sneed:Harry_M=">Harry M. Sneed</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Majnar:Rudolf">Rudolf Majnar</a>:<b>A Case Study in Software Wrapping.</b> 86-93<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738496"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/SneedM98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/SneedM98.xml">XML</a></small></small></li>
+<li id="FiutemA98"><a href="http://dblp.uni-trier.de/pers/hc/f/Fiutem:Roberto">Roberto Fiutem</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>:<b>Identifying Design-Code Inconsistencies in Object-Oriented Software: A Case Study.</b> 94-<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738497"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/FiutemA98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/FiutemA98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Models II</h2>
+ 
+
+<ul>
+<li id="CalzolariTA98"><a href="http://dblp.uni-trier.de/pers/hc/c/Calzolari:F=">F. Calzolari</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tonella:Paolo">Paolo Tonella</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>:<b>Dynamic Model for Maintenance and Testing Effort.</b> 104-112<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738498"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/CalzolariTA98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/CalzolariTA98.xml">XML</a></small></small></li>
+<li id="KungH98"><a href="http://dblp.uni-trier.de/pers/hc/k/Kung:H==J=">H.-J. Kung</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hsu:C=">C. Hsu</a>:<b>Software Maintenance Life Cycle Model.</b> 113-121<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738499"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/KungH98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/KungH98.xml">XML</a></small></small></li>
+<li id="CimitileLL98"><a href="http://dblp.uni-trier.de/pers/hc/c/Cimitile:Aniello">Aniello Cimitile</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lucia:Andrea_De">Andrea De Lucia</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lucca:Giuseppe_A=_Di">Giuseppe A. Di Lucca</a>:<b>An Experiment in Identifying Persistent Objects in Large Systems.</b> 122-<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738500"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/CimitileLL98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/CimitileLL98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Experience Report</h2>
+ 
+
+<ul>
+<li id="VigderD98"><a href="http://dblp.uni-trier.de/pers/hc/v/Vigder:Mark_R=">Mark R. Vigder</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dean:John_C=">John C. Dean</a>:<b>Building Maintainable COTS Based Systems.</b> 132-138<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738501"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/VigderD98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/VigderD98.xml">XML</a></small></small></li>
+<li id="Singer98"><a href="http://dblp.uni-trier.de/pers/hc/s/Singer:Janice">Janice Singer</a>:<b>Practices of Software Maintenance.</b> 139-145<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738502"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Singer98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Singer98.xml">XML</a></small></small></li>
+<li id="FrenchL98"><a href="http://dblp.uni-trier.de/pers/hc/f/French:A=">A. French</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Layzell:Paul_J=">Paul J. Layzell</a>:<b>A Study of Communication and Cooperation in Distributed Software Project Teams.</b> 146-<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738503"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/FrenchL98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/FrenchL98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Keynote Address</h2>
+ 
+
+<ul>
+<li id="Voas98"><a href="http://dblp.uni-trier.de/pers/hc/v/Voas:Jeffrey_M=">Jeffrey M. Voas</a>:<b>Are COTS Products and Component Packaging Killing Software Malleability?</b> 156-<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738504"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Voas98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Voas98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>COTS</h2>
+ 
+
+<ul>
+<li id="CherinkaOR98"><a href="http://dblp.uni-trier.de/pers/hc/c/Cherinka:Robert">Robert Cherinka</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Overstreet:C=_Michael">C. Michael Overstreet</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ricci:J=">J. Ricci</a>:<b>Maintaining a COTS Integrated Solution - Are Traditional Static Analysis Techniques Sufficient for this New Programming Methodology?</b> 160-169<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738505"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/CherinkaOR98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/CherinkaOR98.xml">XML</a></small></small></li>
+<li id="Hissam98"><a href="http://dblp.uni-trier.de/pers/hc/h/Hissam:Scott_A=">Scott A. Hissam</a>:<b>Experience Report: Correcting System Failure in a COTS Information System.</b> 170-176<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738506"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Hissam98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Hissam98.xml">XML</a></small></small></li>
+<li id="HallHW98"><a href="http://dblp.uni-trier.de/pers/hc/h/Hall:Richard_S=">Richard S. Hall</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Heimbigner:Dennis">Dennis Heimbigner</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wolf:Alexander_L=">Alexander L. Wolf</a>:<b>Evaluating Software Deployment Languages and Schema.</b> 177-<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738507"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/HallHW98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/HallHW98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Evolution</h2>
+ 
+
+<ul>
+<li id="GallHJ98"><a href="http://dblp.uni-trier.de/pers/hc/g/Gall:Harald_C=">Harald C. Gall</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hajek:Karin">Karin Hajek</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jazayeri:Mehdi">Mehdi Jazayeri</a>:<b>Detection of Logical Coupling Based on Product Release History.</b> 190-197<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738508"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/GallHJ98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/GallHJ98.xml">XML</a></small></small></li>
+<li id="BurdM98"><a href="http://dblp.uni-trier.de/pers/hc/b/Burd:Elizabeth">Elizabeth Burd</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Munro:Malcolm">Malcolm Munro</a>:<b>Investigating Component-Based Maintenance and the Effect of Software Evolution: A Reengineering Approach Using Data Clustering.</b> 199-207<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738509"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/BurdM98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/BurdM98.xml">XML</a></small></small></li>
+<li id="LehmanPR98"><a href="http://dblp.uni-trier.de/pers/hc/l/Lehman:M=_M=">M. M. Lehman</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Perry:Dewayne_E=">Dewayne E. Perry</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ramil:Juan_F=">Juan F. Ramil</a>:<b>Implications of Evolution Metrics on Software Maintenance.</b> 208-<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738510"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/LehmanPR98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/LehmanPR98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Panel</h2>
+ 
+
+<ul>
+<li id="VoasLBS98"><a href="http://dblp.uni-trier.de/pers/hc/v/Voas:Jeffrey_M=">Jeffrey M. Voas</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lehman:M=_M=">M. M. Lehman</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Briand:Lionel_C=">Lionel C. Briand</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schneidewind:Norman_F=">Norman F. Schneidewind</a>:<b>Maintaining COTS-Based Systems: Is it Possible? (Panel).</b> 220-221<small><a href="http://doi.ieeecomputersociety.org/10.1109/ICSM.1998.10002"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/VoasLBS98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/VoasLBS98.xml">XML</a></small></small></li>
+<li id="Briand98"><a href="http://dblp.uni-trier.de/pers/hc/b/Briand:Lionel_C=">Lionel C. Briand</a>:<b>COTS Evaluation and Selection.</b> 222-223<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738512"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Briand98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Briand98.xml">XML</a></small></small></li>
+<li id="Schneidewind98"><a href="http://dblp.uni-trier.de/pers/hc/s/Schneidewind:Norman_F=">Norman F. Schneidewind</a>:<b>Methods for Assessing COTS Reliability, Maintainability, and Availability.</b> 224-<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738513"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Schneidewind98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Schneidewind98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Reengineering I</h2>
+ 
+
+<ul>
+<li id="CifuentesSF98"><a href="http://dblp.uni-trier.de/pers/hc/c/Cifuentes:Cristina">Cristina Cifuentes</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Simon:Doug">Doug Simon</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fraboulet:Antoine">Antoine Fraboulet</a>:<b>Assembly to High-Level Language Translation.</b> 228-237<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738514"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/CifuentesSF98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/CifuentesSF98.xml">XML</a></small></small></li>
+<li id="FantaR98"><a href="http://dblp.uni-trier.de/pers/hc/f/Fanta:Richard">Richard Fanta</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rajlich:V=aacute=clav">V&#225;clav Rajlich</a>:<b>Reengineering Object-Oriented Code.</b> 238-246<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738515"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/FantaR98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/FantaR98.xml">XML</a></small></small></li>
+<li id="Bennett98"><a href="http://dblp.uni-trier.de/pers/hc/b/Bennett:Keith_H=">Keith H. Bennett</a>:<b>Do Program Transformations Help Reverse Engineering?</b> 247-<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738516"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Bennett98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Bennett98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Process</h2>
+ 
+
+<ul>
+<li id="BasiliLS98"><a href="http://dblp.uni-trier.de/pers/hc/b/Basili:Victor_R=">Victor R. Basili</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lanubile:Filippo">Filippo Lanubile</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Shull:Forrest">Forrest Shull</a>:<b>Investigating Maintenance Processes in a Framework-Based Environment.</b> 256-264<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738517"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/BasiliLS98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/BasiliLS98.xml">XML</a></small></small></li>
+<li id="SousaM98"><a href="http://dblp.uni-trier.de/pers/hc/s/Sousa:Maria_Joao_C=">Maria Joao C. Sousa</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Moreira:H=_M=">H. M. Moreira</a>:<b>A Survey on the Software Maintenance Process.</b> 265-274<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738518"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/SousaM98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/SousaM98.xml">XML</a></small></small></li>
+<li id="RamageB98"><a href="http://dblp.uni-trier.de/pers/hc/r/Ramage:Magnus">Magnus Ramage</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bennett:Keith_H=">Keith H. Bennett</a>:<b>Maintaining Maintainability.</b> 275-<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738519"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/RamageB98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/RamageB98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Reengineering II</h2>
+ 
+
+<ul>
+<li id="YangLZ98"><a href="http://dblp.uni-trier.de/pers/hc/y/Yang:Hongji">Hongji Yang</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Liu:Xiaodong">Xiaodong Liu</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zedan:Hussein">Hussein Zedan</a>:<b>Tackling the Abstraction Problem for Reverse Engineering in a System Re-engineering Approach.</b> 284-293<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738520"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/YangLZ98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/YangLZ98.xml">XML</a></small></small></li>
+<li id="HutchinsG98"><a href="http://dblp.uni-trier.de/pers/hc/h/Hutchins:Matthew_A=">Matthew A. Hutchins</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gallagher:Keith">Keith Gallagher</a>:<b>Improving Visual Impact Analysis.</b> 294-303<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738521"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/HutchinsG98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/HutchinsG98.xml">XML</a></small></small></li>
+<li id="Castelli98"><a href="http://dblp.uni-trier.de/pers/hc/c/Castelli:Donatella">Donatella Castelli</a>:<b>Reuse in Replaying Database Design.</b> 304-<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738522"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Castelli98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Castelli98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Understanding</h2>
+ 
+
+<ul>
+<li id="MayrhauserV98"><a href="http://dblp.uni-trier.de/pers/hc/m/Mayrhauser:Anneliese_von">Anneliese von Mayrhauser</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vans:A=_Marie">A. Marie Vans</a>:<b>Program Understanding During Software Adaptation Tasks.</b> 316-325<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738523"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/MayrhauserV98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/MayrhauserV98.xml">XML</a></small></small></li>
+<li id="Tonella98"><a href="http://dblp.uni-trier.de/pers/hc/t/Tonella:Paolo">Paolo Tonella</a>:<b>Using the O-A Diagram to Encapsulate Dynamic Memory Access.</b> 326-335<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738524"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/Tonella98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/Tonella98.xml">XML</a></small></small></li>
+<li id="HarmanSD98"><a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sivagurunathan:Yoga">Yoga Sivagurunathan</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Danicic:Sebastian">Sebastian Danicic</a>:<b>Analysis of Dynamic Memory Access Using Amorphous Slicing.</b> 336-<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738525"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/HarmanSD98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/HarmanSD98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Analysis</h2>
+ 
+
+<ul>
+<li id="SinhaH98"><a href="http://dblp.uni-trier.de/pers/hc/s/Sinha:Saurabh">Saurabh Sinha</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harrold:Mary_Jean">Mary Jean Harrold</a>:<b>Analysis of Programs with Exception-Handling Constructs.</b> 348-357<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738526"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/SinhaH98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/SinhaH98.xml">XML</a></small></small></li>
+<li id="LiangH98"><a href="http://dblp.uni-trier.de/pers/hc/l/Liang:Donglin">Donglin Liang</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harrold:Mary_Jean">Mary Jean Harrold</a>:<b>Slicing Objects Using System Dependence Graphs.</b> 358-367<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738527"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/LiangH98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/LiangH98.xml">XML</a></small></small></li>
+<li id="BaxterYMSB98"><a href="http://dblp.uni-trier.de/pers/hc/b/Baxter:Ira_D=">Ira D. Baxter</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yahin:Andrew">Andrew Yahin</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Moura:Leonardo_Mendon=ccedil=a_de">Leonardo Mendon&#231;a de Moura</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sant=Anna:Marcelo">Marcelo Sant'Anna</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bier:Lorraine">Lorraine Bier</a>:<b>Clone Detection Using Abstract Syntax Trees.</b> 368-377<small><a href="http://dx.doi.org/10.1109/ICSM.1998.738528"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icsm/BaxterYMSB98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icsm/BaxterYMSB98.xml">XML</a></small></small></li>
+</ul>
+</dblp>

@@ -1,0 +1,67 @@
+<dblp>
+    
+
+<h2>Slicing</h2>
+ 
+
+<ul>
+<li id="BinkleyH05"><a href="http://dblp.uni-trier.de/pers/hc/b/Binkley:David">David Binkley</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>:<b>Forward slices are smaller than backward slices.</b> 15-24<small><a href="http://dx.doi.org/10.1109/SCAM.2005.28"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/BinkleyH05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/BinkleyH05.xml">XML</a></small></small></li>
+<li id="HongLS05"><a href="http://dblp.uni-trier.de/pers/hc/h/Hong:Hyoung_Seok">Hyoung Seok Hong</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lee:Insup">Insup Lee</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sokolsky:Oleg">Oleg Sokolsky</a>:<b>Abstract Slicing: A New Approach to Program Slicing Based on Abstract Interpretation and Model Checking.</b> 25-34<small><a href="http://dx.doi.org/10.1109/SCAM.2005.2"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/HongLS05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/HongLS05.xml">XML</a></small></small></li>
+<li id="SzegediG05"><a href="http://dblp.uni-trier.de/pers/hc/s/Szegedi:Attila">Attila Szegedi</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gyim=oacute=thy:Tibor">Tibor Gyim&#243;thy</a>:<b>Dynamic Slicing of Java Bytecode Programs.</b> 35-44<small><a href="http://dx.doi.org/10.1109/SCAM.2005.8"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/SzegediG05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/SzegediG05.xml">XML</a></small></small></li>
+<li id="BinkleyDGHKK05"><a href="http://dblp.uni-trier.de/pers/hc/b/Binkley:David">David Binkley</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Danicic:Sebastian">Sebastian Danicic</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gyim=oacute=thy:Tibor">Tibor Gyim&#243;thy</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kiss_0001:=Aacute=kos">&#193;kos Kiss</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Korel:Bogdan">Bogdan Korel</a>:<b>Minimal Slicing and the Relationships Between Forms of Slicing.</b> 45-56<small><a href="http://dx.doi.org/10.1109/SCAM.2005.18"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/BinkleyDGHKK05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/BinkleyDGHKK05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Concept Location</h2>
+ 
+
+<ul>
+<li id="Breu05"><a href="http://dblp.uni-trier.de/pers/hc/b/Breu:Silvia">Silvia Breu</a>:<b>Extending Dynamic Aspect Mining with Static Information.</b> 57-65<small><a href="http://dx.doi.org/10.1109/SCAM.2005.9"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Breu05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Breu05.xml">XML</a></small></small></li>
+<li id="FluriGP05"><a href="http://dblp.uni-trier.de/pers/hc/f/Fluri:Beat">Beat Fluri</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gall:Harald_C=">Harald C. Gall</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pinzger:Martin">Martin Pinzger</a>:<b>Fine-Grained Analysis of Change Couplings.</b> 66-74<small><a href="http://dx.doi.org/10.1109/SCAM.2005.14"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/FluriGP05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/FluriGP05.xml">XML</a></small></small></li>
+<li id="Singer05"><a href="http://dblp.uni-trier.de/pers/hc/s/Singer:Jeremy">Jeremy Singer</a>:<b>Concept Assignment as a Debugging Technique for Code Generators.</b> 75-86<small><a href="http://dx.doi.org/10.1109/SCAM.2005.4"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Singer05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Singer05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Transformations I</h2>
+ 
+
+<ul>
+<li id="ZhangBCD05"><a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Hongyu">Hongyu Zhang</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bradbury:Jeremy_S=">Jeremy S. Bradbury</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cordy:James_R=">James R. Cordy</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dingel:J=uuml=rgen">J&#252;rgen Dingel</a>:<b>Implementation and Verification of Implicit-Invocation Systems Using Source Transformation.</b> 87-96<small><a href="http://dx.doi.org/10.1109/SCAM.2005.15"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/ZhangBCD05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/ZhangBCD05.xml">XML</a></small></small></li>
+<li id="SchordanQ05"><a href="http://dblp.uni-trier.de/pers/hc/s/Schordan:Markus">Markus Schordan</a>, <a href="http://dblp.uni-trier.de/pers/hc/q/Quinlan:Daniel_J=">Daniel J. Quinlan</a>:<b>Specifying Transformation Sequences as Computation on Program Fragments with an Abstract Attribute Grammar.</b> 97-106<small><a href="http://dx.doi.org/10.1109/SCAM.2005.23"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/SchordanQ05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/SchordanQ05.xml">XML</a></small></small></li>
+<li id="BermudoKH05"><a href="http://dblp.uni-trier.de/pers/hc/b/Bermudo:Nerina">Nerina Bermudo</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Krall:Andreas">Andreas Krall</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Horspool:R=_Nigel">R. Nigel Horspool</a>:<b>Control Flow Graph Reconstruction for Assembly Language Programs with Delayed Instructions.</b> 107-118<small><a href="http://dx.doi.org/10.1109/SCAM.2005.6"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/BermudoKH05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/BermudoKH05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Pointer Analysis</h2>
+ 
+
+<ul>
+<li id="ShiN05"><a href="http://dblp.uni-trier.de/pers/hc/s/Shi:Aiwu">Aiwu Shi</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Naumovich:Gleb">Gleb Naumovich</a>:<b>Static Analysis for Computing Escapability and Mutability for Java Components.</b> 119-128<small><a href="http://dx.doi.org/10.1109/SCAM.2005.24"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/ShiN05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/ShiN05.xml">XML</a></small></small></li>
+<li id="JonesK05"><a href="http://dblp.uni-trier.de/pers/hc/j/Jones:Richard_E=">Richard E. Jones</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/King:Andy_C=">Andy C. King</a>:<b>A Fast Analysis for Thread-Local Garbage Collection with Dynamic Class Loading.</b> 129-138<small><a href="http://dx.doi.org/10.1109/SCAM.2005.1"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/JonesK05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/JonesK05.xml">XML</a></small></small></li>
+<li id="BussEYW05"><a href="http://dblp.uni-trier.de/pers/hc/b/Buss:Marcio">Marcio Buss</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Edwards:Stephen_A=">Stephen A. Edwards</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yao:Bin">Bin Yao</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Waddington:Dan_G=">Dan G. Waddington</a>:<b>Pointer Analysis for Source-to-Source Transformations.</b> 139-150<small><a href="http://dx.doi.org/10.1109/SCAM.2005.20"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/BussEYW05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/BussEYW05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Empirical Studies</h2>
+ 
+
+<ul>
+<li id="EnglishBCL05"><a href="http://dblp.uni-trier.de/pers/hc/e/English:Michael">Michael English</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Buckley:Jim">Jim Buckley</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cahill:Tony">Tony Cahill</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lynch:Kristian">Kristian Lynch</a>:<b>Measuring the Impact of Friends on the Internal Attributes of Software Systems.</b> 151-160<small><a href="http://dx.doi.org/10.1109/SCAM.2005.16"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/EnglishBCL05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/EnglishBCL05.xml">XML</a></small></small></li>
+<li id="CounsellST05"><a href="http://dblp.uni-trier.de/pers/hc/c/Counsell:Steve">Steve Counsell</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Swift:Stephen">Stephen Swift</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tucker:Allan">Allan Tucker</a>:<b>Object-oriented cohesion as a surrogate of software comprehension: an empirical study.</b> 161-172<small><a href="http://dx.doi.org/10.1109/SCAM.2005.19"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/CounsellST05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/CounsellST05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Transformations II</h2>
+ 
+
+<ul>
+<li id="XuD05"><a href="http://dblp.uni-trier.de/pers/hc/x/Xu:Shannon">Shannon Xu</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dean:Thomas_R=">Thomas R. Dean</a>:<b>Transforming Embedded Java Code into Custom Tags.</b> 173-182<small><a href="http://dx.doi.org/10.1109/SCAM.2005.27"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/XuD05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/XuD05.xml">XML</a></small></small></li>
+<li id="PowerH05"><a href="http://dblp.uni-trier.de/pers/hc/p/Power:Bernadette">Bernadette Power</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hamilton:Geoff_W=">Geoff W. Hamilton</a>:<b>Declassification: Transforming Java Programs to Remove Intermediate Classes.</b> 183-192<small><a href="http://dx.doi.org/10.1109/SCAM.2005.7"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/PowerH05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/PowerH05.xml">XML</a></small></small></li>
+<li id="Anderson05"><a href="http://dblp.uni-trier.de/pers/hc/a/Anderson:Paul">Paul Anderson</a>:<b>The Performance Penalty of XML for Program Intermediate Representations.</b> 193-202<small><a href="http://dx.doi.org/10.1109/SCAM.2005.25"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Anderson05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Anderson05.xml">XML</a></small></small></li>
+</ul>
+</dblp>

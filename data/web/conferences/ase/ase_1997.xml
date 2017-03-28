@@ -1,0 +1,150 @@
+<dblp>
+    <h2>Synthesis I</h2>
+ 
+
+<ul>
+<li id="ArmandoSG97"><a href="http://dblp.uni-trier.de/pers/hc/a/Armando:Alessandro">Alessandro Armando</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Smaill:Alan">Alan Smaill</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Green:Ian">Ian Green</a>:<b>Automatic Synthesis of Recursive Programs: The Proof-Planning Paradigm.</b> 2-9<small><a href="http://dx.doi.org/10.1109/ASE.1997.632818"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/ArmandoSG97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/ArmandoSG97.xml">XML</a></small></small></li>
+<li id="Caldwell97"><a href="http://dblp.uni-trier.de/pers/hc/c/Caldwell:James_L=">James L. Caldwell</a>:<b>Moving Proofs-As-Programs into Practice.</b> 10-17<small><a href="http://dx.doi.org/10.1109/ASE.1997.632819"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Caldwell97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Caldwell97.xml">XML</a></small></small></li>
+<li id="SrivastavaKM97"><a href="http://dblp.uni-trier.de/pers/hc/s/Srivastava:Biplav">Biplav Srivastava</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kambhampati:Subbarao">Subbarao Kambhampati</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mali:Amol_Dattatraya">Amol Dattatraya Mali</a>:<b>A Structured Approach for Synthesizing Planners from Specifications.</b> 18-27<small><a href="http://dx.doi.org/10.1109/ASE.1997.632820"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/SrivastavaKM97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/SrivastavaKM97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Requirements and Process</h2>
+ 
+
+<ul>
+<li id="Sucrow97"><a href="http://dblp.uni-trier.de/pers/hc/s/Sucrow:Bettina">Bettina Sucrow</a>:<b>Formal Specification of Human-Computer Interaction by Graph Grammars under Consideration of Information Resources.</b> 28-35<small><a href="http://dx.doi.org/10.1109/ASE.1997.632821"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Sucrow97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Sucrow97.xml">XML</a></small></small></li>
+<li id="AmbriolaG97"><a href="http://dblp.uni-trier.de/pers/hc/a/Ambriola:Vincenzo">Vincenzo Ambriola</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gervasi:Vincenzo">Vincenzo Gervasi</a>:<b>Processing Natural Language Requirements.</b> 36-45<small><a href="http://dx.doi.org/10.1109/ASE.1997.632822"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/AmbriolaG97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/AmbriolaG97.xml">XML</a></small></small></li>
+<li id="Henninger97"><a href="http://dblp.uni-trier.de/pers/hc/h/Henninger:Scott">Scott Henninger</a>:<b>Tools Supporting the Creation and Evolution of Software Development Knowledge.</b> 46-<small><a href="http://dx.doi.org/10.1109/ASE.1997.632823"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Henninger97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Henninger97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Verification I</h2>
+ 
+
+<ul>
+<li id="GoguenLMRS97"><a href="http://dblp.uni-trier.de/pers/hc/g/Goguen:Joseph_A=">Joseph A. Goguen</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lin:Kai">Kai Lin</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mori:A=">A. Mori</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rosu:Grigore">Grigore Rosu</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sato:A=">A. Sato</a>:<b>Distributed Cooperative Formal Methods Tools.</b> 55-62<small><a href="http://dx.doi.org/10.1109/ASE.1997.632824"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/GoguenLMRS97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/GoguenLMRS97.xml">XML</a></small></small></li>
+<li id="Pecheur97"><a href="http://dblp.uni-trier.de/pers/hc/p/Pecheur:Charles">Charles Pecheur</a>:<b>Specification and Verification of the Co4 Distributed Knowledge System using LOTOS.</b> 63-70<small><a href="http://dx.doi.org/10.1109/ASE.1997.632825"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Pecheur97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Pecheur97.xml">XML</a></small></small></li>
+<li id="FenselS97"><a href="http://dblp.uni-trier.de/pers/hc/f/Fensel:Dieter">Dieter Fensel</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sch=ouml=negge:Arno">Arno Sch&#246;negge</a>:<b>Using KIV to Specify and Verify Architectures of Knowledge-Based Systems.</b> 71-<small><a href="http://dx.doi.org/10.1109/ASE.1997.632826"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/FenselS97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/FenselS97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Reverse Engineering I</h2>
+ 
+
+<ul>
+<li id="GirardKS97"><a href="http://dblp.uni-trier.de/pers/hc/g/Girard:Jean=Francois">Jean-Francois Girard</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Koschke:Rainer">Rainer Koschke</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schied:Georg">Georg Schied</a>:<b>A Metric-based Approach to Detect Abstract Data Types and State Encapsulations.</b> 82-89<small><a href="http://dx.doi.org/10.1109/ASE.1997.632827"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/GirardKS97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/GirardKS97.xml">XML</a></small></small></li>
+<li id="CohenF97"><a href="http://dblp.uni-trier.de/pers/hc/c/Cohen:Yossi">Yossi Cohen</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Feldman:Yishai_A=">Yishai A. Feldman</a>:<b>Automatic High-Quality Reengineering of Database Programs by Temporal Abstraction.</b> 90-97<small><a href="http://dx.doi.org/10.1109/ASE.1997.632828"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/CohenF97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/CohenF97.xml">XML</a></small></small></li>
+<li id="SwardH97"><a href="http://dblp.uni-trier.de/pers/hc/s/Sward:R=_R=">R. R. Sward</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hartrum:Thomas_C=">Thomas C. Hartrum</a>:<b>Extracting Objects from Legacy Imperative Code.</b> 98-<small><a href="http://dx.doi.org/10.1109/ASE.1997.632829"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/SwardH97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/SwardH97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Refinement</h2>
+ 
+
+<ul>
+<li id="DimitrakosM97"><a href="http://dblp.uni-trier.de/pers/hc/d/Dimitrakos:Theodosis">Theodosis Dimitrakos</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maibaum:T=_S=_E=">T. S. E. Maibaum</a>:<b>Notes on Refinement, Interpolation and Uniformity.</b> 108-116<small><a href="http://dx.doi.org/10.1109/ASE.1997.632830"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/DimitrakosM97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/DimitrakosM97.xml">XML</a></small></small></li>
+<li id="PautlerWQ97"><a href="http://dblp.uni-trier.de/pers/hc/p/Pautler:David">David Pautler</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Woods:Steven">Steven Woods</a>, <a href="http://dblp.uni-trier.de/pers/hc/q/Quilici:Alex">Alex Quilici</a>:<b>Exploiting Domain-Specific Knowledge to Refine Simulation Specifications.</b> 117-<small><a href="http://dx.doi.org/10.1109/ASE.1997.632831"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/PautlerWQ97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/PautlerWQ97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Understanding</h2>
+ 
+
+<ul>
+<li id="Welty97"><a href="http://dblp.uni-trier.de/pers/hc/w/Welty:Christopher_A=">Christopher A. Welty</a>:<b>Augmenting Abstract Syntax Trees for Program Understanding.</b> 126-133<small><a href="http://dx.doi.org/10.1109/ASE.1997.632832"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Welty97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Welty97.xml">XML</a></small></small></li>
+<li id="Ameur97"><a href="http://dblp.uni-trier.de/pers/hc/a/Ameur:Yamine_A=iuml=t">Yamine A&#239;t Ameur</a>:<b>A Contribution to Program Comprehension by Program Analysis: Application to Numerical Programs.</b> 134-142<small><a href="http://dx.doi.org/10.1109/ASE.1997.632833"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Ameur97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Ameur97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Synthesis II</h2>
+ 
+
+<ul>
+<li id="EdenYG97"><a href="http://dblp.uni-trier.de/pers/hc/e/Eden:Amnon_H=">Amnon H. Eden</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yehudai:Amiram">Amiram Yehudai</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gil:Joseph">Joseph Gil</a>:<b>Precise Specification and Automatic Application of Design Patterns.</b> 143-152<small><a href="http://dx.doi.org/10.1109/ASE.1997.632834"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/EdenYG97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/EdenYG97.xml">XML</a></small></small></li>
+<li id="FlenerLO97"><a href="http://dblp.uni-trier.de/pers/hc/f/Flener:Pierre">Pierre Flener</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lau:Kung=Kiu">Kung-Kiu Lau</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Ornaghi:Mario">Mario Ornaghi</a>:<b>Correct-Schema-Guided Synthesis of Steadfast Programs.</b> 153-<small><a href="http://dx.doi.org/10.1109/ASE.1997.632835"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/FlenerLO97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/FlenerLO97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Maintenance</h2>
+ 
+
+<ul>
+<li id="BlazyF97"><a href="http://dblp.uni-trier.de/pers/hc/b/Blazy:Sandrine">Sandrine Blazy</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Facon:Philippe">Philippe Facon</a>:<b>Application of Formal Methods to the Development of a Software Maintenance Tool.</b> 162-171<small><a href="http://dx.doi.org/10.1109/ASE.1997.632836"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/BlazyF97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/BlazyF97.xml">XML</a></small></small></li>
+<li id="Lerner97"><a href="http://dblp.uni-trier.de/pers/hc/l/Lerner:Barbara_Staudt">Barbara Staudt Lerner</a>:<b>TESS: Automated Support for the Evolution of Persistent Types.</b> 172-<small><a href="http://dx.doi.org/10.1109/ASE.1997.632837"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Lerner97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Lerner97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Architecture</h2>
+ 
+
+<ul>
+<li id="MarletTC97"><a href="http://dblp.uni-trier.de/pers/hc/m/Marlet:Renaud">Renaud Marlet</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Thibault:Scott">Scott Thibault</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Consel:Charles">Charles Consel</a>:<b>Mapping Software Architectures to Efficient Implementations via Partial Evaluation.</b> 183-192<small><a href="http://dx.doi.org/10.1109/ASE.1997.632838"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/MarletTC97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/MarletTC97.xml">XML</a></small></small></li>
+<li id="GomaaF97"><a href="http://dblp.uni-trier.de/pers/hc/g/Gomaa:Hassan">Hassan Gomaa</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Farrukh:Ghulam_A=">Ghulam A. Farrukh</a>:<b>Automated Configuration of Distributed Applications from Reusable Software Architectures.</b> 193-200<small><a href="http://dx.doi.org/10.1109/ASE.1997.632839"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/GomaaF97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/GomaaF97.xml">XML</a></small></small></li>
+<li id="PenixAH97"><a href="http://dblp.uni-trier.de/pers/hc/p/Penix:John">John Penix</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Alexander:Perry">Perry Alexander</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Havelund:Klaus">Klaus Havelund</a>:<b>Declarative Specification of Software Architectures.</b> 201-<small><a href="http://dx.doi.org/10.1109/ASE.1997.632840"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/PenixAH97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/PenixAH97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Reverse Engineering I</h2>
+ 
+
+<ul>
+<li id="SahraouiMLD97"><a href="http://dblp.uni-trier.de/pers/hc/s/Sahraoui:Houari_A=">Houari A. Sahraoui</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Melo:Walc=eacute=lio_L=">Walc&#233;lio L. Melo</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lounis:Hakim">Hakim Lounis</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dumont:F=">F. Dumont</a>:<b>Applying Concept Formation Methods to Object Identification in Procedural Code.</b> 210-218<small><a href="http://dx.doi.org/10.1109/ASE.1997.632841"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/SahraouiMLD97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/SahraouiMLD97.xml">XML</a></small></small></li>
+<li id="GannodC97"><a href="http://dblp.uni-trier.de/pers/hc/g/Gannod:Gerald_C=">Gerald C. Gannod</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cheng:Betty_H=_C=">Betty H. C. Cheng</a>:<b>A Formal Automated Approach for Reverse Engineering Programs with Pointers.</b> 219-226<small><a href="http://dx.doi.org/10.1109/ASE.1997.632842"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/GannodC97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/GannodC97.xml">XML</a></small></small></li>
+<li id="HarrisonB97"><a href="http://dblp.uni-trier.de/pers/hc/h/Harrison:John_V=">John V. Harrison</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Berglas:Anthony">Anthony Berglas</a>:<b>Data Flow Analysis within the ITOC Information System Design Recovery Tool.</b> 227-<small><a href="http://dx.doi.org/10.1109/ASE.1997.632843"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/HarrisonB97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/HarrisonB97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Reuse</h2>
+ 
+
+<ul>
+<li id="ChenC97"><a href="http://dblp.uni-trier.de/pers/hc/c/Chen:Yonghao">Yonghao Chen</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cheng:Betty_H=_C=">Betty H. C. Cheng</a>:<b>Facilitating an Automated Approach to Architecture-based Software Reuse.</b> 238-245<small><a href="http://dx.doi.org/10.1109/ASE.1997.632844"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/ChenC97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/ChenC97.xml">XML</a></small></small></li>
+<li id="SchumannF97"><a href="http://dblp.uni-trier.de/pers/hc/s/Schumann:Johann">Johann Schumann</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fischer_0002:Bernd">Bernd Fischer</a>:<b>NORA/HAMMR: Making Deduction-Based Software Component Retrieval Practical.</b> 246-254<small><a href="http://dx.doi.org/10.1109/ASE.1997.632845"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/SchumannF97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/SchumannF97.xml">XML</a></small></small></li>
+<li id="JilaniDFMM97"><a href="http://dblp.uni-trier.de/pers/hc/j/Jilani:Lamia_Labed">Lamia Labed Jilani</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Desharnais:Jules">Jules Desharnais</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Frappier:Marc">Marc Frappier</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mili:Rym">Rym Mili</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mili:Ali">Ali Mili</a>:<b>Retrieving Software Components that Minimize Adaptation Effort.</b> 255-<small><a href="http://dx.doi.org/10.1109/ASE.1997.632846"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/JilaniDFMM97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/JilaniDFMM97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Verification II</h2>
+ 
+
+<ul>
+<li id="Dwyer97"><a href="http://dblp.uni-trier.de/pers/hc/d/Dwyer:Matthew_B=">Matthew B. Dwyer</a>:<b>Modular Flow Analysis for Concurrent Software.</b> 264-273<small><a href="http://dx.doi.org/10.1109/ASE.1997.632847"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Dwyer97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Dwyer97.xml">XML</a></small></small></li>
+<li id="DevanbuS97"><a href="http://dblp.uni-trier.de/pers/hc/d/Devanbu:Premkumar_T=">Premkumar T. Devanbu</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stubblebine:Stuart_G=">Stuart G. Stubblebine</a>:<b>Research Directions for Automated Software Verification: Using Trusted Hardware.</b> 274-279<small><a href="http://dx.doi.org/10.1109/ASE.1997.632848"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/DevanbuS97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/DevanbuS97.xml">XML</a></small></small></li>
+<li id="MaharajB97"><a href="http://dblp.uni-trier.de/pers/hc/m/Maharaj:Savi">Savi Maharaj</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bicarregui:Juan">Juan Bicarregui</a>:<b>On the Verification of VDM Specification and Refinement with PVS.</b> 280-<small><a href="http://dx.doi.org/10.1109/ASE.1997.632849"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/MaharajB97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/MaharajB97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Short Papers</h2>
+ 
+
+<ul>
+<li id="Birk97"><a href="http://dblp.uni-trier.de/pers/hc/b/Birk_0001:Andreas">Andreas Birk</a>:<b>Modeling the Application Domains of Software Engineering Technologies.</b> 291-292<small><a href="http://dx.doi.org/10.1109/ASE.1997.632850"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Birk97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Birk97.xml">XML</a></small></small></li>
+<li id="Faison97"><a href="http://dblp.uni-trier.de/pers/hc/f/Faison:T=">T. Faison</a>:<b>Interactive Component-Based Software Development with Espresso.</b> 293-294<small><a href="http://dx.doi.org/10.1109/ASE.1997.632851"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Faison97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Faison97.xml">XML</a></small></small></li>
+<li id="FranceEG97"><a href="http://dblp.uni-trier.de/pers/hc/f/France:Robert_B=">Robert B. France</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Evett:Matthew_P=">Matthew P. Evett</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Grant:Emanuel_S=">Emanuel S. Grant</a>:<b>Towards Semantic-Based Object-Oriented CASE Tools.</b> 295-296<small><a href="http://dx.doi.org/10.1109/ASE.1997.632852"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/FranceEG97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/FranceEG97.xml">XML</a></small></small></li>
+<li id="Gaugne97"><a href="http://dblp.uni-trier.de/pers/hc/g/Gaugne:R=">R. Gaugne</a>:<b>A Static Analysis for Program Understanding and Debugging.</b> 297-298<small><a href="http://dx.doi.org/10.1109/ASE.1997.632853"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Gaugne97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Gaugne97.xml">XML</a></small></small></li>
+<li id="Hall97"><a href="http://dblp.uni-trier.de/pers/hc/h/Hall:Robert_J=">Robert J. Hall</a>:<b>Reactive System Validation using Automated Reasoning over a Fragment Library.</b> 299-300<small><a href="http://dx.doi.org/10.1109/ASE.1997.632854"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Hall97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Hall97.xml">XML</a></small></small></li>
+<li id="KrappW97"><a href="http://dblp.uni-trier.de/pers/hc/k/Krapp:Carl=Arndt">Carl-Arndt Krapp</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Westfechtel:Bernhard">Bernhard Westfechtel</a>:<b>Feedback Handling in Dynamic Task Nets.</b> 301-302<small><a href="http://dx.doi.org/10.1109/ASE.1997.632855"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/KrappW97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/KrappW97.xml">XML</a></small></small></li>
+<li id="LamJ97"><a href="http://dblp.uni-trier.de/pers/hc/l/Lam:Wing">Wing Lam</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jones:Sara">Sara Jones</a>:<b>Mechanising Requirements Engineering: Reuse and the Application of Domain Analysis Technology.</b> 303-304<small><a href="http://dx.doi.org/10.1109/ASE.1997.632856"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/LamJ97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/LamJ97.xml">XML</a></small></small></li>
+<li id="MatskinT97"><a href="http://dblp.uni-trier.de/pers/hc/m/Matskin:Mihhail">Mihhail Matskin</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tyugu:Enn">Enn Tyugu</a>:<b>Strategies of Structural Synthesis of Programs.</b> 305-306<small><a href="http://dx.doi.org/10.1109/ASE.1997.632857"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/MatskinT97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/MatskinT97.xml">XML</a></small></small></li>
+<li id="MichaelMSW97"><a href="http://dblp.uni-trier.de/pers/hc/m/Michael:Christoph_C=">Christoph C. Michael</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/McGraw_Jr=:Gary_E=">Gary E. McGraw Jr.</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schatz:Michael">Michael Schatz</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Walton:C=_C=">C. C. Walton</a>:<b>Genetic Algorithms for Dynamic Test Data Generation.</b> 307-308<small><a href="http://dx.doi.org/10.1109/ASE.1997.632858"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/MichaelMSW97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/MichaelMSW97.xml">XML</a></small></small></li>
+<li id="PunshonTSF97"><a href="http://dblp.uni-trier.de/pers/hc/p/Punshon:John_M=">John M. Punshon</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tremblay:J=_Paul">J. Paul Tremblay</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sorenson:Paul_G=">Paul G. Sorenson</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Findeisen:P=_S=">P. S. Findeisen</a>:<b>From Formal Specifications to Natural Language: A Case Study.</b> 309-310<small><a href="http://dx.doi.org/10.1109/ASE.1997.632859"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/PunshonTSF97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/PunshonTSF97.xml">XML</a></small></small></li>
+<li id="SetliffSM97"><a href="http://dblp.uni-trier.de/pers/hc/s/Setliff:Dorothy_E=">Dorothy E. Setliff</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Strosnider:Jay_K=">Jay K. Strosnider</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Madriz:Jose_A=">Jose A. Madriz</a>:<b>Towards a Design Assistant for Distributed Embedded Systems.</b> 311-312<small><a href="http://dx.doi.org/10.1109/ASE.1997.632860"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/SetliffSM97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/SetliffSM97.xml">XML</a></small></small></li>
+<li id="Tan97"><a href="http://dblp.uni-trier.de/pers/hc/t/Tan:Hee_Beng_Kuan">Hee Beng Kuan Tan</a>:<b>Enhancing the Component Reusability in Data-Intensive Business Programs through Interface Separation.</b> 313-314<small><a href="http://dx.doi.org/10.1109/ASE.1997.632861"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Tan97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Tan97.xml">XML</a></small></small></li>
+<li id="WangPS97"><a href="http://dblp.uni-trier.de/pers/hc/w/Wang:Chun=Chia">Chun-Chia Wang</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pai:Wen_C=">Wen C. Pai</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Shih:Timothy_K=">Timothy K. Shih</a>:<b>An Automated Object-Oriented Testing for C++ Inheritance Hierarchy.</b> 315-316<small><a href="http://dx.doi.org/10.1109/ASE.1997.632862"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/WangPS97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/WangPS97.xml">XML</a></small></small></li>
+<li id="WilliamsonH97"><a href="http://dblp.uni-trier.de/pers/hc/w/Williamson:Keith_E=">Keith E. Williamson</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Healy:Michael">Michael Healy</a>:<b>Formally Specifying Engineering Design Rationale.</b> 317-318<small><a href="http://dx.doi.org/10.1109/ASE.1997.632863"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/WilliamsonH97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/WilliamsonH97.xml">XML</a></small></small></li>
+<li id="Yamaguchi97"><a href="http://dblp.uni-trier.de/pers/hc/y/Yamaguchi:T=">T. Yamaguchi</a>:<b>Modeling Software Processes by using Process and Object Ontologies.</b> 319-320<small><a href="http://dx.doi.org/10.1109/ASE.1997.632864"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Yamaguchi97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Yamaguchi97.xml">XML</a></small></small></li>
+</ul>
+</dblp>

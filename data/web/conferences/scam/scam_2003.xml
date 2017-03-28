@@ -1,0 +1,68 @@
+<dblp>
+    <h2>Static Analysis</h2>
+ 
+
+<ul>
+<li id="PearceKH03"><a href="http://dblp.uni-trier.de/pers/hc/p/Pearce:David_J=">David J. Pearce</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kelly:Paul_H=_J=">Paul H. J. Kelly</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hankin:Chris">Chris Hankin</a>:<b>Online Cycle Detection and Difference Propagation for Pointer Analysis.</b> 3-12<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238026"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/PearceKH03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/PearceKH03.xml">XML</a></small></small></li>
+<li id="Martel03"><a href="http://dblp.uni-trier.de/pers/hc/m/Martel:Matthieu">Matthieu Martel</a>:<b>Improving the Static Analysis of Loops by Dynamic Partitioning Techniques.</b> 13-21<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238027"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Martel03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Martel03.xml">XML</a></small></small></li>
+<li id="Favre03"><a href="http://dblp.uni-trier.de/pers/hc/f/Favre:Jean=Marie">Jean-Marie Favre</a>:<b>CPP Denotational Semantics.</b> 22-<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238028"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Favre03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Favre03.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Object Oriented Code</h2>
+ 
+
+<ul>
+<li id="EnglishBC03"><a href="http://dblp.uni-trier.de/pers/hc/e/English:Michael">Michael English</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Buckley:Jim">Jim Buckley</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cahill:Tony">Tony Cahill</a>:<b>Applying Meyer's Taxonomy to Object-Oriented Software Systems.</b> 35-44<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238029"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/EnglishBC03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/EnglishBC03.xml">XML</a></small></small></li>
+<li id="WheeldonC03"><a href="http://dblp.uni-trier.de/pers/hc/w/Wheeldon:Richard">Richard Wheeldon</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Counsell:Steve">Steve Counsell</a>:<b>Power Law Distributions in Class Relationships.</b> 45-54<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238030"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/WheeldonC03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/WheeldonC03.xml">XML</a></small></small></li>
+<li id="WalkinshawRW03"><a href="http://dblp.uni-trier.de/pers/hc/w/Walkinshaw:Neil">Neil Walkinshaw</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roper:Marc">Marc Roper</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wood:Murray">Murray Wood</a>:<b>The Java System Dependence Graph.</b> 55-64<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238031"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/WalkinshawRW03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/WalkinshawRW03.xml">XML</a></small></small></li>
+<li id="BaggeKHV03"><a href="http://dblp.uni-trier.de/pers/hc/b/Bagge:Otto_Skrove">Otto Skrove Bagge</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kalleberg:Karl_Trygve">Karl Trygve Kalleberg</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Haveraaen:Magne">Magne Haveraaen</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Visser:Eelco">Eelco Visser</a>:<b>Design of the CodeBoost Transformation System for Domain-Specific Optimisation of C++ Programs.</b> 65-<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238032"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/BaggeKHV03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/BaggeKHV03.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Keynote</h2>
+ 
+
+<ul>
+<li id="Verhoef03"><a href="http://dblp.uni-trier.de/pers/hc/v/Verhoef:Chris">Chris Verhoef</a>:<b>Managing Multi-Billion Dollar IT Budgets using Source Code Analysis.</b> 77-<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238033"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Verhoef03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Verhoef03.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Slicing</h2>
+ 
+
+<ul>
+<li id="Krinke03"><a href="http://dblp.uni-trier.de/pers/hc/k/Krinke:Jens">Jens Krinke</a>:<b>Barrier Slicing and Chopping.</b> 81-87<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238034"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Krinke03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Krinke03.xml">XML</a></small></small></li>
+<li id="Ward03"><a href="http://dblp.uni-trier.de/pers/hc/w/Ward:Martin_P=">Martin P. Ward</a>:<b>Slicing the SCAM Mug: A Case Study in Semantic Slicing.</b> 88-97<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238035"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Ward03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Ward03.xml">XML</a></small></small></li>
+<li id="KulkarniR03"><a href="http://dblp.uni-trier.de/pers/hc/k/Kulkarni:Aditya_Rajeev">Aditya Rajeev Kulkarni</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ramesh:S=">S. Ramesh</a>:<b>Static Slicing of Reactive Programs.</b> 98-107<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238036"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/KulkarniR03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/KulkarniR03.xml">XML</a></small></small></li>
+<li id="UmemoriKYI03"><a href="http://dblp.uni-trier.de/pers/hc/u/Umemori:Fumiaki">Fumiaki Umemori</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Konda:Kenji">Kenji Konda</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yokomori:Reishi">Reishi Yokomori</a>, <a href="http://dblp.uni-trier.de/pers/hc/i/Inoue:Katsuro">Katsuro Inoue</a>:<b>Design and Implementation of Bytecode-based Java Slicing System.</b> 108-117<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238037"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/UmemoriKYI03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/UmemoriKYI03.xml">XML</a></small></small></li>
+<li id="KissJLG03"><a href="http://dblp.uni-trier.de/pers/hc/k/Kiss_0001:=Aacute=kos">&#193;kos Kiss</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/J=aacute=sz:Judit">Judit J&#225;sz</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lehotai:G=aacute=bor">G&#225;bor Lehotai</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gyim=oacute=thy:Tibor">Tibor Gyim&#243;thy</a>:<b>Interprocedural Static Slicing of Binary Executables.</b> 118-<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238038"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/KissJLG03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/KissJLG03.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Transformations</h2>
+ 
+
+<ul>
+<li id="MossienkoKASG03"><a href="http://dblp.uni-trier.de/pers/hc/m/Mossienko:Maxim">Maxim Mossienko</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Khaschansky:Oleg">Oleg Khaschansky</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antonov:Dmitriy">Dmitriy Antonov</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Smirnov:Oleg">Oleg Smirnov</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gubanov:Anton">Anton Gubanov</a>:<b>Towards managing environment dependence during legacy systems renovation and maintenance.</b> 131-140<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238039"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/MossienkoKASG03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/MossienkoKASG03.xml">XML</a></small></small></li>
+<li id="OlmosV03"><a href="http://dblp.uni-trier.de/pers/hc/o/Olmos:Karina">Karina Olmos</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Visser:Eelco">Eelco Visser</a>:<b>Turning Dynamic Typing into Static Typing by Program Specialization in a Compiler Front-end for Octave.</b> 141-150<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238040"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/OlmosV03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/OlmosV03.xml">XML</a></small></small></li>
+<li id="GuoCD03"><a href="http://dblp.uni-trier.de/pers/hc/g/Guo:Xinping">Xinping Guo</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cordy:James_R=">James R. Cordy</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dean:Thomas_R=">Thomas R. Dean</a>:<b>Unique Renaming of Java Using Source Transformation.</b> 151-160<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238041"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/GuoCD03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/GuoCD03.xml">XML</a></small></small></li>
+<li id="KortL03"><a href="http://dblp.uni-trier.de/pers/hc/k/Kort:Jan">Jan Kort</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/L=auml=mmel:Ralf">Ralf L&#228;mmel</a>:<b>Parse-Tree Annotations Meet Re-Engineering Concerns.</b> 161-<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238042"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/KortL03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/KortL03.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Tools and Techniques</h2>
+ 
+
+<ul>
+<li id="AntoniolPMV03"><a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Penta:Massimiliano_Di">Massimiliano Di Penta</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Masone:Gianluca">Gianluca Masone</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Villano:Umberto">Umberto Villano</a>:<b>XOgastan: XML-Oriented gcc AST Analysis and Transformations.</b> 173-182<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238043"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/AntoniolPMV03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/AntoniolPMV03.xml">XML</a></small></small></li>
+<li id="Leitao03"><a href="http://dblp.uni-trier.de/pers/hc/l/Leit=atilde=o:Ant=oacute=nio_Menezes">Ant&#243;nio Menezes Leit&#227;o</a>:<b>Detection of Redundant Code using R2D2.</b> 183-192<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238044"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Leitao03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Leitao03.xml">XML</a></small></small></li>
+<li id="MoseleyDA03"><a href="http://dblp.uni-trier.de/pers/hc/m/Moseley:Patrick">Patrick Moseley</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Debray:Saumya_K=">Saumya K. Debray</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Andrews:Gregory_R=">Gregory R. Andrews</a>:<b>Checking Program Profiles.</b> 193-202<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238045"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/MoseleyDA03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/MoseleyDA03.xml">XML</a></small></small></li>
+<li id="BinkleyH03"><a href="http://dblp.uni-trier.de/pers/hc/b/Binkley:David">David Binkley</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>:<b>Results from a Large-Scale Study of Performance Optimization Techniques for Source Code Analyses Based on Graph Reachability Algorithms.</b> 203-<small><a href="http://dx.doi.org/10.1109/SCAM.2003.1238046"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/BinkleyH03.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/BinkleyH03.xml">XML</a></small></small></li>
+</ul>
+</dblp>

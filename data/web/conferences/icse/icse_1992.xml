@@ -1,0 +1,119 @@
+<dblp>
+    
+<h2>Measurement and Prediction</h2>
+ 
+
+<ul>
+<li id="PatelCB92"><a href="http://dblp.uni-trier.de/pers/hc/p/Patel:Sukesh">Sukesh Patel</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chu:William_C=">William C. Chu</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Baxter:Rich">Rich Baxter</a>:<b>A Measure for Composite Module Cohesion.</b> 38-48<small><a href="http://doi.acm.org/10.1145/143062.143086"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/PatelCB92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/PatelCB92.xml">XML</a></small></small></li>
+<li id="TsudaMTT92"><a href="http://dblp.uni-trier.de/pers/hc/t/Tsuda:Michio">Michio Tsuda</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Morioka:Yosuke">Yosuke Morioka</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Takadachi:Masato">Masato Takadachi</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Takahashi:Mayumi">Mayumi Takahashi</a>:<b>Productivity Analysis of Software Development with an Integrated CASE Tool.</b> 49-58<small><a href="http://doi.acm.org/10.1145/143062.143088"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/TsudaMTT92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/TsudaMTT92.xml">XML</a></small></small></li>
+<li id="EickLLVW92"><a href="http://dblp.uni-trier.de/pers/hc/e/Eick:Stephen_G=">Stephen G. Eick</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Loader:Clive_R=">Clive R. Loader</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Long:M=_David">M. David Long</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Votta:Lawrence_G=">Lawrence G. Votta</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wiel:Scott_A=_Vander">Scott A. Vander Wiel</a>:<b>Estimating Software Fault Content Cefore Coding.</b> 59-65<small><a href="http://doi.acm.org/10.1145/143062.143090"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/EickLLVW92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/EickLLVW92.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Analysis and Testing</h2>
+ 
+
+<ul>
+<li id="HarroldMF92"><a href="http://dblp.uni-trier.de/pers/hc/h/Harrold:Mary_Jean">Mary Jean Harrold</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/McGregor:John_D=">John D. McGregor</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fitzpatrick:Kevin_J=">Kevin J. Fitzpatrick</a>:<b>Incremental Testing of Object-Oriented Class Structures.</b> 68-80<small><a href="http://doi.acm.org/10.1145/143062.143093"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/HarroldMF92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/HarroldMF92.xml">XML</a></small></small></li>
+<li id="AfifiWZ92"><a href="http://dblp.uni-trier.de/pers/hc/a/Afifi:Faten_H=">Faten H. Afifi</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/White:Lee_J=">Lee J. White</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zeil:Steven_J=">Steven J. Zeil</a>:<b>Testing for Linear Errors in Nonlinear Computer Programs.</b> 81-91<small><a href="http://doi.acm.org/10.1145/143062.143096"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/AfifiWZ92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/AfifiWZ92.xml">XML</a></small></small></li>
+<li id="Rosenblum92"><a href="http://dblp.uni-trier.de/pers/hc/r/Rosenblum:David_S=">David S. Rosenblum</a>:<b>Towards a Method of Programming With Assertions.</b> 92-104<small><a href="http://doi.acm.org/10.1145/143062.143098"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Rosenblum92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Rosenblum92.xml">XML</a></small></small></li>
+<li id="RichardsonAO92"><a href="http://dblp.uni-trier.de/pers/hc/r/Richardson:Debra_J=">Debra J. Richardson</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Aha:Stephanie_Leif">Stephanie Leif Aha</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/O=Malley:T=_Owen">T. Owen O'Malley</a>:<b>Specification-Based Test Oracles for Reactive Systems.</b> 105-118<small><a href="http://doi.acm.org/10.1145/143062.143100"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/RichardsonAO92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/RichardsonAO92.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Environment Support</h2>
+ 
+
+<ul>
+<li id="Beach92"><a href="http://dblp.uni-trier.de/pers/hc/b/Beach:Brian_W=">Brian W. Beach</a>:<b>Connecting Software Components with Declarative Glue.</b> 120-137<small><a href="http://doi.acm.org/10.1145/143062.143104"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Beach92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Beach92.xml">XML</a></small></small></li>
+<li id="ConsensMR92"><a href="http://dblp.uni-trier.de/pers/hc/c/Consens:Mariano_P=">Mariano P. Consens</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mendelzon:Alberto_O=">Alberto O. Mendelzon</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ryman:Arthur_G=">Arthur G. Ryman</a>:<b>Visualizing and Querying Software Structures.</b> 138-156<small><a href="http://doi.acm.org/10.1145/143062.143106"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/ConsensMR92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/ConsensMR92.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Evolution</h2>
+ 
+
+<ul>
+<li id="GoldmanN92"><a href="http://dblp.uni-trier.de/pers/hc/g/Goldman:Neil_M=">Neil M. Goldman</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Narayanaswamy:Khaled">Khaled Narayanaswamy</a>:<b>Software Evolution through Iterative Prototyping.</b> 158-172<small><a href="http://doi.acm.org/10.1145/143062.143109"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/GoldmanN92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/GoldmanN92.xml">XML</a></small></small></li>
+<li id="LubarsMPR92"><a href="http://dblp.uni-trier.de/pers/hc/l/Lubars:Mitchell_D=">Mitchell D. Lubars</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Meredith:Greg">Greg Meredith</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Potts:Colin">Colin Potts</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Richter:Charles">Charles Richter</a>:<b>Object-Oriented Analysis for Evolving Systems.</b> 173-185<small><a href="http://doi.acm.org/10.1145/143062.143111"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/LubarsMPR92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/LubarsMPR92.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Real-Time Systems</h2>
+ 
+
+<ul>
+<li id="WangME92"><a href="http://dblp.uni-trier.de/pers/hc/w/Wang:Farn">Farn Wang</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mok:Aloysius_K=">Aloysius K. Mok</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Emerson:E=_Allen">E. Allen Emerson</a>:<b>Formal Specification of Ssynchronous Distributed Real-Time Systems by APTL.</b> 188-198<small><a href="http://doi.acm.org/10.1145/143062.143113"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/WangME92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/WangME92.xml">XML</a></small></small></li>
+<li id="FelderM92"><a href="http://dblp.uni-trier.de/pers/hc/f/Felder:Miguel">Miguel Felder</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Morzenti:Angelo">Angelo Morzenti</a>:<b>Validating Real-Time Systems by History-Checking TRIO Specifications.</b> 199-211<small><a href="http://doi.acm.org/10.1145/143062.143115"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/FelderM92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/FelderM92.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Formal Methods</h2>
+ 
+
+<ul>
+<li id="DillonKMMR92"><a href="http://dblp.uni-trier.de/pers/hc/d/Dillon:Laura_K=">Laura K. Dillon</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kutty:George">George Kutty</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Moser:Louise_E=">Louise E. Moser</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Melliar=Smith:P=_M=">P. M. Melliar-Smith</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ramakrishna:Y=_S=">Y. S. Ramakrishna</a>:<b>Graphical Specifications for Concurrent Software Systems.</b> 214-224<small><a href="http://doi.acm.org/10.1145/143062.143116"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/DillonKMMR92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/DillonKMMR92.xml">XML</a></small></small></li>
+<li id="RomanGB92"><a href="http://dblp.uni-trier.de/pers/hc/r/Roman:Gruia=Catalin">Gruia-Catalin Roman</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gamble:Rose_F=">Rose F. Gamble</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Ball:William_E=">William E. Ball</a>:<b>Seeking Concurrency in Rule-Based Programming.</b> 225-234<small><a href="http://doi.acm.org/10.1145/143062.143118"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/RomanGB92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/RomanGB92.xml">XML</a></small></small></li>
+<li id="PearceL92"><a href="http://dblp.uni-trier.de/pers/hc/p/Pearce:Trevor_W=">Trevor W. Pearce</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lamb:David_Alex">David Alex Lamb</a>:<b>The Property Vector Specification of a Multiset Iterator.</b> 235-245<small><a href="http://doi.acm.org/10.1145/143062.143121"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/PearceL92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/PearceL92.xml">XML</a></small></small></li>
+<li id="FernandezGMRRS92"><a href="http://dblp.uni-trier.de/pers/hc/f/Fernandez:Jean=Claude">Jean-Claude Fernandez</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Garavel:Hubert">Hubert Garavel</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mounier:Laurent">Laurent Mounier</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rasse:Anne">Anne Rasse</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rodriguez:Carlos">Carlos Rodriguez</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sifakis:Joseph">Joseph Sifakis</a>:<b>A Toolbox for the Verification of LOTOS Programs.</b> 246-259<small><a href="http://doi.acm.org/10.1145/143062.143124"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/FernandezGMRRS92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/FernandezGMRRS92.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Processes</h2>
+ 
+
+<ul>
+<li id="PeuschelS92"><a href="http://dblp.uni-trier.de/pers/hc/p/Peuschel:Burkhard">Burkhard Peuschel</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sch=auml=fer:Wilhelm">Wilhelm Sch&#228;fer</a>:<b>Concepts and Implementation of a Rule-Based Process Engine.</b> 262-279<small><a href="http://doi.acm.org/10.1145/143062.143126"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/PeuschelS92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/PeuschelS92.xml">XML</a></small></small></li>
+<li id="GargB92"><a href="http://dblp.uni-trier.de/pers/hc/g/Garg:Pankaj_K=">Pankaj K. Garg</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bhansali:Sanjay">Sanjay Bhansali</a>:<b>Process Programming by Hindsight.</b> 280-293<small><a href="http://doi.acm.org/10.1145/143062.143128"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/GargB92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/GargB92.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Tools</h2>
+ 
+
+<ul>
+<li id="Hall92"><a href="http://dblp.uni-trier.de/pers/hc/h/Hall:Robert_J=">Robert J. Hall</a>:<b>Call Path Profiling.</b> 296-306<small><a href="http://doi.acm.org/10.1145/143062.143147"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Hall92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Hall92.xml">XML</a></small></small></li>
+<li id="Devanbu92"><a href="http://dblp.uni-trier.de/pers/hc/d/Devanbu:Premkumar_T=">Premkumar T. Devanbu</a>:<b>GENOA: A Customizable Language- and Front-End Independent Code Analyzer.</b> 307-317<small><a href="http://doi.acm.org/10.1145/143062.143148"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Devanbu92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Devanbu92.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Re-Use</h2>
+ 
+
+<ul>
+<li id="Isoda92"><a href="http://dblp.uni-trier.de/pers/hc/i/Isoda:Sadahiro">Sadahiro Isoda</a>:<b>Experience Report on Software Reuse Project: Its Structure, Activities, and Statistical Results.</b> 320-326<small><a href="http://doi.acm.org/10.1145/143062.143149"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Isoda92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Isoda92.xml">XML</a></small></small></li>
+<li id="GaffneyC92"><a href="http://dblp.uni-trier.de/pers/hc/g/Gaffney_Jr=:John_E=">John E. Gaffney Jr.</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cruickshank:R=_D=">R. D. Cruickshank</a>:<b>A General Economics Model of Software Reuse.</b> 327-337<small><a href="http://doi.acm.org/10.1145/143062.143150"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/GaffneyC92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/GaffneyC92.xml">XML</a></small></small></li>
+<li id="MargonoR92"><a href="http://dblp.uni-trier.de/pers/hc/m/Margono:Johan">Johan Margono</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rhoads:Thomas_E=">Thomas E. Rhoads</a>:<b>Software Reuse Economics: Cost-Benefit Analysis on a Large-Scale Ada Project.</b> 338-348<small><a href="http://doi.acm.org/10.1145/143062.143151"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/MargonoR92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/MargonoR92.xml">XML</a></small></small></li>
+<li id="PodgurskiP92"><a href="http://dblp.uni-trier.de/pers/hc/p/Podgurski:Andy">Andy Podgurski</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pierce:Lynn">Lynn Pierce</a>:<b>Behavior Sampling: A Technique for Automated Retrieval of Reusable Components.</b> 349-360<small><a href="http://doi.acm.org/10.1145/143062.143152"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/PodgurskiP92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/PodgurskiP92.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Perspective</h2>
+ 
+
+<ul>
+<li id="Tichy92"><a href="http://dblp.uni-trier.de/pers/hc/t/Tichy:Walter_F=">Walter F. Tichy</a>:<b>Programming-in-the-Large: Past, Present, and Future.</b> 362-367<small><a href="http://doi.acm.org/10.1145/143062.143153"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Tichy92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Tichy92.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>State of the Art Reports (Invited Papers)</h2>
+ 
+
+<ul>
+<li id="BasiliCMPPW92"><a href="http://dblp.uni-trier.de/pers/hc/b/Basili:Victor_R=">Victor R. Basili</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Caldiera:Gianluigi">Gianluigi Caldiera</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/McGarry:Frank_E=">Frank E. McGarry</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pajerski:Rose">Rose Pajerski</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Page:Gerald_T=">Gerald T. Page</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Waligora:Sharon">Sharon Waligora</a>:<b>The Software Engineering Laboratory: An Operational Software Experience Factory.</b> 370-381<small><a href="http://doi.acm.org/10.1145/143062.143154"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/BasiliCMPPW92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/BasiliCMPPW92.xml">XML</a></small></small></li>
+<li id="Fairley92"><a href="http://dblp.uni-trier.de/pers/hc/f/Fairley:Richard_E=">Richard E. Fairley</a>:<b>Recent Advances in Software Estimation Techniques.</b> 382-391<small><a href="http://doi.acm.org/10.1145/143062.143155"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/Fairley92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/Fairley92.xml">XML</a></small></small></li>
+<li id="HorwitzR92"><a href="http://dblp.uni-trier.de/pers/hc/h/Horwitz:Susan">Susan Horwitz</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Reps:Thomas_W=">Thomas W. Reps</a>:<b>The Use of Program Dependence Graphs in Software Engineering.</b> 392-411<small><a href="http://doi.acm.org/10.1145/143062.143156"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/HorwitzR92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/HorwitzR92.xml">XML</a></small></small></li>
+<li id="RomanC92"><a href="http://dblp.uni-trier.de/pers/hc/r/Roman:Gruia=Catalin">Gruia-Catalin Roman</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cox:Kenneth_C=">Kenneth C. Cox</a>:<b>Program Visualization: The Art of Mapping Programs to Pictures.</b> 412-420<small><a href="http://doi.acm.org/10.1145/143062.143157"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/icse/RomanC92.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/icse/RomanC92.xml">XML</a></small></small></li>
+</ul>
+
+</dblp>

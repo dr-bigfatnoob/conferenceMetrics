@@ -1,0 +1,87 @@
+<dblp>
+    <h2>Real-Time Systems</h2>
+ 
+
+<ul>
+<li id="KolanoKM00"><a href="http://dblp.uni-trier.de/pers/hc/k/Kolano:Paul_Z=">Paul Z. Kolano</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kemmerer:Richard_A=">Richard A. Kemmerer</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mandrioli:Dino">Dino Mandrioli</a>:<b>Parallel Refinement Mechanisms for Real-Time Systems.</b> 35-50<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_4"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/KolanoKM00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/KolanoKM00.xml">XML</a></small></small></li>
+<li id="Suhl00"><a href="http://dblp.uni-trier.de/pers/hc/s/S=uuml=hl:Carsten">Carsten S&#252;hl</a>:<b>Applying RT-Z to Develop Safety-Critical Systems.</b> 51-65<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_5"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/Suhl00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/Suhl00.xml">XML</a></small></small></li>
+<li id="Dierks00"><a href="http://dblp.uni-trier.de/pers/hc/d/Dierks:Henning">Henning Dierks</a>:<b>A Process Algebra for Real-Time Programs.</b> 66-81<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_6"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/Dierks00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/Dierks00.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Formally Engineering Systems</h2>
+ 
+
+<ul>
+<li id="DondossolaB00"><a href="http://dblp.uni-trier.de/pers/hc/d/Dondossola:Giovanna">Giovanna Dondossola</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Botti:Oliver">Oliver Botti</a>:<b>System Fault Tolerance Specification: Proposal of a Method Combining Semi-formal and Formal Approaches.</b> 82-96<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_7"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/DondossolaB00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/DondossolaB00.xml">XML</a></small></small></li>
+<li id="LanoAC00"><a href="http://dblp.uni-trier.de/pers/hc/l/Lano:Kevin">Kevin Lano</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Androutsopoulos:Kelly">Kelly Androutsopoulos</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Clark:David">David Clark</a>:<b>Structuring and Design of Reactive Systems Using RSDS and B.</b> 97-111<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_8"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/LanoAC00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/LanoAC00.xml">XML</a></small></small></li>
+<li id="AnlauffKPS00"><a href="http://dblp.uni-trier.de/pers/hc/a/Anlauff:Matthias">Matthias Anlauff</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kutter:Philipp_W=">Philipp W. Kutter</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pierantonio:Alfonso">Alfonso Pierantonio</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/S=uuml=nb=uuml=l:Asuman">Asuman S&#252;nb&#252;l</a>:<b>Using Domain-Specific Languages for the Realization of Component Composition.</b> 112-126<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_9"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/AnlauffKPS00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/AnlauffKPS00.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Engineering</h2>
+ 
+
+<ul>
+<li id="ReggioACH00"><a href="http://dblp.uni-trier.de/pers/hc/r/Reggio:Gianna">Gianna Reggio</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Astesiano:Egidio">Egidio Astesiano</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Choppy:Christine">Christine Choppy</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hu=szlig=mann:Heinrich">Heinrich Hu&#223;mann</a>:<b>Analysing UML Active Classes and Associated State Machines - A Lightweight Formal Approach.</b> 127-146<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_10"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/ReggioACH00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/ReggioACH00.xml">XML</a></small></small></li>
+<li id="Hernandez-OralloR00"><a href="http://dblp.uni-trier.de/pers/hc/h/Hern=aacute=ndez=Orallo:Jos=eacute=">Jos&#233; Hern&#225;ndez-Orallo</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ram=iacute=rez=Quintana:M=_Jos=eacute=">M. Jos&#233; Ram&#237;rez-Quintana</a>:<b>Software as Learning: Quality Factors and Life-Cycle Revised.</b> 147-162<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_11"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/Hernandez-OralloR00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/Hernandez-OralloR00.xml">XML</a></small></small></li>
+<li id="Kondoh00"><a href="http://dblp.uni-trier.de/pers/hc/k/Kondoh:Hidetaka">Hidetaka Kondoh</a>:<b>What Is `Mathematicalness' in Software Engineering?</b> 163-177<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_12"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/Kondoh00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/Kondoh00.xml">XML</a></small></small></li>
+<li id="EgyedM00"><a href="http://dblp.uni-trier.de/pers/hc/e/Egyed:Alexander">Alexander Egyed</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Medvidovic:Nenad">Nenad Medvidovic</a>:<b>A Formal Approach to Heterogeneous Software Modeling.</b> 178-192<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_13"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/EgyedM00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/EgyedM00.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Object Orientation</h2>
+ 
+
+<ul>
+<li id="Overgaard00"><a href="http://dblp.uni-trier.de/pers/hc/=/=Ouml=vergaard:Gunnar">Gunnar &#214;vergaard</a>:<b>Formal Specification of Object-Oriented Meta-modelling.</b> 193-207<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_14"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/Overgaard00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/Overgaard00.xml">XML</a></small></small></li>
+<li id="HuizingK00"><a href="http://dblp.uni-trier.de/pers/hc/h/Huizing:Kees">Kees Huizing</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kuiper:Ruurd">Ruurd Kuiper</a>:<b>Verification of Object Oriented Programs Using Class Invariants.</b> 208-221<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_15"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/HuizingK00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/HuizingK00.xml">XML</a></small></small></li>
+<li id="GruerHK00"><a href="http://dblp.uni-trier.de/pers/hc/g/Gruer:Pablo">Pablo Gruer</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hilaire:Vincent">Vincent Hilaire</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Koukam:Abder">Abder Koukam</a>:<b>Verification of Object-Z Specifications by Using Transition Systems: Application to the Radiomobile Network Design Problem.</b> 222-236<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_16"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/GruerHK00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/GruerHK00.xml">XML</a></small></small></li>
+<li id="NelsonCA00"><a href="http://dblp.uni-trier.de/pers/hc/n/Nelson:Torsten">Torsten Nelson</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cowan:Donald_D=">Donald D. Cowan</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Alencar:Paulo_S=_C=">Paulo S. C. Alencar</a>:<b>A Model for Describing Object-Oriented Systems from Multiple Perspectives.</b> 237-248<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_17"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/NelsonCA00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/NelsonCA00.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Formallz Engineering Systems</h2>
+ 
+
+<ul>
+<li id="PadbergHG00"><a href="http://dblp.uni-trier.de/pers/hc/p/Padberg:Julia">Julia Padberg</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hoffmann:Kathrin">Kathrin Hoffmann</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gajewsky:Magdalena">Magdalena Gajewsky</a>:<b>Stepwise Introduction and Preservation of Safety Properties in Algebraic High-Level Net Systems.</b> 249-265<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_18"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/PadbergHG00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/PadbergHG00.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Theory and Applications</h2>
+ 
+
+<ul>
+<li id="BellegardeJK00"><a href="http://dblp.uni-trier.de/pers/hc/b/Bellegarde:Fran=ccedil=oise">Fran&#231;oise Bellegarde</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Julliand:Jacques">Jacques Julliand</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kouchnarenko:Olga">Olga Kouchnarenko</a>:<b>Ready-Simulation Is Not Ready to Express a Modular Refinement Relation.</b> 266-283<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_19"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/BellegardeJK00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/BellegardeJK00.xml">XML</a></small></small></li>
+<li id="HuismanJ00"><a href="http://dblp.uni-trier.de/pers/hc/h/Huisman:Marieke">Marieke Huisman</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jacobs_0001:Bart">Bart Jacobs</a>:<b>Java Program Verification via a Hoare Logic with Abrupt Termination.</b> 284-303<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_20"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/HuismanJ00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/HuismanJ00.xml">XML</a></small></small></li>
+<li id="Parisi-PresicceW00"><a href="http://dblp.uni-trier.de/pers/hc/p/Parisi=Presicce:Francesco">Francesco Parisi-Presicce</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wolf:Alexander_L=">Alexander L. Wolf</a>:<b>Foundations for Software Configuration Management Policies Using Graph Transformations.</b> 304-318<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_21"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/Parisi-PresicceW00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/Parisi-PresicceW00.xml">XML</a></small></small></li>
+<li id="FradetIR00"><a href="http://dblp.uni-trier.de/pers/hc/f/Fradet:Pascal">Pascal Fradet</a>, <a href="http://dblp.uni-trier.de/pers/hc/i/Issarny:Val=eacute=rie">Val&#233;rie Issarny</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rouvrais:Siegfried">Siegfried Rouvrais</a>:<b>Analyzing Non-functional Properties of Mobile Agents.</b> 319-333<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_22"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/FradetIR00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/FradetIR00.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Case Studies</h2>
+ 
+
+<ul>
+<li id="Wehrheim00"><a href="http://dblp.uni-trier.de/pers/hc/w/Wehrheim:Heike">Heike Wehrheim</a>:<b>Specification of an Automatic Manufacturing System: A Case Study in Using Integrated Formal Methods.</b> 334-348<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_23"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/Wehrheim00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/Wehrheim00.xml">XML</a></small></small></li>
+<li id="HuneS00"><a href="http://dblp.uni-trier.de/pers/hc/h/Hune:Thomas">Thomas Hune</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sandholm:Anders">Anders Sandholm</a>:<b>A Case Study on Using Automata in Control Synthesis.</b> 349-362<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_24"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/HuneS00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/HuneS00.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Demonstrations</h2>
+ 
+
+<ul>
+<li id="BalserRSST00"><a href="http://dblp.uni-trier.de/pers/hc/b/Balser:Michael">Michael Balser</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Reif:Wolfgang">Wolfgang Reif</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schellhorn:Gerhard">Gerhard Schellhorn</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stenzel:Kurt">Kurt Stenzel</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Thums:Andreas">Andreas Thums</a>:<b>Formal System Development with KIV.</b> 363-366<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_25"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/BalserRSST00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/BalserRSST00.xml">XML</a></small></small></li>
+<li id="LuthW00"><a href="http://dblp.uni-trier.de/pers/hc/l/L=uuml=th:Christoph">Christoph L&#252;th</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wolff:Burkhart">Burkhart Wolff</a>:<b>More About TAS and IsaWin - Tools for Formal Program Development.</b> 367-370<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_26"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/LuthW00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/LuthW00.xml">XML</a></small></small></li>
+<li id="ClavelDELMMQ00"><a href="http://dblp.uni-trier.de/pers/hc/c/Clavel:Manuel">Manuel Clavel</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dur=aacute=n:Francisco">Francisco Dur&#225;n</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Eker:Steven">Steven Eker</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lincoln:Patrick">Patrick Lincoln</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mart=iacute==Oliet:Narciso">Narciso Mart&#237;-Oliet</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Meseguer:Jos=eacute=">Jos&#233; Meseguer</a>, <a href="http://dblp.uni-trier.de/pers/hc/q/Quesada:Jose_F=">Jose F. Quesada</a>:<b>Using Maude.</b> 371-374<small><a href="http://dx.doi.org/10.1007/3-540-46428-X_27"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/ClavelDELMMQ00.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/ClavelDELMMQ00.xml">XML</a></small></small></li>
+</ul>
+</dblp>

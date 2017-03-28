@@ -1,0 +1,124 @@
+<dblp>
+    <h2>Tool Architecture</h2>
+ 
+
+<ul>
+<li id="Sneed98"><a href="http://dblp.uni-trier.de/pers/hc/s/Sneed:Harry_M=">Harry M. Sneed</a>:<b>Architecture and Functions of a Commercial Software Reengineering Workbench.</b> 2-10<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665726"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Sneed98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Sneed98.xml">XML</a></small></small></li>
+<li id="BrandSV98"><a href="http://dblp.uni-trier.de/pers/hc/b/Brand:Mark_van_den">Mark van den Brand</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sellink:Alex">Alex Sellink</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Verhoef:Chris">Chris Verhoef</a>:<b>Control Flow Normalization for COBOL/CICS Legacy System.</b> 11-20<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665727"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/BrandSV98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/BrandSV98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Data Reengineering</h2>
+ 
+
+<ul>
+<li id="GhannouchiGK98"><a href="http://dblp.uni-trier.de/pers/hc/g/Ghannouchi:Sonia_Ayachi">Sonia Ayachi Ghannouchi</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gh=eacute=zala:Henda_Hajjami_Ben">Henda Hajjami Ben Gh&#233;zala</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kamoun:Farouk">Farouk Kamoun</a>:<b>A Generic Approach for Data Reverse Engineering Taking into Account Application Doamin Knowledge.</b> 21-28<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665728"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/GhannouchiGK98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/GhannouchiGK98.xml">XML</a></small></small></li>
+<li id="Castelli98"><a href="http://dblp.uni-trier.de/pers/hc/c/Castelli:Donatella">Donatella Castelli</a>:<b>A Strategy for Reducing the Effort for Database Schema Maintenance.</b> 29-36<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665729"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Castelli98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Castelli98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Business Information Technology and Year 2000 Problem</h2>
+ 
+
+<ul>
+<li id="LudwigKL98"><a href="http://dblp.uni-trier.de/pers/hc/l/Ludwig:Petra">Petra Ludwig</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kaufmann:Thomas">Thomas Kaufmann</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lie=szlig=mann:Harald">Harald Lie&#223;mann</a>:<b>An Organizational Framework for Mass-Customized Business Application.</b> 37-43<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665731"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/LudwigKL98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/LudwigKL98.xml">XML</a></small></small></li>
+<li id="KawabeMUO98"><a href="http://dblp.uni-trier.de/pers/hc/k/Kawabe:Keiko">Keiko Kawabe</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Matsuo:Akihiko">Akihiko Matsuo</a>, <a href="http://dblp.uni-trier.de/pers/hc/u/Uehara:Sanya">Sanya Uehara</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Ogawa:Akira">Akira Ogawa</a>:<b>Variable Classification Technique and Application to the Year 2000 Problem.</b> 44-51<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665732"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/KawabeMUO98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/KawabeMUO98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Understanding</h2>
+ 
+
+<ul>
+<li id="OhtaMI98"><a href="http://dblp.uni-trier.de/pers/hc/o/Ohta:T=">T. Ohta</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Matsumara:N=">N. Matsumara</a>, <a href="http://dblp.uni-trier.de/pers/hc/i/Itoh:Y=">Y. Itoh</a>:<b>On Constructing a Tool to Verify Programs for Processors Built in Machines.</b> 52-59<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665733"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/OhtaMI98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/OhtaMI98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Reuse and Object Oriented Techniques</h2>
+ 
+
+<ul>
+<li id="ZhaoCU98"><a href="http://dblp.uni-trier.de/pers/hc/z/Zhao:Jianjun">Jianjun Zhao</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cheng:Jingde">Jingde Cheng</a>, <a href="http://dblp.uni-trier.de/pers/hc/u/Ushijima:Kazuo">Kazuo Ushijima</a>:<b>A Dependence-Based Representation for Concurrent Object-Oriented Software Maintenance.</b> 60-66<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665734"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/ZhaoCU98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/ZhaoCU98.xml">XML</a></small></small></li>
+<li id="Marchesi98"><a href="http://dblp.uni-trier.de/pers/hc/m/Marchesi:Michele">Michele Marchesi</a>:<b>OOA Metrics for the Unified Modeling Language.</b> 67-73<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665739"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Marchesi98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Marchesi98.xml">XML</a></small></small></li>
+<li id="JensenH98"><a href="http://dblp.uni-trier.de/pers/hc/j/Jensen:Christian_Damsgaard">Christian Damsgaard Jensen</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hagimont:Daniel">Daniel Hagimont</a>:<b>Protection Reconfiguration for Reusable Software.</b> 74-81<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665751"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/JensenH98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/JensenH98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>System Assessment</h2>
+ 
+
+<ul>
+<li id="NiessinkV98"><a href="http://dblp.uni-trier.de/pers/hc/n/Niessink:Frank">Frank Niessink</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vliet:Hans_van">Hans van Vliet</a>:<b>Towards Mature Measurement Programs.</b> 82-88<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665755"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/NiessinkV98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/NiessinkV98.xml">XML</a></small></small></li>
+<li id="FioravantiNP98"><a href="http://dblp.uni-trier.de/pers/hc/f/Fioravanti:Fabrizio">Fabrizio Fioravanti</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nesi:Paolo">Paolo Nesi</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Perlini:Sandro">Sandro Perlini</a>:<b>A Tool for Process and Product Assessment of C++ Applications.</b> 89-95<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665757"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/FioravantiNP98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/FioravantiNP98.xml">XML</a></small></small></li>
+<li id="YehL98"><a href="http://dblp.uni-trier.de/pers/hc/y/Yeh:Pu=Lin">Pu-Lin Yeh</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lin:Jin=Cherng">Jin-Cherng Lin</a>:<b>Software Testability Measurements Derived from Data Flow Analysis.</b> 96-103<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665760"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/YehL98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/YehL98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Architecture</h2>
+ 
+
+<ul>
+<li id="KazmanB98"><a href="http://dblp.uni-trier.de/pers/hc/k/Kazman:Rick">Rick Kazman</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Burth:M=">M. Burth</a>:<b>Assessing Architectural Complexity.</b> 104-112<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665762"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/KazmanB98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/KazmanB98.xml">XML</a></small></small></li>
+<li id="DuenasOP98"><a href="http://dblp.uni-trier.de/pers/hc/d/Due=ntilde=as:Juan_C=">Juan C. Due&#241;as</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Oliveira:William_Lopes_de">William Lopes de Oliveira</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Puente:Juan_Antonio_de_la">Juan Antonio de la Puente</a>:<b>Architecture Recovery for Software Evolution.</b> 113-120<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665766"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/DuenasOP98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/DuenasOP98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Requirements and Specification Evolution</h2>
+ 
+
+<ul>
+<li id="LamL98"><a href="http://dblp.uni-trier.de/pers/hc/l/Lam:W=">W. Lam</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Loomes:Martin">Martin Loomes</a>:<b>Requirements Evolution in the Midst of Environmental Change: A Managed Approach.</b> 121-127<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665774"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/LamL98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/LamL98.xml">XML</a></small></small></li>
+<li id="RansomSW98"><a href="http://dblp.uni-trier.de/pers/hc/r/Ransom:Jane">Jane Ransom</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sommerville:Ian">Ian Sommerville</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Warren:Ian">Ian Warren</a>:<b>A Method for Assessing Legacy Systems for Evolution.</b> 128-134<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665778"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/RansomSW98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/RansomSW98.xml">XML</a></small></small></li>
+<li id="KirnerG98"><a href="http://dblp.uni-trier.de/pers/hc/k/Kirner:Tereza_G=">Tereza G. Kirner</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Grat=atilde=o:Rogeria_C=">Rogeria C. Grat&#227;o</a>:<b>System Specification Reengineering Using the SpecView Tool.</b> 135-141<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665781"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/KirnerG98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/KirnerG98.xml">XML</a></small></small></li>
+<li id="Cremer98"><a href="http://dblp.uni-trier.de/pers/hc/c/Cremer:Katja">Katja Cremer</a>:<b>A Tool Supporting the Re-Design of Legacy Applications.</b> 142-149<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665784"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Cremer98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Cremer98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Maintenance Effort</h2>
+ 
+
+<ul>
+<li id="CalzolariTA98"><a href="http://dblp.uni-trier.de/pers/hc/c/Calzolari:F=">F. Calzolari</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tonella:Paolo">Paolo Tonella</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>:<b>Modeling Maintenance Effort by Means of Dynamic Systems.</b> 150-156<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665787"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/CalzolariTA98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/CalzolariTA98.xml">XML</a></small></small></li>
+<li id="Leung98"><a href="http://dblp.uni-trier.de/pers/hc/l/Leung:Hareton_K=_N=">Hareton K. N. Leung</a>:<b>Improving Defect Removal Effectiveness for Software Development.</b> 157-164<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665789"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Leung98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Leung98.xml">XML</a></small></small></li>
+<li id="EbertKP98"><a href="http://dblp.uni-trier.de/pers/hc/e/Ebert:J=uuml=rgen">J&#252;rgen Ebert</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kullbach:Bernt">Bernt Kullbach</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Panse:Andreas">Andreas Panse</a>:<b>The Extract-Transform-Rewrite Cycle. A Step towards MetaCARE.</b> 165-171<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665793"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/EbertKP98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/EbertKP98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Logic Programming, Telecommunications</h2>
+ 
+
+<ul>
+<li id="ZhaoCU98a"><a href="http://dblp.uni-trier.de/pers/hc/z/Zhao:Jianjun">Jianjun Zhao</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cheng:Jingde">Jingde Cheng</a>, <a href="http://dblp.uni-trier.de/pers/hc/u/Ushijima:Kazuo">Kazuo Ushijima</a>:<b>A Metrics Suite for Concurrent Logic Programs.</b> 172-178<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665796"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/ZhaoCU98a.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/ZhaoCU98a.xml">XML</a></small></small></li>
+<li id="HongK98"><a href="http://dblp.uni-trier.de/pers/hc/h/Hong:Sungback">Sungback Hong</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kim:Kapsu">Kapsu Kim</a>:<b>Identifying Fault Prone Modules: An Empirical Study in Telecommunication System.</b> 179-184<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665798"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/HongK98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/HongK98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Open Forum</h2>
+ 
+
+<ul>
+<li id="JakobiW98"><a href="http://dblp.uni-trier.de/pers/hc/j/Jakobi:Peter">Peter Jakobi</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wolf:Andreas">Andreas Wolf</a>:<b>DBFW: A Simple DataBase FrameWork for the Evaluation and Maintenance of Automated Theorem Prover Data.</b> 185-188<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665799"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/JakobiW98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/JakobiW98.xml">XML</a></small></small></li>
+<li id="Kleuker98"><a href="http://dblp.uni-trier.de/pers/hc/k/Kleuker:Stephan">Stephan Kleuker</a>:<b>Reengineering of Distributed Systems Using Formal Methods.</b> 189-192<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665802"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Kleuker98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Kleuker98.xml">XML</a></small></small></li>
+<li id="DumkeF98"><a href="http://dblp.uni-trier.de/pers/hc/d/Dumke:Reiner_R=">Reiner R. Dumke</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Foltin:Erik">Erik Foltin</a>:<b>Metrics-Based Evaluation of Object-Oriented Software Development Methods.</b> 193-196<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665803"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/DumkeF98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/DumkeF98.xml">XML</a></small></small></li>
+<li id="BattagliaSF98"><a href="http://dblp.uni-trier.de/pers/hc/b/Battaglia:Marco">Marco Battaglia</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Savoia:Giancarlo">Giancarlo Savoia</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Favaro:John_M=">John M. Favaro</a>:<b>RENAISSANCE: A Method to Migrate from Legacy to Immortal Software Systems.</b> 197-200<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665807"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/BattagliaSF98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/BattagliaSF98.xml">XML</a></small></small></li>
+<li id="SeemannG98"><a href="http://dblp.uni-trier.de/pers/hc/s/Seemann:Jochen">Jochen Seemann</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gudenberg:J=uuml=rgen_Wolff_von">J&#252;rgen Wolff von Gudenberg</a>:<b>Visualization of Differences between Versions of Object-Oriented Software.</b> 201-204<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665808"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/SeemannG98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/SeemannG98.xml">XML</a></small></small></li>
+<li id="DoakeD98"><a href="http://dblp.uni-trier.de/pers/hc/d/Doake:J=">J. Doake</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Duncan:I=">I. Duncan</a>:<b>Amber Metrics for the Testing and Maintenance of Object-Oriented Designs.</b> 205-208<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665810"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/DoakeD98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/DoakeD98.xml">XML</a></small></small></li>
+<li id="StoecklinWS98"><a href="http://dblp.uni-trier.de/pers/hc/s/Stoecklin:Sara">Sara Stoecklin</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wiliams:Deidre">Deidre Wiliams</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stoecklin:Peter">Peter Stoecklin</a>:<b>Tailoring the Process Model for Maintenance and Reengineering.</b> 209-212<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665812"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/StoecklinWS98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/StoecklinWS98.xml">XML</a></small></small></li>
+<li id="BorneRS98"><a href="http://dblp.uni-trier.de/pers/hc/b/Borne:Isabelle">Isabelle Borne</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Romanczuk:Annya">Annya Romanczuk</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/St=eacute=fani:Fr=eacute=d=eacute=rique">Fr&#233;d&#233;rique St&#233;fani</a>:<b>Towards a Systematic Object-Oriented transformation of a Mrise Analysis.</b> 213-215<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665814"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/BorneRS98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/BorneRS98.xml">XML</a></small></small></li>
+<li id="MittermeirPR98"><a href="http://dblp.uni-trier.de/pers/hc/m/Mittermeir:Roland">Roland Mittermeir</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pirker:Helfried">Helfried Pirker</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rauner=Reithmayer:Dominik">Dominik Rauner-Reithmayer</a>:<b>Object Evolution by Model Evolution.</b> 216-219<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665817"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/MittermeirPR98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/MittermeirPR98.xml">XML</a></small></small></li>
+<li id="ZedanY98"><a href="http://dblp.uni-trier.de/pers/hc/z/Zedan:Hussein">Hussein Zedan</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yang:Hongji">Hongji Yang</a>:<b>A Sound and Practical Approach To The Re-Engineering Of Time-Critical Systems.</b> 220-223<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665819"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/ZedanY98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/ZedanY98.xml">XML</a></small></small></li>
+<li id="ButeraFPN98"><a href="http://dblp.uni-trier.de/pers/hc/b/Butera:F=">F. Butera</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fontanella:B=">B. Fontanella</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Perfetti:M=">M. Perfetti</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nesi:Paolo">Paolo Nesi</a>:<b>Reengineering a Computerized Numerical Control Towards Object-Oriented.</b> 224-227<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665822"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/ButeraFPN98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/ButeraFPN98.xml">XML</a></small></small></li>
+<li id="DakhliT98"><a href="http://dblp.uni-trier.de/pers/hc/d/Dakhli:Salem">Salem Dakhli</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Toffolon:Claudine">Claudine Toffolon</a>:<b>Software Artifacts Reuse and Maintenance: An Organizational Framework.</b> 228-233<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665824"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/DakhliT98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/DakhliT98.xml">XML</a></small></small></li>
+<li id="Kutscha98"><a href="http://dblp.uni-trier.de/pers/hc/k/Kutscha:Sebastian">Sebastian Kutscha</a>:<b>The Task Artifact Cycle: Some Experiences from Reengineering Practice.</b> 234<small><a href="http://dx.doi.org/10.1109/CSMR.1998.665830"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Kutscha98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Kutscha98.xml">XML</a></small></small></li>
+</ul>
+</dblp>

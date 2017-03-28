@@ -1,0 +1,79 @@
+<dblp>
+    <h2>Program Understanding-In-The-Large</h2>
+ 
+
+<ul>
+<li id="Visaggio97"><a href="http://dblp.uni-trier.de/pers/hc/v/Visaggio:Giuseppe">Giuseppe Visaggio</a>:<b>Relationships between Documentation and Maintenance Activities.</b> 4-16<small><a href="http://dx.doi.org/10.1109/WPC.1997.601256"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/Visaggio97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/Visaggio97.xml">XML</a></small></small></li>
+<li id="StoreyFM97"><a href="http://dblp.uni-trier.de/pers/hc/s/Storey:Margaret=Anne_D=">Margaret-Anne D. Storey</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fracchia:F=_David">F. David Fracchia</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/M=uuml=ller:Hausi_A=">Hausi A. M&#252;ller</a>:<b>Cognitive Design Elements to Support the Construction of a Mental Model during Software Visualization.</b> 17-28<small><a href="http://dx.doi.org/10.1109/WPC.1997.601257"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/StoreyFM97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/StoreyFM97.xml">XML</a></small></small></li>
+<li id="Favre97"><a href="http://dblp.uni-trier.de/pers/hc/f/Favre:Jean=Marie">Jean-Marie Favre</a>:<b>Understanding-In-The-Large.</b> 29-38<small><a href="http://dx.doi.org/10.1109/WPC.1997.601260"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/Favre97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/Favre97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Automated Program Understanding</h2>
+ 
+
+<ul>
+<li id="BurnsteinR97"><a href="http://dblp.uni-trier.de/pers/hc/b/Burnstein:Ilene">Ilene Burnstein</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roberson:Katherine">Katherine Roberson</a>:<b>Automated Chunking to Support Program Comprehension.</b> 40-49<small><a href="http://dx.doi.org/10.1109/WPC.1997.601262"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/BurnsteinR97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/BurnsteinR97.xml">XML</a></small></small></li>
+<li id="MarkovicHRB97"><a href="http://dblp.uni-trier.de/pers/hc/m/Markovic:Dejan">Dejan Markovic</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hagemeister:Jack_R=">Jack R. Hagemeister</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Raghavendra:C=_S=">C. S. Raghavendra</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bhansali:Sanjay">Sanjay Bhansali</a>:<b>Semi-automatic Generation of Parallelizable Patterns from Source Code Examples.</b> 50-59<small><a href="http://dx.doi.org/10.1109/WPC.1997.601263"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/MarkovicHRB97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/MarkovicHRB97.xml">XML</a></small></small></li>
+<li id="MooreR97"><a href="http://dblp.uni-trier.de/pers/hc/m/Moore:Melody_M=">Melody M. Moore</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rugaber:Spencer">Spencer Rugaber</a>:<b>Using Knowledge Representation to Understand Interactive Systems.</b> 60-67<small><a href="http://dx.doi.org/10.1109/WPC.1997.601265"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/MooreR97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/MooreR97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Analysis</h2>
+ 
+
+<ul>
+<li id="HarmanD97"><a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Danicic:Sebastian">Sebastian Danicic</a>:<b>Amorphous Program Slicing.</b> 70-79<small><a href="http://dx.doi.org/10.1109/WPC.1997.601266"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/HarmanD97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/HarmanD97.xml">XML</a></small></small></li>
+<li id="KorelR97"><a href="http://dblp.uni-trier.de/pers/hc/k/Korel:Bogdan">Bogdan Korel</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rilling:Juergen">Juergen Rilling</a>:<b>Dynamic Program Slicing in Understanding of Program Execution.</b> 80-89<small><a href="http://dx.doi.org/10.1109/WPC.1997.601269"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/KorelR97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/KorelR97.xml">XML</a></small></small></li>
+<li id="TonellaAFM97"><a href="http://dblp.uni-trier.de/pers/hc/t/Tonella:Paolo">Paolo Tonella</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fiutem:Roberto">Roberto Fiutem</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Merlo:Ettore">Ettore Merlo</a>:<b>Points-to Analysis for Program Understanding.</b> 90-99<small><a href="http://dx.doi.org/10.1109/WPC.1997.601271"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/TonellaAFM97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/TonellaAFM97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Comprehension</h2>
+ 
+
+<ul>
+<li id="ClaytonRTW97"><a href="http://dblp.uni-trier.de/pers/hc/c/Clayton:Richard">Richard Clayton</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rugaber:Spencer">Spencer Rugaber</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Taylor:Lyman">Lyman Taylor</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wills:Linda_M=">Linda M. Wills</a>:<b>A Case Study of Domain-based Program Understanding.</b> 102-110<small><a href="http://dx.doi.org/10.1109/WPC.1997.601273"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/ClaytonRTW97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/ClaytonRTW97.xml">XML</a></small></small></li>
+<li id="Sayyad-ShirabadLL97"><a href="http://dblp.uni-trier.de/pers/hc/s/Sayyad=Shirabad:Jelber">Jelber Sayyad-Shirabad</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lethbridge:Timothy">Timothy Lethbridge</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lyon:Steve">Steve Lyon</a>:<b>A Little Knowledge Can Go a Long Way Towards Program Understanding.</b> 111-117<small><a href="http://dx.doi.org/10.1109/WPC.1997.601275"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/Sayyad-ShirabadLL97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/Sayyad-ShirabadLL97.xml">XML</a></small></small></li>
+<li id="KloschWTs97"><a href="http://dblp.uni-trier.de/pers/hc/k/Kl=ouml=sch:Ren=eacute=">Ren&#233; Kl&#246;sch</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Weidl:Johannes">Johannes Weidl</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Trausmuth:Georg">Georg Trausmuth</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gall:Harald_C=">Harald C. Gall</a>:<b>Facilitating Program Comprehension via Generic Components for State Machines.</b> 118-127<small><a href="http://dx.doi.org/10.1109/WPC.1997.601277"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/KloschWTs97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/KloschWTs97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Finding Reusable Assets</h2>
+ 
+
+<ul>
+<li id="BurdM97"><a href="http://dblp.uni-trier.de/pers/hc/b/Burd:Elizabeth">Elizabeth Burd</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Munro:Malcolm">Malcolm Munro</a>:<b>Enriching Program Comprehension for Software Reuse.</b> 130-137<small><a href="http://dx.doi.org/10.1109/WPC.1997.601279"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/BurdM97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/BurdM97.xml">XML</a></small></small></li>
+<li id="CimitileLLF97"><a href="http://dblp.uni-trier.de/pers/hc/c/Cimitile:Aniello">Aniello Cimitile</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lucia:Andrea_De">Andrea De Lucia</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lucca:Giuseppe_A=_Di">Giuseppe A. Di Lucca</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fasolino:Anna_Rita">Anna Rita Fasolino</a>:<b>Identifying objects in legacy systems.</b> 138-147<small><a href="http://dx.doi.org/10.1109/WPC.1997.601281"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/CimitileLLF97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/CimitileLLF97.xml">XML</a></small></small></li>
+<li id="YangLC97"><a href="http://dblp.uni-trier.de/pers/hc/y/Yang:Hongji">Hongji Yang</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Luker:Paul">Paul Luker</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chu:William_C=">William C. Chu</a>:<b>Code Understanding through Program Transformation for Reusable Component Identification.</b> 148-157<small><a href="http://dx.doi.org/10.1109/WPC.1997.601283"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/YangLC97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/YangLC97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Panel Infrastructure for Software Comprehension and Reengineering</h2>
+ 
+
+<ul>
+<li id="RajlichC97"><a href="http://dblp.uni-trier.de/pers/hc/r/Rajlich:Vaclav">Vaclav Rajlich</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cowan:George_S=">George S. Cowan</a>:<b>Towards Standard for Experiments in Program Comprehension.</b> 160-161<small><a href="http://dx.doi.org/10.1109/WPC.1997.601284"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/RajlichC97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/RajlichC97.xml">XML</a></small></small></li>
+<li id="RugaberW97"><a href="http://dblp.uni-trier.de/pers/hc/r/Rugaber:Spencer">Spencer Rugaber</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wills:Linda_M=">Linda M. Wills</a>:<b>Position Paper on Research Infrastructure for Reengineering.</b> 162-164<small><a href="http://dx.doi.org/10.1109/WPC.1997.601286"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/RugaberW97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/RugaberW97.xml">XML</a></small></small></li>
+<li id="LangM97"><a href="http://dblp.uni-trier.de/pers/hc/l/Lang:Steve">Steve Lang</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mayrhauser:Anneliese_von">Anneliese von Mayrhauser</a>:<b>Building a Research Infrastructure for Program Comprehension Observations.</b> 165-169<small><a href="http://dx.doi.org/10.1109/WPC.1997.601287"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/LangM97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/LangM97.xml">XML</a></small></small></li>
+<li id="TilleyS97"><a href="http://dblp.uni-trier.de/pers/hc/t/Tilley:Scott_R=">Scott R. Tilley</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Smith:Dennis_B=">Dennis B. Smith</a>:<b>On Using the Web as Infrastructure for Reengineering.</b> 170-173<small><a href="http://dx.doi.org/10.1109/WPC.1997.601289"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/TilleyS97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/TilleyS97.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Tools</h2>
+ 
+
+<ul>
+<li id="BerglasH97"><a href="http://dblp.uni-trier.de/pers/hc/b/Berglas:Anthony">Anthony Berglas</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harrison:John_V=">John V. Harrison</a>:<b>Evaluation of the ITOC information system design recovery tool.</b> 176-182<small><a href="http://dx.doi.org/10.1109/WPC.1997.601290"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/BerglasH97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/BerglasH97.xml">XML</a></small></small></li>
+<li id="ChuahE97"><a href="http://dblp.uni-trier.de/pers/hc/c/Chuah:Mei_C=">Mei C. Chuah</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Eick:Stephen_G=">Stephen G. Eick</a>:<b>Glyphs for Software Visualization.</b> 183-191<small><a href="http://dx.doi.org/10.1109/WPC.1997.601291"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/ChuahE97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/ChuahE97.xml">XML</a></small></small></li>
+<li id="ChanM97"><a href="http://dblp.uni-trier.de/pers/hc/c/Chan:Pui=Shan">Pui-Shan Chan</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Munro:Malcolm">Malcolm Munro</a>:<b>PUI: A Tool to Support Program Understanding.</b> 192-198<small><a href="http://dx.doi.org/10.1109/WPC.1997.601293"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/ChanM97.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/ChanM97.xml">XML</a></small></small></li>
+</ul>
+
+
+</dblp>

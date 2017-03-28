@@ -1,0 +1,102 @@
+<dblp>
+    <h2>Software Components</h2>
+ 
+
+<ul>
+<li id="HauswirthJ99"><a href="http://dblp.uni-trier.de/pers/hc/h/Hauswirth:Manfred">Manfred Hauswirth</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jazayeri:Mehdi">Mehdi Jazayeri</a>:<b>A Component and Communication Model for Push Systems.</b> 20-38<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_3"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/HauswirthJ99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/HauswirthJ99.xml">XML</a></small></small></li>
+<li id="MascoloPR99"><a href="http://dblp.uni-trier.de/pers/hc/m/Mascolo:Cecilia">Cecilia Mascolo</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Picco:Gian_Pietro">Gian Pietro Picco</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roman:Gruia=Catalin">Gruia-Catalin Roman</a>:<b>A Fine-Grained Model for Code Mobility.</b> 39-56<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_4"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/MascoloPR99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/MascoloPR99.xml">XML</a></small></small></li>
+<li id="Gafni99"><a href="http://dblp.uni-trier.de/pers/hc/g/Gafni:Vered">Vered Gafni</a>:<b>Robots: A Real-Time Systems Architectural Style.</b> 57-74<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_5"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/Gafni99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/Gafni99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Process</h2>
+ 
+
+<ul>
+<li id="WarboysBGKMMM99"><a href="http://dblp.uni-trier.de/pers/hc/w/Warboys:Brian">Brian Warboys</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Balasubramaniam:Dharini">Dharini Balasubramaniam</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Greenwood:R=_Mark">R. Mark Greenwood</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kirby:Graham_N=_C=">Graham N. C. Kirby</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mayes:Ken">Ken Mayes</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Morrison:Ronald">Ronald Morrison</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Munro:David_S=">David S. Munro</a>:<b>Collaboration and Composition: Issues for a Second Generation Process Language.</b> 75-90<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_6"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/WarboysBGKMMM99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/WarboysBGKMMM99.xml">XML</a></small></small></li>
+<li id="JagerSW99"><a href="http://dblp.uni-trier.de/pers/hc/j/J=auml=ger:Dirk">Dirk J&#228;ger</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schleicher:Ansgar">Ansgar Schleicher</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Westfechtel:Bernhard">Bernhard Westfechtel</a>:<b>Using UML for Software Process Modeling.</b> 91-108<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_7"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/JagerSW99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/JagerSW99.xml">XML</a></small></small></li>
+<li id="Padberg99"><a href="http://dblp.uni-trier.de/pers/hc/p/Padberg:Frank">Frank Padberg</a>:<b>A Probabilistic Model for Software Projects.</b> 109-126<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_8"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/Padberg99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/Padberg99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Specification</h2>
+ 
+
+<ul>
+<li id="LevesonHR99"><a href="http://dblp.uni-trier.de/pers/hc/l/Leveson:Nancy_G=">Nancy G. Leveson</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Heimdahl:Mats_Per_Erik">Mats Per Erik Heimdahl</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Reese:Jon_Damon">Jon Damon Reese</a>:<b>Designing Specification Languages for Process Control Systems: Lessons Learned and Steps to the Future.</b> 127-145<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_9"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/LevesonHR99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/LevesonHR99.xml">XML</a></small></small></li>
+<li id="GargantiniH99"><a href="http://dblp.uni-trier.de/pers/hc/g/Gargantini:Angelo">Angelo Gargantini</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Heitmeyer:Constance_L=">Constance L. Heitmeyer</a>:<b>Using Model Checking to Generate Tests from Requirements Specifications.</b> 146-162<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_10"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/GargantiniH99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/GargantiniH99.xml">XML</a></small></small></li>
+<li id="ThompsonHM99"><a href="http://dblp.uni-trier.de/pers/hc/t/Thompson:Jeffrey_M=">Jeffrey M. Thompson</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Heimdahl:Mats_Per_Erik">Mats Per Erik Heimdahl</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Miller:Steven_P=">Steven P. Miller</a>:<b>Specification-Based Prototyping for Embedded Systems.</b> 163-179<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_11"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/ThompsonHM99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/ThompsonHM99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Analysis</h2>
+ 
+
+<ul>
+<li id="SiffCBKR99"><a href="http://dblp.uni-trier.de/pers/hc/s/Siff:Michael">Michael Siff</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chandra_0001:Satish">Satish Chandra</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Ball:Thomas">Thomas Ball</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kunchithapadam:Krishna">Krishna Kunchithapadam</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Reps:Thomas_W=">Thomas W. Reps</a>:<b>Coping with Type Casts in C.</b> 180-198<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_12"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/SiffCBKR99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/SiffCBKR99.xml">XML</a></small></small></li>
+<li id="LiangH99"><a href="http://dblp.uni-trier.de/pers/hc/l/Liang:Donglin">Donglin Liang</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harrold:Mary_Jean">Mary Jean Harrold</a>:<b>Efficient Points-to Analysis for Whole-Program Analysis.</b> 199-215<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_13"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/LiangH99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/LiangH99.xml">XML</a></small></small></li>
+<li id="Ball99"><a href="http://dblp.uni-trier.de/pers/hc/b/Ball:Thomas">Thomas Ball</a>:<b>The Concept of Dynamic Analysis.</b> 216-234<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_14"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/Ball99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/Ball99.xml">XML</a></small></small></li>
+<li id="RountevRL99"><a href="http://dblp.uni-trier.de/pers/hc/r/Rountev:Atanas">Atanas Rountev</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ryder:Barbara_G=">Barbara G. Ryder</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Landi:William">William Landi</a>:<b>Data-Flow Analysis of Program Fragments.</b> 235-252<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_15"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/RountevRL99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/RountevRL99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Testing and Debugging</h2>
+ 
+
+<ul>
+<li id="Zeller99"><a href="http://dblp.uni-trier.de/pers/hc/z/Zeller:Andreas">Andreas Zeller</a>:<b>Yesterday, My Program Worked. Today, It Does Not. Why?</b> 253-267<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_16"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/Zeller99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/Zeller99.xml">XML</a></small></small></li>
+<li id="JaramilloGS99"><a href="http://dblp.uni-trier.de/pers/hc/j/Jaramillo:Clara">Clara Jaramillo</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gupta:Rajiv">Rajiv Gupta</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Soffa:Mary_Lou">Mary Lou Soffa</a>:<b>Comparison Checking: An Approach to Avoid Debugging of Optimized Code.</b> 268-284<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_17"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/JaramilloGS99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/JaramilloGS99.xml">XML</a></small></small></li>
+<li id="ChangR99"><a href="http://dblp.uni-trier.de/pers/hc/c/Chang:Juei">Juei Chang</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Richardson:Debra_J=">Debra J. Richardson</a>:<b>Structural Specification-Based Testing: Automated Support and Experimental Evaluation.</b> 285-302<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_18"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/ChangR99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/ChangR99.xml">XML</a></small></small></li>
+<li id="GyimothyBF99"><a href="http://dblp.uni-trier.de/pers/hc/g/Gyim=oacute=thy:Tibor">Tibor Gyim&#243;thy</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Besz=eacute=des:=Aacute=rp=aacute=d">&#193;rp&#225;d Besz&#233;des</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Forg=aacute=cs:Istv=aacute=n">Istv&#225;n Forg&#225;cs</a>:<b>An Efficient Relevant Slicing Method for Debugging.</b> 303-321<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_19"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/GyimothyBF99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/GyimothyBF99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Java</h2>
+ 
+
+<ul>
+<li id="RobillardM99"><a href="http://dblp.uni-trier.de/pers/hc/r/Robillard:Martin_P=">Martin P. Robillard</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Murphy:Gail_C=">Gail C. Murphy</a>:<b>Analyzing Exception Flow in Java Programs.</b> 322-327<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_20"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/RobillardM99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/RobillardM99.xml">XML</a></small></small></li>
+<li id="NaumovichAC99"><a href="http://dblp.uni-trier.de/pers/hc/n/Naumovich:Gleb">Gleb Naumovich</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Avrunin:George_S=">George S. Avrunin</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Clarke:Lori_A=">Lori A. Clarke</a>:<b>An Efficient Algorithm for Computing <i>MHP</i> Information for Concurrent Java Programs.</b> 338-354<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_21"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/NaumovichAC99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/NaumovichAC99.xml">XML</a></small></small></li>
+<li id="Bokowski99"><a href="http://dblp.uni-trier.de/pers/hc/b/Bokowski:Boris">Boris Bokowski</a>:<b>CoffeeStrainer: Statically-Checked Constraints on the Definition and Use of Types in Java.</b> 355-374<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_22"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/Bokowski99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/Bokowski99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Architecture and Models</h2>
+ 
+
+<ul>
+<li id="Fierz99"><a href="http://dblp.uni-trier.de/pers/hc/f/Fierz:Hugo">Hugo Fierz</a>:<b>The CIP Method: Component- and Model-Based Construction of Embedded Systems.</b> 375-392<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_23"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/Fierz99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/Fierz99.xml">XML</a></small></small></li>
+<li id="WermelingerF99"><a href="http://dblp.uni-trier.de/pers/hc/w/Wermelinger:Michel">Michel Wermelinger</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fiadeiro:Jos=eacute=_Luiz">Jos&#233; Luiz Fiadeiro</a>:<b>Algebraic Software Architecture Reconfiguration.</b> 393-409<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_24"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/WermelingerF99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/WermelingerF99.xml">XML</a></small></small></li>
+<li id="FradetMP99"><a href="http://dblp.uni-trier.de/pers/hc/f/Fradet:Pascal">Pascal Fradet</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/M=eacute=tayer:Daniel_Le">Daniel Le M&#233;tayer</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/P=eacute=rin:Micha=euml=l">Micha&#235;l P&#233;rin</a>:<b>Consistency Checking for Multiple View Software Architectures.</b> 410-428<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_25"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/FradetMP99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/FradetMP99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Reuse</h2>
+ 
+
+<ul>
+<li id="JarzabekK99"><a href="http://dblp.uni-trier.de/pers/hc/j/Jarzabek:Stan">Stan Jarzabek</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Knauber:Peter">Peter Knauber</a>:<b>Synergy between Component-Based and Generative Approaches.</b> 429-445<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_26"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/JarzabekK99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/JarzabekK99.xml">XML</a></small></small></li>
+<li id="BayerGWDA99"><a href="http://dblp.uni-trier.de/pers/hc/b/Bayer:Joachim">Joachim Bayer</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Girard:Jean=Francois">Jean-Francois Girard</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/W=uuml=rthner:Martin">Martin W&#252;rthner</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/DeBaud:Jean=Marc">Jean-Marc DeBaud</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Apel:Martin">Martin Apel</a>:<b>Transitioning Legacy Assets to a Product Line Architecture.</b> 446-463<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_27"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/BayerGWDA99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/BayerGWDA99.xml">XML</a></small></small></li>
+<li id="DossickK99"><a href="http://dblp.uni-trier.de/pers/hc/d/Dossick:Stephen_E=">Stephen E. Dossick</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kaiser:Gail_E=">Gail E. Kaiser</a>:<b>CHIME: A Metadata-Based Distributed Software Development Environment.</b> 464-475<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_28"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/DossickK99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/DossickK99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Verification and Checking</h2>
+ 
+
+<ul>
+<li id="GrimaudLV99"><a href="http://dblp.uni-trier.de/pers/hc/g/Grimaud:Gilles">Gilles Grimaud</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lanet:Jean=Louis">Jean-Louis Lanet</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vandewalle:Jean=Jacques">Jean-Jacques Vandewalle</a>:<b>FACADE: A Typed Intermediate Language Dedicated to Smart Cards.</b> 476-493<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_29"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/GrimaudLV99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/GrimaudLV99.xml">XML</a></small></small></li>
+<li id="BrabermanF99"><a href="http://dblp.uni-trier.de/pers/hc/b/Braberman:V=iacute=ctor_A=">V&#237;ctor A. Braberman</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Felder:Miguel">Miguel Felder</a>:<b>Verification of Real-Time Designs: Combining Scheduling Theory with Automatic Formal Verification.</b> 494-510<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_30"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/BrabermanF99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/BrabermanF99.xml">XML</a></small></small></li>
+<li id="GiannakopoulouMK99"><a href="http://dblp.uni-trier.de/pers/hc/g/Giannakopoulou:Dimitra">Dimitra Giannakopoulou</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Magee:Jeff">Jeff Magee</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kramer:Jeff">Jeff Kramer</a>:<b>Checking Progress with Action Priority: Is it Fair?</b> 511-527<small><a href="http://dx.doi.org/10.1007/3-540-48166-4_31"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/esec/GiannakopoulouMK99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/esec/GiannakopoulouMK99.xml">XML</a></small></small></li>
+</ul>
+
+
+</dblp>

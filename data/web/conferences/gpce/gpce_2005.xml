@@ -1,0 +1,98 @@
+<dblp>
+    <h2>Domain Specific Languages</h2>
+ 
+
+<ul>
+<li id="ConselLRC05"><a href="http://dblp.uni-trier.de/pers/hc/c/Consel:Charles">Charles Consel</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Latry:Fabien">Fabien Latry</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/R=eacute=veill=egrave=re:Laurent">Laurent R&#233;veill&#232;re</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cointe:Pierre">Pierre Cointe</a>:<b>A Generative Programming Approach to Developing DSL Compilers.</b> 29-46<small><a href="http://dx.doi.org/10.1007/11561347_4"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/ConselLRC05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/ConselLRC05.xml">XML</a></small></small></li>
+<li id="MossM05"><a href="http://dblp.uni-trier.de/pers/hc/m/Moss:Andrew">Andrew Moss</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Muller:Henk_L=">Henk L. Muller</a>:<b>Efficient Code Generation for a Domain Specific Language.</b> 47-62<small><a href="http://dx.doi.org/10.1007/11561347_5"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/MossM05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/MossM05.xml">XML</a></small></small></li>
+<li id="AliasB05"><a href="http://dblp.uni-trier.de/pers/hc/a/Alias:Christophe">Christophe Alias</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Barthou:Denis">Denis Barthou</a>:<b>On Domain-Specific Languages Reengineering.</b> 63-77<small><a href="http://dx.doi.org/10.1007/11561347_6"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/AliasB05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/AliasB05.xml">XML</a></small></small></li>
+<li id="LawallDMM05"><a href="http://dblp.uni-trier.de/pers/hc/l/Lawall:Julia_L=">Julia L. Lawall</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Duchesne:Herv=eacute=">Herv&#233; Duchesne</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Muller:Gilles">Gilles Muller</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Meur:Anne=Fran=ccedil=oise_Le">Anne-Fran&#231;oise Le Meur</a>:<b>Bossa Nova: Introducing Modularity into the Bossa Domain-Specific Language.</b> 78-93<small><a href="http://dx.doi.org/10.1007/11561347_7"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/LawallDMM05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/LawallDMM05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Aspect-Oriented Programming</h2>
+ 
+
+<ul>
+<li id="YaoZC05"><a href="http://dblp.uni-trier.de/pers/hc/y/Yao:Zhen">Zhen Yao</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zheng:Qilong">Qilong Zheng</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chen_0001:Guoliang">Guoliang Chen</a>:<b>AOP++: A Generic Aspect-Oriented Programming Framework in C++.</b> 94-108<small><a href="http://dx.doi.org/10.1007/11561347_8"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/YaoZC05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/YaoZC05.xml">XML</a></small></small></li>
+<li id="UbayashiTSMM05"><a href="http://dblp.uni-trier.de/pers/hc/u/Ubayashi:Naoyasu">Naoyasu Ubayashi</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tamai:Tetsuo">Tetsuo Tamai</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sano:Shinji">Shinji Sano</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maeno:Yusaku">Yusaku Maeno</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Murakami:Satoshi">Satoshi Murakami</a>:<b>Model Compiler Construction Based on Aspect-Oriented Mechanisms.</b> 109-124<small><a href="http://dx.doi.org/10.1007/11561347_9"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/UbayashiTSMM05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/UbayashiTSMM05.xml">XML</a></small></small></li>
+<li id="ApelLRS05"><a href="http://dblp.uni-trier.de/pers/hc/a/Apel:Sven">Sven Apel</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Leich:Thomas">Thomas Leich</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rosenm=uuml=ller:Marko">Marko Rosenm&#252;ller</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Saake:Gunter">Gunter Saake</a>:<b>FeatureC++: On the Symbiosis of Feature-Oriented and Aspect-Oriented Programming.</b> 125-140<small><a href="http://dx.doi.org/10.1007/11561347_10"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/ApelLRS05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/ApelLRS05.xml">XML</a></small></small></li>
+<li id="WuL05"><a href="http://dblp.uni-trier.de/pers/hc/w/Wu:Pengcheng">Pengcheng Wu</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lieberherr:Karl_J=">Karl J. Lieberherr</a>:<b>Shadow Programming: Reasoning About Programs Using Lexical Join Point Information.</b> 141-156<small><a href="http://dx.doi.org/10.1007/11561347_11"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/WuL05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/WuL05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Meta-programming and Transformation</h2>
+ 
+
+<ul>
+<li id="BravenboerVVV05"><a href="http://dblp.uni-trier.de/pers/hc/b/Bravenboer:Martin">Martin Bravenboer</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vermaas:Rob">Rob Vermaas</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vinju:Jurgen_J=">Jurgen J. Vinju</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Visser:Eelco">Eelco Visser</a>:<b>Generalized Type-Based Disambiguation of Meta Programs with Concrete Object Syntax.</b> 157-172<small><a href="http://dx.doi.org/10.1007/11561347_12"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/BravenboerVVV05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/BravenboerVVV05.xml">XML</a></small></small></li>
+<li id="TanterN05"><a href="http://dblp.uni-trier.de/pers/hc/t/Tanter:=Eacute=ric">&#201;ric Tanter</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Noy=eacute=:Jacques">Jacques Noy&#233;</a>:<b>A Versatile Kernel for Multi-language AOP.</b> 173-188<small><a href="http://dx.doi.org/10.1007/11561347_13"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/TanterN05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/TanterN05.xml">XML</a></small></small></li>
+<li id="Mogensen05"><a href="http://dblp.uni-trier.de/pers/hc/m/Mogensen:Torben_=AElig==">Torben &#198;. Mogensen</a>:<b>Semi-inversion of Guarded Equations.</b> 189-204<small><a href="http://dx.doi.org/10.1007/11561347_14"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/Mogensen05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/Mogensen05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Generative Techniques</h2>
+ 
+
+<ul>
+<li id="PeruginiR05"><a href="http://dblp.uni-trier.de/pers/hc/p/Perugini:Saverio">Saverio Perugini</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ramakrishnan:Naren">Naren Ramakrishnan</a>:<b>A Generative Programming Approach to Interactive Information Retrieval: Insights and Experiences.</b> 205-220<small><a href="http://dx.doi.org/10.1007/11561347_15"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/PeruginiR05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/PeruginiR05.xml">XML</a></small></small></li>
+<li id="AktemurJKC05"><a href="http://dblp.uni-trier.de/pers/hc/a/Aktemur:Baris">Baris Aktemur</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jones:Joel">Joel Jones</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kamin:Samuel_N=">Samuel N. Kamin</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Clausen:Lars">Lars Clausen</a>:<b>Optimizing Marshalling by Run-Time Program Generation.</b> 221-236<small><a href="http://dx.doi.org/10.1007/11561347_16"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/AktemurJKC05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/AktemurJKC05.xml">XML</a></small></small></li>
+<li id="JunJ05"><a href="http://dblp.uni-trier.de/pers/hc/j/Jun:Yang">Yang Jun</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jarzabek:Stan">Stan Jarzabek</a>:<b>Applying a Generative Technique for Enhanced Genericity and Maintainability on the J2EE Platform.</b> 237-255<small><a href="http://dx.doi.org/10.1007/11561347_17"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/JunJ05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/JunJ05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Multi-stage Programming</h2>
+ 
+
+<ul>
+<li id="CaretteK05"><a href="http://dblp.uni-trier.de/pers/hc/c/Carette:Jacques">Jacques Carette</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kiselyov:Oleg">Oleg Kiselyov</a>:<b>Multi-stage Programming with Functors and Monads: Eliminating Abstraction Overhead from Generic Code.</b> 256-274<small><a href="http://dx.doi.org/10.1007/11561347_18"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/CaretteK05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/CaretteK05.xml">XML</a></small></small></li>
+<li id="EckhardtKPST05"><a href="http://dblp.uni-trier.de/pers/hc/e/Eckhardt:Jason">Jason Eckhardt</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kaiabachev:Roumen">Roumen Kaiabachev</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pasalic:Emir">Emir Pasalic</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Swadi:Kedar_N=">Kedar N. Swadi</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Taha:Walid">Walid Taha</a>:<b>Implicitly Heterogeneous Multi-stage Programming.</b> 275-292<small><a href="http://dx.doi.org/10.1007/11561347_19"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/EckhardtKPST05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/EckhardtKPST05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Generative Techniques</h2>
+ 
+
+<ul>
+<li id="KaminAM05"><a href="http://dblp.uni-trier.de/pers/hc/k/Kamin:Samuel_N=">Samuel N. Kamin</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Aktemur:Baris">Baris Aktemur</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Morton:Philip">Philip Morton</a>:<b>Source-Level Optimization of Run-Time Program Generators.</b> 293-308<small><a href="http://dx.doi.org/10.1007/11561347_20"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/KaminAM05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/KaminAM05.xml">XML</a></small></small></li>
+<li id="HuangZS05"><a href="http://dblp.uni-trier.de/pers/hc/h/Huang:Shan_Shan">Shan Shan Huang</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zook:David">David Zook</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Smaragdakis:Yannis">Yannis Smaragdakis</a>:<b>Statically Safe Program Generation with SafeGen.</b> 309-326<small><a href="http://dx.doi.org/10.1007/11561347_21"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/HuangZS05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/HuangZS05.xml">XML</a></small></small></li>
+<li id="DraheimLW05"><a href="http://dblp.uni-trier.de/pers/hc/d/Draheim:Dirk">Dirk Draheim</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lutteroth:Christof">Christof Lutteroth</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Weber:Gerald">Gerald Weber</a>:<b>A Type System for Reflective Program Generators.</b> 327-341<small><a href="http://dx.doi.org/10.1007/11561347_22"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/DraheimLW05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/DraheimLW05.xml">XML</a></small></small></li>
+<li id="Ahlander05"><a href="http://dblp.uni-trier.de/pers/hc/=/=Aring=hlander:Krister">Krister &#197;hlander</a>:<b>Sorting Out the Relationships Between Pairs of Iterators, Values, and References.</b> 342-356<small><a href="http://dx.doi.org/10.1007/11561347_23"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/Ahlander05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/Ahlander05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Components and Templates</h2>
+ 
+
+<ul>
+<li id="Priebe05"><a href="http://dblp.uni-trier.de/pers/hc/p/Priebe:Steffen">Steffen Priebe</a>:<b>Preprocessing Eden with Template Haskell.</b> 357-372<small><a href="http://dx.doi.org/10.1007/11561347_24"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/Priebe05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/Priebe05.xml">XML</a></small></small></li>
+<li id="CulpepperOF05"><a href="http://dblp.uni-trier.de/pers/hc/c/Culpepper:Ryan">Ryan Culpepper</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Owens:Scott">Scott Owens</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Flatt:Matthew">Matthew Flatt</a>:<b>Syntactic Abstraction in Component Interfaces.</b> 373-388<small><a href="http://dx.doi.org/10.1007/11561347_25"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/CulpepperOF05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/CulpepperOF05.xml">XML</a></small></small></li>
+<li id="HirschkoffHPSS05"><a href="http://dblp.uni-trier.de/pers/hc/h/Hirschkoff:Daniel">Daniel Hirschkoff</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hirschowitz:Tom">Tom Hirschowitz</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pous:Damien">Damien Pous</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schmitt:Alan">Alan Schmitt</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stefani:Jean=Bernard">Jean-Bernard Stefani</a>:<b>Component-Oriented Programming with Sharing: Containment is Not Ownership.</b> 389-404<small><a href="http://dx.doi.org/10.1007/11561347_26"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/HirschkoffHPSS05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/HirschkoffHPSS05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Generic Programming</h2>
+ 
+
+<ul>
+<li id="SiekL05"><a href="http://dblp.uni-trier.de/pers/hc/s/Siek:Jeremy_G=">Jeremy G. Siek</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lumsdaine:Andrew">Andrew Lumsdaine</a>:<b>Language Requirements for Large-Scale Generic Libraries.</b> 405-421<small><a href="http://dx.doi.org/10.1007/11561347_27"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/SiekL05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/SiekL05.xml">XML</a></small></small></li>
+<li id="CzarneckiA05"><a href="http://dblp.uni-trier.de/pers/hc/c/Czarnecki:Krzysztof">Krzysztof Czarnecki</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antkiewicz:Michal">Michal Antkiewicz</a>:<b>Mapping Features to Models: A Template Approach Based on Superimposed Variants.</b> 422-437<small><a href="http://dx.doi.org/10.1007/11561347_28"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/CzarneckiA05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/CzarneckiA05.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Demonstrations</h2>
+ 
+
+<ul>
+<li id="PintoJF05"><a href="http://dblp.uni-trier.de/pers/hc/p/Pinto:M=oacute=nica">M&#243;nica Pinto</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jim=eacute=nez:Daniel">Daniel Jim&#233;nez</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fuentes:Lidia">Lidia Fuentes</a>:<b>Developing Dynamic and Adaptable Applications with CAM/DAOP: A Virtual Office Application.</b> 438-441<small><a href="http://dx.doi.org/10.1007/11561347_29"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/PintoJF05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/PintoJF05.xml">XML</a></small></small></li>
+<li id="Pohjonen05"><a href="http://dblp.uni-trier.de/pers/hc/p/Pohjonen:Risto">Risto Pohjonen</a>:<b>Metamodeling Made Easy - MetaEdit+ (Tool Demonstration).</b> 442-446<small><a href="http://dx.doi.org/10.1007/11561347_30"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/Pohjonen05.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/Pohjonen05.xml">XML</a></small></small></li>
+</ul>
+</dblp>

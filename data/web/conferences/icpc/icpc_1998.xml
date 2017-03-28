@@ -1,0 +1,88 @@
+<dblp>
+    <h2>Visualization</h2>
+ 
+
+<ul>
+<li id="SchauerK98"><a href="http://dblp.uni-trier.de/pers/hc/s/Schauer:Reinhard">Reinhard Schauer</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Keller:Rudolf_K=">Rudolf K. Keller</a>:<b>Pattern Visualization for Software Comprehension.</b> 4-12<small><a href="http://dx.doi.org/10.1109/WPC.1998.693273"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/SchauerK98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/SchauerK98.xml">XML</a></small></small></li>
+<li id="BurkwaldERP98"><a href="http://dblp.uni-trier.de/pers/hc/b/Burkwald:Susan_K=">Susan K. Burkwald</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Eick:Stephen_G=">Stephen G. Eick</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rivard:Kurt_D=">Kurt D. Rivard</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pyrce:John_D=">John D. Pyrce</a>:<b>Visualizing Year 2000 Program Changes.</b> 13-18<small><a href="http://dx.doi.org/10.1109/WPC.1998.693275"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/BurkwaldERP98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/BurkwaldERP98.xml">XML</a></small></small></li>
+<li id="YoungM98"><a href="http://dblp.uni-trier.de/pers/hc/y/Young:Peter">Peter Young</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Munro:Malcolm">Malcolm Munro</a>:<b>Visualizing Software in Virtual Reality.</b> 19-26<small><a href="http://dx.doi.org/10.1109/WPC.1998.693276"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/YoungM98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/YoungM98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Architecture</h2>
+ 
+
+<ul>
+<li id="MendoncaK98"><a href="http://dblp.uni-trier.de/pers/hc/m/Mendon=ccedil=a:Nabor_C=">Nabor C. Mendon&#231;a</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kramer:Jeff">Jeff Kramer</a>:<b>Developing an Approach for the Recovery of Distributed Software Architectures.</b> 28-36<small><a href="http://dx.doi.org/10.1109/WPC.1998.693279"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/MendoncaK98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/MendoncaK98.xml">XML</a></small></small></li>
+<li id="LagueLBMD98"><a href="http://dblp.uni-trier.de/pers/hc/l/Lagu=euml=:Bruno">Bruno Lagu&#235;</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Leduc:Charles">Charles Leduc</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bon:Andr=eacute=_Le">Andr&#233; Le Bon</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Merlo:Ettore">Ettore Merlo</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dagenais:Michel">Michel Dagenais</a>:<b>An Analysis Framework for Understanding Layered Software Architectures.</b> 37-44<small><a href="http://dx.doi.org/10.1109/WPC.1998.693281"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/LagueLBMD98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/LagueLBMD98.xml">XML</a></small></small></li>
+<li id="MancoridisMRCG98"><a href="http://dblp.uni-trier.de/pers/hc/m/Mancoridis:Spiros">Spiros Mancoridis</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mitchell:Brian_S=">Brian S. Mitchell</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rorres:Chris">Chris Rorres</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chen:Yih=Farn">Yih-Farn Chen</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gansner:Emden_R=">Emden R. Gansner</a>:<b>Using Automatic Clustering to Produce High-Level System Organizations of Source Code.</b> 45-52<small><a href="http://dx.doi.org/10.1109/WPC.1998.693283"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/MancoridisMRCG98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/MancoridisMRCG98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Integration Frameworks</h2>
+ 
+
+<ul>
+<li id="WoodsOLGQ98"><a href="http://dblp.uni-trier.de/pers/hc/w/Woods:Steven">Steven Woods</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/O=Brien:Liam">Liam O'Brien</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lin:Tao">Tao Lin</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gallagher:Keith">Keith Gallagher</a>, <a href="http://dblp.uni-trier.de/pers/hc/q/Quilici:Alex">Alex Quilici</a>:<b>An Architecture for Interoperable Program Understanding Tools.</b> 54-63<small><a href="http://dx.doi.org/10.1109/WPC.1998.693285"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/WoodsOLGQ98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/WoodsOLGQ98.xml">XML</a></small></small></li>
+<li id="Kamp98"><a href="http://dblp.uni-trier.de/pers/hc/k/Kamp:Manfred">Manfred Kamp</a>:<b>Managing a Multi-File, Multi-Language Software Repository for Program Comprehension Tools 3/4 A Generic Approach.</b> 64-71<small><a href="http://dx.doi.org/10.1109/WPC.1998.693287"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/Kamp98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/Kamp98.xml">XML</a></small></small></li>
+<li id="Lakhotia98"><a href="http://dblp.uni-trier.de/pers/hc/l/Lakhotia:Arun">Arun Lakhotia</a>:<b>DIME: A Direct Manipulation Environment for Evolutionary Development of Software.</b> 72-79<small><a href="http://dx.doi.org/10.1109/WPC.1998.693289"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/Lakhotia98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/Lakhotia98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Comprehension Strategies</h2>
+ 
+
+<ul>
+<li id="DetienneBW98"><a href="http://dblp.uni-trier.de/pers/hc/d/D=eacute=tienne:Fran=ccedil=oise">Fran&#231;oise D&#233;tienne</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Burkhardt:Jean=Marie">Jean-Marie Burkhardt</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wiedenbeck:Susan">Susan Wiedenbeck</a>:<b>The Effect of Object-Oriented Programming Expertise in Several Dimensions of Comprehension Strategies.</b> 82-89<small><a href="http://dx.doi.org/10.1109/WPC.1998.693294"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/DetienneBW98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/DetienneBW98.xml">XML</a></small></small></li>
+<li id="DeursenK98"><a href="http://dblp.uni-trier.de/pers/hc/d/Deursen:Arie_van">Arie van Deursen</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kuipers:Tobias">Tobias Kuipers</a>:<b>Rapid System Understanding: Two COBOL Case Studies.</b> 90-97<small><a href="http://dx.doi.org/10.1109/WPC.1998.693319"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/DeursenK98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/DeursenK98.xml">XML</a></small></small></li>
+<li id="ErdosS98"><a href="http://dblp.uni-trier.de/pers/hc/e/Erd=ouml=s:Katalin">Katalin Erd&#246;s</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sneed:Harry_M=">Harry M. Sneed</a>:<b>Partial Comprehension of Complex Programs (enough to perform maintenance).</b> 98-105<small><a href="http://dx.doi.org/10.1109/WPC.1998.693322"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/ErdosS98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/ErdosS98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Parsing</h2>
+ 
+
+<ul>
+<li id="BrandSV98"><a href="http://dblp.uni-trier.de/pers/hc/b/Brand:Mark_van_den">Mark van den Brand</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sellink:M=_P=_A=">M. P. A. Sellink</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Verhoef:Chris">Chris Verhoef</a>:<b>Current Parsing Techniques in Software Renovation Considered Harmful.</b> 108-117<small><a href="http://dx.doi.org/10.1109/WPC.1998.693325"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/BrandSV98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/BrandSV98.xml">XML</a></small></small></li>
+<li id="SomeL98"><a href="http://dblp.uni-trier.de/pers/hc/s/Som=eacute=:St=eacute=phane_S=">St&#233;phane S. Som&#233;</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lethbridge:Timothy">Timothy Lethbridge</a>:<b>Parsing Minimization when Extracting Information from Code in the Presence of Conditional Compilation.</b> 118-125<small><a href="http://dx.doi.org/10.1109/WPC.1998.693328"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/SomeL98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/SomeL98.xml">XML</a></small></small></li>
+<li id="CifuentesS98"><a href="http://dblp.uni-trier.de/pers/hc/c/Cifuentes:Cristina">Cristina Cifuentes</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sendall:Shane">Shane Sendall</a>:<b>Specifying the Semantics of Machine Instructions.</b> 126-133<small><a href="http://dx.doi.org/10.1109/WPC.1998.693332"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/CifuentesS98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/CifuentesS98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Decomposition</h2>
+ 
+
+<ul>
+<li id="CanforaCLL98"><a href="http://dblp.uni-trier.de/pers/hc/c/Canfora:Gerardo">Gerardo Canfora</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cimitile:Aniello">Aniello Cimitile</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lucia:Andrea_De">Andrea De Lucia</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lucca:Giuseppe_A=_Di">Giuseppe A. Di Lucca</a>:<b>Decomposing Legacy Programs: A First Step Towards Migrating to Client-Server Platforms.</b> 136-144<small><a href="http://dx.doi.org/10.1109/WPC.1998.693336"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/CanforaCLL98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/CanforaCLL98.xml">XML</a></small></small></li>
+<li id="KorelR98"><a href="http://dblp.uni-trier.de/pers/hc/k/Korel:Bogdan">Bogdan Korel</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rilling:Juergen">Juergen Rilling</a>:<b>Program Slicing in Understanding of Large Programs.</b> 145-152<small><a href="http://dx.doi.org/10.1109/WPC.1998.693339"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/KorelR98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/KorelR98.xml">XML</a></small></small></li>
+<li id="AntoniolFC98"><a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fiutem:Roberto">Roberto Fiutem</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cristoforetti:L=">L. Cristoforetti</a>:<b>Design Pattern Recovery in Object-Oriented Software.</b> 153-160<small><a href="http://dx.doi.org/10.1109/WPC.1998.693342"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/AntoniolFC98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/AntoniolFC98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Empirical Studies</h2>
+ 
+
+<ul>
+<li id="MayrhauserV98"><a href="http://dblp.uni-trier.de/pers/hc/m/Mayrhauser:Anneliese_von">Anneliese von Mayrhauser</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vans:A=_Marie">A. Marie Vans</a>:<b>Program Understanding Behavior During Adaptation of Large Scale Software.</b> 164-172<small><a href="http://dx.doi.org/10.1109/WPC.1998.693345"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/MayrhauserV98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/MayrhauserV98.xml">XML</a></small></small></li>
+<li id="SingerL98"><a href="http://dblp.uni-trier.de/pers/hc/s/Singer:Janice">Janice Singer</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lethbridge:Timothy">Timothy Lethbridge</a>:<b>Studying Work Practices to Assist Tool Design in Software Engineering.</b> 173-179<small><a href="http://dx.doi.org/10.1109/WPC.1998.693348"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/SingerL98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/SingerL98.xml">XML</a></small></small></li>
+<li id="SimCH98"><a href="http://dblp.uni-trier.de/pers/hc/s/Sim:Susan_Elliott">Susan Elliott Sim</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Clarke:Charles_L=_A=">Charles L. A. Clarke</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Holt:Richard_C=">Richard C. Holt</a>:<b>Archetypal Source Code Searches: A Survey of Software Developers and Maintainers.</b> 180-187<small><a href="http://dx.doi.org/10.1109/WPC.1998.693351"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/SimCH98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/SimCH98.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Analysis</h2>
+ 
+
+<ul>
+<li id="BechiniT98"><a href="http://dblp.uni-trier.de/pers/hc/b/Bechini:Alessio">Alessio Bechini</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tai:Kuo=Chung">Kuo-Chung Tai</a>:<b>Design of a Toolset for Dynamic Analysis of Concurrent Java Program.</b> 190-197<small><a href="http://dx.doi.org/10.1109/WPC.1998.693354"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/BechiniT98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/BechiniT98.xml">XML</a></small></small></li>
+<li id="BinkleyDJW98"><a href="http://dblp.uni-trier.de/pers/hc/b/Binkley:David">David Binkley</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Duncan:Bruce">Bruce Duncan</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jubb:Brennan">Brennan Jubb</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wielgosz:April">April Wielgosz</a>:<b>The Feedback Compiler.</b> 198-205<small><a href="http://dx.doi.org/10.1109/WPC.1998.693358"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/BinkleyDJW98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/BinkleyDJW98.xml">XML</a></small></small></li>
+<li id="MartinoMMV98"><a href="http://dblp.uni-trier.de/pers/hc/m/Martino:Beniamino_Di">Beniamino Di Martino</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mazzeo:Antonino">Antonino Mazzeo</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mazzocca:Nicola">Nicola Mazzocca</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Villano:Umberto">Umberto Villano</a>:<b>Automatic Detection of Interaction Patterns for Parallel Program Analysis and Development .</b> 206-213<small><a href="http://dx.doi.org/10.1109/WPC.1998.693361"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/MartinoMMV98.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/MartinoMMV98.xml">XML</a></small></small></li>
+</ul>
+
+</dblp>

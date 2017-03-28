@@ -1,0 +1,141 @@
+<dblp>
+    <h2>Experiments with Large Systems</h2>
+ 
+
+<ul>
+<li id="Neighbors96"><a href="http://dblp.uni-trier.de/pers/hc/n/Neighbors:James_M=">James M. Neighbors</a>:<b>Finding Reusable Software Components in Large Systems.</b> 2-10<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558783"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/Neighbors96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/Neighbors96.xml">XML</a></small></small></li>
+<li id="LewisM96"><a href="http://dblp.uni-trier.de/pers/hc/l/Lewis:Bruce_A=">Bruce A. Lewis</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/McConnell:David_J=">David J. McConnell</a>:<b>Reengineering Real-Time Embedded Software onto a Parallel Processing Platform.</b> 11-<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558799"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/LewisM96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/LewisM96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Experiments for Evaluation</h2>
+ 
+
+<ul>
+<li id="WoodsQ96"><a href="http://dblp.uni-trier.de/pers/hc/w/Woods:Steven">Steven Woods</a>, <a href="http://dblp.uni-trier.de/pers/hc/q/Quilici:Alex">Alex Quilici</a>:<b>Some Experiments Toward Understanding How Program Plan Recognition Algorithms Scale.</b> 21-30<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558813"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/WoodsQ96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/WoodsQ96.xml">XML</a></small></small></li>
+<li id="StoreyWFHHM96"><a href="http://dblp.uni-trier.de/pers/hc/s/Storey:Margaret=Anne_D=">Margaret-Anne D. Storey</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wong:Kenny">Kenny Wong</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fong:P=">P. Fong</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hooper:D=">D. Hooper</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hopkins:K=">K. Hopkins</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/M=uuml=ller:Hausi_A=">Hausi A. M&#252;ller</a>:<b>On Designing an Experiment to Evaluate a Reverse Engineering Tool.</b> 31-<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558826"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/StoreyWFHHM96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/StoreyWFHHM96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>User Interface Migration</h2>
+ 
+
+<ul>
+<li id="Moore96"><a href="http://dblp.uni-trier.de/pers/hc/m/Moore:Melody_M=">Melody M. Moore</a>:<b>Rule-Based Detection for Reverse Engineering User Interfaces.</b> 42-<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558844"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/Moore96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/Moore96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Reverse Engineering Binary and Assembler Code</h2>
+ 
+
+<ul>
+<li id="Cifuentes96"><a href="http://dblp.uni-trier.de/pers/hc/c/Cifuentes:Cristina">Cristina Cifuentes</a>:<b>Partial Automation of an Integrated Reverse Engineering Environment of Binary Code.</b> 50-56<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558851"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/Cifuentes96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/Cifuentes96.xml">XML</a></small></small></li>
+<li id="MorrisF96"><a href="http://dblp.uni-trier.de/pers/hc/m/Morris:Paul_H=">Paul H. Morris</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Filman:Robert_E=">Robert E. Filman</a>:<b>Mandrake: A Tool for Reverse-Engineering IBM Assembly Code.</b> 57-66<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558863"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/MorrisF96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/MorrisF96.xml">XML</a></small></small></li>
+<li id="LakeB96"><a href="http://dblp.uni-trier.de/pers/hc/l/Lake:Tom">Tom Lake</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Blanchard:Tim">Tim Blanchard</a>:<b>Reverse Engineering of Assembler Programs: A Model-Based Approach and its Logical Basis.</b> 67-75<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558872"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/LakeB96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/LakeB96.xml">XML</a></small></small></li>
+<li id="RobertsPK96"><a href="http://dblp.uni-trier.de/pers/hc/r/Roberts:Susan_N=">Susan N. Roberts</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Piazza:Richard_L=">Richard L. Piazza</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Katz:D=_G=">D. G. Katz</a>:<b>A Portable Assembler Reverse Engineering Environment (PARE).</b> 76-<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558878"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/RobertsPK96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/RobertsPK96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Object Model Transformation</h2>
+ 
+
+<ul>
+<li id="BlahaP96"><a href="http://dblp.uni-trier.de/pers/hc/b/Blaha:Michael_R=">Michael R. Blaha</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Premerlani:William_J=">William J. Premerlani</a>:<b>A Catalog of Object Model Transformations.</b> 87-<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558881"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/BlahaP96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/BlahaP96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Reengineering Infrastructure</h2>
+ 
+
+<ul>
+<li id="RugaberW96"><a href="http://dblp.uni-trier.de/pers/hc/r/Rugaber:Spencer">Spencer Rugaber</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wills:Linda_M=">Linda M. Wills</a>:<b>Creating a Research Infrastructure for Reengineering.</b> 98-<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558883"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/RugaberW96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/RugaberW96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Wrapping</h2>
+ 
+
+<ul>
+<li id="Sneed96"><a href="http://dblp.uni-trier.de/pers/hc/s/Sneed:Harry_M=">Harry M. Sneed</a>:<b>Encapsulating Legacy Software for Use in Client/Server Systems.</b> 104-<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558885"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/Sneed96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/Sneed96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Data Reverse Engineering</h2>
+ 
+
+<ul>
+<li id="McAllister96"><a href="http://dblp.uni-trier.de/pers/hc/m/McAllister:Andrew_J=">Andrew J. McAllister</a>:<b>Reverse Engineering a Medical Database.</b> 121-130<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558889"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/McAllister96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/McAllister96.xml">XML</a></small></small></li>
+<li id="HainautHREH96"><a href="http://dblp.uni-trier.de/pers/hc/h/Hainaut:Jean=Luc">Jean-Luc Hainaut</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Henrard:Jean">Jean Henrard</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roland:Didier">Didier Roland</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Englebert:Vincent">Vincent Englebert</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hick:Jean=Marc">Jean-Marc Hick</a>:<b>Structure Elicitation in Database Reverse Engineering.</b> 131-140<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558891"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/HainautHREH96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/HainautHREH96.xml">XML</a></small></small></li>
+<li id="Davis96"><a href="http://dblp.uni-trier.de/pers/hc/d/Davis:Kathi_Hogshead">Kathi Hogshead Davis</a>:<b>Combining a Flexible Data Model and Phase Schema Translation in Data Model Reverse Engineering.</b> 141-<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558893"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/Davis96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/Davis96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Visualizing Recovered Architectures</h2>
+ 
+
+<ul>
+<li id="ChaseHRY96"><a href="http://dblp.uni-trier.de/pers/hc/c/Chase:Melissa_P=">Melissa P. Chase</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harris:David_R=">David R. Harris</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roberts:Susan_N=">Susan N. Roberts</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yeh:Alexander_S=">Alexander S. Yeh</a>:<b>Analysis and Presentation of Recovered Software Architectures.</b> 153-162<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558899"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/ChaseHRY96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/ChaseHRY96.xml">XML</a></small></small></li>
+<li id="HoltP96"><a href="http://dblp.uni-trier.de/pers/hc/h/Holt:Richard_C=">Richard C. Holt</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pak:J=_Y=">J. Y. Pak</a>:<b>GASE: visualizing Software Evolution-in-the-Large.</b> 163-<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558900"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/HoltP96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/HoltP96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Recovering Objects</h2>
+ 
+
+<ul>
+<li id="Sneed96a"><a href="http://dblp.uni-trier.de/pers/hc/s/Sneed:Harry_M=">Harry M. Sneed</a>:<b>Object-Oriented Cobol Recycling.</b> 169-178<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558901"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/Sneed96a.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/Sneed96a.xml">XML</a></small></small></li>
+<li id="PenteadoGM96"><a href="http://dblp.uni-trier.de/pers/hc/p/Penteado:Ros=acirc=ngela">Ros&#226;ngela Penteado</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Germano:Fern=atilde=o_Stella_R=">Fern&#227;o Stella R. Germano</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Masiero:Paulo_Cesar">Paulo Cesar Masiero</a>:<b>An Overall Process Based on Fusion to Reverse Engineer Legacy Code.</b> 179-188<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558902"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/PenteadoGM96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/PenteadoGM96.xml">XML</a></small></small></li>
+<li id="BurdMW96"><a href="http://dblp.uni-trier.de/pers/hc/b/Burd:Elizabeth">Elizabeth Burd</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Munro:Malcolm">Malcolm Munro</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wezeman:Clazien_D=">Clazien D. Wezeman</a>:<b>Extracting Reusable Modules from Legacy Code: Considering the Issues of Module Granularity.</b> 189-<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558903"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/BurdMW96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/BurdMW96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Recognition</h2>
+ 
+
+<ul>
+<li id="TonellaFAM96"><a href="http://dblp.uni-trier.de/pers/hc/t/Tonella:Paolo">Paolo Tonella</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fiutem:Roberto">Roberto Fiutem</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Merlo:Ettore">Ettore Merlo</a>:<b>Augmenting Pattern-Based Architectural Recovery with Flow Analysis: Mosaic -A Case Study.</b> 198-207<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558904"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/TonellaFAM96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/TonellaFAM96.xml">XML</a></small></small></li>
+<li id="KramerP96"><a href="http://dblp.uni-trier.de/pers/hc/k/Kr=auml=mer:Christian">Christian Kr&#228;mer</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Prechelt:Lutz">Lutz Prechelt</a>:<b>Design Recovery by Automated Search for Structural Design Patterns in Object-Oriented Softwar.</b> 208-<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558905"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/KramerP96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/KramerP96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Domain-Oriented Recovery</h2>
+ 
+
+<ul>
+<li id="DeBaud96"><a href="http://dblp.uni-trier.de/pers/hc/d/DeBaud:Jean=Marc">Jean-Marc DeBaud</a>:<b>Lessons from a Domain-Based Reengineering Effort.</b> 217-226<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558912"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/DeBaud96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/DeBaud96.xml">XML</a></small></small></li>
+<li id="GravleyL96"><a href="http://dblp.uni-trier.de/pers/hc/g/Gravley:John_M=">John M. Gravley</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lakhotia:Arun">Arun Lakhotia</a>:<b>Identifying Enumeration Types Modeled with Symbolic Constants.</b> 227-<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558915"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/GravleyL96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/GravleyL96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Reverse Engineering I</h2>
+ 
+
+<ul>
+<li id="YoungerLBB96"><a href="http://dblp.uni-trier.de/pers/hc/y/Younger:E=_J=">E. J. Younger</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Luo:Z=">Z. Luo</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bennett:Keith_H=">Keith H. Bennett</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bull:T=_M=">T. M. Bull</a>:<b>Reverse Engineering Concurrent Programs Using Formal Modelling and Analysis.</b> 239-248<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558918"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/YoungerLBB96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/YoungerLBB96.xml">XML</a></small></small></li>
+<li id="GannodC96"><a href="http://dblp.uni-trier.de/pers/hc/g/Gannod:Gerald_C=">Gerald C. Gannod</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cheng:Betty_H=_C=">Betty H. C. Cheng</a>:<b>Using Informal and Formal Techniques for the Reverse Engineering of C Programs.</b> 249-258<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558929"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/GannodC96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/GannodC96.xml">XML</a></small></small></li>
+<li id="Abd-El-Hafiz96"><a href="http://dblp.uni-trier.de/pers/hc/a/Abd=El=Hafiz:Salwa_K=">Salwa K. Abd-El-Hafiz</a>:<b>Evaluation of a Knowledge-Based Approach to Program Understanding.</b> 259-<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558931"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/Abd-El-Hafiz96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/Abd-El-Hafiz96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Reverse Engineering II</h2>
+ 
+
+<ul>
+<li id="WildeC96"><a href="http://dblp.uni-trier.de/pers/hc/w/Wilde:Norman">Norman Wilde</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Casey:Christopher">Christopher Casey</a>:<b>Early Field Experience with the Software Recounaissance Technique for Program Comprehension.</b> 270-276<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558934"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/WildeC96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/WildeC96.xml">XML</a></small></small></li>
+<li id="FiutemTAM96"><a href="http://dblp.uni-trier.de/pers/hc/f/Fiutem:Roberto">Roberto Fiutem</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tonella:Paolo">Paolo Tonella</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Merlo:Ettore">Ettore Merlo</a>:<b>A Cliche-Based Environment to Support Architectural Reverse Engineering.</b> 277-286<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558936"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/FiutemTAM96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/FiutemTAM96.xml">XML</a></small></small></li>
+<li id="Favre96"><a href="http://dblp.uni-trier.de/pers/hc/f/Favre:Jean=Marie">Jean-Marie Favre</a>:<b>Preprocessors from an Abstract Point of View.</b> 287-296<small><a href="http://dx.doi.org/10.1109/WCRE.1996.558940"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/wcre/Favre96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/wcre/Favre96.xml">XML</a></small></small></li>
+</ul>
+</dblp>

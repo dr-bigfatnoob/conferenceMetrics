@@ -1,0 +1,87 @@
+<dblp>
+    <h2>Program Comprehension</h2>
+ 
+
+<ul>
+<li id="EickW96"><a href="http://dblp.uni-trier.de/pers/hc/e/Eick:Stephen_G=">Stephen G. Eick</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wards:Amy">Amy Wards</a>:<b>An Interactive Visualization for Message Sequence Charts.</b> 2-7<small><a href="http://dx.doi.org/10.1109/WPC.1996.501115"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/EickW96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/EickW96.xml">XML</a></small></small></li>
+<li id="LuciaFM96"><a href="http://dblp.uni-trier.de/pers/hc/l/Lucia:Andrea_De">Andrea De Lucia</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fasolino:Anna_Rita">Anna Rita Fasolino</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Munro:Malcolm">Malcolm Munro</a>:<b>Understanding Function Behaviors through Program Slicing.</b> 9-10<small><a href="http://dx.doi.org/10.1109/WPC.1996.501116"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/LuciaFM96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/LuciaFM96.xml">XML</a></small></small></li>
+<li id="TilleySP96"><a href="http://dblp.uni-trier.de/pers/hc/t/Tilley:Scott_R=">Scott R. Tilley</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Smith:Dennis_B=">Dennis B. Smith</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Paul:Santanu">Santanu Paul</a>:<b>Towards a Framework for Program Understanding.</b> 19-<small><a href="http://dx.doi.org/10.1109/WPC.1996.501117"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/TilleySP96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/TilleySP96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Tools and Environments</h2>
+ 
+
+<ul>
+<li id="CanforaMT96"><a href="http://dblp.uni-trier.de/pers/hc/c/Canfora:Gerardo">Gerardo Canfora</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mancini:L=">L. Mancini</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tortorella:Maria">Maria Tortorella</a>:<b>A Workbench for Program Comprehension during Software Maintenance.</b> 30-39<small><a href="http://dx.doi.org/10.1109/WPC.1996.501118"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/CanforaMT96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/CanforaMT96.xml">XML</a></small></small></li>
+<li id="Sullivan96"><a href="http://dblp.uni-trier.de/pers/hc/s/Sullivan:Kevin_J=">Kevin J. Sullivan</a>:<b>Rapid Development of Simple, Custom Program Analysis Tools.</b> 40-44<small><a href="http://dx.doi.org/10.1109/WPC.1996.501119"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/Sullivan96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/Sullivan96.xml">XML</a></small></small></li>
+<li id="Graham96"><a href="http://dblp.uni-trier.de/pers/hc/g/Graham:T=_C=_Nicholas">T. C. Nicholas Graham</a>:<b>A Method for The Formal Testing of Program Visualization Tools.</b> 45-54<small><a href="http://dx.doi.org/10.1109/WPC.1996.501120"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/Graham96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/Graham96.xml">XML</a></small></small></li>
+<li id="QuiliciW96"><a href="http://dblp.uni-trier.de/pers/hc/q/Quilici:Alex">Alex Quilici</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Woods:Steven">Steven Woods</a>:<b>Toward a Constraint-Satisfaction Framework for Evaluating Program-Understanding Algorithms.</b> 55-<small><a href="http://dx.doi.org/10.1109/WPC.1996.501121"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/QuiliciW96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/QuiliciW96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Comprehension Experiments and Estimation</h2>
+ 
+
+<ul>
+<li id="MayrhauserV96"><a href="http://dblp.uni-trier.de/pers/hc/m/Mayrhauser:Anneliese_von">Anneliese von Mayrhauser</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vans:A=_Marie">A. Marie Vans</a>:<b>On the Role of Hypotheses during Opportunistic Understanding While Porting Large Scale Code.</b> 68-77<small><a href="http://dx.doi.org/10.1109/WPC.1996.501122"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/MayrhauserV96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/MayrhauserV96.xml">XML</a></small></small></li>
+<li id="FioreLV96"><a href="http://dblp.uni-trier.de/pers/hc/f/Fiore:Piernicola">Piernicola Fiore</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lanubile:Filippo">Filippo Lanubile</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Visaggio:Giuseppe">Giuseppe Visaggio</a>:<b>Effort Estimation for Program Comprehension.</b> 78-<small><a href="http://dx.doi.org/10.1109/WPC.1996.501123"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/FioreLV96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/FioreLV96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Evolution</h2>
+ 
+
+<ul>
+<li id="Wong96"><a href="http://dblp.uni-trier.de/pers/hc/w/Wong:Kenny">Kenny Wong</a>:<b>On Inserting Program Understanding Technology into the Software Change Process.</b> 90-99<small><a href="http://dx.doi.org/10.1109/WPC.1996.501124"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/Wong96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/Wong96.xml">XML</a></small></small></li>
+<li id="BoldyreffBHMY96"><a href="http://dblp.uni-trier.de/pers/hc/b/Boldyreff:Cornelia">Cornelia Boldyreff</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Burd:Elizabeth">Elizabeth Burd</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hather:R=_M=">R. M. Hather</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Munro:Malcolm">Malcolm Munro</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Younger:E=_J=">E. J. Younger</a>:<b>Greater Understanding Through Maintainer Driven Traceability.</b> 100-<small><a href="http://dx.doi.org/10.1109/WPC.1996.501125"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/BoldyreffBHMY96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/BoldyreffBHMY96.xml">XML</a></small></small></li>
+<li id="SneedE96"><a href="http://dblp.uni-trier.de/pers/hc/s/Sneed:Harry_M=">Harry M. Sneed</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Erd=ouml=s:Katalin">Katalin Erd&#246;s</a>:<b>Extracting Business Rules from Source Code .</b> 240-<small><a href="http://dx.doi.org/10.1109/WPC.1996.501138"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/SneedE96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/SneedE96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Domain-Specific Program Comprehension</h2>
+ 
+
+<ul>
+<li id="Bull96"><a href="http://dblp.uni-trier.de/pers/hc/b/Bull:Tim">Tim Bull</a>:<b>Comprehension of Safety-Critical Systems Using Domain-Specific Languages.</b> 108-122<small><a href="http://dx.doi.org/10.1109/WPC.1996.501126"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/Bull96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/Bull96.xml">XML</a></small></small></li>
+<li id="CitrinSZ96"><a href="http://dblp.uni-trier.de/pers/hc/c/Citrin:Wayne">Wayne Citrin</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Santiago:Carlos">Carlos Santiago</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zorn:Benjamin_G=">Benjamin G. Zorn</a>:<b>Scalable Interfaces to Support Program Comprehension.</b> 123-132<small><a href="http://dx.doi.org/10.1109/WPC.1996.501127"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/CitrinSZ96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/CitrinSZ96.xml">XML</a></small></small></li>
+<li id="BlazyF96"><a href="http://dblp.uni-trier.de/pers/hc/b/Blazy:Sandrine">Sandrine Blazy</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Facon:Philippe">Philippe Facon</a>:<b>Interprocedural analysis for program comprehension by specialization.</b> 133-<small><a href="http://dx.doi.org/10.1109/WPC.1996.501128"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/BlazyF96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/BlazyF96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Pattern Matching Algorithms</h2>
+ 
+
+<ul>
+<li id="GriswoldAM96"><a href="http://dblp.uni-trier.de/pers/hc/g/Griswold:William_G=">William G. Griswold</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Atkinson:Darren_C=">Darren C. Atkinson</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/McCurdy:Collin">Collin McCurdy</a>:<b>Fast, Flexible Syntactic Pattern Matching and Processing.</b> 144-153<small><a href="http://dx.doi.org/10.1109/WPC.1996.501129"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/GriswoldAM96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/GriswoldAM96.xml">XML</a></small></small></li>
+<li id="AlencarCKL96"><a href="http://dblp.uni-trier.de/pers/hc/a/Alencar:Paulo_S=_C=">Paulo S. C. Alencar</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cowan:Donald_D=">Donald D. Cowan</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kunz:Thomas">Thomas Kunz</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lucena:Carlos_Jos=eacute=_Pereira_de">Carlos Jos&#233; Pereira de Lucena</a>:<b>A Formal Architectural Design Patterns-Based Approach to Software Understanding.</b> 154-163<small><a href="http://dx.doi.org/10.1109/WPC.1996.501130"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/AlencarCKL96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/AlencarCKL96.xml">XML</a></small></small></li>
+<li id="MartinoI96"><a href="http://dblp.uni-trier.de/pers/hc/m/Martino:Beniamino_Di">Beniamino Di Martino</a>, <a href="http://dblp.uni-trier.de/pers/hc/i/Iannello:Giulio">Giulio Iannello</a>:<b>PAP Recognizer: A Tool for Automatic Recognition of Parallelizable Patterns.</b> 164-<small><a href="http://dx.doi.org/10.1109/WPC.1996.501131"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/MartinoI96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/MartinoI96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Architecture Comprehension</h2>
+ 
+
+<ul>
+<li id="WallnauCMK96"><a href="http://dblp.uni-trier.de/pers/hc/w/Wallnau:Kurt_C=">Kurt C. Wallnau</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Clements:Paul_C=">Paul C. Clements</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Morris:Edwin_J=">Edwin J. Morris</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Krut:Robert">Robert Krut</a>:<b>The Gadfly: An Approach to Architectural-Level System Comprehension.</b> 178-186<small><a href="http://dx.doi.org/10.1109/WPC.1996.501132"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/WallnauCMK96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/WallnauCMK96.xml">XML</a></small></small></li>
+<li id="FiutemMAT96"><a href="http://dblp.uni-trier.de/pers/hc/f/Fiutem:Roberto">Roberto Fiutem</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Merlo:Ettore">Ettore Merlo</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tonella:Paolo">Paolo Tonella</a>:<b>Understanding the architecture of software systems.</b> 187-<small><a href="http://dx.doi.org/10.1109/WPC.1996.501133"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/FiutemMAT96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/FiutemMAT96.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Hierarchical Program Comprehension</h2>
+ 
+
+<ul>
+<li id="Kunz96"><a href="http://dblp.uni-trier.de/pers/hc/k/Kunz:Thomas">Thomas Kunz</a>:<b>Evaluating process clusters to support automatic program understanding.</b> 198-207<small><a href="http://dx.doi.org/10.1109/WPC.1996.501134"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/Kunz96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/Kunz96.xml">XML</a></small></small></li>
+<li id="KloeschM96"><a href="http://dblp.uni-trier.de/pers/hc/k/Kl=ouml=sch:Ren=eacute=">Ren&#233; Kl&#246;sch</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mittermeir:Roland">Roland Mittermeir</a>:<b>Improving Program Understanding by Unfolding Layers of Interacting Patterns.</b> 208-217<small><a href="http://dx.doi.org/10.1109/WPC.1996.501135"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/KloeschM96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/KloeschM96.xml">XML</a></small></small></li>
+<li id="DoorleyC96"><a href="http://dblp.uni-trier.de/pers/hc/d/Doorley:Michael">Michael Doorley</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cahill:Anthony">Anthony Cahill</a>:<b>Experiences in Automatic Leveling of Data Flow Diagrams.</b> 218-229<small><a href="http://dx.doi.org/10.1109/WPC.1996.501136"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/DoorleyC96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/DoorleyC96.xml">XML</a></small></small></li>
+<li id="BailesBCJ96"><a href="http://dblp.uni-trier.de/pers/hc/b/Bailes:Paul_A=">Paul A. Bailes</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Burnim:Paul">Paul Burnim</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chapman:Murray">Murray Chapman</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Johnston:Dan_B=">Dan B. Johnston</a>:<b>Derivation and Presentation of an Abstract Program Space for Ada.</b> 230-<small><a href="http://dx.doi.org/10.1109/WPC.1996.501137"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/iwpc/BailesBCJ96.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/iwpc/BailesBCJ96.xml">XML</a></small></small></li>
+</ul>
+</dblp>

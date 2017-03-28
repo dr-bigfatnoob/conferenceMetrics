@@ -1,0 +1,86 @@
+<dblp>
+    <h2>Synthesis I</h2>
+
+
+<ul>
+<li id="LowryB95"><a href="http://dblp.uni-trier.de/pers/hc/l/Lowry:Michael_R=">Michael R. Lowry</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Baalen:Jeffrey_Van">Jeffrey Van Baalen</a>:<b>META-AMPHION: Synthesis of Efficient Domain-Specific Program Synthesis Systems.</b> 2-10<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490113"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/LowryB95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/LowryB95.xml">XML</a></small></small></li>
+<li id="BhansaliH95"><a href="http://dblp.uni-trier.de/pers/hc/b/Bhansali:Sanjay">Sanjay Bhansali</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hoar:Tim_J=">Tim J. Hoar</a>:<b>Knowledge-Based Program Synthesis for a Geometric Constraint Satisfaction System.</b> 11-18<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490114"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/BhansaliH95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/BhansaliH95.xml">XML</a></small></small></li>
+<li id="Liu95"><a href="http://dblp.uni-trier.de/pers/hc/l/Liu:Yanhong_A=">Yanhong A. Liu</a>:<b>CACHET: An Interactive, Incremental-Attribution-Based Program Transformation System for Deriving Incremental Programs.</b> 19-26<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490115"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Liu95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Liu95.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Formal Specifications</h2>
+
+
+<ul>
+<li id="DeLoachBH95"><a href="http://dblp.uni-trier.de/pers/hc/d/DeLoach:Scott_A=">Scott A. DeLoach</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bailor:Paul_D=">Paul D. Bailor</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hartrum:Thomas_C=">Thomas C. Hartrum</a>:<b>Representing Object Models as Theories.</b> 28-35<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490116"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/DeLoachBH95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/DeLoachBH95.xml">XML</a></small></small></li>
+<li id="KraanB95"><a href="http://dblp.uni-trier.de/pers/hc/k/Kraan:Ina">Ina Kraan</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Baumann:Peter">Peter Baumann</a>:<b>Logical Frameworks as a Basis for Verification Tools: A Case Study.</b> 36-43<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490117"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/KraanB95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/KraanB95.xml">XML</a></small></small></li>
+<li id="EllmanKMS95"><a href="http://dblp.uni-trier.de/pers/hc/e/Ellman:Thomas">Thomas Ellman</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Keane:John_Eric">John Eric Keane</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Murata:Takahiro">Takahiro Murata</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schwabacher:Mark">Mark Schwabacher</a>:<b>A Transformation System for Interactive Reformulation of Design Optimization Strategies.</b> 44-51<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490118"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/EllmanKMS95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/EllmanKMS95.xml">XML</a></small></small></li>
+<li id="DickS95"><a href="http://dblp.uni-trier.de/pers/hc/d/Dick:Sabine">Sabine Dick</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Santen:Thomas">Thomas Santen</a>:<b>Searching for a Global Algorithm.</b> 52-59<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490119"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/DickS95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/DickS95.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Legal Issues in Knowledge-Based Software Engineering</h2>
+
+
+<ul>
+<li id="LowryL95"><a href="http://dblp.uni-trier.de/pers/hc/l/Lowry:David_D=">David D. Lowry</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lowry:Michael_R=">Michael R. Lowry</a>:<b>Legal Issues on Knowledge-Based Software Engineering.</b> 61-69<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490120"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/LowryL95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/LowryL95.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Knowledge-Based Environments</h2>
+
+
+<ul>
+<li id="SassoB95"><a href="http://dblp.uni-trier.de/pers/hc/s/Sasso:William_C=">William C. Sasso</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Benner:Kevin">Kevin Benner</a>:<b>An Empirical Evaluation of KBSA Technology.</b> 71-78<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490121"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/SassoB95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/SassoB95.xml">XML</a></small></small></li>
+<li id="LindenV95"><a href="http://dblp.uni-trier.de/pers/hc/l/Lind=eacute=n:Greger">Greger Lind&#233;n</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Verkamo:A=_Inkeri">A. Inkeri Verkamo</a>:<b>An Interface Between Different Software Development Environments.</b> 79-87<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490122"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/LindenV95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/LindenV95.xml">XML</a></small></small></li>
+<li id="Tyugu95"><a href="http://dblp.uni-trier.de/pers/hc/t/Tyugu:Enn">Enn Tyugu</a>:<b>From Object-Oriented to Knowledge-Based Programming (NUT System Development Experience).</b> 88-95<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490123"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Tyugu95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Tyugu95.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Process</h2>
+
+
+<ul>
+<li id="SatoTYWH95"><a href="http://dblp.uni-trier.de/pers/hc/s/Sato:Akiyoshi">Akiyoshi Sato</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tomobe:Minoru">Minoru Tomobe</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yamanouchi:Toru">Toru Yamanouchi</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Watanabe:Masanobu">Masanobu Watanabe</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hijikata:Masashi">Masashi Hijikata</a>:<b>Domain-Oriented Software Process Re-engineering with Software Synthesis Shell SOFTEX/S.</b> 97-104<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490124"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/SatoTYWH95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/SatoTYWH95.xml">XML</a></small></small></li>
+<li id="Bose95"><a href="http://dblp.uni-trier.de/pers/hc/b/Bose:Prasanta_K=">Prasanta K. Bose</a>:<b>A Model for Decision Maintenance in the WinWin Collaboration Framework.</b> 105-113<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490125"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Bose95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Bose95.xml">XML</a></small></small></li>
+<li id="RoscaGWRMF95"><a href="http://dblp.uni-trier.de/pers/hc/r/Rosca:Daniela">Daniela Rosca</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Greenspan:Sol_J=">Sol J. Greenspan</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wild:J=_Christian">J. Christian Wild</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Reubenstein:Howard_B=">Howard B. Reubenstein</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maly:Kurt">Kurt Maly</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Feblowitz:Mark">Mark Feblowitz</a>:<b>Application of a Decision Support Mechanism to the Business Rules Lifecycle.</b> 114-121<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490126"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/RoscaGWRMF95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/RoscaGWRMF95.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Reuse and Re-engineering</h2>
+
+
+<ul>
+<li id="FeldmanF95"><a href="http://dblp.uni-trier.de/pers/hc/f/Feldman:Yishai_A=">Yishai A. Feldman</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Friedman:Doron">Doron Friedman</a>:<b>Portability by Automatic Translation - A Large-Scale Case Study.</b> 123-130<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490127"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/FeldmanF95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/FeldmanF95.xml">XML</a></small></small></li>
+<li id="PenixBA95"><a href="http://dblp.uni-trier.de/pers/hc/p/Penix:John">John Penix</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Baraona:Phillip">Phillip Baraona</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Alexander:Perry">Perry Alexander</a>:<b>Classification and Retrieval of Reusable Components Using Semantic Features.</b> 131-138<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490128"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/PenixBA95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/PenixBA95.xml">XML</a></small></small></li>
+<li id="CliftonL95"><a href="http://dblp.uni-trier.de/pers/hc/c/Clifton:Chris">Chris Clifton</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Li:Wen=Syan">Wen-Syan Li</a>:<b>Classifying Software Components Using Design Characteristics.</b> 139-146<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490129"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/CliftonL95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/CliftonL95.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Understanding</h2>
+
+
+<ul>
+<li id="Welty95"><a href="http://dblp.uni-trier.de/pers/hc/w/Welty:Christopher_A=">Christopher A. Welty</a>:<b>Towards an Epistemology for Software Representations.</b> 148-154<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490130"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Welty95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Welty95.xml">XML</a></small></small></li>
+<li id="JohnsonE95"><a href="http://dblp.uni-trier.de/pers/hc/j/Johnson:W=_Lewis">W. Lewis Johnson</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Erdem:Ali">Ali Erdem</a>:<b>Interactive Explanation of Software Systems.</b> 155-164<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490131"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/JohnsonE95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/JohnsonE95.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Synthesis II</h2>
+
+
+<ul>
+<li id="Richardson95"><a href="http://dblp.uni-trier.de/pers/hc/r/Richardson:Julian">Julian Richardson</a>:<b>Automating Changes of Data Type in Functional Programs.</b> 166-173<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490132"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Richardson95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Richardson95.xml">XML</a></small></small></li>
+<li id="Reuss95"><a href="http://dblp.uni-trier.de/pers/hc/r/Reu=szlig=:Harald">Harald Reu&#223;</a>:<b>Towards High-Level Deductive Program Synthesis Based on Type Theory.</b> 174-183<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490133"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Reuss95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Reuss95.xml">XML</a></small></small></li>
+<li id="HoweMM95"><a href="http://dblp.uni-trier.de/pers/hc/h/Howe:Adele_E=">Adele E. Howe</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mayrhauser:Anneliese_von">Anneliese von Mayrhauser</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mraz:Richard_T=">Richard T. Mraz</a>:<b>Test Sequences as Plans: An Experiment in Using an AI Planner to Generate System Tests.</b> 184-191<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490134"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/HoweMM95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/HoweMM95.xml">XML</a></small></small></li>
+<li id="Ledru95"><a href="http://dblp.uni-trier.de/pers/hc/l/Ledru:Yves">Yves Ledru</a>:<b>Specification and Animation of a Bank Transfer.</b> 192-199<small><a href="http://dx.doi.org/10.1109/KBSE.1995.490135"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/kbse/Ledru95.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/kbse/Ledru95.xml">XML</a></small></small></li>
+</ul>
+</dblp>

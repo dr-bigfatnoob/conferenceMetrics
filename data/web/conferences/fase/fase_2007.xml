@@ -1,0 +1,103 @@
+<dblp>
+    <h2>Evolution and Agents</h2>
+
+
+<ul>
+<li id="RatzingerPG07"><a href="http://dblp.uni-trier.de/pers/hc/r/Ratzinger:Jacek">Jacek Ratzinger</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pinzger:Martin">Martin Pinzger</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gall:Harald_C=">Harald C. Gall</a>:<b>EQ-Mine: Predicting Short-Term Defects for Software Evolution.</b> 12-26<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_3"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/RatzingerPG07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/RatzingerPG07.xml">XML</a></small></small></li>
+<li id="RobbesLL07"><a href="http://dblp.uni-trier.de/pers/hc/r/Robbes:Romain">Romain Robbes</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lanza:Michele">Michele Lanza</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lungu:Mircea">Mircea Lungu</a>:<b>An Approach to Software Evolution Based on Semantic Change.</b> 27-41<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_4"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/RobbesLL07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/RobbesLL07.xml">XML</a></small></small></li>
+<li id="SilvaM07"><a href="http://dblp.uni-trier.de/pers/hc/s/Silva:Paulo_Salem_da">Paulo Salem da Silva</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Melo:Ana_Cristina_Vieira_de">Ana Cristina Vieira de Melo</a>:<b>A Simulation-Oriented Formalization for a Psychological Theory.</b> 42-56<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_5"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/SilvaM07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/SilvaM07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Model Driven Development</h2>
+
+
+<ul>
+<li id="CortellessaMI07"><a href="http://dblp.uni-trier.de/pers/hc/c/Cortellessa:Vittorio">Vittorio Cortellessa</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marco:Antinisca_Di">Antinisca Di Marco</a>, <a href="http://dblp.uni-trier.de/pers/hc/i/Inverardi:Paola">Paola Inverardi</a>:<b>Integrating Performance and Reliability Analysis in a Non-Functional MDA Framework.</b> 57-71<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_6"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/CortellessaMI07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/CortellessaMI07.xml">XML</a></small></small></li>
+<li id="EhrigEEHT07"><a href="http://dblp.uni-trier.de/pers/hc/e/Ehrig:Hartmut">Hartmut Ehrig</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Ehrig:Karsten">Karsten Ehrig</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Ermel:Claudia">Claudia Ermel</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hermann_0001:Frank">Frank Hermann</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Taentzer:Gabriele">Gabriele Taentzer</a>:<b>Information Preserving Bidirectional Model Transformations.</b> 72-86<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_7"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/EhrigEEHT07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/EhrigEEHT07.xml">XML</a></small></small></li>
+<li id="HennickerK07"><a href="http://dblp.uni-trier.de/pers/hc/h/Hennicker:Rolf">Rolf Hennicker</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Knapp:Alexander">Alexander Knapp</a>:<b>Activity-Driven Synthesis of State Machines.</b> 87-101<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_8"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/HennickerK07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/HennickerK07.xml">XML</a></small></small></li>
+<li id="GaoHW07"><a href="http://dblp.uni-trier.de/pers/hc/g/Gao:Jimin">Jimin Gao</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Heimdahl:Mats_Per_Erik">Mats Per Erik Heimdahl</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wyk:Eric_Van">Eric Van Wyk</a>:<b>Flexible and Extensible Notations for Modeling Languages.</b> 102-116<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_9"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/GaoHW07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/GaoHW07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Tool Demonstrations</h2>
+
+
+<ul>
+<li id="BachFS07"><a href="http://dblp.uni-trier.de/pers/hc/b/Bach:Markus">Markus Bach</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Forster:Florian">Florian Forster</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Steimann:Friedrich">Friedrich Steimann</a>:<b>Declared Type Generalization Checker: An Eclipse Plug-In for Systematic Programming with More General Types.</b> 117-120<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_10"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/BachFS07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/BachFS07.xml">XML</a></small></small></li>
+<li id="HarelKM07"><a href="http://dblp.uni-trier.de/pers/hc/h/Harel:David">David Harel</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kleinbort:Asaf">Asaf Kleinbort</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maoz:Shahar">Shahar Maoz</a>:<b>S2A: A Compiler for Multi-modal UML Sequence Diagrams.</b> 121-124<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_11"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/HarelKM07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/HarelKM07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Distributed Systems</h2>
+
+
+<ul>
+<li id="EdwardsMM07"><a href="http://dblp.uni-trier.de/pers/hc/e/Edwards:George">George Edwards</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Malek:Sam">Sam Malek</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Medvidovic:Nenad">Nenad Medvidovic</a>:<b>Scenario-Driven Dynamic Analysis of Distributed Architectures.</b> 125-139<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_12"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/EdwardsMM07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/EdwardsMM07.xml">XML</a></small></small></li>
+<li id="TibermacineHK07"><a href="http://dblp.uni-trier.de/pers/hc/t/Tibermacine:Chouki">Chouki Tibermacine</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hoareau:Didier">Didier Hoareau</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kadri:Reda">Reda Kadri</a>:<b>Enforcing Architecture and Deployment Constraints of Distributed Component-Based Software.</b> 140-154<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_13"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/TibermacineHK07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/TibermacineHK07.xml">XML</a></small></small></li>
+<li id="SanchezSM07"><a href="http://dblp.uni-trier.de/pers/hc/s/S=aacute=nchez:C=eacute=sar">C&#233;sar S&#225;nchez</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sipma:Henny_B=">Henny B. Sipma</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Manna:Zohar">Zohar Manna</a>:<b>A Family of Distributed Deadlock Avoidance Protocols and Their Reachable State Spaces.</b> 155-169<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_14"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/SanchezSM07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/SanchezSM07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Specification</h2>
+
+
+<ul>
+<li id="Whittle07"><a href="http://dblp.uni-trier.de/pers/hc/w/Whittle:Jon">Jon Whittle</a>:<b>Precise Specification of Use Case Scenarios.</b> 170-184<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_15"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/Whittle07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/Whittle07.xml">XML</a></small></small></li>
+<li id="KleinG07"><a href="http://dblp.uni-trier.de/pers/hc/k/Klein:Florian">Florian Klein</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Giese:Holger">Holger Giese</a>:<b>Joint Structural and Temporal Property Specification Using Timed Story Scenario Diagrams.</b> 185-199<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_16"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/KleinG07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/KleinG07.xml">XML</a></small></small></li>
+<li id="GrammesG07"><a href="http://dblp.uni-trier.de/pers/hc/g/Grammes:R=uuml=diger">R&#252;diger Grammes</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gotzhein:Reinhard">Reinhard Gotzhein</a>:<b>SDL Profiles - Formal Semantics and Tool Support.</b> 200-214<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_17"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/GrammesG07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/GrammesG07.xml">XML</a></small></small></li>
+<li id="BurdyHP07"><a href="http://dblp.uni-trier.de/pers/hc/b/Burdy:Lilian">Lilian Burdy</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Huisman:Marieke">Marieke Huisman</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pavlova:Mariela">Mariela Pavlova</a>:<b>Preliminary Design of BML: A Behavioral Interface Specification Language for Java Bytecode.</b> 215-229<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_18"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/BurdyHP07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/BurdyHP07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Services</h2>
+
+
+<ul>
+<li id="GronmoJW07"><a href="http://dblp.uni-trier.de/pers/hc/g/Gr=oslash=nmo:Roy">Roy Gr&#248;nmo</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jaeger:Michael_C=">Michael C. Jaeger</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wombacher:Andreas">Andreas Wombacher</a>:<b>A Service Composition Construct to Support Iterative Development.</b> 230-244<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_19"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/GronmoJW07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/GronmoJW07.xml">XML</a></small></small></li>
+<li id="BarrosDDW07"><a href="http://dblp.uni-trier.de/pers/hc/b/Barros:Alistair_P=">Alistair P. Barros</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Decker:Gero">Gero Decker</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dumas:Marlon">Marlon Dumas</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Weber:Franz">Franz Weber</a>:<b>Correlation Patterns in Service-Oriented Architectures.</b> 245-259<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_20"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/BarrosDDW07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/BarrosDDW07.xml">XML</a></small></small></li>
+<li id="FisherER07"><a href="http://dblp.uni-trier.de/pers/hc/f/Fisher_II:Marc">Marc Fisher II</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Elbaum:Sebastian_G=">Sebastian G. Elbaum</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rothermel:Gregg">Gregg Rothermel</a>:<b>Dynamic Characterization of Web Application Interfaces.</b> 260-275<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_21"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/FisherER07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/FisherER07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Testing</h2>
+
+
+<ul>
+<li id="MirarabT07"><a href="http://dblp.uni-trier.de/pers/hc/m/Mirarab:Siavash">Siavash Mirarab</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tahvildari:Ladan">Ladan Tahvildari</a>:<b>A Prioritization Approach for Software Test Cases Based on Bayesian Networks.</b> 276-290<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_22"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/MirarabT07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/MirarabT07.xml">XML</a></small></small></li>
+<li id="FraserW07"><a href="http://dblp.uni-trier.de/pers/hc/f/Fraser:Gordon">Gordon Fraser</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wotawa:Franz">Franz Wotawa</a>:<b>Redundancy Based Test-Suite Reduction.</b> 291-305<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_23"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/FraserW07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/FraserW07.xml">XML</a></small></small></li>
+<li id="KuglerSH07"><a href="http://dblp.uni-trier.de/pers/hc/k/Kugler:Hillel">Hillel Kugler</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stern:Michael_J=">Michael J. Stern</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hubbard:E=_Jane_Albert">E. Jane Albert Hubbard</a>:<b>Testing Scenario-Based Models.</b> 306-320<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_24"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/KuglerSH07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/KuglerSH07.xml">XML</a></small></small></li>
+<li id="ReisMP07"><a href="http://dblp.uni-trier.de/pers/hc/r/Reis:Sacha">Sacha Reis</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Metzger:Andreas">Andreas Metzger</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pohl:Klaus">Klaus Pohl</a>:<b>Integration Testing in Software Product Line Engineering: A Model-Based Technique.</b> 321-335<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_25"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/ReisMP07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/ReisMP07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Analysis</h2>
+
+
+<ul>
+<li id="DarvasL07"><a href="http://dblp.uni-trier.de/pers/hc/d/Darvas:=Aacute=d=aacute=m">&#193;d&#225;m Darvas</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Leino:K=_Rustan_M=">K. Rustan M. Leino</a>:<b>Practical Reasoning About Invocations and Implementations of Pure Methods.</b> 336-351<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_26"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/DarvasL07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/DarvasL07.xml">XML</a></small></small></li>
+<li id="ChechikGG07"><a href="http://dblp.uni-trier.de/pers/hc/c/Chechik:Marsha">Marsha Chechik</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gheorghiu:Mihaela">Mihaela Gheorghiu</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gurfinkel:Arie">Arie Gurfinkel</a>:<b>Finding Environment Guarantees.</b> 352-367<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_27"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/ChechikGG07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/ChechikGG07.xml">XML</a></small></small></li>
+<li id="RangerH07"><a href="http://dblp.uni-trier.de/pers/hc/r/Ranger:Ulrike">Ulrike Ranger</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hermes:Thorsten">Thorsten Hermes</a>:<b>Ensuring Consistency Within Distributed Graph Transformation Systems.</b> 368-382<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_28"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/RangerH07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/RangerH07.xml">XML</a></small></small></li>
+<li id="PadbergHEMBE07"><a href="http://dblp.uni-trier.de/pers/hc/p/Padberg:Julia">Julia Padberg</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hoffmann:Kathrin">Kathrin Hoffmann</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Ehrig:Hartmut">Hartmut Ehrig</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Modica:Tony">Tony Modica</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Biermann:Enrico">Enrico Biermann</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Ermel:Claudia">Claudia Ermel</a>:<b>Maintaining Consistency in Layered Architectures of Mobile Ad-Hoc Networks.</b> 383-397<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_29"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/PadbergHEMBE07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/PadbergHEMBE07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Design</h2>
+
+
+<ul>
+<li id="ManneringHR07"><a href="http://dblp.uni-trier.de/pers/hc/m/Mannering:Derek">Derek Mannering</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hall:Jon_G=">Jon G. Hall</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rapanotti:Lucia">Lucia Rapanotti</a>:<b>Towards Normal Design for Safety-Critical Systems.</b> 398-411<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_30"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/ManneringHR07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/ManneringHR07.xml">XML</a></small></small></li>
+<li id="ZhouY07"><a href="http://dblp.uni-trier.de/pers/hc/z/Zhou:Xin">Xin Zhou</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yu:Hui">Hui Yu</a>:<b>A Clustering-Based Approach for Tracing Object-Oriented Design to Requirement.</b> 412-422<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_31"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/ZhouY07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/ZhouY07.xml">XML</a></small></small></li>
+<li id="Lopez-HerrejonA07"><a href="http://dblp.uni-trier.de/pers/hc/l/Lopez=Herrejon:Roberto_E=">Roberto E. Lopez-Herrejon</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Apel:Sven">Sven Apel</a>:<b>Measuring and Characterizing Crosscutting in Aspect-Based Programs: Basic Metrics and Case Studies.</b> 423-437<small><a href="http://dx.doi.org/10.1007/978-3-540-71289-3_32"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/Lopez-HerrejonA07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/Lopez-HerrejonA07.xml">XML</a></small></small></li>
+</ul>
+
+
+</dblp>

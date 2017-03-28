@@ -1,0 +1,83 @@
+<dblp>
+    <h2>Session 1</h2>
+ 
+
+<ul>
+<li id="BravenboerDV07"><a href="http://dblp.uni-trier.de/pers/hc/b/Bravenboer:Martin">Martin Bravenboer</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dolstra:Eelco">Eelco Dolstra</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Visser:Eelco">Eelco Visser</a>:<b>Preventing injection attacks with syntax embeddings.</b> 3-12<small><a href="http://doi.acm.org/10.1145/1289971.1289975"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/BravenboerDV07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/BravenboerDV07.xml">XML</a></small></small></li>
+<li id="GilL07"><a href="http://dblp.uni-trier.de/pers/hc/g/Gil:Joseph">Joseph Gil</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lenz:Keren">Keren Lenz</a>:<b>Simple and safe SQL queries with c++ templates.</b> 13-24<small><a href="http://doi.acm.org/10.1145/1289971.1289976"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/GilL07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/GilL07.xml">XML</a></small></small></li>
+<li id="ArnoldusBB07"><a href="http://dblp.uni-trier.de/pers/hc/a/Arnoldus:Jeroen">Jeroen Arnoldus</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bijpost:Jeanot">Jeanot Bijpost</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Brand:Mark_van_den">Mark van den Brand</a>:<b>Repleo: a syntax-safe template engine.</b> 25-32<small><a href="http://doi.acm.org/10.1145/1289971.1289977"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/ArnoldusBB07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/ArnoldusBB07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session 2</h2>
+ 
+
+<ul>
+<li id="JungH07"><a href="http://dblp.uni-trier.de/pers/hc/j/Jung:Georg">Georg Jung</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hatcliff:John">John Hatcliff</a>:<b>A type-centric framework for specifying heterogeneous, large-scale, component-oriented, architectures.</b> 33-42<small><a href="http://doi.acm.org/10.1145/1289971.1289979"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/JungH07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/JungH07.xml">XML</a></small></small></li>
+<li id="LienhardtSS07"><a href="http://dblp.uni-trier.de/pers/hc/l/Lienhardt:Michael">Michael Lienhardt</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schmitt:Alan">Alan Schmitt</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stefani:Jean=Bernard">Jean-Bernard Stefani</a>:<b>Oz/K: a kernel language for component-based open programming.</b> 43-52<small><a href="http://doi.acm.org/10.1145/1289971.1289980"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/LienhardtSS07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/LienhardtSS07.xml">XML</a></small></small></li>
+<li id="MaraninchiB07"><a href="http://dblp.uni-trier.de/pers/hc/m/Maraninchi:Florence">Florence Maraninchi</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bouhadiba:Tayeb">Tayeb Bouhadiba</a>:<b>42: programmable models of computation for a component-based approach to heterogeneous embedded systems.</b> 53-62<small><a href="http://doi.acm.org/10.1145/1289971.1289981"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/MaraninchiB07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/MaraninchiB07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session 3</h2>
+ 
+
+<ul>
+<li id="WykS07"><a href="http://dblp.uni-trier.de/pers/hc/w/Wyk:Eric_Van">Eric Van Wyk</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schwerdfeger:August">August Schwerdfeger</a>:<b>Context-aware scanning for parsing extensible languages.</b> 63-72<small><a href="http://doi.acm.org/10.1145/1289971.1289983"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/WykS07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/WykS07.xml">XML</a></small></small></li>
+<li id="JarviMS07"><a href="http://dblp.uni-trier.de/pers/hc/j/J=auml=rvi:Jaakko">Jaakko J&#228;rvi</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marcus:Matthew_A=">Matthew A. Marcus</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Smith:Jacob_N=">Jacob N. Smith</a>:<b>Library composition and adaptation using c++ concepts.</b> 73-82<small><a href="http://doi.acm.org/10.1145/1289971.1289984"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/JarviMS07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/JarviMS07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Keynote session</h2>
+ 
+
+<ul>
+<li id="Selic07"><a href="http://dblp.uni-trier.de/pers/hc/s/Selic:Bran">Bran Selic</a>:<b>Challenges in generating qos-constrained software implementations.</b> 83-84<small><a href="http://doi.acm.org/10.1145/1289971.1289986"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/Selic07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/Selic07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session 4</h2>
+ 
+
+<ul>
+<li id="LagunaGM07"><a href="http://dblp.uni-trier.de/pers/hc/l/Laguna:Miguel_A=">Miguel A. Laguna</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gonz=aacute=lez=Baixauli:Bruno">Bruno Gonz&#225;lez-Baixauli</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marqu=eacute=s:Jos=eacute=_M=">Jos&#233; M. Marqu&#233;s</a>:<b>Seamless development of software product lines.</b> 85-94<small><a href="http://doi.acm.org/10.1145/1289971.1289988"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/LagunaGM07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/LagunaGM07.xml">XML</a></small></small></li>
+<li id="ThakerBKC07"><a href="http://dblp.uni-trier.de/pers/hc/t/Thaker:Sahil">Sahil Thaker</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Batory:Don_S=">Don S. Batory</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kitchin:David">David Kitchin</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cook:William_R=">William R. Cook</a>:<b>Safe composition of product lines.</b> 95-104<small><a href="http://doi.acm.org/10.1145/1289971.1289989"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/ThakerBKC07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/ThakerBKC07.xml">XML</a></small></small></li>
+<li id="TrujilloAD07"><a href="http://dblp.uni-trier.de/pers/hc/t/Trujillo:Salvador">Salvador Trujillo</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Azanza:Maider">Maider Azanza</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/D=iacute=az:Oscar">Oscar D&#237;az</a>:<b>Generative metaprogramming.</b> 105-114<small><a href="http://doi.acm.org/10.1145/1289971.1289990"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/TrujilloAD07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/TrujilloAD07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session 5</h2>
+ 
+
+<ul>
+<li id="Veldhuizen07"><a href="http://dblp.uni-trier.de/pers/hc/v/Veldhuizen:Todd_L=">Todd L. Veldhuizen</a>:<b>Parsimony principles for software components and metalanguages.</b> 115-122<small><a href="http://doi.acm.org/10.1145/1289971.1289992"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/Veldhuizen07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/Veldhuizen07.xml">XML</a></small></small></li>
+<li id="PirkelbauerSS07"><a href="http://dblp.uni-trier.de/pers/hc/p/Pirkelbauer:Peter">Peter Pirkelbauer</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Solodkyy:Yuriy">Yuriy Solodkyy</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stroustrup:Bjarne">Bjarne Stroustrup</a>:<b>Open multi-methods for c++.</b> 123-134<small><a href="http://doi.acm.org/10.1145/1289971.1289993"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/PirkelbauerSS07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/PirkelbauerSS07.xml">XML</a></small></small></li>
+<li id="CulpepperF07"><a href="http://dblp.uni-trier.de/pers/hc/c/Culpepper:Ryan">Ryan Culpepper</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Felleisen:Matthias">Matthias Felleisen</a>:<b>Debugging macros.</b> 135-144<small><a href="http://doi.acm.org/10.1145/1289971.1289994"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/CulpepperF07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/CulpepperF07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session 6</h2>
+ 
+
+<ul>
+<li id="KaminaT07"><a href="http://dblp.uni-trier.de/pers/hc/k/Kamina:Tetsuo">Tetsuo Kamina</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tamai:Tetsuo">Tetsuo Tamai</a>:<b>Lightweight scalable components.</b> 145-154<small><a href="http://doi.acm.org/10.1145/1289971.1289996"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/KaminaT07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/KaminaT07.xml">XML</a></small></small></li>
+<li id="WeaverKFA07"><a href="http://dblp.uni-trier.de/pers/hc/w/Weaver:Philip">Philip Weaver</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kimmell:Garrin">Garrin Kimmell</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Frisby:Nicolas">Nicolas Frisby</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Alexander:Perry">Perry Alexander</a>:<b>Constructing language processors with algebra combinators.</b> 155-164<small><a href="http://doi.acm.org/10.1145/1289971.1289997"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/WeaverKFA07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/WeaverKFA07.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Session 7</h2>
+ 
+
+<ul>
+<li id="FradetH07"><a href="http://dblp.uni-trier.de/pers/hc/f/Fradet:Pascal">Pascal Fradet</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Ha:St=eacute=phane_Hong_Tuan">St&#233;phane Hong Tuan Ha</a>:<b>Aspects of availability.</b> 165-174<small><a href="http://doi.acm.org/10.1145/1289971.1289999"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/FradetH07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/FradetH07.xml">XML</a></small></small></li>
+<li id="SavgaR07"><a href="http://dblp.uni-trier.de/pers/hc/s/Savga:Ilie">Ilie Savga</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rudolf_0001:Michael">Michael Rudolf</a>:<b>Refactoring-based support for binary compatibility in evolving frameworks.</b> 175-184<small><a href="http://doi.acm.org/10.1145/1289971.1290000"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/SavgaR07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/SavgaR07.xml">XML</a></small></small></li>
+<li id="WinterM07"><a href="http://dblp.uni-trier.de/pers/hc/w/Winter:Victor_L=">Victor L. Winter</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mametjanov:Azamatbek">Azamatbek Mametjanov</a>:<b>Generative programming techniques for Java library migration.</b> 185-196<small><a href="http://doi.acm.org/10.1145/1289971.1290001"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/WinterM07.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/WinterM07.xml">XML</a></small></small></li>
+</ul>
+</dblp>

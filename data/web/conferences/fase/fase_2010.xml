@@ -1,0 +1,88 @@
+<dblp>
+    <h2>Model Transformation</h2>
+ 
+
+<ul>
+<li id="RutleRLW10"><a href="http://dblp.uni-trier.de/pers/hc/r/Rutle:Adrian">Adrian Rutle</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rossini:Alessandro">Alessandro Rossini</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lamo:Yngve">Yngve Lamo</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wolter:Uwe">Uwe Wolter</a>:<b>A Formalisation of Constraint-Aware Model Transformations.</b> 13-28<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_2"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/RutleRLW10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/RutleRLW10.xml">XML</a></small></small></li>
+<li id="BoronatO10"><a href="http://dblp.uni-trier.de/pers/hc/b/Boronat:Artur">Artur Boronat</a>, <a href="http://dblp.uni-trier.de/pers/hc/=/=Ouml=lveczky:Peter_Csaba">Peter Csaba &#214;lveczky</a>:<b>Formal Real-Time Model Transformations in MOMENT2.</b> 29-43<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_3"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/BoronatO10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/BoronatO10.xml">XML</a></small></small></li>
+<li id="JacksonSBK10"><a href="http://dblp.uni-trier.de/pers/hc/j/Jackson:Ethan_K=">Ethan K. Jackson</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schulte:Wolfram">Wolfram Schulte</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Balasubramanian:Daniel">Daniel Balasubramanian</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Karsai:Gabor">Gabor Karsai</a>:<b>Reusing Model Transformations While Preserving Properties.</b> 44-58<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_4"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/JacksonSBK10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/JacksonSBK10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Evolution</h2>
+ 
+
+<ul>
+<li id="BacchelliDL10"><a href="http://dblp.uni-trier.de/pers/hc/b/Bacchelli:Alberto">Alberto Bacchelli</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/D=Ambros:Marco">Marco D'Ambros</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lanza:Michele">Michele Lanza</a>:<b>Are Popular Classes More Defect Prone?</b> 59-73<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_5"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/BacchelliDL10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/BacchelliDL10.xml">XML</a></small></small></li>
+<li id="NguyenNPN10"><a href="http://dblp.uni-trier.de/pers/hc/n/Nguyen:Tung_Thanh">Tung Thanh Nguyen</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nguyen:Hoan_Anh">Hoan Anh Nguyen</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pham:Nam_H=">Nam H. Pham</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nguyen:Tien_N=">Tien N. Nguyen</a>:<b>Operation-Based, Fine-Grained Version Control Model for Tree-Based Representation.</b> 74-90<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_6"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/NguyenNPN10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/NguyenNPN10.xml">XML</a></small></small></li>
+<li id="HashimotoM10"><a href="http://dblp.uni-trier.de/pers/hc/h/Hashimoto:Masatomo">Masatomo Hashimoto</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mori:Akira">Akira Mori</a>:<b>A Method for Analyzing Code Homology in Genealogy of Evolving Software.</b> 91-106<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_7"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/HashimotoM10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/HashimotoM10.xml">XML</a></small></small></li>
+<li id="XiaoOWL10"><a href="http://dblp.uni-trier.de/pers/hc/x/Xiao:Junchao">Junchao Xiao</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Osterweil:Leon_J=">Leon J. Osterweil</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wang:Qing">Qing Wang</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Li:Mingshu">Mingshu Li</a>:<b>Dynamic Resource Scheduling in Disruption-Prone Software Development Environments.</b> 107-122<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_8"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/XiaoOWL10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/XiaoOWL10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Graph Transformation</h2>
+ 
+
+<ul>
+<li id="NaeemHOH10"><a href="http://dblp.uni-trier.de/pers/hc/n/Naeem_0002:Muhammad">Muhammad Naeem</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Heckel:Reiko">Reiko Heckel</a>, <a href="http://dblp.uni-trier.de/pers/hc/o/Orejas:Fernando">Fernando Orejas</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hermann_0001:Frank">Frank Hermann</a>:<b>Incremental Service Composition Based on Partial Matching of Visual Contracts.</b> 123-138<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_9"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/NaeemHOH10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/NaeemHOH10.xml">XML</a></small></small></li>
+<li id="EhrigERBP10"><a href="http://dblp.uni-trier.de/pers/hc/e/Ehrig:Hartmut">Hartmut Ehrig</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Ermel:Claudia">Claudia Ermel</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Runge:Olga">Olga Runge</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bucchiarone:Antonio">Antonio Bucchiarone</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pelliccione:Patrizio">Patrizio Pelliccione</a>:<b>Formal Analysis and Verification of Self-Healing Systems.</b> 139-153<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_10"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/EhrigERBP10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/EhrigERBP10.xml">XML</a></small></small></li>
+<li id="TorriniHR10"><a href="http://dblp.uni-trier.de/pers/hc/t/Torrini:Paolo">Paolo Torrini</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Heckel:Reiko">Reiko Heckel</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/R=aacute=th:Istv=aacute=n">Istv&#225;n R&#225;th</a>:<b>Stochastic Simulation of Graph Transformation Systems.</b> 154-157<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_11"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/TorriniHR10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/TorriniHR10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Modeling Concepts</h2>
+ 
+
+<ul>
+<li id="EsmaeilsabzaliD10"><a href="http://dblp.uni-trier.de/pers/hc/e/Esmaeilsabzali:Shahram">Shahram Esmaeilsabzali</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Day:Nancy_A=">Nancy A. Day</a>:<b>Prescriptive Semantics for Big-Step Modelling Languages.</b> 158-172<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_12"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/EsmaeilsabzaliD10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/EsmaeilsabzaliD10.xml">XML</a></small></small></li>
+<li id="KelsenM10"><a href="http://dblp.uni-trier.de/pers/hc/k/Kelsen:Pierre">Pierre Kelsen</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Ma_0002:Qin">Qin Ma</a>:<b>A Modular Model Composition Technique.</b> 173-187<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_13"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/KelsenM10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/KelsenM10.xml">XML</a></small></small></li>
+<li id="KimLK10"><a href="http://dblp.uni-trier.de/pers/hc/k/Kim:Dae=Kyoo">Dae-Kyoo Kim</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lu:Lunjin">Lunjin Lu</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kim:Sangsig">Sangsig Kim</a>:<b>A Verifiable Modeling Approach to Configurable Role-Based Access Control.</b> 188-202<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_14"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/KimLK10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/KimLK10.xml">XML</a></small></small></li>
+<li id="GroherRE10"><a href="http://dblp.uni-trier.de/pers/hc/g/Groher:Iris">Iris Groher</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Reder:Alexander">Alexander Reder</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Egyed:Alexander">Alexander Egyed</a>:<b>Incremental Consistency Checking of Dynamic Constraints.</b> 203-217<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_15"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/GroherRE10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/GroherRE10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Verification</h2>
+ 
+
+<ul>
+<li id="DarvasM10"><a href="http://dblp.uni-trier.de/pers/hc/d/Darvas:=Aacute=d=aacute=m">&#193;d&#225;m Darvas</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/M=uuml=ller_0001:Peter">Peter M&#252;ller</a>:<b>Proving Consistency and Completeness of Model Classes Using Theory Interpretation.</b> 218-232<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_16"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/DarvasM10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/DarvasM10.xml">XML</a></small></small></li>
+<li id="GhezziMS10"><a href="http://dblp.uni-trier.de/pers/hc/g/Ghezzi:Carlo">Carlo Ghezzi</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mocci:Andrea">Andrea Mocci</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Salvaneschi:Guido">Guido Salvaneschi</a>:<b>Automatic Cross Validation of Multiple Specifications: A Case Study.</b> 233-247<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_17"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/GhezziMS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/GhezziMS10.xml">XML</a></small></small></li>
+<li id="LiXBLM10"><a href="http://dblp.uni-trier.de/pers/hc/l/Li:Juncao">Juncao Li</a>, <a href="http://dblp.uni-trier.de/pers/hc/x/Xie:Fei">Fei Xie</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Ball:Thomas">Thomas Ball</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Levin:Vladimir">Vladimir Levin</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/McGarvey:Con">Con McGarvey</a>:<b>An Automata-Theoretic Approach to Hardware/Software Co-verification.</b> 248-262<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_18"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/LiXBLM10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/LiXBLM10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Analysis</h2>
+ 
+
+<ul>
+<li id="BeyerHTZ10"><a href="http://dblp.uni-trier.de/pers/hc/b/Beyer_0001:Dirk">Dirk Beyer</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Henzinger:Thomas_A=">Thomas A. Henzinger</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Th=eacute=oduloz:Gr=eacute=gory">Gr&#233;gory Th&#233;oduloz</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zufferey:Damien">Damien Zufferey</a>:<b>Shape Refinement through Explicit Heap Analysis.</b> 263-277<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_19"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/BeyerHTZ10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/BeyerHTZ10.xml">XML</a></small></small></li>
+<li id="DistefanoF10"><a href="http://dblp.uni-trier.de/pers/hc/d/Distefano:Dino">Dino Distefano</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Filipovic:Ivana">Ivana Filipovic</a>:<b>Memory Leaks Detection in Java by Bi-abductive Inference.</b> 278-292<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_20"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/DistefanoF10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/DistefanoF10.xml">XML</a></small></small></li>
+<li id="ChatterjeeARS10"><a href="http://dblp.uni-trier.de/pers/hc/c/Chatterjee:Krishnendu">Krishnendu Chatterjee</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Alfaro:Luca_de">Luca de Alfaro</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Raman:Vishwanath">Vishwanath Raman</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/S=aacute=nchez:C=eacute=sar">C&#233;sar S&#225;nchez</a>:<b>Analyzing the Impact of Change in Multi-threaded Programs.</b> 293-307<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_21"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/ChatterjeeARS10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/ChatterjeeARS10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Testing and Debugging</h2>
+ 
+
+<ul>
+<li id="LauterburgKMA10"><a href="http://dblp.uni-trier.de/pers/hc/l/Lauterburg:Steven">Steven Lauterburg</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Karmani:Rajesh_K=">Rajesh K. Karmani</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marinov:Darko">Darko Marinov</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Agha:Gul">Gul Agha</a>:<b>Evaluating Ordering Heuristics for Dynamic Partial-Order Reduction Techniques.</b> 308-322<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_22"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/LauterburgKMA10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/LauterburgKMA10.xml">XML</a></small></small></li>
+<li id="LuoZZH10"><a href="http://dblp.uni-trier.de/pers/hc/l/Luo:Qingzhou">Qingzhou Luo</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Sai">Sai Zhang</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhao:Jianjun">Jianjun Zhao</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hu:Min">Min Hu</a>:<b>A Lightweight and Portable Approach to Making Concurrent Failures Reproducible.</b> 323-337<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_23"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/LuoZZH10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/LuoZZH10.xml">XML</a></small></small></li>
+<li id="LehnerM10"><a href="http://dblp.uni-trier.de/pers/hc/l/Lehner:Hermann">Hermann Lehner</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/M=uuml=ller_0001:Peter">Peter M&#252;ller</a>:<b>Efficient Runtime Assertion Checking of Assignable Clauses with Datagroups.</b> 338-352<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_24"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/LehnerM10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/LehnerM10.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Performance Modeling and Analysis</h2>
+ 
+
+<ul>
+<li id="BerardinelliCM10"><a href="http://dblp.uni-trier.de/pers/hc/b/Berardinelli:Luca">Luca Berardinelli</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cortellessa:Vittorio">Vittorio Cortellessa</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marco:Antinisca_Di">Antinisca Di Marco</a>:<b>Performance Modeling and Analysis of Context-Aware Mobile Software Systems.</b> 353-367<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_25"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/BerardinelliCM10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/BerardinelliCM10.xml">XML</a></small></small></li>
+<li id="CortellessaMRT10"><a href="http://dblp.uni-trier.de/pers/hc/c/Cortellessa:Vittorio">Vittorio Cortellessa</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Martens:Anne">Anne Martens</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Reussner:Ralf_H=">Ralf H. Reussner</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Trubiani:Catia">Catia Trubiani</a>:<b>A Process to Effectively Identify &#34;Guilty&#34; Performance Antipatterns.</b> 368-382<small><a href="http://dx.doi.org/10.1007/978-3-642-12029-9_26"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/CortellessaMRT10.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/CortellessaMRT10.xml">XML</a></small></small></li>
+</ul>
+</dblp>

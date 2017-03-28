@@ -1,0 +1,99 @@
+<dblp>
+    <h2>Mining 1</h2>
+ 
+
+<ul>
+<li id="HerraizGR08"><a href="http://dblp.uni-trier.de/pers/hc/h/Herraiz:Israel">Israel Herraiz</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gonz=aacute=lez=Barahona:Jes=uacute=s_M=">Jes&#250;s M. Gonz&#225;lez-Barahona</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Robles:Gregorio">Gregorio Robles</a>:<b>Determinism and evolution.</b> 1-10<small><a href="http://doi.acm.org/10.1145/1370750.1370752"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/HerraizGR08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/HerraizGR08.xml">XML</a></small></small></li>
+<li id="YoshimuraNHK08"><a href="http://dblp.uni-trier.de/pers/hc/y/Yoshimura:Kentaro">Kentaro Yoshimura</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Narisawa:Fumio">Fumio Narisawa</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hashimoto:Koji">Koji Hashimoto</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kikuno:Tohru">Tohru Kikuno</a>:<b>FAVE: factor analysis based approach for detecting product line variability from change history.</b> 11-18<small><a href="http://doi.acm.org/10.1145/1370750.1370753"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/YoshimuraNHK08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/YoshimuraNHK08.xml">XML</a></small></small></li>
+<li id="WilliamsS08"><a href="http://dblp.uni-trier.de/pers/hc/w/Williams:Chadd_C=">Chadd C. Williams</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Spacco:Jaime">Jaime Spacco</a>:<b>Branching and merging in the repository.</b> 19-22<small><a href="http://doi.acm.org/10.1145/1370750.1370754"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/WilliamsS08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/WilliamsS08.xml">XML</a></small></small></li>
+<li id="HolmesB08"><a href="http://dblp.uni-trier.de/pers/hc/h/Holmes:Reid">Reid Holmes</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Begel:Andrew">Andrew Begel</a>:<b>Deep intellisense: a tool for rehydrating evaporated information.</b> 23-26<small><a href="http://doi.acm.org/10.1145/1370750.1370755"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/HolmesB08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/HolmesB08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Bugs and changes</h2>
+ 
+
+<ul>
+<li id="BettenburgPZK08"><a href="http://dblp.uni-trier.de/pers/hc/b/Bettenburg:Nicolas">Nicolas Bettenburg</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Premraj:Rahul">Rahul Premraj</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zimmermann_0001:Thomas">Thomas Zimmermann</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kim_0001:Sunghun">Sunghun Kim</a>:<b>Extracting structural information from bug reports.</b> 27-30<small><a href="http://doi.acm.org/10.1145/1370750.1370757"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/BettenburgPZK08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/BettenburgPZK08.xml">XML</a></small></small></li>
+<li id="OmoriM08"><a href="http://dblp.uni-trier.de/pers/hc/o/Omori:Takayuki">Takayuki Omori</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maruyama:Katsuhisa">Katsuhisa Maruyama</a>:<b>A change-aware development environment by recording editing operations of source code.</b> 31-34<small><a href="http://doi.acm.org/10.1145/1370750.1370758"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/OmoriM08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/OmoriM08.xml">XML</a></small></small></li>
+<li id="RatzingerSG08"><a href="http://dblp.uni-trier.de/pers/hc/r/Ratzinger:Jacek">Jacek Ratzinger</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sigmund:Thomas">Thomas Sigmund</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gall:Harald_C=">Harald C. Gall</a>:<b>On the relation of refactorings and software defect prediction.</b> 35-38<small><a href="http://doi.acm.org/10.1145/1370750.1370759"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/RatzingerSG08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/RatzingerSG08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Understanding and infrastructure</h2>
+ 
+
+<ul>
+<li id="SudakrishnanMWR08"><a href="http://dblp.uni-trier.de/pers/hc/s/Sudhakrishnan:Sangeetha">Sangeetha Sudhakrishnan</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Madhavan:Janaki_T=">Janaki T. Madhavan</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Whitehead_Jr=:E=_James">E. James Whitehead Jr.</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Renau:Jose">Jose Renau</a>:<b>Understanding bug fix patterns in verilog.</b> 39-42<small><a href="http://doi.acm.org/10.1145/1370750.1370761"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/SudakrishnanMWR08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/SudakrishnanMWR08.xml">XML</a></small></small></li>
+<li id="LaymanNGBB08"><a href="http://dblp.uni-trier.de/pers/hc/l/Layman:Lucas">Lucas Layman</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nagappan:Nachiappan">Nachiappan Nagappan</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Guckenheimer:Sam">Sam Guckenheimer</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Beehler:Jeff">Jeff Beehler</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Begel:Andrew">Andrew Begel</a>:<b>Mining software effort data: preliminary analysis of visual studio team system data.</b> 43-46<small><a href="http://doi.acm.org/10.1145/1370750.1370762"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/LaymanNGBB08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/LaymanNGBB08.xml">XML</a></small></small></li>
+<li id="Gobeille08"><a href="http://dblp.uni-trier.de/pers/hc/g/Gobeille:Robert">Robert Gobeille</a>:<b>The FOSSology project.</b> 47-50<small><a href="http://doi.acm.org/10.1145/1370750.1370763"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/Gobeille08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/Gobeille08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Changes and clones</h2>
+ 
+
+<ul>
+<li id="ParninG08"><a href="http://dblp.uni-trier.de/pers/hc/p/Parnin:Chris">Chris Parnin</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/G=ouml=rg:Carsten">Carsten G&#246;rg</a>:<b>Improving change descriptions with change contexts.</b> 51-60<small><a href="http://doi.acm.org/10.1145/1370750.1370765"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/ParninG08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/ParninG08.xml">XML</a></small></small></li>
+<li id="ChangM08"><a href="http://dblp.uni-trier.de/pers/hc/c/Chang:Hung=Fu">Hung-Fu Chang</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mockus:Audris">Audris Mockus</a>:<b>Evaluation of source code copy detection methods on freebsd.</b> 61-66<small><a href="http://doi.acm.org/10.1145/1370750.1370766"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/ChangM08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/ChangM08.xml">XML</a></small></small></li>
+<li id="WeissgerberND08"><a href="http://dblp.uni-trier.de/pers/hc/w/Wei=szlig=gerber:Peter">Peter Wei&#223;gerber</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Neu:Daniel">Daniel Neu</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Diehl_0001:Stephan">Stephan Diehl</a>:<b>Small patches get in!</b> 67-76<small><a href="http://doi.acm.org/10.1145/1370750.1370767"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/WeissgerberND08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/WeissgerberND08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>How to learn enough data mining to be dangerous in 60 minutes</h2>
+ 
+
+<ul>
+<li id="Bernstein08"><a href="http://dblp.uni-trier.de/pers/hc/b/Bernstein:Abraham">Abraham Bernstein</a>:<b>How to learn enough data mining to be dangerous in 60 minutes.</b> 77-78<small><a href="http://doi.acm.org/10.1145/1370750.1370769"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/Bernstein08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/Bernstein08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Mining 2</h2>
+ 
+
+<ul>
+<li id="HillFBSNPV08"><a href="http://dblp.uni-trier.de/pers/hc/h/Hill:Emily">Emily Hill</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fry:Zachary_P=">Zachary P. Fry</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Boyd:Haley">Haley Boyd</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sridhara:Giriprasad">Giriprasad Sridhara</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Novikova:Yana">Yana Novikova</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pollock:Lori_L=">Lori L. Pollock</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vijay=Shanker:K=">K. Vijay-Shanker</a>:<b>AMAP: automatically mining abbreviation expansions in programs to enhance software maintenance tools.</b> 79-88<small><a href="http://doi.acm.org/10.1145/1370750.1370771"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/HillFBSNPV08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/HillFBSNPV08.xml">XML</a></small></small></li>
+<li id="HataMK08"><a href="http://dblp.uni-trier.de/pers/hc/h/Hata:Hideaki">Hideaki Hata</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mizuno:Osamu">Osamu Mizuno</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kikuno:Tohru">Tohru Kikuno</a>:<b>An extension of fault-prone filtering using precise training and a dynamic threshold.</b> 89-98<small><a href="http://doi.acm.org/10.1145/1370750.1370772"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/HataMK08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/HataMK08.xml">XML</a></small></small></li>
+<li id="HindleGH08"><a href="http://dblp.uni-trier.de/pers/hc/h/Hindle:Abram">Abram Hindle</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Germ=aacute=n:Daniel_M=">Daniel M. Germ&#225;n</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Holt:Richard_C=">Richard C. Holt</a>:<b>What do large commits tell us?: a taxonomical study of large commits.</b> 99-108<small><a href="http://doi.acm.org/10.1145/1370750.1370773"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/HindleGH08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/HindleGH08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Mining 3</h2>
+ 
+
+<ul>
+<li id="ThummalapentaX08"><a href="http://dblp.uni-trier.de/pers/hc/t/Thummalapenta:Suresh">Suresh Thummalapenta</a>, <a href="http://dblp.uni-trier.de/pers/hc/x/Xie:Tao">Tao Xie</a>:<b>SpotWeb: detecting framework hotspots via mining open source repositories on the web.</b> 109-112<small><a href="http://doi.acm.org/10.1145/1370750.1370775"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/ThummalapentaX08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/ThummalapentaX08.xml">XML</a></small></small></li>
+<li id="PattisonBD08"><a href="http://dblp.uni-trier.de/pers/hc/p/Pattison:David_S=">David S. Pattison</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bird:Christian">Christian Bird</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Devanbu:Premkumar_T=">Premkumar T. Devanbu</a>:<b>Talk and work: a preliminary report.</b> 113-116<small><a href="http://doi.acm.org/10.1145/1370750.1370776"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/PattisonBD08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/PattisonBD08.xml">XML</a></small></small></li>
+<li id="ThomsonH08"><a href="http://dblp.uni-trier.de/pers/hc/t/Thomson:Christopher">Christopher Thomson</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Holcombe:Mike">Mike Holcombe</a>:<b>Correctness of data mined from CVS.</b> 117-120<small><a href="http://doi.acm.org/10.1145/1370750.1370777"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/ThomsonH08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/ThomsonH08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>People are people, so ...</h2>
+ 
+
+<ul>
+<li id="SchulerZ08"><a href="http://dblp.uni-trier.de/pers/hc/s/Schuler:David">David Schuler</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zimmermann_0001:Thomas">Thomas Zimmermann</a>:<b>Mining usage expertise from version archives.</b> 121-124<small><a href="http://doi.acm.org/10.1145/1370750.1370779"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/SchulerZ08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/SchulerZ08.xml">XML</a></small></small></li>
+<li id="AlonsoDG08"><a href="http://dblp.uni-trier.de/pers/hc/a/Alonso:Omar">Omar Alonso</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Devanbu:Premkumar_T=">Premkumar T. Devanbu</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gertz:Michael">Michael Gertz</a>:<b>Expertise identification and visualization from CVS.</b> 125-128<small><a href="http://doi.acm.org/10.1145/1370750.1370780"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/AlonsoDG08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/AlonsoDG08.xml">XML</a></small></small></li>
+<li id="GousiosKS08"><a href="http://dblp.uni-trier.de/pers/hc/g/Gousios:Georgios">Georgios Gousios</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kalliamvakou:Eirini">Eirini Kalliamvakou</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Spinellis:Diomidis">Diomidis Spinellis</a>:<b>Measuring developer contribution from software repository data.</b> 129-132<small><a href="http://doi.acm.org/10.1145/1370750.1370781"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/GousiosKS08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/GousiosKS08.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Mining challenge results</h2>
+ 
+
+<ul>
+<li id="WermelingerY08"><a href="http://dblp.uni-trier.de/pers/hc/w/Wermelinger:Michel">Michel Wermelinger</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yu:Yijun">Yijun Yu</a>:<b>Analyzing the evolution of eclipse plugins.</b> 133-136<small><a href="http://doi.acm.org/10.1145/1370750.1370783"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/WermelingerY08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/WermelingerY08.xml">XML</a></small></small></li>
+<li id="SiyCS08"><a href="http://dblp.uni-trier.de/pers/hc/s/Siy:Harvey_P=">Harvey P. Siy</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chundi:Parvathi">Parvathi Chundi</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Subramaniam:Mahadevan">Mahadevan Subramaniam</a>:<b>Summarizing developer work history using time series segmentation: challenge report.</b> 137-140<small><a href="http://doi.acm.org/10.1145/1370750.1370784"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/SiyCS08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/SiyCS08.xml">XML</a></small></small></li>
+<li id="Zhang08"><a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Hongyu">Hongyu Zhang</a>:<b>An initial study of the growth of eclipse defects.</b> 141-144<small><a href="http://doi.acm.org/10.1145/1370750.1370785"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/Zhang08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/Zhang08.xml">XML</a></small></small></li>
+<li id="HerraizGGR08"><a href="http://dblp.uni-trier.de/pers/hc/h/Herraiz:Israel">Israel Herraiz</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Germ=aacute=n:Daniel_M=">Daniel M. Germ&#225;n</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gonz=aacute=lez=Barahona:Jes=uacute=s_M=">Jes&#250;s M. Gonz&#225;lez-Barahona</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Robles:Gregorio">Gregorio Robles</a>:<b>Towards a simplification of the bug report form in eclipse.</b> 145-148<small><a href="http://doi.acm.org/10.1145/1370750.1370786"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/HerraizGGR08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/HerraizGGR08.xml">XML</a></small></small></li>
+<li id="HolmesW08"><a href="http://dblp.uni-trier.de/pers/hc/h/Holmes:Reid">Reid Holmes</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Walker:Robert_J=">Robert J. Walker</a>:<b>A newbie's guide to eclipse APIs.</b> 149-152<small><a href="http://doi.acm.org/10.1145/1370750.1370787"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/msr/HolmesW08.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/msr/HolmesW08.xml">XML</a></small></small></li>
+</ul>
+</dblp>

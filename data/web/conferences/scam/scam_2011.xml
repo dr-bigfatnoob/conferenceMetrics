@@ -1,0 +1,75 @@
+<dblp>
+    
+<h2>Static Analysis</h2>
+ 
+
+<ul>
+<li id="Larson11"><a href="http://dblp.uni-trier.de/pers/hc/l/Larson:Eric">Eric Larson</a>:<b>Program Analysis Too Loopy? Set the Loops Aside.</b> 15-24<small><a href="http://dx.doi.org/10.1109/SCAM.2011.22"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Larson11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Larson11.xml">XML</a></small></small></li>
+<li id="PavluSK11"><a href="http://dblp.uni-trier.de/pers/hc/p/Pavlu:Viktor">Viktor Pavlu</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schordan:Markus">Markus Schordan</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Krall:Andreas">Andreas Krall</a>:<b>Computation of Alias Sets from Shape Graphs for Comparison of Shape Analysis Precision.</b> 25-34<small><a href="http://dx.doi.org/10.1109/SCAM.2011.11"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/PavluSK11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/PavluSK11.xml">XML</a></small></small></li>
+<li id="SawinR11"><a href="http://dblp.uni-trier.de/pers/hc/s/Sawin:Jason">Jason Sawin</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rountev:Atanas">Atanas Rountev</a>:<b>Assumption Hierarchy for a CHA Call Graph Construction Algorithm.</b> 35-44<small><a href="http://dx.doi.org/10.1109/SCAM.2011.20"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/SawinR11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/SawinR11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Embedded Systems and Mobile Platforms</h2>
+ 
+
+<ul>
+<li id="Keul11"><a href="http://dblp.uni-trier.de/pers/hc/k/Keul:Steffen">Steffen Keul</a>:<b>Tuning Static Data Race Analysis for Automotive Control Software.</b> 45-54<small><a href="http://dx.doi.org/10.1109/SCAM.2011.16"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Keul11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Keul11.xml">XML</a></small></small></li>
+<li id="SyerAZH11"><a href="http://dblp.uni-trier.de/pers/hc/s/Syer:Mark_D=">Mark D. Syer</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Adams:Bram">Bram Adams</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zou:Ying">Ying Zou</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hassan:Ahmed_E=">Ahmed E. Hassan</a>:<b>Exploring the Development of Micro-apps: A Case Study on the BlackBerry and Android Platforms.</b> 55-64<small><a href="http://dx.doi.org/10.1109/SCAM.2011.25"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/SyerAZH11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/SyerAZH11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Defects and Security</h2>
+ 
+
+<ul>
+<li id="MarinescuM11"><a href="http://dblp.uni-trier.de/pers/hc/m/Marinescu_0001:Radu">Radu Marinescu</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marinescu:Cristina">Cristina Marinescu</a>:<b>Are the Clients of Flawed Classes (Also) Defect Prone?</b> 65-74<small><a href="http://dx.doi.org/10.1109/SCAM.2011.9"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/MarinescuM11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/MarinescuM11.xml">XML</a></small></small></li>
+<li id="CooganD11"><a href="http://dblp.uni-trier.de/pers/hc/c/Coogan:Kevin">Kevin Coogan</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Debray:Saumya_K=">Saumya K. Debray</a>:<b>Equational Reasoning on x86 Assembly Code.</b> 75-84<small><a href="http://dx.doi.org/10.1109/SCAM.2011.15"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/CooganD11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/CooganD11.xml">XML</a></small></small></li>
+<li id="AvanciniC11"><a href="http://dblp.uni-trier.de/pers/hc/a/Avancini:Andrea">Andrea Avancini</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Ceccato:Mariano">Mariano Ceccato</a>:<b>Security Testing of Web Applications: A Search-Based Approach for Cross-Site Scripting Vulnerabilities.</b> 85-94<small><a href="http://dx.doi.org/10.1109/SCAM.2011.7"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/AvanciniC11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/AvanciniC11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Clones</h2>
+ 
+
+<ul>
+<li id="WangG11"><a href="http://dblp.uni-trier.de/pers/hc/w/Wang_0001:Wei">Wei Wang</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Godfrey:Michael_W=">Michael W. Godfrey</a>:<b>A Study of Cloning in the Linux SCSI Drivers.</b> 95-104<small><a href="http://dx.doi.org/10.1109/SCAM.2011.17"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/WangG11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/WangG11.xml">XML</a></small></small></li>
+<li id="ZibranR11"><a href="http://dblp.uni-trier.de/pers/hc/z/Zibran:Minhaz_F=">Minhaz F. Zibran</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roy:Chanchal_K=">Chanchal K. Roy</a>:<b>A Constraint Programming Approach to Conflict-Aware Optimal Scheduling of Prioritized Code Clone Refactoring.</b> 105-114<small><a href="http://dx.doi.org/10.1109/SCAM.2011.21"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/ZibranR11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/ZibranR11.xml">XML</a></small></small></li>
+<li id="SchulzeJF11"><a href="http://dblp.uni-trier.de/pers/hc/s/Schulze:Sandro">Sandro Schulze</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/J=uuml=rgens:Elmar">Elmar J&#252;rgens</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Feigenspan:Janet">Janet Feigenspan</a>:<b>Analyzing the Effect of Preprocessor Annotations on Code Clones.</b> 115-124<small><a href="http://dx.doi.org/10.1109/SCAM.2011.12"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/SchulzeJF11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/SchulzeJF11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Search</h2>
+ 
+
+<ul>
+<li id="AbebeHTM11"><a href="http://dblp.uni-trier.de/pers/hc/a/Abebe:Surafel_Lemma">Surafel Lemma Abebe</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Haiduc:Sonia">Sonia Haiduc</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tonella:Paolo">Paolo Tonella</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marcus:Andrian">Andrian Marcus</a>:<b>The Effect of Lexicon Bad Smells on Concept Location in Source Code.</b> 125-134<small><a href="http://dx.doi.org/10.1109/SCAM.2011.18"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/AbebeHTM11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/AbebeHTM11.xml">XML</a></small></small></li>
+<li id="KellyAAH11"><a href="http://dblp.uni-trier.de/pers/hc/k/Kelly:Matthew_B=">Matthew B. Kelly</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Alexander:Jason_S=">Jason S. Alexander</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Adams:Bram">Bram Adams</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hassan:Ahmed_E=">Ahmed E. Hassan</a>:<b>Recovering a Balanced Overview of Topics in a Software Domain.</b> 135-144<small><a href="http://dx.doi.org/10.1109/SCAM.2011.23"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/KellyAAH11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/KellyAAH11.xml">XML</a></small></small></li>
+<li id="AlvesHR11"><a href="http://dblp.uni-trier.de/pers/hc/a/Alves:Tiago_L=">Tiago L. Alves</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hage:Jurriaan">Jurriaan Hage</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rademaker:Peter">Peter Rademaker</a>:<b>A Comparative Study of Code Query Technologies.</b> 145-154<small><a href="http://dx.doi.org/10.1109/SCAM.2011.14"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/AlvesHR11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/AlvesHR11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Tools</h2>
+ 
+
+<ul>
+<li id="RoubtsovSMB11"><a href="http://dblp.uni-trier.de/pers/hc/r/Roubtsov:Serguei_A=">Serguei A. Roubtsov</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Serebrenik:Alexander">Alexander Serebrenik</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mazoyer:Aur=eacute=lien">Aur&#233;lien Mazoyer</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Brand:Mark_van_den">Mark van den Brand</a>:<b>I2SD: Reverse Engineering Sequence Diagrams from Enterprise Java Beans with Interceptors.</b> 155-164<small><a href="http://dx.doi.org/10.1109/SCAM.2011.5"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/RoubtsovSMB11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/RoubtsovSMB11.xml">XML</a></small></small></li>
+<li id="Mehlich11"><a href="http://dblp.uni-trier.de/pers/hc/m/Mehlich:Michael">Michael Mehlich</a>:<b>CheckPointer - A C Memory Access Validator.</b> 165-172<small><a href="http://dx.doi.org/10.1109/SCAM.2011.8"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Mehlich11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Mehlich11.xml">XML</a></small></small></li>
+<li id="CollardDM11"><a href="http://dblp.uni-trier.de/pers/hc/c/Collard:Michael_L=">Michael L. Collard</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Decker:Michael_John">Michael John Decker</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maletic:Jonathan_I=">Jonathan I. Maletic</a>:<b>Lightweight Transformation and Fact Extraction with the srcML Toolkit.</b> 173-184<small><a href="http://dx.doi.org/10.1109/SCAM.2011.19"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/CollardDM11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/CollardDM11.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Transformation</h2>
+ 
+
+<ul>
+<li id="NicolayRMJ11"><a href="http://dblp.uni-trier.de/pers/hc/n/Nicolay:Jens">Jens Nicolay</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roover:Coen_De">Coen De Roover</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Meuter:Wolfgang_De">Wolfgang De Meuter</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jonckers:Viviane">Viviane Jonckers</a>:<b>Automatic Parallelization of Side-Effecting Higher-Order Scheme Programs.</b> 185-194<small><a href="http://dx.doi.org/10.1109/SCAM.2011.13"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/NicolayRMJ11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/NicolayRMJ11.xml">XML</a></small></small></li>
+<li id="SfayhiS11"><a href="http://dblp.uni-trier.de/pers/hc/s/Sfayhi:Ahmed">Ahmed Sfayhi</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sahraoui:Houari_A=">Houari A. Sahraoui</a>:<b>What You See is What You Asked for: An Effort-Based Transformation of Code Analysis Tasks into Interactive Visualization Scenarios.</b> 195-203<small><a href="http://dx.doi.org/10.1109/SCAM.2011.6"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/SfayhiS11.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/SfayhiS11.xml">XML</a></small></small></li>
+</ul>
+</dblp>

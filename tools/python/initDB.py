@@ -110,6 +110,7 @@ class Paper(Base):
     ref_id = Column(String(100))
     cites = Column(String(10000))
     abstract = Column(String(50000))
+    doi_url = Column(String(200))
     
     '''Many to many Author<->Paper'''
     authors = relationship('Person', secondary=person_paper, backref='papers')
@@ -117,7 +118,7 @@ class Paper(Base):
     '''One to many Conference<->Paper'''
     venue = relationship("Venue", backref=backref('papers', order_by=id))
 
-    def __init__(self, venue, year, title, pages, num_pages, session_h2, session_h3, selected=False):
+    def __init__(self, venue, year, title, pages, num_pages, session_h2, session_h3, doi_url=None, selected=False):
         self.venue = venue
         self.year = year
         self.title = Paper.de_punctuate(title)
@@ -126,6 +127,7 @@ class Paper(Base):
         self.session_h2 = session_h2.strip()
         self.session_h3 = session_h3.strip()
         self.main_track = selected
+        self.doi_url = doi_url
         self.ref_id = None
         self.cites = None
         self.abstract = None

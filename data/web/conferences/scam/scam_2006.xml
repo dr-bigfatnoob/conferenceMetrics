@@ -1,0 +1,76 @@
+<dblp>
+    <h2>Slicing</h2>
+ 
+
+<ul>
+<li id="GallagherBH06"><a href="http://dblp.uni-trier.de/pers/hc/g/Gallagher:Keith">Keith Gallagher</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Binkley:David">David Binkley</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>:<b>Stop-List Slicing.</b> 11-20<small><a href="http://dx.doi.org/10.1109/SCAM.2006.30"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/GallagherBH06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/GallagherBH06.xml">XML</a></small></small></li>
+<li id="BeszedesGG06"><a href="http://dblp.uni-trier.de/pers/hc/b/Besz=eacute=des:=Aacute=rp=aacute=d">&#193;rp&#225;d Besz&#233;des</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gergely:Tam=aacute=s">Tam&#225;s Gergely</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gyim=oacute=thy:Tibor">Tibor Gyim&#243;thy</a>:<b>Graph-Less Dynamic Dependence-Based Dynamic Slicing Algorithms.</b> 21-30<small><a href="http://dx.doi.org/10.1109/SCAM.2006.17"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/BeszedesGG06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/BeszedesGG06.xml">XML</a></small></small></li>
+<li id="PanKW06"><a href="http://dblp.uni-trier.de/pers/hc/p/Pan:Kai">Kai Pan</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kim_0001:Sunghun">Sunghun Kim</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Whitehead_Jr=:E=_James">E. James Whitehead Jr.</a>:<b>Bug Classification Using Program Slicing Metrics.</b> 31-42<small><a href="http://dx.doi.org/10.1109/SCAM.2006.6"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/PanKW06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/PanKW06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Static Analysis I</h2>
+ 
+
+<ul>
+<li id="BinkleyHK06"><a href="http://dblp.uni-trier.de/pers/hc/b/Binkley:David">David Binkley</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Krinke:Jens">Jens Krinke</a>:<b>Characterising, Explaining, and Exploiting the Approximate Nature of Static Analysis through Animation.</b> 43-52<small><a href="http://dx.doi.org/10.1109/SCAM.2006.7"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/BinkleyHK06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/BinkleyHK06.xml">XML</a></small></small></li>
+<li id="SawinR06"><a href="http://dblp.uni-trier.de/pers/hc/s/Sawin:Jason">Jason Sawin</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rountev:Atanas">Atanas Rountev</a>:<b>Estimating the Run-Time Progress of a Call Graph Construction Algorithm53-62.</b> 53-62<small><a href="http://dx.doi.org/10.1109/SCAM.2006.12"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/SawinR06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/SawinR06.xml">XML</a></small></small></li>
+<li id="ZhangR06"><a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Weilei">Weilei Zhang</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ryder:Barbara_G=">Barbara G. Ryder</a>:<b>Constructing Accurate Application Call Graphs For Java To Model Library Callbacks.</b> 63-74<small><a href="http://dx.doi.org/10.1109/SCAM.2006.9"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/ZhangR06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/ZhangR06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Transformations</h2>
+ 
+
+<ul>
+<li id="WalensteinMCL06"><a href="http://dblp.uni-trier.de/pers/hc/w/Walenstein:Andrew">Andrew Walenstein</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mathur:Rachit">Rachit Mathur</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chouchane:Mohamed_R=">Mohamed R. Chouchane</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lakhotia:Arun">Arun Lakhotia</a>:<b>Normalizing Metamorphic Malware Using Term Rewriting.</b> 75-84<small><a href="http://dx.doi.org/10.1109/SCAM.2006.20"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/WalensteinMCL06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/WalensteinMCL06.xml">XML</a></small></small></li>
+<li id="FaganHU06"><a href="http://dblp.uni-trier.de/pers/hc/f/Fagan:Michael_W=">Michael W. Fagan</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hasco=euml=t:Laurent">Laurent Hasco&#235;t</a>, <a href="http://dblp.uni-trier.de/pers/hc/u/Utke:Jean">Jean Utke</a>:<b>Data Representation Alternatives in Semantically Augmented Numerical Models.</b> 85-94<small><a href="http://dx.doi.org/10.1109/SCAM.2006.11"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/FaganHU06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/FaganHU06.xml">XML</a></small></small></li>
+<li id="JacobsL06"><a href="http://dblp.uni-trier.de/pers/hc/j/Jacobs:Matthew">Matthew Jacobs</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lewis:E=_Christopher">E. Christopher Lewis</a>:<b>SMART C: A Semantic Macro Replacement Translator for C.</b> 95-106<small><a href="http://dx.doi.org/10.1109/SCAM.2006.28"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/JacobsL06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/JacobsL06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Tools</h2>
+ 
+
+<ul>
+<li id="Bruntink06"><a href="http://dblp.uni-trier.de/pers/hc/b/Bruntink:Magiel">Magiel Bruntink</a>:<b>Linking Analysis and Transformation Tools with Source-Based Mappings.</b> 107-116<small><a href="http://dx.doi.org/10.1109/SCAM.2006.18"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/Bruntink06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/Bruntink06.xml">XML</a></small></small></li>
+<li id="ThurstonC06"><a href="http://dblp.uni-trier.de/pers/hc/t/Thurston:Adrian_D=">Adrian D. Thurston</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cordy:James_R=">James R. Cordy</a>:<b>Evolving TXL.</b> 117-126<small><a href="http://dx.doi.org/10.1109/SCAM.2006.14"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/ThurstonC06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/ThurstonC06.xml">XML</a></small></small></li>
+<li id="FulopGF06"><a href="http://dblp.uni-trier.de/pers/hc/f/F=uuml=l=ouml=p:Lajos_Jeno">Lajos Jeno F&#252;l&#246;p</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gyovai:Tamas">Tamas Gyovai</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Ferenc:Rudolf">Rudolf Ferenc</a>:<b>Evaluating C++ Design Pattern Miner Tools.</b> 127-138<small><a href="http://dx.doi.org/10.1109/SCAM.2006.13"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/FulopGF06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/FulopGF06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Static Analysis II</h2>
+ 
+
+<ul>
+<li id="LawrieFB06"><a href="http://dblp.uni-trier.de/pers/hc/l/Lawrie:Dawn">Dawn Lawrie</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Feild:Henry">Henry Feild</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Binkley:David">David Binkley</a>:<b>Syntactic Identifier Conciseness and Consistency.</b> 139-148<small><a href="http://dx.doi.org/10.1109/SCAM.2006.31"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/LawrieFB06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/LawrieFB06.xml">XML</a></small></small></li>
+<li id="BoogerdM06"><a href="http://dblp.uni-trier.de/pers/hc/b/Boogerd:Cathal">Cathal Boogerd</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Moonen:Leon">Leon Moonen</a>:<b>Prioritizing Software Inspection Results using Static Profiling.</b> 149-160<small><a href="http://dx.doi.org/10.1109/SCAM.2006.22"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/BoogerdM06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/BoogerdM06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Tool Demonstrations</h2>
+ 
+
+<ul>
+<li id="WykKBJSR06"><a href="http://dblp.uni-trier.de/pers/hc/w/Wyk:Eric_Van">Eric Van Wyk</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Krishnan:Lijesh">Lijesh Krishnan</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bodin:Derek">Derek Bodin</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Johnson:Eric">Eric Johnson</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schwerdfeger:August">August Schwerdfeger</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Russell:Phil">Phil Russell</a>:<b>Tool Demonstration: Silver Extensible Compiler Frameworks and Modular Language Extensions for Java and C.</b> 161<small><a href="http://dx.doi.org/10.1109/SCAM.2006.32"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/WykKBJSR06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/WykKBJSR06.xml">XML</a></small></small></li>
+<li id="NogueraP06"><a href="http://dblp.uni-trier.de/pers/hc/n/Noguera:Carlos">Carlos Noguera</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pawlak:Renaud">Renaud Pawlak</a>:<b>AVal: an Extensible Attribute-Oriented Programming Validator for Java.</b> 175-183<small><a href="http://dx.doi.org/10.1109/SCAM.2006.5"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/NogueraP06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/NogueraP06.xml">XML</a></small></small></li>
+<li id="HenriksenG06"><a href="http://dblp.uni-trier.de/pers/hc/h/Henriksen:Kim_S=">Kim S. Henriksen</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gallagher:John_P=">John P. Gallagher</a>:<b>Abstract Interpretation of PIC Programs through Logic Programming.</b> 184-196<small><a href="http://dx.doi.org/10.1109/SCAM.2006.1"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/HenriksenG06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/HenriksenG06.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Refactoring</h2>
+ 
+
+<ul>
+<li id="LiT06"><a href="http://dblp.uni-trier.de/pers/hc/l/Li:Huiqing">Huiqing Li</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Thompson:Simon_J=">Simon J. Thompson</a>:<b>Comparative Study of Refactoring Haskell and Erlang Programs.</b> 197-206<small><a href="http://dx.doi.org/10.1109/SCAM.2006.8"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/LiT06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/LiT06.xml">XML</a></small></small></li>
+<li id="StreinKL06"><a href="http://dblp.uni-trier.de/pers/hc/s/Strein:Dennis">Dennis Strein</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kratz:Hans">Hans Kratz</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/L=ouml=we:Welf">Welf L&#246;we</a>:<b>Cross-Language Program Analysis and Refactoring.</b> 207-216<small><a href="http://dx.doi.org/10.1109/SCAM.2006.10"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/StreinKL06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/StreinKL06.xml">XML</a></small></small></li>
+<li id="CollardKM06"><a href="http://dblp.uni-trier.de/pers/hc/c/Collard:Michael_L=">Michael L. Collard</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kagdi:Huzefa_H=">Huzefa H. Kagdi</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maletic:Jonathan_I=">Jonathan I. Maletic</a>:<b>Factoring Differences for Iterative Change Management.</b> 217-226<small><a href="http://dx.doi.org/10.1109/SCAM.2006.15"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/scam/CollardKM06.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/scam/CollardKM06.xml">XML</a></small></small></li>
+</ul>
+
+</dblp>

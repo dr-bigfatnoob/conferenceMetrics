@@ -1,0 +1,99 @@
+<dblp>
+    <h2>Software Maintenance</h2>
+ 
+
+<ul>
+<li id="LuciaPSP02"><a href="http://dblp.uni-trier.de/pers/hc/l/Lucia:Andrea_De">Andrea De Lucia</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pannella:Antonello">Antonello Pannella</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stefanucci:Silvio">Silvio Stefanucci</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pompella:Eugenio">Eugenio Pompella</a>:<b>Empirical Analysis of Massive Maintenance Processes.</b> 5-14<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995785"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/LuciaPSP02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/LuciaPSP02.xml">XML</a></small></small></li>
+<li id="CarM02"><a href="http://dblp.uni-trier.de/pers/hc/c/Car:Zeljka">Zeljka Car</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mikac:Branko">Branko Mikac</a>:<b>A Method for Modeling and Evaluating Software Maintenance Process Performances.</b> 15-23<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995786"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/CarM02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/CarM02.xml">XML</a></small></small></li>
+<li id="AversanoCLG02"><a href="http://dblp.uni-trier.de/pers/hc/a/Aversano:Lerina">Lerina Aversano</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Canfora:Gerardo">Gerardo Canfora</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lucia:Andrea_De">Andrea De Lucia</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gallucci:Pierpaolo">Pierpaolo Gallucci</a>:<b>Integrating Document and Workflow Management Tools using XML and Web Technologies: A Case Study.</b> 24-<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995787"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/AversanoCLG02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/AversanoCLG02.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Architectural Design Recovery</h2>
+ 
+
+<ul>
+<li id="JahnkeWZ02"><a href="http://dblp.uni-trier.de/pers/hc/j/Jahnke:Jens_H=">Jens H. Jahnke</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wadsack:J=ouml=rg_P=">J&#246;rg P. Wadsack</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Z=uuml=ndorf:Albert">Albert Z&#252;ndorf</a>:<b>A History Concept for Design Recovery Tools.</b> 37-46<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995788"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/JahnkeWZ02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/JahnkeWZ02.xml">XML</a></small></small></li>
+<li id="RivaR02"><a href="http://dblp.uni-trier.de/pers/hc/r/Riva:Claudio">Claudio Riva</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rodr=iacute=guez:Jordi_Vidal">Jordi Vidal Rodr&#237;guez</a>:<b>Combining Static and Dynamic Views for Architecture Reconstruction.</b> 47-<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995789"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/RivaR02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/RivaR02.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Source Code Analysis</h2>
+ 
+
+<ul>
+<li id="FerencB02"><a href="http://dblp.uni-trier.de/pers/hc/f/Ferenc:Rudolf">Rudolf Ferenc</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Besz=eacute=des:=Aacute=rp=aacute=d">&#193;rp&#225;d Besz&#233;des</a>:<b>Data Exchange with the Columbus Schema for C++.</b> 59-66<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995790"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/FerencB02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/FerencB02.xml">XML</a></small></small></li>
+<li id="RaysideK02"><a href="http://dblp.uni-trier.de/pers/hc/r/Rayside:Derek">Derek Rayside</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kontogiannis:Kostas">Kostas Kontogiannis</a>:<b>A Generic Worklist Algorithm for Graph Reachability Problems in Program Analysis.</b> 67-76<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995791"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/RaysideK02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/RaysideK02.xml">XML</a></small></small></li>
+<li id="HajnalF02"><a href="http://dblp.uni-trier.de/pers/hc/h/Hajnal:=Aacute=kos">&#193;kos Hajnal</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Forg=aacute=cs:Istv=aacute=n">Istv&#225;n Forg&#225;cs</a>:<b>A Precise Demand-Driven Def-Use Chaining Algorithm.</b> 77-<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995792"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/HajnalF02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/HajnalF02.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Metrics for Maintenance &#38; Reengineering</h2>
+ 
+
+<ul>
+<li id="KollmannG02"><a href="http://dblp.uni-trier.de/pers/hc/k/Kollmann:Ralf">Ralf Kollmann</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gogolla:Martin">Martin Gogolla</a>:<b>Metric-Based Selective Representation of UML Diagrams.</b> 89-98<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995793"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/KollmannG02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/KollmannG02.xml">XML</a></small></small></li>
+<li id="YuSM02"><a href="http://dblp.uni-trier.de/pers/hc/y/Yu:Ping">Ping Yu</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Syst=auml=:Tarja">Tarja Syst&#228;</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/M=uuml=ller:Hausi_A=">Hausi A. M&#252;ller</a>:<b>Predicting Fault-Proneness using OO Metrics: An Industrial Case Study.</b> 99-107<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995794"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/YuSM02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/YuSM02.xml">XML</a></small></small></li>
+<li id="GustafssonPNV02"><a href="http://dblp.uni-trier.de/pers/hc/g/Gustafsson:Juha">Juha Gustafsson</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Paakki:Jukka">Jukka Paakki</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nenonen:Lilli">Lilli Nenonen</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Verkamo:A=_Inkeri">A. Inkeri Verkamo</a>:<b>Architecture-Centric Software Evolution by Software Metrics and Design Patterns.</b> 108-<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995795"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/GustafssonPNV02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/GustafssonPNV02.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Evolution &#38; Integration</h2>
+ 
+
+<ul>
+<li id="AkkanenKN02"><a href="http://dblp.uni-trier.de/pers/hc/a/Akkanen:Jyrki">Jyrki Akkanen</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kiss_0002:Attila">Attila Kiss</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nurminen:Jukka_K=">Jukka K. Nurminen</a>:<b>Evolution of a Software Component - Experiences with a Network Editor Component.</b> 119-125<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995796"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/AkkanenKN02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/AkkanenKN02.xml">XML</a></small></small></li>
+<li id="JustoS02"><a href="http://dblp.uni-trier.de/pers/hc/r/Ribeiro=Justo:George_R=">George R. Ribeiro-Justo</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Saleh:Ahmed">Ahmed Saleh</a>:<b>Non-functional Integration and Coordination of Distributed Component Services.</b> 126-133<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995797"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/JustoS02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/JustoS02.xml">XML</a></small></small></li>
+<li id="SametingerR02"><a href="http://dblp.uni-trier.de/pers/hc/s/Sametinger:Johannes">Johannes Sametinger</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Riebisch:Matthias">Matthias Riebisch</a>:<b>Evolution Support by Homogeneously Documenting Patterns, Aspects and Traces.</b> 134-<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995798"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/SametingerR02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/SametingerR02.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software Migration</h2>
+ 
+
+<ul>
+<li id="MartinM02"><a href="http://dblp.uni-trier.de/pers/hc/m/Martin:Johannes">Johannes Martin</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/M=uuml=ller:Hausi_A=">Hausi A. M&#252;ller</a>:<b>C to Java Migration Experiences.</b> 143-153<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995799"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/MartinM02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/MartinM02.xml">XML</a></small></small></li>
+<li id="AlbaneseBGT02"><a href="http://dblp.uni-trier.de/pers/hc/a/Albanese:Carmine">Carmine Albanese</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bodhuin:Thierry">Thierry Bodhuin</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Guardabascio:Enrico">Enrico Guardabascio</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tortorella:Maria">Maria Tortorella</a>:<b>A Toolkit for Applying a Migration Strategy: A Case Study.</b> 154-163<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995800"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/AlbaneseBGT02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/AlbaneseBGT02.xml">XML</a></small></small></li>
+<li id="Zdun02"><a href="http://dblp.uni-trier.de/pers/hc/z/Zdun:Uwe">Uwe Zdun</a>:<b>Reengineering to the Web: A Reference Architecture.</b> 164-<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995801"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Zdun02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Zdun02.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Programming Language Issues</h2>
+ 
+
+<ul>
+<li id="BoulychevKT02"><a href="http://dblp.uni-trier.de/pers/hc/b/Boulychev:D=_Yu=">D. Yu. Boulychev</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Koznov:D=_V=">D. V. Koznov</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Terekhov:Andrey_A=">Andrey A. Terekhov</a>:<b>On Project-Specific Languages and Their Application in Reengineering.</b> 177-185<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995802"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/BoulychevKT02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/BoulychevKT02.xml">XML</a></small></small></li>
+<li id="Leitao02"><a href="http://dblp.uni-trier.de/pers/hc/l/Leitao:Antonio_Paulo_Teles_de_Menezes_Correia">Antonio Paulo Teles de Menezes Correia Leitao</a>:<b>A Formal Pattern Language for Refactoring of Lisp Programs.</b> 186-192<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995803"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Leitao02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Leitao02.xml">XML</a></small></small></li>
+<li id="Raghavan02"><a href="http://dblp.uni-trier.de/pers/hc/r/Raghavan:Gopalakrishna">Gopalakrishna Raghavan</a>:<b>A Practical Reengineering Approach for Mobile Terminal Software.</b> 193-<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995804"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Raghavan02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Raghavan02.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Short Papers</h2>
+ 
+
+<ul>
+<li id="Baburin02"><a href="http://dblp.uni-trier.de/pers/hc/b/Baburin:Danil_E=">Danil E. Baburin</a>:<b>Using Graph Based Representations in Reengineering.</b> 203-206<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995805"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Baburin02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Baburin02.xml">XML</a></small></small></li>
+<li id="MolnarBS02"><a href="http://dblp.uni-trier.de/pers/hc/m/Molnar:Balint">Balint Molnar</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Ber=eacute=nyi:Imre">Imre Ber&#233;nyi</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sikl=oacute=si:Bence">Bence Sikl&#243;si</a>:<b>Function Call Trap of Java Codes with the Help of AspectJ and XML.</b> 207-210<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995806"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/MolnarBS02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/MolnarBS02.xml">XML</a></small></small></li>
+<li id="Panteleymonov02"><a href="http://dblp.uni-trier.de/pers/hc/p/Panteleymonov:Andriy">Andriy Panteleymonov</a>:<b>Interoperable Thin Client Separation from GUI Applications.</b> 211-216<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995807"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Panteleymonov02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Panteleymonov02.xml">XML</a></small></small></li>
+<li id="DeursenV02"><a href="http://dblp.uni-trier.de/pers/hc/d/Deursen:Arie_van">Arie van Deursen</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Visser:Eelco">Eelco Visser</a>:<b>The Reengineering Wiki.</b> 217-220<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995808"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/DeursenV02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/DeursenV02.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Reverse Engineering</h2>
+ 
+
+<ul>
+<li id="YehK02"><a href="http://dblp.uni-trier.de/pers/hc/y/Yeh:Dowming">Dowming Yeh</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kuo:Wen=Yuan">Wen-Yuan Kuo</a>:<b>Reverse Engineering Aggregation Relationship Based on Propagation of Operations.</b> 223-229<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995809"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/YehK02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/YehK02.xml">XML</a></small></small></li>
+<li id="TahvildariK02"><a href="http://dblp.uni-trier.de/pers/hc/t/Tahvildari:Ladan">Ladan Tahvildari</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kontogiannis:Kostas">Kostas Kontogiannis</a>:<b>On the Role of Design Patterns in Quality-Driven Re-engineering.</b> 230-240<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995810"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/TahvildariK02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/TahvildariK02.xml">XML</a></small></small></li>
+<li id="LuccaFPTC02"><a href="http://dblp.uni-trier.de/pers/hc/l/Lucca:Giuseppe_A=_Di">Giuseppe A. Di Lucca</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fasolino:Anna_Rita">Anna Rita Fasolino</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pace:F=">F. Pace</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tramontana:Porfirio">Porfirio Tramontana</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Carlini:Ugo_de">Ugo de Carlini</a>:<b>WARE: A Tool for the Reverse Engineering of Web Applications.</b> 241-250<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995811"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/LuccaFPTC02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/LuccaFPTC02.xml">XML</a></small></small></li>
+<li id="Favre02"><a href="http://dblp.uni-trier.de/pers/hc/f/Favre:Jean=Marie">Jean-Marie Favre</a>:<b>A New Approach to Software Exploration: Back-Packing with GSEE.</b> 251-<small><a href="http://dx.doi.org/10.1109/CSMR.2002.995812"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Favre02.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Favre02.xml">XML</a></small></small></li>
+</ul>
+</dblp>

@@ -1,0 +1,103 @@
+<dblp>
+    <h2>Model-Driven Development</h2>
+ 
+
+<ul>
+<li id="BoronatHM09"><a href="http://dblp.uni-trier.de/pers/hc/b/Boronat:Artur">Artur Boronat</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Heckel:Reiko">Reiko Heckel</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Meseguer:Jos=eacute=">Jos&#233; Meseguer</a>:<b>Rewriting Logic Semantics and Verification of Model Transformations.</b> 18-33<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_2"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/BoronatHM09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/BoronatHM09.xml">XML</a></small></small></li>
+<li id="OldevikHM09"><a href="http://dblp.uni-trier.de/pers/hc/o/Oldevik:Jon">Jon Oldevik</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Haugen:=Oslash=ystein">&#216;ystein Haugen</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/M=oslash=ller=Pedersen:Birger">Birger M&#248;ller-Pedersen</a>:<b>Confluence in Domain-Independent Product Line Transformations.</b> 34-48<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_3"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/OldevikHM09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/OldevikHM09.xml">XML</a></small></small></li>
+<li id="JurackLMTW09"><a href="http://dblp.uni-trier.de/pers/hc/j/Jurack:Stefan">Stefan Jurack</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lambers:Leen">Leen Lambers</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mehner:Katharina">Katharina Mehner</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Taentzer:Gabriele">Gabriele Taentzer</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wierse:Gerd">Gerd Wierse</a>:<b>Object Flow Definition for Refined Activity Diagrams.</b> 49-63<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_4"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/JurackLMTW09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/JurackLMTW09.xml">XML</a></small></small></li>
+<li id="RutleRLW09"><a href="http://dblp.uni-trier.de/pers/hc/r/Rutle:Adrian">Adrian Rutle</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rossini:Alessandro">Alessandro Rossini</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lamo:Yngve">Yngve Lamo</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wolter:Uwe">Uwe Wolter</a>:<b>A Category-Theoretical Approach to the Formalisation of Version Control in MDE.</b> 64-78<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_5"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/RutleRLW09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/RutleRLW09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Synthesis and Adaptation</h2>
+ 
+
+<ul>
+<li id="KuglerPP09"><a href="http://dblp.uni-trier.de/pers/hc/k/Kugler:Hillel">Hillel Kugler</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Plock:Cory">Cory Plock</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pnueli:Amir">Amir Pnueli</a>:<b>Controller Synthesis from LSC Requirements.</b> 79-93<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_6"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/KuglerPP09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/KuglerPP09.xml">XML</a></small></small></li>
+<li id="GiannakopoulouP09"><a href="http://dblp.uni-trier.de/pers/hc/g/Giannakopoulou:Dimitra">Dimitra Giannakopoulou</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pasareanu:Corina_S=">Corina S. Pasareanu</a>:<b>Interface Generation and Compositional Verification in JavaPathfinder.</b> 94-108<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_7"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/GiannakopoulouP09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/GiannakopoulouP09.xml">XML</a></small></small></li>
+<li id="Wachsmuth09"><a href="http://dblp.uni-trier.de/pers/hc/w/Wachsmuth:Guido">Guido Wachsmuth</a>:<b>A Formal Way from Text to Code Templates.</b> 109-123<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_8"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/Wachsmuth09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/Wachsmuth09.xml">XML</a></small></small></li>
+<li id="AutiliBI09"><a href="http://dblp.uni-trier.de/pers/hc/a/Autili:Marco">Marco Autili</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Benedetto:Paolo_Di">Paolo Di Benedetto</a>, <a href="http://dblp.uni-trier.de/pers/hc/i/Inverardi:Paola">Paola Inverardi</a>:<b>Context-Aware Adaptive Services: The PLASTIC Approach.</b> 124-139<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_9"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/AutiliBI09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/AutiliBI09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Modeling</h2>
+ 
+
+<ul>
+<li id="JahierHR09"><a href="http://dblp.uni-trier.de/pers/hc/j/Jahier:Erwan">Erwan Jahier</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Halbwachs:Nicolas">Nicolas Halbwachs</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Raymond:Pascal">Pascal Raymond</a>:<b>Synchronous Modeling and Validation of Priority Inheritance Schedulers.</b> 140-154<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_10"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/JahierHR09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/JahierHR09.xml">XML</a></small></small></li>
+<li id="AguirreFMMW09"><a href="http://dblp.uni-trier.de/pers/hc/a/Aguirre:Nazareno">Nazareno Aguirre</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Frias:Marcelo_F=">Marcelo F. Frias</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Moscato:Mariano_M=">Mariano M. Moscato</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maibaum:T=_S=_E=">T. S. E. Maibaum</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wassyng:Alan">Alan Wassyng</a>:<b>Describing and Analyzing Behaviours over Tabular Specifications Using (Dyn)Alloy.</b> 155-170<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_11"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/AguirreFMMW09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/AguirreFMMW09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Testing and Debugging</h2>
+ 
+
+<ul>
+<li id="JagannathLDM09"><a href="http://dblp.uni-trier.de/pers/hc/j/Jagannath:Vilas">Vilas Jagannath</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lee:Yun_Young">Yun Young Lee</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Daniel:Brett">Brett Daniel</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marinov:Darko">Darko Marinov</a>:<b>Reducing the Costs of Bounded-Exhaustive Testing.</b> 171-185<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_12"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/JagannathLDM09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/JagannathLDM09.xml">XML</a></small></small></li>
+<li id="GrayM09"><a href="http://dblp.uni-trier.de/pers/hc/g/Gray:Kathryn_E=">Kathryn E. Gray</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mycroft:Alan">Alan Mycroft</a>:<b>Logical Testing.</b> 186-200<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_13"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/GrayM09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/GrayM09.xml">XML</a></small></small></li>
+<li id="ChocklerFGN09"><a href="http://dblp.uni-trier.de/pers/hc/c/Chockler:Hana">Hana Chockler</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Farchi:Eitan">Eitan Farchi</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Godlin:Benny">Benny Godlin</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Novikov:Sergey">Sergey Novikov</a>:<b>Cross-Entropy-Based Replay of Concurrent Programs.</b> 201-215<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_14"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/ChocklerFGN09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/ChocklerFGN09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Model Analysis</h2>
+ 
+
+<ul>
+<li id="AndroutsopoulosCHLT09"><a href="http://dblp.uni-trier.de/pers/hc/a/Androutsopoulos:Kelly">Kelly Androutsopoulos</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Clark:David">David Clark</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Harman:Mark">Mark Harman</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Li:Zheng">Zheng Li</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tratt:Laurence">Laurence Tratt</a>:<b>Control Dependence for Extended Finite State Machines.</b> 216-230<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_15"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/AndroutsopoulosCHLT09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/AndroutsopoulosCHLT09.xml">XML</a></small></small></li>
+<li id="LeinoM09"><a href="http://dblp.uni-trier.de/pers/hc/l/Leino:K=_Rustan_M=">K. Rustan M. Leino</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Middelkoop:Ronald">Ronald Middelkoop</a>:<b>Proving Consistency of Pure Methods and Model Fields.</b> 231-245<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_16"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/LeinoM09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/LeinoM09.xml">XML</a></small></small></li>
+<li id="Kosiuczenko09"><a href="http://dblp.uni-trier.de/pers/hc/k/Kosiuczenko:Piotr">Piotr Kosiuczenko</a>:<b>On the Implementation of @pre.</b> 246-261<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_17"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/Kosiuczenko09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/Kosiuczenko09.xml">XML</a></small></small></li>
+<li id="AlTurkiDYCI09"><a href="http://dblp.uni-trier.de/pers/hc/a/AlTurki:Musab">Musab AlTurki</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dhurjati:Dinakar">Dinakar Dhurjati</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yu:Dachuan">Dachuan Yu</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chander:Ajay">Ajay Chander</a>, <a href="http://dblp.uni-trier.de/pers/hc/i/Inamura:Hiroshi">Hiroshi Inamura</a>:<b>Formal Specification and Analysis of Timing Properties in Software Systems.</b> 262-277<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_18"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/AlTurkiDYCI09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/AlTurkiDYCI09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Patterns</h2>
+ 
+
+<ul>
+<li id="BottoniGL09"><a href="http://dblp.uni-trier.de/pers/hc/b/Bottoni:Paolo">Paolo Bottoni</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Guerra:Esther">Esther Guerra</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lara:Juan_de">Juan de Lara</a>:<b>Formal Foundation for Pattern-Based Modelling.</b> 278-293<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_19"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/BottoniGL09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/BottoniGL09.xml">XML</a></small></small></li>
+<li id="FullebornMH09"><a href="http://dblp.uni-trier.de/pers/hc/f/F=uuml=lleborn:Alexander">Alexander F&#252;lleborn</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Meffert:Klaus">Klaus Meffert</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Heisel:Maritta">Maritta Heisel</a>:<b>Problem-Oriented Documentation of Design Patterns.</b> 294-308<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_20"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/FullebornMH09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/FullebornMH09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Security</h2>
+ 
+
+<ul>
+<li id="NarasamdyaP09"><a href="http://dblp.uni-trier.de/pers/hc/n/Narasamdya:Iman">Iman Narasamdya</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/P=eacute=rin:Micha=euml=l">Micha&#235;l P&#233;rin</a>:<b>Certification of Smart-Card Applications in Common Criteria.</b> 309-324<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_21"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/NarasamdyaP09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/NarasamdyaP09.xml">XML</a></small></small></li>
+<li id="HermannEE09"><a href="http://dblp.uni-trier.de/pers/hc/h/Hermann_0001:Frank">Frank Hermann</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Ehrig:Hartmut">Hartmut Ehrig</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Ermel:Claudia">Claudia Ermel</a>:<b>Transformation of Type Graphs with Inheritance for Ensuring Security in E-Government Networks.</b> 325-339<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_22"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/HermannEE09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/HermannEE09.xml">XML</a></small></small></li>
+<li id="HuismanT09"><a href="http://dblp.uni-trier.de/pers/hc/h/Huisman:Marieke">Marieke Huisman</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tamalet:Alejandro">Alejandro Tamalet</a>:<b>A Formal Connection between Security Automata and JML Annotations.</b> 340-354<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_23"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/HuismanT09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/HuismanT09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Queries and Error Handling</h2>
+ 
+
+<ul>
+<li id="SumnerZ09"><a href="http://dblp.uni-trier.de/pers/hc/s/Sumner:William_N=">William N. Sumner</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Xiangyu">Xiangyu Zhang</a>:<b>Algorithms for Automatically Computing the Causal Paths of Failures.</b> 355-369<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_24"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/SumnerZ09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/SumnerZ09.xml">XML</a></small></small></li>
+<li id="AcharyaX09"><a href="http://dblp.uni-trier.de/pers/hc/a/Acharya:Mithun">Mithun Acharya</a>, <a href="http://dblp.uni-trier.de/pers/hc/x/Xie:Tao">Tao Xie</a>:<b>Mining API Error-Handling Specifications from Source Code.</b> 370-384<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_25"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/AcharyaX09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/AcharyaX09.xml">XML</a></small></small></li>
+<li id="ChatterjeeJS09"><a href="http://dblp.uni-trier.de/pers/hc/c/Chatterjee:Shaunak">Shaunak Chatterjee</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Juvekar:Sudeep">Sudeep Juvekar</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sen:Koushik">Koushik Sen</a>:<b>SNIFF: A Search Engine for Java Using Free-Form Queries.</b> 385-400<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_26"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/ChatterjeeJS09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/ChatterjeeJS09.xml">XML</a></small></small></li>
+<li id="RajamaniJPR09"><a href="http://dblp.uni-trier.de/pers/hc/r/Rajamani:Vasanth">Vasanth Rajamani</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Julien:Christine">Christine Julien</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Payton:Jamie">Jamie Payton</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Roman:Gruia=Catalin">Gruia-Catalin Roman</a>:<b>Inquiry and Introspection for Non-deterministic Queries in Mobile Networks.</b> 401-416<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_27"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/RajamaniJPR09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/RajamaniJPR09.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Tools (Demos) and Program Analysis</h2>
+ 
+
+<ul>
+<li id="BruckerW09"><a href="http://dblp.uni-trier.de/pers/hc/b/Brucker:Achim_D=">Achim D. Brucker</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wolff:Burkhart">Burkhart Wolff</a>:<b>hol-TestGen.</b> 417-420<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_28"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/BruckerW09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/BruckerW09.xml">XML</a></small></small></li>
+<li id="CalinescuK09"><a href="http://dblp.uni-trier.de/pers/hc/c/Calinescu:Radu">Radu Calinescu</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kwiatkowska:Marta_Z=">Marta Z. Kwiatkowska</a>:<b>CADS*: Computer-Aided Development of Self-* Systems.</b> 421-424<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_29"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/CalinescuK09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/CalinescuK09.xml">XML</a></small></small></li>
+<li id="ChenWYS09"><a href="http://dblp.uni-trier.de/pers/hc/c/Chen:Qichang">Qichang Chen</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wang:Liqiang">Liqiang Wang</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yang:Zijiang">Zijiang Yang</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Stoller:Scott_D=">Scott D. Stoller</a>:<b>HAVE: Detecting Atomicity Violations via Integrated Dynamic and Static Analysis.</b> 425-439<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_30"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/ChenWYS09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/ChenWYS09.xml">XML</a></small></small></li>
+<li id="NguyenNPAN09"><a href="http://dblp.uni-trier.de/pers/hc/n/Nguyen:Hoan_Anh">Hoan Anh Nguyen</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nguyen:Tung_Thanh">Tung Thanh Nguyen</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pham:Nam_H=">Nam H. Pham</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Al=Kofahi:Jafar_M=">Jafar M. Al-Kofahi</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nguyen:Tien_N=">Tien N. Nguyen</a>:<b>Accurate and Efficient Structural Characteristic Feature Extraction for Clone Detection.</b> 440-455<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_31"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/NguyenNPAN09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/NguyenNPAN09.xml">XML</a></small></small></li>
+<li id="Sery09"><a href="http://dblp.uni-trier.de/pers/hc/s/Sery:Ondrej">Ondrej Sery</a>:<b>Enhanced Property Specification and Verification in BLAST.</b> 456-469<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_32"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/Sery09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/Sery09.xml">XML</a></small></small></li>
+<li id="KovacsV09"><a href="http://dblp.uni-trier.de/pers/hc/k/Kov=aacute=cs:Laura">Laura Kov&#225;cs</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Voronkov:Andrei">Andrei Voronkov</a>:<b>Finding Loop Invariants for Programs over Arrays Using a Theorem Prover.</b> 470-485<small><a href="http://dx.doi.org/10.1007/978-3-642-00593-0_33"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/fase/KovacsV09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/fase/KovacsV09.xml">XML</a></small></small></li>
+</ul>
+</dblp>

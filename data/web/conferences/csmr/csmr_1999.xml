@@ -1,0 +1,103 @@
+<dblp>
+    <h2>Testing</h2>
+
+
+<ul>
+<li id="GranjaJ99"><a href="http://dblp.uni-trier.de/pers/hc/g/Granja:Ivan">Ivan Granja</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jino:Mario">Mario Jino</a>:<b>Techniques for Regression Testing: Selecting Test Case Sets Tailored to Possibly Modified Functionalities.</b> 2-13<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756677"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/GranjaJ99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/GranjaJ99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Architectural Understanding</h2>
+
+
+<ul>
+<li id="KrikhaarPZ99"><a href="http://dblp.uni-trier.de/pers/hc/k/Krikhaar:Ren=eacute=_L=">Ren&#233; L. Krikhaar</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pennings:Maarten">Maarten Pennings</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zonneveld:J=">J. Zonneveld</a>:<b>Employing Use-cases and Domain Knowledge for Comprehending Resource Usage.</b> 14-21<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756678"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/KrikhaarPZ99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/KrikhaarPZ99.xml">XML</a></small></small></li>
+<li id="CarriereKW99"><a href="http://dblp.uni-trier.de/pers/hc/c/Carri=egrave=re:S=_Jeromy">S. Jeromy Carri&#232;re</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kazman:Rick">Rick Kazman</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Woods:Steven_G=">Steven G. Woods</a>:<b>Assessing and Maintaining Architectural Quality.</b> 22-30<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756679"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/CarriereKW99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/CarriereKW99.xml">XML</a></small></small></li>
+<li id="KrikhaarFJM99"><a href="http://dblp.uni-trier.de/pers/hc/k/Krikhaar:Ren=eacute=_L=">Ren&#233; L. Krikhaar</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Feijs:Loe_M=_G=">Loe M. G. Feijs</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jong:Roel_de">Roel de Jong</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Medema:J=">J. Medema</a>:<b>Architecture Comprehension Tools for a PBX System.</b> 31-41<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756680"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/KrikhaarFJM99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/KrikhaarFJM99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Understanding</h2>
+
+
+<ul>
+<li id="EbertKW99"><a href="http://dblp.uni-trier.de/pers/hc/k/Kullbach:Bernt">Bernt Kullbach</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Winter:Andreas">Andreas Winter</a>:<b>Querying as an Enabling Technology in Software Reengineering.</b> 42-50<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756681"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/EbertKW99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/EbertKW99.xml">XML</a></small></small></li>
+<li id="AntoniolCT99"><a href="http://dblp.uni-trier.de/pers/hc/a/Antoniol:Giuliano">Giuliano Antoniol</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Calzolari:F=">F. Calzolari</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tonella:Paolo">Paolo Tonella</a>:<b>Impact of Function Pointers on the Call Graph.</b> 51-61<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756682"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/AntoniolCT99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/AntoniolCT99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Data Flow Analysis</h2>
+
+
+<ul>
+<li id="Tonella99"><a href="http://dblp.uni-trier.de/pers/hc/t/Tonella:Paolo">Paolo Tonella</a>:<b>Effects of Different Flow Insensitive Points-to Analyses on DEF/USE Sets.</b> 62-71<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756683"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Tonella99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Tonella99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Program Reengineering</h2>
+
+
+<ul>
+<li id="SellinkVS99"><a href="http://dblp.uni-trier.de/pers/hc/s/Sellink:Alex">Alex Sellink</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Verhoef:Chris">Chris Verhoef</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sneed:Harry_M=">Harry M. Sneed</a>:<b>Restructuring of COBOL/CICS Legacy Systems.</b> 72-82<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756684"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/SellinkVS99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/SellinkVS99.xml">XML</a></small></small></li>
+<li id="BrunekreefD99"><a href="http://dblp.uni-trier.de/pers/hc/b/Brunekreef:Jacob">Jacob Brunekreef</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Diertens:Bob">Bob Diertens</a>:<b>Towards a User-Controlled Software Renovation Factory.</b> 83-90<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756685"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/BrunekreefD99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/BrunekreefD99.xml">XML</a></small></small></li>
+<li id="TaschwerRM99"><a href="http://dblp.uni-trier.de/pers/hc/t/Taschwer:M=">M. Taschwer</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rauner=Reithmayer:Dominik">Dominik Rauner-Reithmayer</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mittermeir:Roland">Roland Mittermeir</a>:<b>Generating Objects from C Code - Features of the CORET Tool-Set.</b> 91-101<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756686"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/TaschwerRM99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/TaschwerRM99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Development and Maintenance</h2>
+
+
+<ul>
+<li id="RaysideK99"><a href="http://dblp.uni-trier.de/pers/hc/r/Rayside:Derek">Derek Rayside</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kontogiannis:Kostas">Kostas Kontogiannis</a>:<b>Extracting Java Library Subsets for Deployment on Embedded Systems.</b> 102-110<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756687"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/RaysideK99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/RaysideK99.xml">XML</a></small></small></li>
+<li id="PenteadoMC99"><a href="http://dblp.uni-trier.de/pers/hc/p/Penteado:Ros=acirc=ngela">Ros&#226;ngela Penteado</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Masiero:Paulo_Cesar">Paulo Cesar Masiero</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cagnin:Maria_Istela">Maria Istela Cagnin</a>:<b>An Experiment of Legacy Code Segmentation to Improve Maintainability.</b> 111-121<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756688"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/PenteadoMC99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/PenteadoMC99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Management</h2>
+
+
+<ul>
+<li id="LamLS99"><a href="http://dblp.uni-trier.de/pers/hc/l/Lam:W=">W. Lam</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Loomes:Martin">Martin Loomes</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Shankararaman:V=">V. Shankararaman</a>:<b>Managing Requirements Change Using Metrics and Action Planning.</b> 122-129<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756689"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/LamLS99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/LamLS99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Metrics</h2>
+
+
+<ul>
+<li id="ChaumunKKL99"><a href="http://dblp.uni-trier.de/pers/hc/c/Chaumun:M=_Ajmal">M. Ajmal Chaumun</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kabaili:Hind">Hind Kabaili</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Keller:Rudolf_K=">Rudolf K. Keller</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lustman:Fran=ccedil=ois">Fran&#231;ois Lustman</a>:<b>A Change Impact Model for Changeability Assessment in Object-Oriented Software Systems.</b> 130-138<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756690"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/ChaumunKKL99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/ChaumunKKL99.xml">XML</a></small></small></li>
+<li id="BengtssonB99"><a href="http://dblp.uni-trier.de/pers/hc/b/Bengtsson:PerOlof">PerOlof Bengtsson</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bosch:Jan">Jan Bosch</a>:<b>Architecture Level Prediction of Software Maintenance.</b> 139-147<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756691"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/BengtssonB99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/BengtssonB99.xml">XML</a></small></small></li>
+<li id="JonesHKA99"><a href="http://dblp.uni-trier.de/pers/hc/j/Jones:Wendell_D=">Wendell D. Jones</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hudepohl:John_P=">John P. Hudepohl</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Khoshgoftaar:Taghi_M=">Taghi M. Khoshgoftaar</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Allen:Edward_B=">Edward B. Allen</a>:<b>Application of a Usage Profile in Software Quality Models.</b> 148-159<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756692"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/JonesHKA99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/JonesHKA99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Data Reengineering</h2>
+
+
+<ul>
+<li id="JahnkeW99"><a href="http://dblp.uni-trier.de/pers/hc/j/Jahnke:Jens_H=">Jens H. Jahnke</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wadsack:J=ouml=rg_P=">J&#246;rg P. Wadsack</a>:<b>Integration of Analysis and Redesign Activities in Information System Reengineering.</b> 160-168<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756693"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/JahnkeW99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/JahnkeW99.xml">XML</a></small></small></li>
+<li id="SousaPPA99"><a href="http://dblp.uni-trier.de/pers/hc/s/Sousa:Pedro_Manuel_Antunes">Pedro Manuel Antunes Sousa</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pedro=de=Jesus:Maria_de_Lurdes">Maria de Lurdes Pedro-de-Jesus</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pereira:Gon=ccedil=alo">Gon&#231;alo Pereira</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Abreu:Fernando_Brito_e">Fernando Brito e Abreu</a>:<b>Clustering Relations into Abstract ER Schemas for Database Reverse Engineering.</b> 169-177<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756694"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/SousaPPA99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/SousaPPA99.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Open Forum</h2>
+
+
+<ul>
+<li id="PoloPRC99"><a href="http://dblp.uni-trier.de/pers/hc/p/Polo:Macario">Macario Polo</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Piattini:Mario">Mario Piattini</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ruiz_0001:Francisco">Francisco Ruiz</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Calero:Coral">Coral Calero</a>:<b>MANTEMA: A Complete Rigorous Methodology for Supporting Maintenance Based On The ISO/IEC 12207 Standard.</b> 178-181<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756695"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/PoloPRC99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/PoloPRC99.xml">XML</a></small></small></li>
+<li id="PonsignonMAM99"><a href="http://dblp.uni-trier.de/pers/hc/p/Ponsignon:Jean=Francois">Jean-Francois Ponsignon</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maranzana:Mathieu">Mathieu Maranzana</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Aubry:R=eacute=gis">R&#233;gis Aubry</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Martinez:Y=">Y. Martinez</a>:<b>Reengineering of Multitasking Applications for Easier Maintenance.</b> 182-185<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756696"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/PonsignonMAM99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/PonsignonMAM99.xml">XML</a></small></small></li>
+<li id="WangKW99"><a href="http://dblp.uni-trier.de/pers/hc/w/Wang:Yingxu">Yingxu Wang</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/King:Graham">Graham King</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wickburg:Hakan">Hakan Wickburg</a>:<b>A Method for Built-in Tests in Component-based Software Maintenance.</b> 186-189<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756697"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/WangKW99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/WangKW99.xml">XML</a></small></small></li>
+<li id="KarhinenST99"><a href="http://dblp.uni-trier.de/pers/hc/k/Karhinen:Anssi">Anssi Karhinen</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sandrini:Marco">Marco Sandrini</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tuominen:Juha_O=">Juha O. Tuominen</a>:<b>An Approach to Manage Variance in Legacy Systems.</b> 190-193<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756698"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/KarhinenST99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/KarhinenST99.xml">XML</a></small></small></li>
+<li id="Pedro-de-JesusS99"><a href="http://dblp.uni-trier.de/pers/hc/p/Pedro=de=Jesus:Maria_de_Lurdes">Maria de Lurdes Pedro-de-Jesus</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sousa:Pedro_Manuel_Antunes">Pedro Manuel Antunes Sousa</a>:<b>Selection of Reverse Engineering Methods for Relational Databases.</b> 194-197<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756699"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/Pedro-de-JesusS99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/Pedro-de-JesusS99.xml">XML</a></small></small></li>
+<li id="MonteiroGAAS99"><a href="http://dblp.uni-trier.de/pers/hc/m/Monteiro:Ant=oacute=nio_Silva">Ant&#243;nio Silva Monteiro</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Goul=atilde=o:Miguel">Miguel Goul&#227;o</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Abreu:Fernando_Brito_e">Fernando Brito e Abreu</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Almeida:Alberto_Bigotte_de">Alberto Bigotte de Almeida</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sousa:Pedro">Pedro Sousa</a>:<b>A Software Defect Report and Tracking System in an Intranet.</b> 198-202<small><a href="http://dx.doi.org/10.1109/CSMR.1999.756700"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/csmr/MonteiroGAAS99.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/csmr/MonteiroGAAS99.xml">XML</a></small></small></li>
+</ul>
+</dblp>

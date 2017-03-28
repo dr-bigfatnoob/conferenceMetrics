@@ -1,0 +1,54 @@
+<dblp>
+    <h2>Software product lines; features</h2>
+ 
+
+<ul>
+<li id="DamianiPS12"><a href="http://dblp.uni-trier.de/pers/hc/d/Damiani:Ferruccio">Ferruccio Damiani</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Padovani:Luca">Luca Padovani</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schaefer:Ina">Ina Schaefer</a>:<b>A formal foundation for dynamic delta-oriented software product lines.</b> 1-10<small><a href="http://doi.acm.org/10.1145/2371401.2371403"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/DamianiPS12.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/DamianiPS12.xml">XML</a></small></small></li>
+<li id="ThumSHA12"><a href="http://dblp.uni-trier.de/pers/hc/t/Th=uuml=m:Thomas">Thomas Th&#252;m</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schaefer:Ina">Ina Schaefer</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hentschel_0002:Martin">Martin Hentschel</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Apel:Sven">Sven Apel</a>:<b>Family-based deductive verification of software product lines.</b> 11-20<small><a href="http://doi.acm.org/10.1145/2371401.2371404"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/ThumSHA12.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/ThumSHA12.xml">XML</a></small></small></li>
+<li id="RysselPK12"><a href="http://dblp.uni-trier.de/pers/hc/r/Ryssel:Uwe">Uwe Ryssel</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Ploennigs:Joern">Joern Ploennigs</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kabitzsch:Klaus">Klaus Kabitzsch</a>:<b>Reasoning of feature models from derived features.</b> 21-30<small><a href="http://doi.acm.org/10.1145/2371401.2371405"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/RysselPK12.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/RysselPK12.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Generation</h2>
+ 
+
+<ul>
+<li id="RaysideMLYXJ12"><a href="http://dblp.uni-trier.de/pers/hc/r/Rayside:Derek">Derek Rayside</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Montaghami:Vajih">Vajih Montaghami</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Leung:Francesca">Francesca Leung</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yuen:Albert">Albert Yuen</a>, <a href="http://dblp.uni-trier.de/pers/hc/x/Xu:Kevin">Kevin Xu</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jackson:Daniel">Daniel Jackson</a>:<b>Synthesizing iterators from abstraction functions.</b> 31-40<small><a href="http://doi.acm.org/10.1145/2371401.2371407"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/RaysideMLYXJ12.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/RaysideMLYXJ12.xml">XML</a></small></small></li>
+<li id="HuletteSM12"><a href="http://dblp.uni-trier.de/pers/hc/h/Hulette:Geoffrey_C=">Geoffrey C. Hulette</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sottile:Matthew_J=">Matthew J. Sottile</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Malony:Allen_D=">Allen D. Malony</a>:<b>Composing typemaps in Twig.</b> 41-49<small><a href="http://doi.acm.org/10.1145/2371401.2371408"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/HuletteSM12.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/HuletteSM12.xml">XML</a></small></small></li>
+<li id="AxelsenK12"><a href="http://dblp.uni-trier.de/pers/hc/a/Axelsen:Eyvind_W=">Eyvind W. Axelsen</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Krogdahl:Stein">Stein Krogdahl</a>:<b>Package templates: a definition by semantics-preserving source-to-source transformations to efficient Java code.</b> 50-59<small><a href="http://doi.acm.org/10.1145/2371401.2371409"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/AxelsenK12.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/AxelsenK12.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software components; libraries</h2>
+ 
+
+<ul>
+<li id="SpacekDTF12"><a href="http://dblp.uni-trier.de/pers/hc/s/Spacek:Petr">Petr Spacek</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dony:Christophe">Christophe Dony</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tibermacine:Chouki">Chouki Tibermacine</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fabresse:Luc">Luc Fabresse</a>:<b>An inheritance system for structural &#38; behavioral reuse in component-based software programming.</b> 60-69<small><a href="http://doi.acm.org/10.1145/2371401.2371411"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/SpacekDTF12.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/SpacekDTF12.xml">XML</a></small></small></li>
+<li id="ZhangZUVH12"><a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Huaxi_=Yulin=">Huaxi (Yulin) Zhang</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Lei">Lei Zhang</a>, <a href="http://dblp.uni-trier.de/pers/hc/u/Urtado:Christelle">Christelle Urtado</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vauttier:Sylvain">Sylvain Vauttier</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Huchard:Marianne">Marianne Huchard</a>:<b>A three-level component model in component based software development.</b> 70-79<small><a href="http://doi.acm.org/10.1145/2371401.2371412"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/ZhangZUVH12.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/ZhangZUVH12.xml">XML</a></small></small></li>
+<li id="FreemanJF12"><a href="http://dblp.uni-trier.de/pers/hc/f/Freeman:John">John Freeman</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/J=auml=rvi:Jaakko">Jaakko J&#228;rvi</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Foust:Gabriel">Gabriel Foust</a>:<b>HotDrink: a library for web user interfaces.</b> 80-83<small><a href="http://doi.acm.org/10.1145/2371401.2371413"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/FreemanJF12.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/FreemanJF12.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Software architectures; adaptation</h2>
+ 
+
+<ul>
+<li id="RicheGMB12"><a href="http://dblp.uni-trier.de/pers/hc/r/Rich=eacute=:Taylor_L=">Taylor L. Rich&#233;</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gon=ccedil=alves:Rui_C=">Rui C. Gon&#231;alves</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Marker:Bryan">Bryan Marker</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Batory:Don_S=">Don S. Batory</a>:<b>Pushouts in software architecture design.</b> 84-92<small><a href="http://doi.acm.org/10.1145/2371401.2371415"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/RicheGMB12.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/RicheGMB12.xml">XML</a></small></small></li>
+<li id="BagheriS12"><a href="http://dblp.uni-trier.de/pers/hc/b/Bagheri:Hamid">Hamid Bagheri</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sullivan:Kevin_J=">Kevin J. Sullivan</a>:<b>Pol: specification-driven synthesis of architectural code frameworks for platform-based applications.</b> 93-102<small><a href="http://doi.acm.org/10.1145/2371401.2371416"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/BagheriS12.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/BagheriS12.xml">XML</a></small></small></li>
+<li id="BauerEFP12"><a href="http://dblp.uni-trier.de/pers/hc/b/Bauer:Tim">Tim Bauer</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Erwig:Martin">Martin Erwig</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fern:Alan">Alan Fern</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pinto:Jervis">Jervis Pinto</a>:<b>Faster program adaptation through reward attribution inference.</b> 103-111<small><a href="http://doi.acm.org/10.1145/2371401.2371417"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/BauerEFP12.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/BauerEFP12.xml">XML</a></small></small></li>
+</ul>
+
+
+
+<h2>Languages and language theory</h2>
+ 
+
+<ul>
+<li id="EfftingeEKZMHH12"><a href="http://dblp.uni-trier.de/pers/hc/e/Efftinge:Sven">Sven Efftinge</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Eysholdt:Moritz">Moritz Eysholdt</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/K=ouml=hnlein:Jan">Jan K&#246;hnlein</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zarnekow:Sebastian">Sebastian Zarnekow</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Massow:Robert_von">Robert von Massow</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hasselbring:Wilhelm">Wilhelm Hasselbring</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hanus:Michael">Michael Hanus</a>:<b>Xbase: implementing domain-specific languages for Java.</b> 112-121<small><a href="http://doi.acm.org/10.1145/2371401.2371419"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/EfftingeEKZMHH12.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/EfftingeEKZMHH12.xml">XML</a></small></small></li>
+<li id="RafkindF12"><a href="http://dblp.uni-trier.de/pers/hc/r/Rafkind:Jon">Jon Rafkind</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Flatt:Matthew">Matthew Flatt</a>:<b>Honu: syntactic extension for algebraic notation through enforestation.</b> 122-131<small><a href="http://doi.acm.org/10.1145/2371401.2371420"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/RafkindF12.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/RafkindF12.xml">XML</a></small></small></li>
+<li id="WalkingshawE12"><a href="http://dblp.uni-trier.de/pers/hc/w/Walkingshaw:Eric">Eric Walkingshaw</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Erwig:Martin">Martin Erwig</a>:<b>A calculus for modeling and implementing variation.</b> 132-140<small><a href="http://doi.acm.org/10.1145/2371401.2371421"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/gpce/WalkingshawE12.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/gpce/WalkingshawE12.xml">XML</a></small></small></li>
+</ul>
+</dblp>
