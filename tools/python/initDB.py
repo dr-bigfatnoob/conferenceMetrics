@@ -111,6 +111,7 @@ class Paper(Base):
     cites = Column(String(10000))
     abstract = Column(String(50000))
     doi_url = Column(String(200))
+    citation_count = Column(Integer)
     
     '''Many to many Author<->Paper'''
     authors = relationship('Person', secondary=person_paper, backref='papers')
@@ -131,6 +132,7 @@ class Paper(Base):
         self.ref_id = None
         self.cites = None
         self.abstract = None
+        self.citation_count = 0
 
     def __repr__(self):
         return "<Paper('%s, %d, %s')>" % (self.venue, self.year, self.title)
