@@ -132,7 +132,6 @@ class Paper(Base):
         self.ref_id = None
         self.cites = None
         self.abstract = None
-        self.citation_count = 0
 
     def __repr__(self):
         return "<Paper('%s, %d, %s')>" % (self.venue, self.year, self.title)
