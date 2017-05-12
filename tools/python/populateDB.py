@@ -64,7 +64,10 @@ JOURNALS = [
             ("tosem", 'Transactions on Software Engineering and Methodology', -1),
             ("asej", 'Automated Software Engineering Journal', -1),
             ("sqj", 'Software Quality Journal', -1),
-            ("stvr", 'Software Testing, Verification & Reliability', -1)]
+            ("stvr", 'Software Testing, Verification & Reliability', -1),
+            ("ist", 'Information and Software Technology', -1)]
+
+JOURNALS = [("ist", 'Information and Software Technology', -1)]
 
 # Conference impact computed for the entire period 2000-2013
 # http://shine.icomp.ufam.edu.br/index.php
@@ -166,7 +169,7 @@ def load_papers():
     reader = UnicodeReader(f)
     load_file(reader, session, venue)
     f.close()
-    session.commit()
+    # session.commit()
 
   session.commit()
 
@@ -320,16 +323,16 @@ def load_acceptance_ratio():
 engine = create_engine('mysql://root:root@localhost/%s?charset=utf8'%SCHEMA_NAME)
 
 # Reset the database (drop all tables)
-cleanStart(engine)
+# cleanStart(engine)
 
 # Create the table structure
-initDB(engine)
+# initDB(engine)
 
 load_papers()
 
-load_pc()
+# load_pc()
 
-load_acceptance_ratio()
+# load_acceptance_ratio()
 
 SessionFactory.commit()
 

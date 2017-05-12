@@ -16,8 +16,8 @@ dataPath = os.path.abspath("../../../data")
 CONFERENCES = ['icse', 'icsm', 'wcre', 'csmr', 'msr', 'gpce', 'fase', 'icpc', 'fse',
                'scam', 'ase', 'saner', 'ssbse', 're', 'issta', 'icst', 'esem']
 JOURNALS = ["jss", "tse", "software", "ese", "spe", "ijseke", "isse", "smr", "sigsoft",
-            "rej", "tosem", "asej", "sqj", "stvr"]
-
+            "rej", "tosem", "asej", "sqj", "stvr", "ist"]
+JOURNALS = ["ist"]
 
 def normalize_file(reader, writer):
   for row in reader:
