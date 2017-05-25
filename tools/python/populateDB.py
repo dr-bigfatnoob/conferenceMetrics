@@ -323,14 +323,14 @@ def load_acceptance_ratio():
 engine = create_engine('mysql://root:root@localhost/%s?charset=utf8'%SCHEMA_NAME)
 
 # Reset the database (drop all tables)
-# cleanStart(engine)
+cleanStart(engine)
 
 # Create the table structure
-# initDB(engine)
+initDB(engine)
 
 load_papers()
 
-# load_pc()
+load_pc()
 
 # load_acceptance_ratio()
 
