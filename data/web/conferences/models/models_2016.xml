@@ -1,0 +1,157 @@
+<dblp>
+    <h2>Domain-specific modelling</h2>
+ 
+
+    <ul>
+    <li id="FangLDE16"><a href="http://dblp.uni-trier.de/pers/hc/f/Fang:Miao">Miao Fang</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Leyh:Georg">Georg Leyh</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/D=ouml=rr:J=ouml=rg">J&#246;rg D&#246;rr</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Elsner:Christoph">Christoph Elsner</a>:<b>Multi-variability modeling and realization for software derivation in industrial automation management.</b> 2-12<small><a href="http://dl.acm.org/citation.cfm?id=2976804"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/FangLDE16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/FangLDE16.xml">XML</a></small></small></li>
+    <li id="PrehoferWJ16"><a href="http://dblp.uni-trier.de/pers/hc/p/Prehofer:Christian">Christian Prehofer</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wagner:Andreas">Andreas Wagner</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jin:Yucheng">Yucheng Jin</a>:<b>A model-based approach for multi-device user interactions.</b> 13-23<small><a href="http://dl.acm.org/citation.cfm?id=2976776"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/PrehoferWJ16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/PrehoferWJ16.xml">XML</a></small></small></li>
+    <li id="GolraBDGG16"><a href="http://dblp.uni-trier.de/pers/hc/g/Golra:Fahad_Rafique">Fahad Rafique Golra</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Beugnard:Antoine">Antoine Beugnard</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dagnat:Fabien">Fabien Dagnat</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gu=eacute=rin:Sylvain">Sylvain Gu&#233;rin</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Guychard:Christophe">Christophe Guychard</a>:<b>Using free modeling as an agile method for developing domain specific modeling languages.</b> 24-34<small><a href="http://dl.acm.org/citation.cfm?id=2976807"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/GolraBDGG16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/GolraBDGG16.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+
+    <h2>Applications i</h2>
+
+
+    <ul>
+    <li id="DasGJBHD16"><a href="http://dblp.uni-trier.de/pers/hc/d/Das:Nondini">Nondini Das</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Ganesan:Suchita">Suchita Ganesan</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jweda:Leo">Leo Jweda</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bagherzadeh:Mojtaba">Mojtaba Bagherzadeh</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hili:Nicolas">Nicolas Hili</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dingel:Juergen">Juergen Dingel</a>:<b>Supporting the model-driven development of real-time embedded systems with run-time monitoring and animation via highly customizable code generation.</b> 36-43<small><a href="http://dl.acm.org/citation.cfm?id=2976781"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/DasGJBHD16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/DasGJBHD16.xml">XML</a></small></small></li>
+    <li id="FalknerSC16"><a href="http://dblp.uni-trier.de/pers/hc/f/Falkner:Katrina_E=">Katrina E. Falkner</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Szabo:Claudia">Claudia Szabo</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chiprianov:Vanea">Vanea Chiprianov</a>:<b>Model-driven performance prediction of systems of systems.</b> 44<small><a href="http://dl.acm.org/citation.cfm?id=2987689"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/FalknerSC16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/FalknerSC16.xml">XML</a></small></small></li>
+    <li id="RuscioMPT16"><a href="http://dblp.uni-trier.de/pers/hc/r/Ruscio:Davide_Di">Davide Di Ruscio</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Malavolta:Ivano">Ivano Malavolta</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pelliccione:Patrizio">Patrizio Pelliccione</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tivoli:Massimo">Massimo Tivoli</a>:<b>Automatic generation of detailed flight plans from high-level mission descriptions.</b> 45-55<small><a href="http://dl.acm.org/citation.cfm?id=2976794"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/RuscioMPT16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/RuscioMPT16.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+
+    <h2>Modelling and formal methods</h2>
+
+
+    <ul>
+    <li id="RabbiLY16"><a href="http://dblp.uni-trier.de/pers/hc/r/Rabbi:Fazle">Fazle Rabbi</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lamo:Yngve">Yngve Lamo</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yu:Ingrid_Chieh">Ingrid Chieh Yu</a>:<b>Towards a categorical approach for meta-modelling epistemic game theory.</b> 57-64<small><a href="http://dl.acm.org/citation.cfm?id=2976771"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/RabbiLY16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/RabbiLY16.xml">XML</a></small></small></li>
+    <li id="DaniaC16"><a href="http://dblp.uni-trier.de/pers/hc/d/Dania:Carolina">Carolina Dania</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Clavel:Manuel">Manuel Clavel</a>:<b>OCL2MSFOL: a mapping to many-sorted first-order logic for efficiently checking the satisfiability of OCL constraints.</b> 65-75<small><a href="http://dl.acm.org/citation.cfm?id=2976774"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/DaniaC16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/DaniaC16.xml">XML</a></small></small></li>
+    <li id="Kosiuczenko16"><a href="http://dblp.uni-trier.de/pers/hc/k/Kosiuczenko:Piotr">Piotr Kosiuczenko</a>:<b>On the synthesis of protocol state machines from contracts.</b> 76-85<small><a href="http://dl.acm.org/citation.cfm?id=2976783"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/Kosiuczenko16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/Kosiuczenko16.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+
+    <h2>Modelling models</h2>
+
+
+    <ul>
+    <li id="SzarnyasKSV16"><a href="http://dblp.uni-trier.de/pers/hc/s/Sz=aacute=rnyas:G=aacute=bor">G&#225;bor Sz&#225;rnyas</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kov=aacute=ri:Zsolt">Zsolt Kov&#225;ri</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sal=aacute=nki:=Aacute=gnes">&#193;gnes Sal&#225;nki</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Varr=oacute=:D=aacute=niel">D&#225;niel Varr&#243;</a>:<b>Towards the characterization of realistic models: evaluation of multidisciplinary graph metrics.</b> 87-94<small><a href="http://dl.acm.org/citation.cfm?id=2976786"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/SzarnyasKSV16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/SzarnyasKSV16.xml">XML</a></small></small></li>
+    <li id="Kuhne16"><a href="http://dblp.uni-trier.de/pers/hc/k/K=uuml=hne:Thomas">Thomas K&#252;hne</a>:<b>Unifying explanatory and constructive modeling: towards removing the gulf between ontologies and conceptual models.</b> 95-102<small><a href="http://dl.acm.org/citation.cfm?id=2976770"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/Kuhne16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/Kuhne16.xml">XML</a></small></small></li>
+    <li id="KalninsB16"><a href="http://dblp.uni-trier.de/pers/hc/k/Kalnins:Audris">Audris Kalnins</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Barzdins:Janis">Janis Barzdins</a>:<b>Metamodel specialization for graphical modeling language support.</b> 103-112<small><a href="http://dl.acm.org/citation.cfm?id=2976779"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/KalninsB16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/KalninsB16.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+
+    <h2>Applications ii</h2>
+
+
+    <ul>
+    <li id="IvanchikjPS16"><a href="http://dblp.uni-trier.de/pers/hc/i/Ivanchikj:Ana">Ana Ivanchikj</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pautasso:Cesare">Cesare Pautasso</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schreier:Silvia">Silvia Schreier</a>:<b>Visual modeling of RESTful conversations with RESTalk.</b> 114<small><a href="http://dl.acm.org/citation.cfm?id=2987691"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/IvanchikjPS16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/IvanchikjPS16.xml">XML</a></small></small></li>
+    <li id="SomogyiSG16"><a href="http://dblp.uni-trier.de/pers/hc/s/Somogyi:Endre_T=">Endre T. Somogyi</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sluka:James_P=">James P. Sluka</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Glazier:James_A=">James A. Glazier</a>:<b>Formalizing knowledge in multi-scale agent-based simulations.</b> 115-122<small><a href="http://dl.acm.org/citation.cfm?id=2976790"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/SomogyiSG16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/SomogyiSG16.xml">XML</a></small></small></li>
+    <li id="KalenkovaALR16"><a href="http://dblp.uni-trier.de/pers/hc/k/Kalenkova:Anna_A=">Anna A. Kalenkova</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Aalst:Wil_M=_P=_van_der">Wil M. P. van der Aalst</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lomazova:Irina_A=">Irina A. Lomazova</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rubin:Vladimir_A=">Vladimir A. Rubin</a>:<b>Process mining using BPMN: relating event logs and process models.</b> 123<small><a href="http://dl.acm.org/citation.cfm?id=2987688"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/KalenkovaALR16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/KalenkovaALR16.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+
+    <h2>Models and code</h2>
+
+
+    <ul>
+    <li id="HarrandFMH16"><a href="http://dblp.uni-trier.de/pers/hc/h/Harrand:Nicolas">Nicolas Harrand</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fleurey:Franck">Franck Fleurey</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Morin:Brice">Brice Morin</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Husa:Knut_Eilif">Knut Eilif Husa</a>:<b>ThingML: a language and code generation framework for heterogeneous targets.</b> 125-135<small><a href="http://dl.acm.org/citation.cfm?id=2976812"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/HarrandFMH16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/HarrandFMH16.xml">XML</a></small></small></li>
+    <li id="TuchschererWT16"><a href="http://dblp.uni-trier.de/pers/hc/t/Tuchscherer:Daniel">Daniel Tuchscherer</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Weibert:Alexander">Alexander Weibert</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tr=auml=nkle:Frank">Frank Tr&#228;nkle</a>:<b>Modern C++ as a modeling language for automated driving and human-robot collaboration.</b> 136-142<small><a href="http://dl.acm.org/citation.cfm?id=2976772"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/TuchschererWT16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/TuchschererWT16.xml">XML</a></small></small></li>
+    <li id="Blache16"><a href="http://dblp.uni-trier.de/pers/hc/b/Blache:Gunter">Gunter Blache</a>:<b>Handling index-out-of-bounds in safety-critical embedded C code using model-based development.</b> 143-149<small><a href="http://dl.acm.org/citation.cfm?id=2976803"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/Blache16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/Blache16.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+
+    <h2>Empirical investigations i</h2>
+
+
+    <ul>
+    <li id="SzvetitsZ16"><a href="http://dblp.uni-trier.de/pers/hc/s/Szvetits:Michael">Michael Szvetits</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zdun:Uwe">Uwe Zdun</a>:<b>Controlled experiment on the comprehension of runtime phenomena using models created at design time.</b> 151-161<small><a href="http://dl.acm.org/citation.cfm?id=2976768"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/SzvetitsZ16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/SzvetitsZ16.xml">XML</a></small></small></li>
+    <li id="HeALL16"><a href="http://dblp.uni-trier.de/pers/hc/h/He:Xiao">Xiao He</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Avgeriou:Paris">Paris Avgeriou</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Liang:Peng">Peng Liang</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Li:Zengyang">Zengyang Li</a>:<b>Technical debt in MDE: a case study on GMF/EMF-based projects.</b> 162-172<small><a href="http://dl.acm.org/citation.cfm?id=2976806"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/HeALL16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/HeALL16.xml">XML</a></small></small></li>
+    <li id="HebigHCRF16"><a href="http://dblp.uni-trier.de/pers/hc/h/Hebig:Regina">Regina Hebig</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Ho=Quang:Truong">Truong Ho-Quang</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chaudron:Michel_R=_V=">Michel R. V. Chaudron</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Robles:Gregorio">Gregorio Robles</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fern=aacute=ndez:Miguel_Angel">Miguel Angel Fern&#225;ndez</a>:<b>The quest for open source projects that use UML: mining GitHub.</b> 173-183<small><a href="http://dl.acm.org/citation.cfm?id=2976778"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/HebigHCRF16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/HebigHCRF16.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+
+    <h2>Testing and simulation</h2>
+
+
+    <ul>
+    <li id="RueggLPKSH16"><a href="http://dblp.uni-trier.de/pers/hc/r/R=uuml=egg:Ulf">Ulf R&#252;egg</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lakkundi:Rajneesh">Rajneesh Lakkundi</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Prasad:Ashwin">Ashwin Prasad</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kodaganur:Anand">Anand Kodaganur</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schulze:Christoph_Daniel">Christoph Daniel Schulze</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hanxleden:Reinhard_von">Reinhard von Hanxleden</a>:<b>Incremental diagram layout for automated model migration.</b> 185-195<small><a href="http://dl.acm.org/citation.cfm?id=2976805"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/RueggLPKSH16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/RueggLPKSH16.xml">XML</a></small></small></li>
+    <li id="KokalySCMC16"><a href="http://dblp.uni-trier.de/pers/hc/k/Kokaly:Sahar">Sahar Kokaly</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Salay:Rick">Rick Salay</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cassano:Valentin">Valentin Cassano</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Maibaum:Tom">Tom Maibaum</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chechik:Marsha">Marsha Chechik</a>:<b>A model management approach for assurance case reuse due to system evolution.</b> 196-206<small><a href="http://dl.acm.org/citation.cfm?id=2976792"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/KokalySCMC16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/KokalySCMC16.xml">XML</a></small></small></li>
+    <li id="BarnesCVP16"><a href="http://dblp.uni-trier.de/pers/hc/b/Barnes:Calypso">Calypso Barnes</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cottin:Jean=Marie">Jean-Marie Cottin</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Verdier:Fran=ccedil=ois">Fran&#231;ois Verdier</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pegatoquet:Alain">Alain Pegatoquet</a>:<b>Towards the verification of industrial communication protocols through a simulation environment based on QEMU and systemC.</b> 207-214<small><a href="http://dl.acm.org/citation.cfm?id=2976810"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/BarnesCVP16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/BarnesCVP16.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+
+    <h2>Empirical investigations ii</h2>
+
+
+    <ul>
+    <li id="HeldalPELDW16"><a href="http://dblp.uni-trier.de/pers/hc/h/Heldal:Rogardt">Rogardt Heldal</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pelliccione:Patrizio">Patrizio Pelliccione</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Eliasson:Ulf">Ulf Eliasson</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lantz:Jonn">Jonn Lantz</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Derehag:Jesper">Jesper Derehag</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Whittle:Jon">Jon Whittle</a>:<b>Descriptive vs prescriptive models in industry.</b> 216-226<small><a href="http://dl.acm.org/citation.cfm?id=2976808"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/HeldalPELDW16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/HeldalPELDW16.xml">XML</a></small></small></li>
+    <li id="KahaniBDC16"><a href="http://dblp.uni-trier.de/pers/hc/k/Kahani:Nafiseh">Nafiseh Kahani</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bagherzadeh:Mojtaba">Mojtaba Bagherzadeh</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dingel:Juergen">Juergen Dingel</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cordy:James_R=">James R. Cordy</a>:<b>The problems with eclipse modeling tools: a topic analysis of eclipse forums.</b> 227-237<small><a href="http://dl.acm.org/citation.cfm?id=2976773"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/KahaniBDC16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/KahaniBDC16.xml">XML</a></small></small></li>
+    <li id="KargRTL16"><a href="http://dblp.uni-trier.de/pers/hc/k/Karg:Stefan">Stefan Karg</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Raschke:Alexander">Alexander Raschke</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tichy:Matthias">Matthias Tichy</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Liebel:Grischa">Grischa Liebel</a>:<b>Model-driven software engineering in the openETCS project: project experiences and lessons learned.</b> 238-248<small><a href="http://dl.acm.org/citation.cfm?id=2976811"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/KargRTL16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/KargRTL16.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+
+    <h2>Advanced algorithms and modelling</h2>
+
+
+    <ul>
+    <li id="AroraSBZ16"><a href="http://dblp.uni-trier.de/pers/hc/a/Arora_0002:Chetan">Chetan Arora</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sabetzadeh:Mehrdad">Mehrdad Sabetzadeh</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Briand:Lionel_C=">Lionel C. Briand</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zimmer:Frank">Frank Zimmer</a>:<b>Extracting domain models from natural-language requirements: approach and industrial evaluation.</b> 250-260<small><a href="http://dl.acm.org/citation.cfm?id=2976769"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/AroraSBZ16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/AroraSBZ16.xml">XML</a></small></small></li>
+    <li id="PrzigodaWD16"><a href="http://dblp.uni-trier.de/pers/hc/p/Przigoda:Nils">Nils Przigoda</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wille:Robert">Robert Wille</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Drechsler:Rolf">Rolf Drechsler</a>:<b>Ground setting properties for an efficient translation of OCL in SMT-based model finding.</b> 261-271<small><a href="http://dl.acm.org/citation.cfm?id=2976780"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/PrzigodaWD16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/PrzigodaWD16.xml">XML</a></small></small></li>
+    <li id="FontAHC16"><a href="http://dblp.uni-trier.de/pers/hc/f/Font:Jaime">Jaime Font</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Arcega:Lorena">Lorena Arcega</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Haugen:=Oslash=ystein">&#216;ystein Haugen</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cetina:Carlos">Carlos Cetina</a>:<b>Feature location in models through a genetic algorithm driven by information retrieval techniques.</b> 272-282<small><a href="http://dl.acm.org/citation.cfm?id=2976789"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/FontAHC16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/FontAHC16.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+
+    <h2>Model transformation</h2>
+
+
+    <ul>
+    <li id="FreundB16"><a href="http://dblp.uni-trier.de/pers/hc/f/Freund:Matthias">Matthias Freund</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Braune:Annerose">Annerose Braune</a>:<b>A generic transformation algorithm to simplify the development of mapping models.</b> 284-294<small><a href="http://dl.acm.org/citation.cfm?id=2976777"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/FreundB16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/FreundB16.xml">XML</a></small></small></li>
+    <li id="AlkhaziRKWG16"><a href="http://dblp.uni-trier.de/pers/hc/a/Alkhazi:Bader">Bader Alkhazi</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Ruas:Terry">Terry Ruas</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kessentini:Marouane">Marouane Kessentini</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wimmer:Manuel">Manuel Wimmer</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Grosky:William_I=">William I. Grosky</a>:<b>Automated refactoring of ATL model transformations: a search-based approach.</b> 295-304<small><a href="http://dl.acm.org/citation.cfm?id=2976782"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/AlkhaziRKWG16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/AlkhaziRKWG16.xml">XML</a></small></small></li>
+    <li id="AcretoaieSS16"><a href="http://dblp.uni-trier.de/pers/hc/a/Acretoaie:Vlad">Vlad Acretoaie</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/St=ouml=rrle:Harald">Harald St&#246;rrle</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Str=uuml=ber_0001:Daniel">Daniel Str&#252;ber</a>:<b>Model transformation for end-user modelers with VMTL.</b> 305<small><a href="http://dl.acm.org/citation.cfm?id=2987690"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/AcretoaieSS16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/AcretoaieSS16.xml">XML</a></small></small></li>
+    <li id="SemerathDHV16"><a href="http://dblp.uni-trier.de/pers/hc/s/Semer=aacute=th:Oszk=aacute=r">Oszk&#225;r Semer&#225;th</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Debreceni:Csaba">Csaba Debreceni</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Horv=aacute=th:=Aacute=kos">&#193;kos Horv&#225;th</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Varr=oacute=:D=aacute=niel">D&#225;niel Varr&#243;</a>:<b>Incremental backward change propagation of view models by logic solvers.</b> 306-316<small><a href="http://dl.acm.org/citation.cfm?id=2976788"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/SemerathDHV16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/SemerathDHV16.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+
+    <h2>Tooling</h2>
+
+
+    <ul>
+    <li id="DanielSC16"><a href="http://dblp.uni-trier.de/pers/hc/d/Daniel:Gwendal">Gwendal Daniel</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Suny=eacute=:Gerson">Gerson Suny&#233;</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cabot:Jordi">Jordi Cabot</a>:<b>PrefetchML: a framework for prefetching and caching models.</b> 318-328<small><a href="http://dl.acm.org/citation.cfm?id=2976775"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/DanielSC16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/DanielSC16.xml">XML</a></small></small></li>
+    <li id="WeiKGBP16"><a href="http://dblp.uni-trier.de/pers/hc/w/Wei:Ran">Ran Wei</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kolovos:Dimitrios_S=">Dimitrios S. Kolovos</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Garc=iacute=a=Dom=iacute=nguez:Antonio">Antonio Garc&#237;a-Dom&#237;nguez</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Barmpis:Konstantinos">Konstantinos Barmpis</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Paige:Richard_F=">Richard F. Paige</a>:<b>Partial loading of XMI models.</b> 329-339<small><a href="http://dl.acm.org/citation.cfm?id=2976787"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/WeiKGBP16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/WeiKGBP16.xml">XML</a></small></small></li>
+    <li id="Garcia-Dominguez16a"><a href="http://dblp.uni-trier.de/pers/hc/g/Garc=iacute=a=Dom=iacute=nguez:Antonio">Antonio Garc&#237;a-Dom&#237;nguez</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Barmpis:Konstantinos">Konstantinos Barmpis</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kolovos:Dimitrios_S=">Dimitrios S. Kolovos</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Silva:Marcos_Aur=eacute=lio_Almeida_da">Marcos Aur&#233;lio Almeida da Silva</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Abherve:Antonin">Antonin Abherve</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bagnato:Alessandra">Alessandra Bagnato</a>:<b>Integration of a graph-based model indexer in commercial modelling tools.</b> 340-350<small><a href="http://dl.acm.org/citation.cfm?id=2976809"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/Garcia-Dominguez16a.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/Garcia-Dominguez16a.xml">XML</a></small></small></li>
+    <li id="BergmannDRV16"><a href="http://dblp.uni-trier.de/pers/hc/b/Bergmann:G=aacute=bor">G&#225;bor Bergmann</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Debreceni:Csaba">Csaba Debreceni</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/R=aacute=th:Istv=aacute=n">Istv&#225;n R&#225;th</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Varr=oacute=:D=aacute=niel">D&#225;niel Varr&#243;</a>:<b>Query-based access control for secure collaborative modeling using bidirectional transformations.</b> 351-361<small><a href="http://dl.acm.org/citation.cfm?id=2976793"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/BergmannDRV16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/BergmannDRV16.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+
+    <h2>Testing and analysis</h2>
+
+
+    <ul>
+    <li id="ZhangYAL16"><a href="http://dblp.uni-trier.de/pers/hc/z/Zhang:Huihui">Huihui Zhang</a>, <a href="http://dblp.uni-trier.de/pers/hc/y/Yue:Tao">Tao Yue</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Ali:Shaukat">Shaukat Ali</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Liu:Chao">Chao Liu</a>:<b>Towards mutation analysis for use cases.</b> 363-373<small><a href="http://dl.acm.org/citation.cfm?id=2976784"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/ZhangYAL16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/ZhangYAL16.xml">XML</a></small></small></li>
+    <li id="BatotS16"><a href="http://dblp.uni-trier.de/pers/hc/b/Batot:Edouard">Edouard Batot</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sahraoui:Houari_A=">Houari A. Sahraoui</a>:<b>A generic framework for model-set selection for the unification of testing and learning MDE tasks.</b> 374-384<small><a href="http://dl.acm.org/citation.cfm?id=2976785"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/BatotS16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/BatotS16.xml">XML</a></small></small></li>
+    <li id="DeVriesC16"><a href="http://dblp.uni-trier.de/pers/hc/d/DeVries:Byron">Byron DeVries</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cheng:Betty_H=_C=">Betty H. C. Cheng</a>:<b>Automatic detection of incomplete requirements via symbolic analysis.</b> 385-395<small><a href="http://dl.acm.org/citation.cfm?id=2976791"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/DeVriesC16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/DeVriesC16.xml">XML</a></small></small></li>
+    <li id="ChabotPN16"><a href="http://dblp.uni-trier.de/pers/hc/c/Chabot:Martial">Martial Chabot</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pierre:Laurence">Laurence Pierre</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Nabais=Moreno:Alexandre">Alexandre Nabais-Moreno</a>:<b>A requirement driven testing method for multi-disciplinary system design.</b> 396-405<small><a href="http://dl.acm.org/citation.cfm?id=2976795"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/ChabotPN16.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/ChabotPN16.xml">XML</a></small></small></li>
+    </ul>
+</dblp>

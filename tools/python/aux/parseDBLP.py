@@ -128,15 +128,15 @@ def get_link_uri(item):
   return None
 
 def _parse_journal():
-  journal = "infsof"
-  ref = "ist"
-  start = 34
-  end = 80
-  parse_dblp_new(journal, range(end, start - 1, -1), "journals", f_name=ref)
+  journal = "sosym"
+  # ref = "ist"
+  start = 1
+  end = 15
+  parse_dblp_new(journal, range(end, start - 1, -1), "journals", f_name=None)
 
 def _main():
-  _parse_journal()
-  # parse_dblp_old('wcre', 'conferences')
+  # _parse_journal()
+  parse_dblp_old('models', 'conferences')
 
 
 if __name__ == "__main__":

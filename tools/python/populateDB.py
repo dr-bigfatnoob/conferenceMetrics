@@ -32,49 +32,51 @@ DATA_PATH = os.path.abspath("../../data")
 
 CONFERENCES = [
   ('icse', 'International Conference on Software Engineering', 117),
-               ('icsm', 'International Conference on Software Maintenance', 53),
-               ('wcre', 'Working Conference on Reverse Engineering', 43),
-               ('csmr', 'European Conference on Software Maintenance and Reengineering', 40),
-               ('msr', 'Mining Software Repositories', 32),
-               ('gpce', 'International Conference on Generative Programming', 37),
-               ('fase', 'Fundamental Approaches to Software Engineering', 42),
-               ('icpc', 'International Conference on Program Comprehension', 43),
-               ('fse', 'Foundations of Software Engineering', 59),
-               ('scam', 'International Conference on Source Code Analysis & Manipulation', 15),
-               ('ase', 'Automated Software Engineering', 55),
-               ('saner', 'International Conference on Software Analysis, Evolution, and Reengineering', -1),
-               ('ssbse', 'Symposium of Search Based Software Engineering', -1),
-               ('re', 'Requirements Engineering', -1),
-               ('issta', 'International Symposium on Software Testing and Analysis', -1),
-               ('icst', 'International Conference on Software Testing, Verification and Validation', -1),
-               ('esem', 'Empirical Software Engineering and Measurement', -1)
+  ('icsm', 'International Conference on Software Maintenance', 53),
+  ('wcre', 'Working Conference on Reverse Engineering', 43),
+  ('csmr', 'European Conference on Software Maintenance and Reengineering', 40),
+  ('msr', 'Mining Software Repositories', 32),
+  ('gpce', 'International Conference on Generative Programming', 37),
+  ('fase', 'Fundamental Approaches to Software Engineering', 42),
+  ('icpc', 'International Conference on Program Comprehension', 43),
+  ('fse', 'Foundations of Software Engineering', 59),
+  ('scam', 'International Conference on Source Code Analysis & Manipulation', 15),
+  ('ase', 'Automated Software Engineering', 55),
+  ('saner', 'International Conference on Software Analysis, Evolution, and Reengineering', -1),
+  ('ssbse', 'Symposium of Search Based Software Engineering', -1),
+  ('re', 'Requirements Engineering', -1),
+  ('issta', 'International Symposium on Software Testing and Analysis', -1),
+  ('icst', 'International Conference on Software Testing, Verification and Validation', -1),
+  ('esem', 'Empirical Software Engineering and Measurement', -1),
+  ('models', 'International Conference On Model Driven Engineering Languages And Systems', -1)
 ]
 
 JOURNALS = [
   ("jss", 'Journal of Systems and Software', -1),
-            ("tse", 'IEEE Transactions on Software Engineering', -1),
-            ("software", 'IEEE Software', -1),
-            ("ese", 'Empirical Software Engineering', -1),
-            ("spe", 'Software - Practice and Experience', -1),
-            ("ijseke", 'International Journal of Software Engineering and Knowledge Engineering', -1),
-            ("isse", 'Innovations in Systems and Software Engineering', -1),
-            ("smr", 'Journal of Software: Evolution and Process', -1),
-            ("sigsoft", 'ACM SIGSOFT Software Engineering Notes', -1),
-            ("rej", 'Requirements Engineering Journal', -1),
-            ("tosem", 'Transactions on Software Engineering and Methodology', -1),
-            ("asej", 'Automated Software Engineering Journal', -1),
-            ("sqj", 'Software Quality Journal', -1),
-            ("stvr", 'Software Testing, Verification & Reliability', -1),
-            ("ist", 'Information and Software Technology', -1)]
+  ("tse", 'IEEE Transactions on Software Engineering', -1),
+  ("software", 'IEEE Software', -1),
+  ("ese", 'Empirical Software Engineering', -1),
+  ("spe", 'Software - Practice and Experience', -1),
+  ("ijseke", 'International Journal of Software Engineering and Knowledge Engineering', -1),
+  ("isse", 'Innovations in Systems and Software Engineering', -1),
+  ("smr", 'Journal of Software: Evolution and Process', -1),
+  ("sigsoft", 'ACM SIGSOFT Software Engineering Notes', -1),
+  ("rej", 'Requirements Engineering Journal', -1),
+  ("tosem", 'Transactions on Software Engineering and Methodology', -1),
+  ("asej", 'Automated Software Engineering Journal', -1),
+  ("sqj", 'Software Quality Journal', -1),
+  ("stvr", 'Software Testing, Verification & Reliability', -1),
+  ("ist", 'Information and Software Technology', -1),
+  ("sosym", 'Software and System Modeling', -1)]
 
-JOURNALS = [("ist", 'Information and Software Technology', -1)]
+# JOURNALS = [("ist", 'Information and Software Technology', -1)]
 
 # Conference impact computed for the entire period 2000-2013
 # http://shine.icomp.ufam.edu.br/index.php
 
 
 #schema_name = "conferences"
-SCHEMA_NAME = "se"
+SCHEMA_NAME = "se_v2"
 
 
 
@@ -141,20 +143,20 @@ def load_file(reader, session, venue):
 
 def load_papers():
   session = SessionFactory.get_session()
-  # print 'Loading Conference papers:'
-  # for acronym, name, impact in CONFERENCES:
-  #     print acronym.upper()
-  #
-  #     # Create a new venue object
-  #     venue = Venue(acronym.upper(), impact, name, is_conference=True)
-  #     session.add(venue)
-  #
-  #     # Load the data into a csv reader
-  #     f = open(os.path.join(DATA_PATH, 'normalised-papers', 'conferences', '%s.csv' % acronym), 'rb')
-  #     reader = UnicodeReader(f)
-  #     load_file(reader, session, venue)
-  #     f.close()
-  #     session.commit()
+  print 'Loading Conference papers:'
+  for acronym, name, impact in CONFERENCES:
+      print acronym.upper()
+
+      # Create a new venue object
+      venue = Venue(acronym.upper(), impact, name, is_conference=True)
+      session.add(venue)
+
+      # Load the data into a csv reader
+      f = open(os.path.join(DATA_PATH, 'normalised-papers', 'conferences', '%s.csv' % acronym), 'rb')
+      reader = UnicodeReader(f)
+      load_file(reader, session, venue)
+      f.close()
+      session.commit()
 
   print 'Loading Journal papers:'
   for acronym, name, impact in JOURNALS:

@@ -1,0 +1,212 @@
+<dblp>
+    <h2>(Meta-)Model Modeling and Management</h2>
+
+
+    <ul>
+    <li id="MullerFB09"><a href="http://dblp.uni-trier.de/pers/hc/m/Muller:Pierre=Alain">Pierre-Alain Muller</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fondement:Fr=eacute=d=eacute=ric">Fr&#233;d&#233;ric Fondement</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Baudry:Benoit">Benoit Baudry</a>:<b>Modeling Modeling.</b> 2-16<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_2"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/MullerFB09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/MullerFB09.xml">XML</a></small></small></li>
+    <li id="AschauerDP09"><a href="http://dblp.uni-trier.de/pers/hc/a/Aschauer:Thomas">Thomas Aschauer</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Dauenhauer:Gerd">Gerd Dauenhauer</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pree:Wolfgang">Wolfgang Pree</a>:<b>Representation and Traversal of Large Clabject Models.</b> 17-31<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_3"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/AschauerDP09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/AschauerDP09.xml">XML</a></small></small></li>
+    <li id="SenMBJ09"><a href="http://dblp.uni-trier.de/pers/hc/s/Sen:Sagar">Sagar Sen</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Moha:Naouel">Naouel Moha</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Baudry:Benoit">Benoit Baudry</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/J=eacute=z=eacute=quel:Jean=Marc">Jean-Marc J&#233;z&#233;quel</a>:<b>Meta-model Pruning.</b> 32-46<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_4"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/SenMBJ09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/SenMBJ09.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+    <h2>Quantitative Modeling with UML</h2>
+
+
+    <ul>
+    <li id="ShoushaBL09"><a href="http://dblp.uni-trier.de/pers/hc/s/Shousha:Marwa">Marwa Shousha</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Briand:Lionel_C=">Lionel C. Briand</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Labiche:Yvan">Yvan Labiche</a>:<b>A UML/MARTE Model Analysis Method for Detection of Data Races in Concurrent Systems.</b> 47-61<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_5"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/ShoushaBL09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/ShoushaBL09.xml">XML</a></small></small></li>
+    <li id="BoskovicH09"><a href="http://dblp.uni-trier.de/pers/hc/b/Boskovic:Marko">Marko Boskovic</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hasselbring:Wilhelm">Wilhelm Hasselbring</a>:<b>Model Driven Performance Measurement and Assessment with MoDePeMART.</b> 62-76<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_6"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/BoskovicH09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/BoskovicH09.xml">XML</a></small></small></li>
+    <li id="LloydJ09"><a href="http://dblp.uni-trier.de/pers/hc/l/Lloyd:John">John Lloyd</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/J=uuml=rjens:Jan">Jan J&#252;rjens</a>:<b>Security Analysis of a Biometric Authentication System Using UMLsec and JML.</b> 77-91<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_7"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/LloydJ09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/LloydJ09.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+    <h2>Model Transformations and Constraints</h2>
+
+
+    <ul>
+    <li id="ChenouardJ09"><a href="http://dblp.uni-trier.de/pers/hc/c/Chenouard:Rapha=euml=l">Rapha&#235;l Chenouard</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/Jouault:Fr=eacute=d=eacute=ric">Fr&#233;d&#233;ric Jouault</a>:<b>Automatically Discovering Hidden Transformation Chaining Constraints.</b> 92-106<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_8"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/ChenouardJ09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/ChenouardJ09.xml">XML</a></small></small></li>
+    <li id="HorvathV09"><a href="http://dblp.uni-trier.de/pers/hc/h/Horv=aacute=th:=Aacute=kos">&#193;kos Horv&#225;th</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Varr=oacute=:D=aacute=niel">D&#225;niel Varr&#243;</a>:<b>CSP(M): Constraint Satisfaction Problem over Models.</b> 107-121<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_9"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/HorvathV09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/HorvathV09.xml">XML</a></small></small></li>
+    <li id="KleinerAB09"><a href="http://dblp.uni-trier.de/pers/hc/k/Kleiner:Mathias">Mathias Kleiner</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Albert:Patrick">Patrick Albert</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/B=eacute=zivin:Jean">Jean B&#233;zivin</a>:<b>Parsing SBVR-Based Controlled Languages.</b> 122-136<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_10"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/KleinerAB09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/KleinerAB09.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+    <h2>Model Management</h2>
+
+
+    <ul>
+    <li id="ThumSS09"><a href="http://dblp.uni-trier.de/pers/hc/t/Thum:Christian">Christian Thum</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schwind:Michael">Michael Schwind</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schader:Martin">Martin Schader</a>:<b>SLIM - A Lightweight Environment for Synchronous Collaborative Modeling.</b> 137-151<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_11"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/ThumSS09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/ThumSS09.xml">XML</a></small></small></li>
+    <li id="GerthKE09"><a href="http://dblp.uni-trier.de/pers/hc/g/Gerth:Christian">Christian Gerth</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/K=uuml=ster:Jochen_Malte">Jochen Malte K&#252;ster</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Engels:Gregor">Gregor Engels</a>:<b>Language-Independent Change Management of Process Models.</b> 152-166<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_12"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/GerthKE09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/GerthKE09.xml">XML</a></small></small></li>
+    <li id="BendixE09"><a href="http://dblp.uni-trier.de/pers/hc/b/Bendix:Lars">Lars Bendix</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Emanuelsson:P=auml=r">P&#228;r Emanuelsson</a>:<b>Requirements for Practical Model Merge - An Industrial Perspective.</b> 167-180<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_13"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/BendixE09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/BendixE09.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+    <h2>UML in Practice and Quality Assurance</h2>
+
+
+    <ul>
+    <li id="NugrohoC09"><a href="http://dblp.uni-trier.de/pers/hc/n/Nugroho:Ariadi">Ariadi Nugroho</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Chaudron:Michel_R=_V=">Michel R. V. Chaudron</a>:<b>Evaluating the Impact of UML Modeling on Software Quality: An Industrial Case Study.</b> 181-195<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_14"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/NugrohoC09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/NugrohoC09.xml">XML</a></small></small></li>
+    <li id="ParetoEE09"><a href="http://dblp.uni-trier.de/pers/hc/p/Pareto:Lars">Lars Pareto</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Eriksson:Peter_S=">Peter S. Eriksson</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Ehnebom:Staffan">Staffan Ehnebom</a>:<b>Concern Visibility in Base Station Development - An Empirical Investigation.</b> 196-210<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_15"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/ParetoEE09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/ParetoEE09.xml">XML</a></small></small></li>
+    <li id="Weissleder09"><a href="http://dblp.uni-trier.de/pers/hc/w/Wei=szlig=leder:Stephan">Stephan Wei&#223;leder</a>:<b>Influencing Factors in Model-Based Testing with UML State Machines: Report on an Industrial Cooperation.</b> 211-225<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_16"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/Weissleder09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/Weissleder09.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+    <h2>Formalization of Model Transformations</h2>
+
+
+    <ul>
+    <li id="JurackT09"><a href="http://dblp.uni-trier.de/pers/hc/j/Jurack:Stefan">Stefan Jurack</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Taentzer:Gabriele">Gabriele Taentzer</a>:<b>Towards Composite Model Transformations Using Distributed Graph Transformation Concepts.</b> 226-240<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_17"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/JurackT09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/JurackT09.xml">XML</a></small></small></li>
+    <li id="EhrigEHP09"><a href="http://dblp.uni-trier.de/pers/hc/e/Ehrig:Hartmut">Hartmut Ehrig</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Ermel:Claudia">Claudia Ermel</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hermann_0001:Frank">Frank Hermann</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Prange:Ulrike">Ulrike Prange</a>:<b>On-the-Fly Construction, Correctness and Completeness of Model Transformations Based on Triple Graph Grammars.</b> 241-255<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_18"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/EhrigEHP09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/EhrigEHP09.xml">XML</a></small></small></li>
+    <li id="LaraG09"><a href="http://dblp.uni-trier.de/pers/hc/l/Lara:Juan_de">Juan de Lara</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Guerra:Esther">Esther Guerra</a>:<b>Formal Support for QVT-Relations with Coloured Petri Nets.</b> 256-270<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_19"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/LaraG09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/LaraG09.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+    <h2>Scenario Modeling</h2>
+
+
+    <ul>
+    <li id="BroschLSWWKRS09"><a href="http://dblp.uni-trier.de/pers/hc/b/Brosch:Petra">Petra Brosch</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Langer:Philip">Philip Langer</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Seidl:Martina">Martina Seidl</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wieland:Konrad">Konrad Wieland</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wimmer:Manuel">Manuel Wimmer</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kappel:Gerti">Gerti Kappel</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Retschitzegger:Werner">Werner Retschitzegger</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schwinger:Wieland">Wieland Schwinger</a>:<b>An Example Is Worth a Thousand Words: Composite Operation Modeling By-Example.</b> 271-285<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_20"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/BroschLSWWKRS09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/BroschLSWWKRS09.xml">XML</a></small></small></li>
+    <li id="MussbacherAW09"><a href="http://dblp.uni-trier.de/pers/hc/m/Mussbacher:Gunter">Gunter Mussbacher</a>, <a href="http://dblp.uni-trier.de/pers/hc/a/Amyot:Daniel">Daniel Amyot</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Whittle:Jon">Jon Whittle</a>:<b>Refactoring-Safe Modeling of Aspect-Oriented Scenarios.</b> 286-300<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_21"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/MussbacherAW09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/MussbacherAW09.xml">XML</a></small></small></li>
+    <li id="MaozMK09"><a href="http://dblp.uni-trier.de/pers/hc/m/Maoz:Shahar">Shahar Maoz</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mets=auml=:Jani">Jani Mets&#228;</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Katara:Mika">Mika Katara</a>:<b>Model-Based Testing Using LSCs and S2A.</b> 301-306<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_22"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/MaozMK09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/MaozMK09.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+    <h2>Business Application Development</h2>
+
+
+    <ul>
+    <li id="MohanK09"><a href="http://dblp.uni-trier.de/pers/hc/m/Mohan:Rahul">Rahul Mohan</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kulkarni:Vinay">Vinay Kulkarni</a>:<b>Model Driven Development of Graphical User Interfaces for Enterprise Business Applications - Experience, Lessons Learnt and a Way Forward.</b> 307-321<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_23"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/MohanK09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/MohanK09.xml">XML</a></small></small></li>
+    <li id="MazanekM09"><a href="http://dblp.uni-trier.de/pers/hc/m/Mazanek:Steffen">Steffen Mazanek</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Minas:Mark">Mark Minas</a>:<b>Business Process Models as a Showcase for Syntax-Based Assistance in Diagram Editors.</b> 322-336<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_24"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/MazanekM09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/MazanekM09.xml">XML</a></small></small></li>
+    <li id="MilanovicGWH09"><a href="http://dblp.uni-trier.de/pers/hc/m/Milanovic:Milan">Milan Milanovic</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gasevic:Dragan">Dragan Gasevic</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wagner:Gerd">Gerd Wagner</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hatala:Marek">Marek Hatala</a>:<b>Rule-Enhanced Business Process Modeling Language for Service Choreographies.</b> 337-341<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_25"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/MilanovicGWH09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/MilanovicGWH09.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+    <h2>Model Synchronisation and Change Propagation</h2>
+
+
+    <ul>
+    <li id="RathVV09"><a href="http://dblp.uni-trier.de/pers/hc/r/R=aacute=th:Istv=aacute=n">Istv&#225;n R&#225;th</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Varr=oacute=:Gergely">Gergely Varr&#243;</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Varr=oacute=:D=aacute=niel">D&#225;niel Varr&#243;</a>:<b>Change-Driven Model Transformations.</b> 342-356<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_26"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/RathVV09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/RathVV09.xml">XML</a></small></small></li>
+    <li id="WolfeGP09"><a href="http://dblp.uni-trier.de/pers/hc/w/Wolfe:Christopher">Christopher Wolfe</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Graham:T=_C=_Nicholas">T. C. Nicholas Graham</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Phillips:W=_Greg">W. Greg Phillips</a>:<b>An Incremental Algorithm for High-Performance Runtime Model Consistency.</b> 357-371<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_27"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/WolfeGP09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/WolfeGP09.xml">XML</a></small></small></li>
+    <li id="HelmingKNDS09"><a href="http://dblp.uni-trier.de/pers/hc/h/Helming:Jonas">Jonas Helming</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Koegel:Maximilian">Maximilian Koegel</a>, <a href="http://dblp.uni-trier.de/pers/hc/n/Naughton:Helmut">Helmut Naughton</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/David:J=ouml=rn">J&#246;rn David</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Shterev:Aleksandar">Aleksandar Shterev</a>:<b>Traceability-Based Change Awareness.</b> 372-376<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_28"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/HelmingKNDS09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/HelmingKNDS09.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+
+    <h2>Language Specification and Annotation</h2>
+
+
+    <ul>
+    <li id="SoltenbornE09"><a href="http://dblp.uni-trier.de/pers/hc/s/Soltenborn:Christian">Christian Soltenborn</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Engels:Gregor">Gregor Engels</a>:<b>Towards Test-Driven Semantics Specification.</b> 378-392<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_30"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/SoltenbornE09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/SoltenbornE09.xml">XML</a></small></small></li>
+    <li id="LeungMLLSTL09"><a href="http://dblp.uni-trier.de/pers/hc/l/Leung:Man=Kit">Man-Kit Leung</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mandl_0002:Thomas">Thomas Mandl</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lee:Edward_A=">Edward A. Lee</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Latronico:Elizabeth">Elizabeth Latronico</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Shelton:Charles_P=">Charles P. Shelton</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Tripakis:Stavros">Stavros Tripakis</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lickly:Ben">Ben Lickly</a>:<b>Scalable Semantic Annotation Using Lattice-Based Ontologies.</b> 393-407<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_31"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/LeungMLLSTL09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/LeungMLLSTL09.xml">XML</a></small></small></li>
+    <li id="WalterPS09"><a href="http://dblp.uni-trier.de/pers/hc/w/Walter:Tobias">Tobias Walter</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Parreiras:Fernando_Silva">Fernando Silva Parreiras</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Staab:Steffen">Steffen Staab</a>:<b><i>OntoDSL</i>: An Ontology-Based Framework for Domain-Specific Languages.</b> 408-422<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_32"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/WalterPS09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/WalterPS09.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+    <h2>Domain-Specific Languages</h2>
+
+
+    <ul>
+    <li id="HermansPD09"><a href="http://dblp.uni-trier.de/pers/hc/h/Hermans:Felienne">Felienne Hermans</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pinzger:Martin">Martin Pinzger</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Deursen:Arie_van">Arie van Deursen</a>:<b>Domain-Specific Languages in Practice: A User Study on the Success Factors.</b> 423-437<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_33"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/HermansPD09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/HermansPD09.xml">XML</a></small></small></li>
+    <li id="DhaussyPCRTB09"><a href="http://dblp.uni-trier.de/pers/hc/d/Dhaussy:Philippe">Philippe Dhaussy</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pillain:Pierre_Yves">Pierre Yves Pillain</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Creff:Stephen">Stephen Creff</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Raji:Amine">Amine Raji</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Traon:Yves_Le">Yves Le Traon</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Baudry:Benoit">Benoit Baudry</a>:<b>Evaluating Context Descriptions and Property Definition Patterns for Software Formal Validation.</b> 438-452<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_34"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/DhaussyPCRTB09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/DhaussyPCRTB09.xml">XML</a></small></small></li>
+    <li id="WienandsG09"><a href="http://dblp.uni-trier.de/pers/hc/w/Wienands:Christoph">Christoph Wienands</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Golm:Michael">Michael Golm</a>:<b>Anatomy of a Visual Domain-Specific Language Project in an Industrial Context.</b> 453-467<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_35"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/WienandsG09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/WienandsG09.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+    <h2>Model-Based Analysis</h2>
+
+
+    <ul>
+    <li id="ChengSBW09"><a href="http://dblp.uni-trier.de/pers/hc/c/Cheng:Betty_H=_C=">Betty H. C. Cheng</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sawyer:Peter">Peter Sawyer</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Bencomo:Nelly">Nelly Bencomo</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Whittle:Jon">Jon Whittle</a>:<b>A Goal-Based Modeling Approach to Develop Requirements of an Adaptive System with Environmental Uncertainty.</b> 468-483<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_36"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/ChengSBW09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/ChengSBW09.xml">XML</a></small></small></li>
+    <li id="YueBL09"><a href="http://dblp.uni-trier.de/pers/hc/y/Yue:Tao">Tao Yue</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Briand:Lionel_C=">Lionel C. Briand</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Labiche:Yvan">Yvan Labiche</a>:<b>A Use Case Modeling Approach to Facilitate the Transition towards Analysis Models: Concepts and Empirical Evaluation.</b> 484-498<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_37"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/YueBL09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/YueBL09.xml">XML</a></small></small></li>
+    <li id="Maoz09"><a href="http://dblp.uni-trier.de/pers/hc/m/Maoz:Shahar">Shahar Maoz</a>:<b>Polymorphic Scenario-Based Specification Models: Semantics and Applications.</b> 499-513<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_38"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/Maoz09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/Maoz09.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+    <h2>Model (De-)Composition and Abstractio</h2>
+
+
+    <ul>
+    <li id="KleinKMJ09"><a href="http://dblp.uni-trier.de/pers/hc/k/Klein:Jacques">Jacques Klein</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kienzle:J=ouml=rg">J&#246;rg Kienzle</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Morin:Brice">Brice Morin</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/J=eacute=z=eacute=quel:Jean=Marc">Jean-Marc J&#233;z&#233;quel</a>:<b>Aspect Model Unweaving.</b> 514-530<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_39"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/KleinKMJ09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/KleinKMJ09.xml">XML</a></small></small></li>
+    <li id="OldevikMK09"><a href="http://dblp.uni-trier.de/pers/hc/o/Oldevik:Jon">Jon Oldevik</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Menarini:Massimiliano">Massimiliano Menarini</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kr=uuml=ger:Ingolf">Ingolf Kr&#252;ger</a>:<b>Model Composition Contracts.</b> 531-545<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_40"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/OldevikMK09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/OldevikMK09.xml">XML</a></small></small></li>
+    <li id="JohannesZFCKP09"><a href="http://dblp.uni-trier.de/pers/hc/j/Johannes:Jendrik">Jendrik Johannes</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zschaler:Steffen">Steffen Zschaler</a>, <a href="http://dblp.uni-trier.de/pers/hc/f/Fern=aacute=ndez:Miguel_A=">Miguel A. Fern&#225;ndez</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Castillo:Antonio">Antonio Castillo</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kolovos:Dimitrios_S=">Dimitrios S. Kolovos</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Paige:Richard_F=">Richard F. Paige</a>:<b>Abstracting Complex Languages through Transformation and Composition.</b> 546-550<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_41"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/JohannesZFCKP09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/JohannesZFCKP09.xml">XML</a></small></small></li>
+    <li id="YieCWD09"><a href="http://dblp.uni-trier.de/pers/hc/y/Yie:Andr=eacute=s">Andr&#233;s Yie</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Casallas:Rubby">Rubby Casallas</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/Wagelaar:Dennis">Dennis Wagelaar</a>, <a href="http://dblp.uni-trier.de/pers/hc/d/Deridder:Dirk">Dirk Deridder</a>:<b>An Approach for Evolving Transformation Chains.</b> 551-555<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_42"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/YieCWD09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/YieCWD09.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+    <h2>Distributed Software Development</h2>
+
+
+    <ul>
+    <li id="DawV09"><a href="http://dblp.uni-trier.de/pers/hc/d/Daw:Zamira">Zamira Daw</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vetter:Marcus">Marcus Vetter</a>:<b>Deterministic UML Models for Interconnected Activities and State Machines.</b> 556-570<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_43"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/DawV09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/DawV09.xml">XML</a></small></small></li>
+    <li id="KraemerH09"><a href="http://dblp.uni-trier.de/pers/hc/k/Kraemer:Frank_Alexander">Frank Alexander Kraemer</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Herrmann:Peter">Peter Herrmann</a>:<b>Automated Encapsulation of UML Activities for Incremental Development and Verification.</b> 571-585<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_44"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/KraemerH09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/KraemerH09.xml">XML</a></small></small></li>
+    <li id="DrusinskyS09"><a href="http://dblp.uni-trier.de/pers/hc/d/Drusinsky:Doron">Doron Drusinsky</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Shing:Man=tak">Man-tak Shing</a>:<b>Using UML Statecharts with Knowledge Logic Guards.</b> 586-590<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_45"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/DrusinskyS09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/DrusinskyS09.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+    <h2>Service and Business Process Integration</h2>
+
+
+    <ul>
+    <li id="EsfahaniMSGM09"><a href="http://dblp.uni-trier.de/pers/hc/e/Esfahani:Naeem">Naeem Esfahani</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Malek:Sam">Sam Malek</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sousa:Jo=atilde=o_Pedro">Jo&#227;o Pedro Sousa</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gomaa:Hassan">Hassan Gomaa</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Menasc=eacute=:Daniel_A=">Daniel A. Menasc&#233;</a>:<b>A Modeling Language for Activity-Oriented Composition of Service-Oriented Software Systems.</b> 591-605<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_46"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/EsfahaniMSGM09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/EsfahaniMSGM09.xml">XML</a></small></small></li>
+    <li id="FleureyS09"><a href="http://dblp.uni-trier.de/pers/hc/f/Fleurey:Franck">Franck Fleurey</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Solberg:Arnor">Arnor Solberg</a>:<b>A Domain Specific Modeling Language Supporting Specification, Simulation and Execution of Dynamic Adaptive Systems.</b> 606-621<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_47"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/FleureyS09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/FleureyS09.xml">XML</a></small></small></li>
+    <li id="ShtelmaCM09"><a href="http://dblp.uni-trier.de/pers/hc/s/Shtelma:Michael">Michael Shtelma</a>, <a href="http://dblp.uni-trier.de/pers/hc/c/Cartsburg:Mario">Mario Cartsburg</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Milanovic:Nikola">Nikola Milanovic</a>:<b>Executable Domain Specific Language for Message-Based System Integration.</b> 622-626<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_48"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/ShtelmaCM09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/ShtelmaCM09.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+
+    <h2>Genericity and Constraints</h2>
+
+
+    <ul>
+    <li id="MohaMBJ09"><a href="http://dblp.uni-trier.de/pers/hc/m/Moha:Naouel">Naouel Moha</a>, <a href="http://dblp.uni-trier.de/pers/hc/m/Mah=eacute=:Vincent">Vincent Mah&#233;</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Barais:Olivier">Olivier Barais</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/J=eacute=z=eacute=quel:Jean=Marc">Jean-Marc J&#233;z&#233;quel</a>:<b>Generic Model Refactorings.</b> 628-643<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_50"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/MohaMBJ09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/MohaMBJ09.xml">XML</a></small></small></li>
+    <li id="CuccuruRGT09"><a href="http://dblp.uni-trier.de/pers/hc/c/Cuccuru:Arnaud">Arnaud Cuccuru</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Radermacher:Ansgar">Ansgar Radermacher</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/G=eacute=rard:S=eacute=bastien">S&#233;bastien G&#233;rard</a>, <a href="http://dblp.uni-trier.de/pers/hc/t/Terrier:Fran=ccedil=ois">Fran&#231;ois Terrier</a>:<b>Constraining Type Parameters of UML 2 Templates with Substitutable Classifiers.</b> 644-649<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_51"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/CuccuruRGT09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/CuccuruRGT09.xml">XML</a></small></small></li>
+    <li id="MoiseevHS09"><a href="http://dblp.uni-trier.de/pers/hc/m/Moiseev:Rodion">Rodion Moiseev</a>, <a href="http://dblp.uni-trier.de/pers/hc/h/Hayashi:Shinpei">Shinpei Hayashi</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Saeki:Motoshi">Motoshi Saeki</a>:<b>Generating Assertion Code from OCL: A Transformational Approach Based on Similarities of Implementation Languages.</b> 650-664<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_52"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/MoiseevHS09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/MoiseevHS09.xml">XML</a></small></small></li>
+    <li id="Chimiak-Opoka09"><a href="http://dblp.uni-trier.de/pers/hc/c/Chimiak=Opoka:Joanna">Joanna Chimiak-Opoka</a>:<b>OCLLib, OCLUnit, OCLDoc: Pragmatic Extensions for the Object Constraint Language.</b> 665-669<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_53"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/Chimiak-Opoka09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/Chimiak-Opoka09.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+    <h2>Variability Management</h2>
+
+
+    <ul>
+    <li id="CengarleGR09"><a href="http://dblp.uni-trier.de/pers/hc/c/Cengarle:Mar=iacute=a_Victoria">Mar&#237;a Victoria Cengarle</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gr=ouml=nniger:Hans">Hans Gr&#246;nniger</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Rumpe:Bernhard">Bernhard Rumpe</a>:<b>Variability within Modeling Language Definitions.</b> 670-684<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_54"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/CengarleGR09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/CengarleGR09.xml">XML</a></small></small></li>
+    <li id="SchwanningerGEL09"><a href="http://dblp.uni-trier.de/pers/hc/s/Schwanninger:Christa">Christa Schwanninger</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Groher:Iris">Iris Groher</a>, <a href="http://dblp.uni-trier.de/pers/hc/e/Elsner:Christoph">Christoph Elsner</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lehofer:Martin">Martin Lehofer</a>:<b>Variability Modelling throughout the Product Line Lifecycle.</b> 685-689<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_55"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/SchwanningerGEL09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/SchwanningerGEL09.xml">XML</a></small></small></li>
+    <li id="MorinPLBVJ09"><a href="http://dblp.uni-trier.de/pers/hc/m/Morin:Brice">Brice Morin</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Perrouin:Gilles">Gilles Perrouin</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Lahire:Philippe">Philippe Lahire</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Barais:Olivier">Olivier Barais</a>, <a href="http://dblp.uni-trier.de/pers/hc/v/Vanwormhoudt:Gilles">Gilles Vanwormhoudt</a>, <a href="http://dblp.uni-trier.de/pers/hc/j/J=eacute=z=eacute=quel:Jean=Marc">Jean-Marc J&#233;z&#233;quel</a>:<b>Weaving Variability into Domain Metamodels.</b> 690-705<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_56"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/MorinPLBVJ09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/MorinPLBVJ09.xml">XML</a></small></small></li>
+    <li id="NarayananLBK09"><a href="http://dblp.uni-trier.de/pers/hc/n/Narayanan:Anantha">Anantha Narayanan</a>, <a href="http://dblp.uni-trier.de/pers/hc/l/Levendovszky:Tihamer">Tihamer Levendovszky</a>, <a href="http://dblp.uni-trier.de/pers/hc/b/Balasubramanian:Daniel">Daniel Balasubramanian</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Karsai:Gabor">Gabor Karsai</a>:<b>Automatic Domain Model Migration to Manage Metamodel Evolution.</b> 706-711<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_57"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/NarayananLBK09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/NarayananLBK09.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+    <h2>Model Transformation Engineering</h2>
+
+
+    <ul>
+    <li id="SunWG09"><a href="http://dblp.uni-trier.de/pers/hc/s/Sun_0002:Yu">Yu Sun</a>, <a href="http://dblp.uni-trier.de/pers/hc/w/White:Jules">Jules White</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gray:Jeff">Jeff Gray</a>:<b>Model Transformation by Demonstration.</b> 712-726<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_58"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/SunWG09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/SunWG09.xml">XML</a></small></small></li>
+    <li id="WimmerKSKRS09"><a href="http://dblp.uni-trier.de/pers/hc/w/Wimmer:Manuel">Manuel Wimmer</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kusel:Angelika">Angelika Kusel</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Sch=ouml=nb=ouml=ck:Johannes">Johannes Sch&#246;nb&#246;ck</a>, <a href="http://dblp.uni-trier.de/pers/hc/k/Kappel:Gerti">Gerti Kappel</a>, <a href="http://dblp.uni-trier.de/pers/hc/r/Retschitzegger:Werner">Werner Retschitzegger</a>, <a href="http://dblp.uni-trier.de/pers/hc/s/Schwinger:Wieland">Wieland Schwinger</a>:<b>Reviving QVT Relations: Model-Based Debugging Using Colored Petri Nets.</b> 727-732<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_59"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/WimmerKSKRS09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/WimmerKSKRS09.xml">XML</a></small></small></li>
+    <li id="KusterGZ09"><a href="http://dblp.uni-trier.de/pers/hc/k/K=uuml=ster:Jochen_Malte">Jochen Malte K&#252;ster</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gschwind:Thomas">Thomas Gschwind</a>, <a href="http://dblp.uni-trier.de/pers/hc/z/Zimmermann:Olaf">Olaf Zimmermann</a>:<b>Incremental Development of Model Transformation Chains Using Automated Testing.</b> 733-747<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_60"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/KusterGZ09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/KusterGZ09.xml">XML</a></small></small></li>
+    <li id="GinerP09"><a href="http://dblp.uni-trier.de/pers/hc/g/Giner:Pau">Pau Giner</a>, <a href="http://dblp.uni-trier.de/pers/hc/p/Pelechano:Vicente">Vicente Pelechano</a>:<b>Test-Driven Development of Model Transformations.</b> 748-752<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_61"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/GinerP09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/GinerP09.xml">XML</a></small></small></li>
+    </ul>
+
+
+
+    <h2>Symposium</h2>
+
+
+    <ul>
+    <li id="FranceG09"><a href="http://dblp.uni-trier.de/pers/hc/f/France:Robert_B=">Robert B. France</a>, <a href="http://dblp.uni-trier.de/pers/hc/g/Gogolla:Martin">Martin Gogolla</a>:<b>Educators' Symposium at MODELS 2009.</b> 753-754<small><a href="http://dx.doi.org/10.1007/978-3-642-04425-0_62"><i>Electronic Edition</i></a> <small><a href="http://dblp.uni-trier.de/rec/bib/conf/models/FranceG09.bib">BibTeX</a></small> <small><a href="http://dblp.uni-trier.de/rec/xml/conf/models/FranceG09.xml">XML</a></small></small></li>
+    </ul>
+</dblp>

@@ -14,9 +14,12 @@ dataPath = os.path.abspath("../../../data")
 
 
 CONFERENCES = ['icse', 'icsm', 'wcre', 'csmr', 'msr', 'gpce', 'fase', 'icpc', 'fse',
-               'scam', 'ase', 'saner', 'ssbse', 're', 'issta', 'icst', 'esem']
+               'scam', 'ase', 'saner', 'ssbse', 're', 'issta', 'icst', 'esem', 'models']
 JOURNALS = ["jss", "tse", "software", "ese", "spe", "ijseke", "isse", "smr", "sigsoft",
-            "rej", "tosem", "asej", "sqj", "stvr", "ist"]
+            "rej", "tosem", "asej", "sqj", "stvr", "ist", "sosym"]
+
+CONFERENCES = ["models"]
+JOURNALS = ["sosym"]
 
 def normalize_file(reader, writer):
   for row in reader:
@@ -54,4 +57,4 @@ def normalize_journals():
     g.close()
 
 normalize_journals()
-# normalize_conferences()
+normalize_conferences()

@@ -17,8 +17,9 @@ dataPath = os.path.abspath("../../../data")
 #print normaliseName(u'Liz Burd')
 #exit()
 
-conferences = ['icse', 'icsm', 'wcre', 'csmr', 'msr', 'gpce', 'fase', 'icpc', 'fse', 'scam', 'ase', 'saner', 'ssbse', 're', 'issta', 'icst']
-conferences = ['icst']
+conferences = ['icse', 'icsm', 'wcre', 'csmr', 'msr', 'gpce', 'fase', 'icpc', 'fse', 'scam', 'ase', 'saner', 'ssbse',
+               're', 'issta', 'icst', 'esem','models']
+conferences = ['models']
 
 for conference in conferences:
     g = open(os.path.join(dataPath, 'normalised-pc', '%s.csv' % conference), 'wb')
